@@ -2,4 +2,5 @@ collections:
   about-tkgs:
     output: true
     order:
+      - TKGS School Song.md
       - Contact Information.md
