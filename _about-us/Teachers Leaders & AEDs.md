@@ -59,4 +59,4 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>Click&nbsp;<a href="https://tkgs.moe.edu.sg/resources/parent-resources" target="_blank" rel="noopener">here</a>&nbsp;for Form Teachers &amp; Subject Teachers Contact List</p>
+<p>Click&nbsp;<a href="/resources/parent-resources" target="_blank" rel="noopener">here</a>&nbsp;for Form Teachers &amp; Subject Teachers Contact List</p>
