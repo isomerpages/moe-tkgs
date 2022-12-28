@@ -50,3 +50,4 @@ third_nav_title: Clubs and Service Boards
 </tr>
 </tbody>
 </table>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSmsy4YHH8nNCsE-9EZjhzxJ8QZKpujjCTWM0OljbJpLGQphB5EG86zbCzAWdD5H5GEcFafY9ySbdEF/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
