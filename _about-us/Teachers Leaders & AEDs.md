@@ -46,16 +46,16 @@ description: ""
 <th style="text-align: center;">Position</th>
 </tr>
 <tr>
-<td>Ms Tang Yuin Kay</td>
-<td>Senior School Counsellor</td>
+<td style="text-align: center;">Ms Tang Yuin Kay</td>
+<td style="text-align: center;">Senior School Counsellor</td>
 </tr>
 <tr>
-<td>Ms Shaikhah Bte Rubangin</td>
-<td>Allied Educator (Learning &amp; Behavioral Support)</td>
+<td style="text-align: center;">Ms Shaikhah Bte Rubangin</td>
+<td style="text-align: center;">Allied Educator (Learning &amp; Behavioral Support)</td>
 </tr>
 <tr>
-<td>Ms Kate Choo</td>
-<td>Education and Career Guidance (ECG) Counsellor&nbsp;</td>
+<td style="text-align: center;">Ms Kate Choo</td>
+<td style="text-align: center;">Education and Career Guidance (ECG) Counsellor&nbsp;</td>
 </tr>
 </tbody>
 </table>
