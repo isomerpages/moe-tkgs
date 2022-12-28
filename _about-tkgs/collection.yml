@@ -2,5 +2,6 @@ collections:
   about-tkgs:
     output: true
     order:
+      - TKGian Creed.md
       - TKGS School Song.md
       - Contact Information.md
