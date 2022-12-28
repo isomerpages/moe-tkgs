@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Non–Teaching Staff.md
       - Our Partners/Alumni.md
       - Our Partners/Committee.md
       - Our Partners/ParentLink.md
