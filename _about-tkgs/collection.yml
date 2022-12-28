@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Vision, Mission & Value/.keep
-      - School Vision, Mission & Values.md
       - TKGian Creed.md
       - TKGS School Song.md
       - Contact Information.md
