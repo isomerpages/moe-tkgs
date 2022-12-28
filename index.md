@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Tanjong Katong Girls' School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/logo.png
 permalink: /
 notification: Tanjong Katong Girls' School
 sections:
@@ -34,3 +34,4 @@ sections:
       subtitle: Resources Section Subtitle
       button: Resources Button Name
 ---
+
