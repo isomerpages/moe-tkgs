@@ -3,7 +3,7 @@ title: Non–Teaching Staff
 permalink: /about-us/non-teaching-staff/
 description: ""
 ---
-<img style="width: 80%;" src="/images/nts.jpg" /><br>
+<img style="width: 90%;" src="/images/nts.jpg" /><br>
 <table>
 <tbody>
 <tr>
