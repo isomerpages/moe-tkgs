@@ -2,5 +2,6 @@ collections:
   cca:
     output: true
     order:
+      - Clubs and Service Boards/Literary & Debating Society.md
       - Clubs and Service Boards/Infocomm Club (Media Production).md
       - Clubs and Service Boards/.keep
