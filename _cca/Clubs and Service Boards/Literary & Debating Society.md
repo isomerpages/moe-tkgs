@@ -12,3 +12,41 @@ third_nav_title: Clubs and Service Boards
 <p>All this could not have been possible without the support of our coaches, coach Sudhi and coach Sanjana, and our teachers, Mdm Haryati, Ms Cheryln and Mr Leong. They have also worked tirelessly to provide us with a wide array of opportunities to develop into confident speakers by guiding us through competitions and making every single training session fun and enjoyable.&nbsp;</p>
 <p>To end the year with a bang, we organised a yearly camp where members from the Literary and Debate wings get to come together and have fun. During the day camp, members can interact with others from different levels by playing fun games that the LDS EXCO had planned. It is a time where we are able to learn new things together as a team.&nbsp;</p>
 <p style="text-align: right;"><strong>Claire Goh (3E4)</strong><br /><strong>Gracia Teo (3E4)</strong><br /><strong>Chua Hsui-Ting Erin (3E5)</strong><br /><strong>AAdhya Bhatia (3E3)</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">
+<ul class="jekyllcodex_accordion">
+<li><input id="accordion1" type="checkbox" />
+<p><strong>Teachers in Charge</strong></p>
+<div>
+<p style="text-align: center;"><strong>Mdm Haryati Hussin</strong><br /><a href="mailto:haryati_hussin@moe.edu.sg" target="">haryati_hussin@moe.edu.sg</a></strong></p>
+<p style="text-align: center;"><strong>Ms Cherlyn Tan Wei Yu</strong><br /><a href="mailto:cherlyn_tan_wei_yu@moe.edu.sg" target="">cherlyn_tan_wei_yu@moe.edu.sg</a></strong></p>
+</div>
+</li>
+</ul>
+</td>
+<td style="width: 50%;">
+<ul class="jekyllcodex_accordion">
+<li><input id="accordion2" type="checkbox" />
+<p><strong>CCA Schedule</strong></p>
+<div>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>Training Venue</strong></td>
+<td style="text-align: center;"><strong>ISH Level 4</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Training Day / Time</strong></td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
