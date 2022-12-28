@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Management Committee.md
       - School Advisory Committee.md
       - Teachers Leaders & AEDs.md
       - Non–Teaching Staff.md
