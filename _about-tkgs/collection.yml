@@ -1,4 +1,5 @@
 collections:
   about-tkgs:
     output: true
-    order: []
+    order:
+      - Contact Information.md
