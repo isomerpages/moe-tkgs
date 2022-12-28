@@ -2,31 +2,28 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Tanjong Katong Girls' School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - "20 "
+      - Dunman Lane
+      - Singapore 439272
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+        time: 7.30am - 5.30pm
+        description: (School is closed on Saturdays, Sundays, and Public Holidays.)
+    maps_link: https://goo.gl/maps/LbjJxzjawpiy4Q1U9
+    title: Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6344 1593
+      - email: tkgs@moe.edu.sg
+      - other: Buses that serve the school include 10, 16, 16M, 31, 32, 33, 33B, 40, 43,
+          43E, 134, 135, 197, 401, 853M
+    title: Telephone
+  - content:
+      - phone: +65 6345 1487
+      - email: ""
+      - other: "Nearest MRT Stations: Paya Lebar MRT & Dakota MRT"
+    title: Fax
 ---
