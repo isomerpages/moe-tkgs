@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Teachers Leaders & AEDs.md
       - Non–Teaching Staff.md
       - Our Partners/Alumni.md
       - Our Partners/Committee.md
