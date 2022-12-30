@@ -2,6 +2,7 @@ collections:
   learning-at-tkgs:
     output: true
     order:
+      - Academic/.keep
       - Student Development/Student Well–being.md
       - Student Development/Counselling.md
       - Student Development/Student Well–being Framework.md
