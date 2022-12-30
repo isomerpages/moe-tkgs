@@ -68,12 +68,20 @@ third_nav_title: Student Development
 </td>
 </tr>
 <tr>
-<td>Youthline</td>
-<td><br />6336 3434 (Mon &ndash; Fri, 8.30am &ndash; 6pm)<br /><br /></td>
+<td>
+<p>Youthline</p>
+</td>
+<td>
+<p>6336 3434 (Mon &ndash; Fri, 8.30am &ndash; 6pm)</p>
+</td>
 </tr>
 <tr>
-<td>Help123<br />Cyberwellness Community Support&nbsp;</td>
-<td><br />1800-612 3123 (Mon &ndash; Fri, 10am &ndash; 6 pm)<br /><a href="mailto:hello@help123.sg" target="">hello@help123.sg</a><br /><a href="http://www.help123.sg/" target="_blank" rel="noopener">www.help123.sg</a>&nbsp;(Mon &ndash; Fri, 2pm &ndash; 10pm)<br />&nbsp;</td>
+<td>
+<p>Help123<br />Cyberwellness Community Support&nbsp;</p>
+</td>
+<td>
+<p>1800-612 3123 (Mon &ndash; Fri, 10am &ndash; 6 pm)<br /><a href="mailto:hello@help123.sg" target="">hello@help123.sg</a><br /><a href="http://www.help123.sg/" target="_blank" rel="noopener">www.help123.sg</a>&nbsp;(Mon &ndash; Fri, 2pm &ndash; 10pm)</p>
+</td>
 </tr>
 <tr>
 <td>
@@ -84,8 +92,12 @@ third_nav_title: Student Development
 </td>
 </tr>
 <tr>
-<td>eCounselling Centre&nbsp;(ec2)<br />Fei Yue Project 180</td>
-<td><br /><a href="http://www.ec2.sg/" target="_blank" rel="noopener">www.ec2.sg</a>&nbsp;(Mon &ndash; Fri, 10am &ndash; 5pm)<br /><br /></td>
+<td>
+<p>eCounselling Centre&nbsp;(ec2)<br />Fei Yue Project 180</p>
+</td>
+<td>
+<p><a href="http://www.ec2.sg/" target="_blank" rel="noopener">www.ec2.sg</a>&nbsp;(Mon &ndash; Fri, 10am &ndash; 5pm)</p>
+</td>
 </tr>
 <tr>
 <td>
@@ -97,5 +109,4 @@ third_nav_title: Student Development
 </tr>
 </tbody>
 </table>
-<p style="text-align: center;"><strong><em>&ldquo;The greatest weapon against stress is our ability to choose one thought over another.&rdquo;</em></strong></p>
-<p style="text-align: center;"><em>William James</em></p>
+<p style="text-align: center;"><strong><em>&ldquo;The greatest weapon against stress is our ability to choose one thought over another.&rdquo;<br /></em></strong><em>William James</em></p>
