@@ -1,0 +1,4 @@
+collections:
+  moments:
+    output: true
+    order: []
