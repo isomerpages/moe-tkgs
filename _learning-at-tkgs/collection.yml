@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Signature Programmes/.keep
+      - Academic/Science.md
       - Academic/Physical Education.md
       - Academic/.keep
       - Student Development/Student Well–being.md
