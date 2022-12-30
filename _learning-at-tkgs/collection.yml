@@ -2,5 +2,6 @@ collections:
   learning-at-tkgs:
     output: true
     order:
+      - Student Development/Sexuality Education.md
       - Student Development/.keep
       - Key School Event.md
