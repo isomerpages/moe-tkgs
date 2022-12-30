@@ -2,6 +2,7 @@ collections:
   learning-at-tkgs:
     output: true
     order:
+      - Signature Programmes/Music Elective Programme.md
       - Signature Programmes/.keep
       - Academic/Aesthetics.md
       - Academic/English & Literature.md
