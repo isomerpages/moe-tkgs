@@ -26,7 +26,7 @@ third_nav_title: Signature Programmes
 <tbody>
 <tr>
 <td style="width: 50%;"><img style="width: 90%;" src="/images/glow4.jpg" /></td>
-<td style="width: 50%;"><img style="width: 90%;" src="/images/glow5.jpg" /></td>
+<td style="width: 50%;"><img style="width: 80%;" src="/images/glow5.jpg" /></td>
 </tr>
 </tbody>
 </table>
