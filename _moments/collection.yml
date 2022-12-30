@@ -2,4 +2,5 @@ collections:
   moments:
     output: true
     order:
+      - 2020.md
       - 2019.md
