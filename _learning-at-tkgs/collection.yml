@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Signature Programmes/.keep
+      - Academic/Humanities.md
       - Academic/Mathematics.md
       - Academic/Mother Tongue.md
       - Academic/Science.md
