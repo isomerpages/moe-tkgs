@@ -21,7 +21,7 @@ third_nav_title: Academic
 <tr>
 <td style="width: 50%;">
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Sec 1</label>
+<li><strong><input id="accordion1" type="checkbox" /> <label for="accordion1">Sec 1</strong></label>
 <div>
 <ul>
 <li>Floorball</li>
@@ -36,7 +36,7 @@ third_nav_title: Academic
 </td>
 <td style="width: 50%;">
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Sec 2</label>
+<li><strong><input id="accordion2" type="checkbox" /> <label for="accordion2">Sec 2</strong></label>
 <div>
 <ul>
 <li>Badminton</li>
@@ -66,7 +66,7 @@ third_nav_title: Academic
 </td>
 <td style="width: 50%;">
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Sec 4</label>
+<li><strong><input id="accordion4" type="checkbox" /> <label for="accordion4">Sec 4</strong></label>
 <div>
 <ul>
 <li>Softball</li>
@@ -81,7 +81,7 @@ third_nav_title: Academic
 <tr>
 <td style="width: 50%;">
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion5" type="checkbox" /> <label for="accordion5">Key Events</label>
+<li><strong><input id="accordion5" type="checkbox" /> <label for="accordion5">Key Events</strong></label>
 <div>
 <p>The PE Curriculum is also supported with the following events:</p>
 <ul>
