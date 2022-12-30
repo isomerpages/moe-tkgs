@@ -18,30 +18,15 @@ third_nav_title: Academic
 <tr>
 <td style="width: 50%;">
 <ul class="jekyllcodex_accordion">
-<li><strong><input id="accordion1" type="checkbox" /> <label for="accordion1">Sec 1</label></strong>
-<div>
-<ul>
-<li>Floorball</li>
-<li>Netball</li>
-<li>Track &amp; Field</li>
-<li>Outdoor Education 1</li>
-<li>Physical Health &amp; Fitness 1</li>
-</ul>
-</div>
+<li><strong><input id="accordion1" type="checkbox" /> <label for="accordion1">TKGS Plus Biodiversity</label></strong>
+<p>TKGS Plus Biodiversity is offered by the Science teachers as part of the TKGS Plus Programme. Offered to students at Secondary Three and in partnership with NParks, students learn and apply Biodiversity survey techniques used in real world (e.g. transect techniques) to study the effects of environmental conditions on species abundance.&nbsp;</p>
 </li>
 </ul>
 </td>
 <td style="width: 50%;">
 <ul class="jekyllcodex_accordion">
-<li><strong><input id="accordion2" type="checkbox" /> <label for="accordion2">Sec 2</label></strong>
-<div>
-<ul>
-<li>Badminton</li>
-<li>Court Games</li>
-<li>Outdoor Education 2</li>
-<li>Physical Health &amp; Fitness 2</li>
-</ul>
-</div>
+<li><strong><input id="accordion2" type="checkbox" /> <label for="accordion2">Advanced Electives Modules</label></strong>
+<p>The Advanced Electives Modules for Science are organised for students, in partnership with Tertiary Institutes to enrich the secondary school curriculum with more applied learning options. Held over 30 hours, AEMs are modules in applied sciences where students will be given opportunities to apply knowledge they learn during the programme to practical real-life scenarios, discover their strengths and ignite their passion for this field of study.</p>
 </li>
 </ul>
 </td>
