@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Visual & Performing Arts/Choir.md
       - Visual & Performing Arts/Dance (Modern).md
       - Visual & Performing Arts/String Ensemble.md
       - Visual & Performing Arts/Symphonic Band.md
