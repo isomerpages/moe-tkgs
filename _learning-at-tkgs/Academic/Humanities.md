@@ -37,4 +37,4 @@ third_nav_title: Academic
 </tr>
 </tbody>
 </table>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ07CaSMyEtg4Yf09lGc9iqZPwj0EVqj8870WUU64xVflGUkTB2mOj6QapxUswEPm5FDUixrMjDTmzd/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ07CaSMyEtg4Yf09lGc9iqZPwj0EVqj8870WUU64xVflGUkTB2mOj6QapxUswEPm5FDUixrMjDTmzd/embed?start=false&loop=false&delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true"></iframe>
