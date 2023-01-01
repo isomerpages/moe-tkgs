@@ -1,5 +1,11 @@
 logo: /images/logo1.png
 links:
+  - title: About TKGS
+    collection: about-tkgs
+  - title: About Us
+    collection: about-us
+  - title: Learning @ TKGS
+    collection: learning-at-tkgs
   - title: TKGS Sparkling Moments
     collection: tkgs-sparkling-moments
   - title: Resources
