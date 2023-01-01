@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Admission/Appeal Process for Sec 1 Admission.md
       - Admission/.keep
       - Admission/Direct School Admission.md
       - Admission/Other Admission Matters.md
