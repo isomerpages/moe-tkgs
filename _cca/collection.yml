@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/National Police Cadet Corps.md
       - Uniformed Groups/Red Cross Youth.md
       - Uniformed Groups/Uniformed Groups.md
