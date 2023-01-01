@@ -35,7 +35,7 @@ third_nav_title: Visual & Performing Arts
 </td>
 <td style="width: 50%;">
 <ul class="jekyllcodex_accordion">
-<li><strong><input id="accordion1" type="checkbox" /> <label for="accordion1">CCA Schedule</label></strong>
+<li><strong><input id="accordion2" type="checkbox" /> <label for="accordion2">CCA Schedule</label></strong>
 <div>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
