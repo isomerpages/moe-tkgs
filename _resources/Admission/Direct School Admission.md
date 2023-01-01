@@ -211,5 +211,4 @@ third_nav_title: Admission
 <img src="/images/dsa1.jpg">
 <p>Parents and students are encouraged to choose schools wisely based on the student&rsquo;s aptitudes and strengths, bearing in mind the schools&rsquo; academic and non-academic requirements, and the programmes available to develop the area of talent.</p>
 <p>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.</p>
-<p><strong><u>Further enquiries</u></strong></p>
-<p>Please contact Mr Ng We Keat (DSA Coordinator) at tel. no. 63441593 or email&nbsp;<a href="mailto:ng_we_keat@moe.edu.sg" target="">ng_we_keat@moe.edu.sg</a>&nbsp;if you need further clarifications. Thank you.</p>
+<p><strong><u>Further enquiries</u></strong><br>Please contact Mr Ng We Keat (DSA Coordinator) at tel. no. 63441593 or email&nbsp;<a href="mailto:ng_we_keat@moe.edu.sg" target="">ng_we_keat@moe.edu.sg</a>&nbsp;if you need further clarifications. Thank you.</p>
