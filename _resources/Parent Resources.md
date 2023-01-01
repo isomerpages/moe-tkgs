@@ -109,18 +109,18 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%;">&nbsp;</td>
-<td style="width: 33.3333%;">&nbsp;</td>
-<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;"><a href="https://www.facebook.com/moesingapore/"><img style="width: 90%;" src="/images/log1.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="https://www.instagram.com/moesingapore/?hl=en"><img style="width: 95%;" src="/images/log2.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="https://twitter.com/moesg?lang=en"><img style="width: 65%;" src="/images/log3.jpg"></a></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><a href="https://www.tiktok.com/@moesingapore"><img style="width: 90%;" src="/images/log4.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="https://www.tiktok.com/@moesingapore"><img style="width: 95%;" src="/images/log5.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="https://www.instagram.com/parentingwith.moesg/?hl=en"><img style="width: 100%;" src="/images/log6.jpg"></a></td>
 </tr>
 <tr>
 <td style="width: 33.3333%;">&nbsp;</td>
-<td style="width: 33.3333%;">&nbsp;</td>
-<td style="width: 33.3333%;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 33.3333%;">&nbsp;</td>
-<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;"><a href="https://t.me/schoolbag_edu_sg"><img style="width: 100%;" src="/images/log7.jpg"></a></td>
 <td style="width: 33.3333%;">&nbsp;</td>
 </tr>
 </tbody>
