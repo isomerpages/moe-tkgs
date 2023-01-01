@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Visual & Performing Arts/.keep
       - Clubs and Service Boards/Clubs & Service Boards.md
       - Clubs and Service Boards/Interact Club.md
       - Clubs and Service Boards/Library Board.md
