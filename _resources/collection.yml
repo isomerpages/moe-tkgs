@@ -2,5 +2,6 @@ collections:
   resources:
     output: true
     order:
+      - Admission/Other Admission Matters.md
       - Admission/Direct School Admission.md
       - Admission/.keep
