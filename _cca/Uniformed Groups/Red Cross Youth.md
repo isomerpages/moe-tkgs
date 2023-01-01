@@ -58,3 +58,4 @@ third_nav_title: Uniformed Groups
 </tr>
 </tbody>
 </table>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQuAKc-xIH9vGwZwobxAKHpo0jgZXO3geLWl-LU88Uo9-c6_jf7u2xiPvcnOuQnNkht0-cH3vVHOX7l/embed?start=false&loop=false&delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true"></iframe>
