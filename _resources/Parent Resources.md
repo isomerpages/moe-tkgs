@@ -71,11 +71,67 @@ description: ""
 <tbody>
 <tr>
 <td style="text-align: center;">
-<p><strong><a href="https://tkgs.moe.edu.sg/resources/announcements/financial-assistance-scheme-fas-2023" target="">Financial Assistance Scheme 2023</a></strong></p>
+<p><strong><a href="/resources/announcements/financial-assistance-scheme-fas-2023" target="">Financial Assistance Scheme 2023</a></strong></p>
 </td>
 <td style="text-align: center;">
-<p><strong><a href="https://tkgs.moe.edu.sg/resources/announcements/cts-education-award-2023" target="">CTS Education Awards 2023</a></strong></p>
+<p><strong><a href="/resources/announcements/cts-education-award-2023" target="">CTS Education Awards 2023</a></strong></p>
 </td>
+</tr>
+</tbody>
+</table>
+<h4 style="text-align: center;"><strong>Useful Links</strong></h4>
+<p style="text-align: center;"><strong><u>MOE HPB-related</u></strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><a href="https://www.moe.gov.sg/"><img src="/images/pr1.png"></a></td>
+<td style="width: 33.3333%;"><br><br><a href="https://www.schoolbag.edu.sg/"><img src="/images/pr2.png"></a></td>
+<td style="width: 33.3333%;"><a href="https://www.hpb.gov.sg/"><img src="/images/pr3.png"></a></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><br><br><a href="https://www.moe.gov.sg/parentkit"><img src="/images/pr4.png"></a></td>
+<td style="width: 33.3333%;"><br><br><a href="https://sites.google.com/moe.edu.sg/psg-online-repository"><img src="/images/pr5.png"></a></td>
+<td style="width: 33.3333%;"><a href="https://m.healthhub.sg/auth/login?source_app=hh_web&source_module=myhealth&source_source_sub=&target=/childhealth"><img style="width: 65%;" src="/images/pt6.png"></a></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><br><a href="https://www.family.org.sg/"><img style="width: 85%;" src="/images/pr7.png"></a></td>
+<td style="width: 33.3333%;"><br><a href="https://campaigns.family.org.sg/every-season-matters/"><img style="width: 85%;" src="/images/pr8.png"></a><p style="text-align: center;"><span style="text-decoration: underline;"><strong>Every Season Matters</strong></span></p></td>
+<td style="width: 33.3333%;"><br><a href="https://drive.google.com/file/d/1pk1dVhntYEZbAzM9cNXioveGATTfD8bY/view"><img style="width: 75%;" src="/images/pr9.png"></a></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;"><a href="https://www.w3schools.com"><img src="/images/pr10.png"></a></td>
+<td style="width: 33.3333%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><strong>You can follow MOE on Social Media by clicking on the links below</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><strong><u>School-related</u></strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
