@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Visual & Performing Arts/Symphonic Band.md
       - Visual & Performing Arts/TK Thespians (Drama).md
       - Visual & Performing Arts/.keep
       - Clubs and Service Boards/Clubs & Service Boards.md
