@@ -100,7 +100,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%;">&nbsp;</td>
-<td style="width: 33.3333%;"><a href="https://www.w3schools.com"><img src="/images/pr10.png"></a></td>
+<td style="width: 33.3333%;"><a href="https://www.morningstar.org.sg/"><img src="/images/pr10.png"></a></td>
 <td style="width: 33.3333%;">&nbsp;</td>
 </tr>
 </tbody>
