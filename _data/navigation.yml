@@ -1,6 +1,6 @@
 logo: /images/logo1.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: TKGS Sparkling Moments
+    collection: tkgs-sparkling-moments
+  - title: Resources
+    collection: resources
