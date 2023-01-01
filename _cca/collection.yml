@@ -2,11 +2,11 @@ collections:
   cca:
     output: true
     order:
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/National Police Cadet Corps.md
       - Uniformed Groups/Red Cross Youth.md
-      - Uniformed Groups/Uniformed Groups.md
-      - Uniformed Groups/.keep
       - Visual & Performing Arts/Visual & Performing Arts.md
       - Visual & Performing Arts/Art Club.md
       - Visual & Performing Arts/Choir.md
