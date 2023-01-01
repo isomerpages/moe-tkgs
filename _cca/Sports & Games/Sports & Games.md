@@ -4,6 +4,7 @@ permalink: /cca/sports-n-games/
 description: ""
 third_nav_title: Sports & Games
 ---
+<p>Sports in TKGS imbues important values such as determination in our student-players. Our Badminton, Netball, Bowling and Softball teams have outdone themselves on many occasions at the annual National School Games.</p>
 <table>
 <tbody>
 <tr>
