@@ -3,7 +3,7 @@ title: Parent Resources
 permalink: /resources/parent-resources/
 description: ""
 ---
-<h3 style="text-align: center;">Form Teachers &amp; Subject Teachers Contact List</h3>
+<h4 style="text-align: center;"><strong>Form Teachers &amp; Subject Teachers Contact List</strong></h4>
 <table style="margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
@@ -63,6 +63,19 @@ description: ""
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1saVa52EKHPlv3rlHblkJotxwxxyNugAw/view?usp=sharing" target="_blank" rel="noopener">4E5</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/19lLYhqaG6dnRJeiNcbWhuXcxN443ZJci/view?usp=sharing" target="_blank" rel="noopener">4E6</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1lugNq6JrvwyTRAGgzqc_OGZbX11dDyBg/view?usp=sharing" target="_blank" rel="noopener">4E7</a></td>
+</tr>
+</tbody>
+</table>
+<h4 style="text-align: center;"><strong>Applications Forms</strong></h4>
+<table style="margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="text-align: center;">
+<p><strong><a href="https://tkgs.moe.edu.sg/resources/announcements/financial-assistance-scheme-fas-2023" target="">Financial Assistance Scheme 2023</a></strong></p>
+</td>
+<td style="text-align: center;">
+<p><strong><a href="https://tkgs.moe.edu.sg/resources/announcements/cts-education-award-2023" target="">CTS Education Awards 2023</a></strong></p>
+</td>
 </tr>
 </tbody>
 </table>
