@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 90%;" border="1">
 <tbody>
 <tr>
 <td style="width: 39%;"><img src="/images/22u.png"></td>
