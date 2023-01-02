@@ -46,8 +46,7 @@ third_nav_title: Sports & Games
 <p><strong>Tuesday &amp; Friday<br /></strong><strong>4:00pm - 6:00pm</strong></p>
 </td>
 <td style="width: 50%; text-align: center;">
-<p><strong>Singapore Swimming</strong></p>
-<p><strong>Club</strong></p>
+<p><strong>Singapore Swimming Club</strong></p>
 </td>
 </tr>
 </tbody>
