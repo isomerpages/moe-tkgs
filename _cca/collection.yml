@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Sports & Games/Basketball.md
       - Sports & Games/Floorball.md
       - Sports & Games/Netball.md
       - Sports & Games/Sailing.md
