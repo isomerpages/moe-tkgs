@@ -2,5 +2,6 @@ collections:
   announcements:
     output: true
     order:
+      - Financial Assistance Scheme (FAS) 2023.md
       - Class of 2021 School Graduation Certificate & Testimonial.md
       - Announcements.md
