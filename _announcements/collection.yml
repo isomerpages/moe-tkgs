@@ -2,4 +2,5 @@ collections:
   announcements:
     output: true
     order:
+      - Class of 2021 School Graduation Certificate & Testimonial.md
       - Announcements.md
