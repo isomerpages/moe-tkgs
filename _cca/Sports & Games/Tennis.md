@@ -60,4 +60,4 @@ third_nav_title: Sports & Games
 </tr>
 </tbody>
 </table>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRHrconpf_PShaCsmCoLFlJOEA5Ks5kiibhbSWC_3RwmIs5qcU2IZgV5whcVs81-uctSovDQk9jcYvE/embed?start=false&loop=false&delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRHrconpf_PShaCsmCoLFlJOEA5Ks5kiibhbSWC_3RwmIs5qcU2IZgV5whcVs81-uctSovDQk9jcYvE/embed?start=false&loop=false&delayms=3000" frameborder="0" width="750" height="500" allowfullscreen="true"></iframe>
