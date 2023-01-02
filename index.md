@@ -4,19 +4,17 @@ title: Tanjong Katong Girls' School
 description: Brief site description here
 image: /images/logo.png
 permalink: /
-notification: Tanjong Katong Girls' School
+notification: ""
 sections:
   - hero:
-      subtitle: Servant Leader, Inquisitive Learner, Gracious Women
       background: /images/Test-Isomer-Gif.gif
-      url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: Announcements
+          description: ""
+          url: /resources/announcements/
+        - title: Useful Links
+          description: ""
+          url: /useful-links/
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
