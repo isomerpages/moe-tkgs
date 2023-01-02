@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Sports & Games/Softball.md
       - Sports & Games/Tennis.md
       - Sports & Games/Tenpin Bowling.md
       - Sports & Games/Sports & Games.md
