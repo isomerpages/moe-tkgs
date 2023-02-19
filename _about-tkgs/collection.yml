@@ -2,7 +2,7 @@ collections:
   about-tkgs:
     output: true
     order:
-      - Principal Message.md
+      - Principal's Message.md
       - School Vision, Mission & Value/.keep
       - School Vision, Mission & Value/School Vision, Mission & Values.md
       - School Vision, Mission & Value/TKGS Crest.md
