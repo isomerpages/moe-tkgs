@@ -3,7 +3,7 @@ title: School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
 ---
-<img src="/images/smc.jpg"><br>
+<img src="/images/SMC2023.png"><br>
 <table>
 <tbody>
 <tr>
@@ -55,11 +55,6 @@ description: ""
 <td><a href="mailto:tang_jia_hui_joyce@moe.edu.sg" target="">tang_jia_hui_joyce@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Mrs Nalini Ram</td>
-<td>HOD / Humanities</td>
-<td><a href="mailto:nalini_mariappa_pillai@moe.edu.sg" target="">nalini_mariappa_pillai@moe.edu.sg</a></td>
-</tr>
-<tr>
 <td>Mr Ng We Keat</td>
 <td>HOD / PE &amp; CCA</td>
 <td><a href="mailto:Ng_We_Keat@moe.edu.sg" target="">ng_we_keat@moe.edu.sg</a></td>
@@ -95,9 +90,9 @@ description: ""
 <td><a href="mailto:noorlizah_abdul_rahman@moe.edu.sg" target="">noorlizah_abdul_rahman@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Mrs Janice Chua</td>
+<td>Ms Foo Wen Xin</td>
 <td>Assistant Year Head</td>
-<td><a href="mailto:lee_swee_ping_janice@moe.edu.sg" target="">lee_swee_ping_janice@moe.edu.sg</a></td>
+<td><a href="mailto:foo_wenxin@moe.edu.sg" target="">foo_wenxin@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td>Mrs Angie Sew</td>
@@ -116,13 +111,34 @@ description: ""
 </tr>
 <tr>
 <td>Mr Mohamed Firdaus</td>
-<td>SH / Lit &amp; Drama</td>
+<td>Subject Head / Lit &amp; Drama</td>
 <td><a href="mailto:mohamed_firdaus@moe.edu.sg" target="">mohamed_firdaus@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td>Mdm Jenny Lim</td>
-<td>SH / Discipline</td>
+<td>Subject Head / Discipline</td>
 <td><a href="mailto:lim_boo_poh_mui@moe.edu.sg" target="">lim_boo_poh_mui@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Ms Du Tong Tong</td>
+<td>Subject Head / Social Studies</td>
+<td><a href="mailto:du_tongtong@moe.edu.sg " target="">du_tongtong@moe.edu.sg </a></td>
+</tr>
+<tr>
+<td>Mr Kaleb Lim Kian Long</td>
+<td>Subject Head / Geography</td>
+<td><a href="mailto:	lim_kian_long@moe.edu.sg " 
+target="">	lim_kian_long@moe.edu.sg </a></td>
+</tr>
+<tr>
+<td>Ms Neo Xuanpei Madeline</td>
+<td>Subject Head / CCE</td>
+<td><a href="mailto:neo_xuanpei@moe.edu.sg " target="">neo_xuanpei@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Ms Tan Hui Lan</td>
+<td>Level Head / Mathematics</td>
+<td><a href="mailto:tan_hui_lan@moe.edu.sg" target="">tan_hui_lan@moe.edu.sg</a></td>
 </tr>
 </tbody>
 </table>
