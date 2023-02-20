@@ -73,10 +73,6 @@ description: ""
 <td style="text-align: center;">
 <p><strong><a href="/resources/announcements/financial-assistance-scheme-fas-2023" target="">Financial Assistance Scheme 2023</a></strong></p>
 </td>
-<td style="text-align: center;">
-<p><strong><a href="/resources/announcements/cts-education-award-2023" target="">CTS Education Awards 2023</a></strong></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Useful Links</strong></h4>
