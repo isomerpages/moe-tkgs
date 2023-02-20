@@ -1,5 +1,4 @@
 collections:
   moments:
     output: true
-    order:
-      - 2019.md
+    order: []
