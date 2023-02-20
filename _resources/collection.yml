@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Yearbook.md
       - Students Resources.md
       - Staff Resources.md
       - Parent Resources.md
