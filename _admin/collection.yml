@@ -2,4 +2,5 @@ collections:
   admin:
     output: true
     order:
+      - School Calendars & Events.md
       - Sparkling Moments.md
