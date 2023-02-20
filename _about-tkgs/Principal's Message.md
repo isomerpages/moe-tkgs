@@ -18,7 +18,7 @@ description: ""
 <table border="0" style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr>
-	<td style="width: 50%;"><img src="/images/YT2023.jpg"><center></center></td>
+	<td style="width: 50%;"><img src="/images/YT2023.jpg" class=center></td>
 <td style="width: 40%">
 </td>
 </tr>
