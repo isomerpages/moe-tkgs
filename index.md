@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/NEwISO3.png
       key_highlights:
-        - title: Announcements
-          description: ""
-          url: /resources/announcements/
         - title: Useful Links
           description: ""
           url: /useful-links/
