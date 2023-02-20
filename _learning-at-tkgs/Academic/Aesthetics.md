@@ -1,0 +1,31 @@
+---
+title: Aesthetics
+permalink: /learning-at-tkgs/academic/aesthetics/
+description: ""
+third_nav_title: Academic
+---
+<img src="/images/aes.jpg">
+<h4><strong>Learning Outcomes</strong></h4>
+<p>The Aesthetics Department aims to cultivate learners who appreciate the aesthetics and discover what they enjoy in their arts learning. They will have the ability for creative expression and communication so as to be able to cultivate a life-long appreciation of the arts. For students pursuing Music and Art at upper secondary levels, the department nurtures them to discover their passions, strengths and weaknesses in their subject. As independent learners with critical and creative thinking in their craft, they acquire the ability to experiment with ideas, media and technology.</p>
+<h4><strong>Key Programmes</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">
+<ul class="jekyllcodex_accordion">
+<li><strong><input id="accordion1" type="checkbox" /> <label for="accordion1">Art Plus Programme</label></strong>
+<p>The Art Plus Programme is an in-house upper secondary programme offered to students who enjoy art and wish to pursue it at a Sec 3 and 4 without pressure of O-level requirements and to balance the cognitive load of a 8-subject combination. Art Plus students ,with more time and space for art lessons, will also enjoy learning through&nbsp; exploration and inquiry at museum visits, internships with art galleries, learning project management skills for the curation for art exhibitions.&nbsp;</p>
+</li>
+</ul>
+</td>
+<td style="width: 50%;">
+<ul class="jekyllcodex_accordion">
+<li><strong><input id="accordion2" type="checkbox" /> <label for="accordion2">MOE Music Elective Programme (MEP)</label></strong>
+<p>The Music Elective Programme (MEP) is a special MOE programme for students with passion and aptitude in Music. It is a 4-year programme that provides the student with an enriched environment to learn music as well as in-depth study of the subject. The aims of the MEP are to help students realise the relevance and purpose of music learning to their own lives and the world; develop character and leadership through music and enable them to be part of a musical&nbsp; community in school, with shared experiences and relationships. Students will enjoy opportunities for recitals, concert outings, Asian music workshops, MEP camp and MEP national events.&nbsp; All MEP students will take the Higher Music examinations at the O levels.</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRDI9RW_tfrsCcOk2Ggca58lOiETZ1bGAzO4AXmasj1xUPFuOYBmNtsxYg_0StXSQsRB8RH8AX92zsz/embed?start=false&loop=false&delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true"></iframe>

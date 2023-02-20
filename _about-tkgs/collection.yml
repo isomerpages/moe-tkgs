@@ -1,0 +1,12 @@
+collections:
+  about-tkgs:
+    output: true
+    order:
+      - Principal's Message.md
+      - School Vision, Mission & Value/.keep
+      - School Vision, Mission & Value/School Vision, Mission & Values.md
+      - School Vision, Mission & Value/TKGS Crest.md
+      - School Vision, Mission & Value/Code of Conduct.md
+      - TKGian Creed.md
+      - TKGS School Song.md
+      - Contact Information.md

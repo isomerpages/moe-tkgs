@@ -1,0 +1,5 @@
+collections:
+  tkgs-sparkling-moments:
+    output: true
+    order:
+      - Sparkling Moments.md
