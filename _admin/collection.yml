@@ -1,4 +1,5 @@
 collections:
   admin:
     output: true
-    order: []
+    order:
+      - Sparkling Moments.md
