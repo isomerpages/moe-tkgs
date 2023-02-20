@@ -3,7 +3,7 @@ title: Principal's Message
 permalink: /about-tkgs/principal-message/
 description: ""
 ---
-<table style="border-collapse: collapse; width: 100%; border-style:hidden" border="1">
+<table style="border-collapse: collapse; width: 100%; border-style:hidden" border="0">
 <tbody>
 <tr>
 <td style="width: 30%;"><img src="/images/princ1.png"></td>
