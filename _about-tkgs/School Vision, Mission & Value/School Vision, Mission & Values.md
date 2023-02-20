@@ -29,7 +29,7 @@ third_nav_title: School Vision, Mission & Value
 <li>School-initiated projects</li>
 <li>Formal leadership positions</li>
 </ul>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse;" border="0">
 <tbody>
 <tr>
 <td style="width: 65%;">
@@ -42,12 +42,12 @@ third_nav_title: School Vision, Mission & Value
 <li>World</li>
 </ul>
 </td>
-<td style="width: 35%;"><img src="/images/v2.gif"></td>
+<td style="width: 60%;"><img src="/images/v2.gif"></td>
 </tr>
 </tbody>
 </table>
 <p>At the end of their leadership journey, all TKGians will reach the Rainbow DOTE (Desired Outcomes of TKGian Education). The Rainbow (figure 3) represents the colourful journey and diverse learning experiences that all TKGians will have. These will culminate in the Desired Outcomes of TKGian Education, or DOTE. At the end of Secondary 4, a TKGian is an accomplished young woman of character and grace who:</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 40%;"><img src="/images/v3.gif"></td>
