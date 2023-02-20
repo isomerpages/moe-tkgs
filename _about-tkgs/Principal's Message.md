@@ -6,19 +6,19 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td style="width: 30%;"><img src="/images/princ1.png"></td>
-<td style="width: 70%;">
+<td style="width: 40%;"><img src="/images/MsChewV3.png"></td>
+<td style="width: 60%;">
 <p>As we start a new school year, we enter a new season of learning.</p>
-<p>This year Sec 1 cohort is a very special cohort because they are the pioneer batch under the new PSLE posting system. I am delighted to share that TKGS continues to be a choice school as more than 75% of the 2022 cohort chose TKGS as their top 3 options. Good news indeed! And we are very thankful.</p>
+<p>This year we have a very encouraging Sec 1 enrolment with 100% of the 2023 Sec 1 cohort choosing TKGS as their top 3 choices. I am especially delighted to share that a good 90.6% of them chose TKGS as 1st choice. Good news indeed! And we are very thankful for each and every girl who has made TKGS her choice school and her second home.</p>
+	<p> I am proud to present the Year Theme for 2023: </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Year Theme for 2022<br /></u></strong>It is a TKGS tradition to welcome the new school year with a year theme jointly conceptualised by the Prefectorial Board Executive Committee, teachers and the School Principal.</p>
-<p>I am proud to present the Year Theme for 2022: New Hopes, Unbounded.</p>
-<img style="width: 40%;" src="/images/princ2.png" />
-<p>As we move out of the COVID-19 pandemic into the endemic stage, we hope to be COVID-resilient. Courage, nimbleness and positivity are what it takes for us to emerge strong and full of hopes. The COVID pandemic may have altered many things but it has never changed our TKGS Spirit. We want to remember fondly how as a school, we made the best of the new normal and continued to celebrate school events like Chinese New Year, Youth Day, Sports Carnival, Leaders&rsquo; Investiture, Teachers&rsquo; Day and TKGS Spirit Week. We continued to create many collective memories as the TKGS Family.</p>
-<p>As we welcome 2022, we want to remain optimistic and hopeful about what the future holds for us, and we will help one another to adapt to the changes, always standing together as one, even if some days feel like they are filled with rain and dread. As the saying goes, &ldquo;After the rain, comes the sunshine&rdquo;.</p>
-<p>The Year Theme thus serves to motivate TKGians to face any circumstances positively and be courageous in chasing their dreams, like the paper plane soaring upwards into the open sky. We not only have new hopes. Our new hopes are unbounded. &ldquo;Unbounded&rsquo; describes a positive feeling that is very great and has no limits. This is represented by the infinity symbol. Three flowers &ndash; daffodil, gladiolus and sunflower &ndash; are chosen. Daffodil, being the earliest spring flower after winter, represents a new beginning while the gladiolus symbolizes strength of character and the sunflower conveys warmth.</p>
-<p>So, in 2022, we encourage the TKGians to see the endless possibilities no matter what happens. May we collectively have boundless positivity, limitless resilience and abundant courage in the face of adversity. With the Year Theme &ldquo;New Hopes, Unbounded&rdquo;, our wish is that 2022 will be a year of abundant growth and limitless dreams for the TKGians.</p>
+
+![](/images/YT2023.jpg)
+<p>Here, I would like to share the thinking behind the Year Theme so that you may be encouraged by the depth of thought our student leaders put in to conceptualise the Year Theme.</p>
+
+<p><strong><u>Year Theme for 2023<br /></u></strong>Emerging from the pandemic has helped us realise how resilient the world around us is. This gives us confidence that with perseverance, we can achieve our dreams regardless of the challenges and struggles we may face. This is represented by the eagle flying over the mountain range. The mountains symbolise the ups and downs that we will all face together in our TKGS journey. Each of us may at times feel like we are in the low valley when we face challenges and struggles. But we shall remember the mountain-top moments too. This is represented by the eagle, a symbol of courage, freedom and hope. Even as the eagle soars through the harshest storms, it remains steadfast in weathering the storm and flies above the mountain peaks, displaying resilience and stamina. Likewise, for TKGians, we can make that climb back up because here in TKGS, we keep it as a rule that each one needs the other and we know we can count on one another to help us press on towards the mountain-top. May we be on eagle’s wings, soaring high to reach our mountain peaks. Just like the sun rays stretching into infinity, let’s believe in our limitless capabilities. Dream big.  As the quote by James Allen goes, “To desire is to dream, but to aspire is to achieve’. So, TKGians, aspire to greater things, Spero Meliora!</p>
+
 <p>Yours sincerely,<br />Ms&nbsp;<u>Chew</u>&nbsp;Ing Lim<br />Principal</p>
