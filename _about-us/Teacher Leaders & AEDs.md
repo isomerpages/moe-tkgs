@@ -3,7 +3,6 @@ title: Teacher Leaders & AEDs
 permalink: /about-us/teachers-leaders-n-aeds/
 description: ""
 ---
-
 <h3><strong>Teacher Leaders</strong></h3>
 <table>
 <tbody>
@@ -16,11 +15,6 @@ description: ""
 <td>Ms Sultana Rahman</td>
 <td>School Staff Developer</td>
 <td><a href="mailto:sultana_rahman@moe.edu.sg" target="">sultana_rahman@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td>Ms Chee Bee Phaik</td>
-<td>Lead Teacher</td>
-<td><a href="mailto:chee_bee_phaik@moe.edu.sg" target="">chee_bee_phaik@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td>Mdm Adela Chee</td>
