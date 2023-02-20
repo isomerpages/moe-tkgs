@@ -2,4 +2,5 @@ collections:
   tkgs-sparkling-moments:
     output: true
     order:
+      - 2021.md
       - Sparkling Moments.md
