@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - Teaching Staff.md
       - School Management Committee.md
       - School Advisory Committee.md
+      - Teaching Staff.md
       - Teacher Leaders & AEDs.md
       - Non–Teaching Staff.md
+      - Our Partners/.keep
       - Our Partners/Alumni.md
       - Our Partners/Committee.md
       - Our Partners/ParentLink.md
-      - Our Partners/.keep
