@@ -6,7 +6,7 @@ description: ""
 <table style="border-collapse: collapse; width: 100%; border-style:hidden" border="1">
 <tbody>
 <tr>
-<td style="width: 600%;"><img src="/images/princ1.png"></td>
+<td style="width: 30%;"><img src="/images/princ1.png"></td>
 <td style="width: 70%;">
 <p>As we start a new school year, we enter a new season of learning.</p>
 <p>This year Sec 1 cohort is a very special cohort because they are the pioneer batch under the new PSLE posting system. I am delighted to share that TKGS continues to be a choice school as more than 75% of the 2022 cohort chose TKGS as their top 3 options. Good news indeed! And we are very thankful.</p>
