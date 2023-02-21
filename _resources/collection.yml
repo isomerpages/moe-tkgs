@@ -2,13 +2,12 @@ collections:
   resources:
     output: true
     order:
-      - Yearbook.md
       - Students Resources.md
       - Staff Resources.md
       - Parent Resources.md
-      - School Calendars & Events.md
+      - Admission/.keep
       - Admission/Sec 1 Admission.md
       - Admission/Appeal Process for Sec 1 Admission.md
-      - Admission/.keep
       - Admission/Direct School Admission.md
       - Admission/Other Admission Matters.md
+      - Yearbook.md
