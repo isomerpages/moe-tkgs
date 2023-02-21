@@ -29,8 +29,11 @@ third_nav_title: Sports & Games
 </tbody></table>
 <br>
 <table>
-<tbody><tr><th>CCA Schedule</th>
-</tr><tr>
+<tbody>
+<tr>
+<th>CCA Schedule</th>
+</tr>
+	<tr>
 	<td rowspan="1">Training Day / Time</td>
  <td>Monday, Wednesday &amp; Friday<br>
 	3.15pm to 5.15pm</td>
