@@ -42,7 +42,6 @@ tr:hover {background-color: #D6EEEE;}
  <td><a href="mailto:ang_wee_jin@moe.edu.sg" target="">ang_wee_jin@moe.edu.sg</a></td>
 	 	</tr>
 </table>
-<br>
 <table>
 	<th>CCA Schedule</th>
 <tr>
