@@ -17,7 +17,7 @@ th, td {
   border-bottom: 1px solid #ddd;
 }
 
-tr:hover {background-color: coral;}
+tr:hover {background-color: beige;}
 </style>
 </head>
 
