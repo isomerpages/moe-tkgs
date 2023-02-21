@@ -142,3 +142,34 @@ target="">	lim_kian_long@moe.edu.sg </a></td>
 </tr>
 </tbody>
 </table>
+
+<h3><strong>Teacher Leaders</strong></h3>
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;" width="33%">Name</th>
+<th style="text-align: center;" width="33%">Position</th>
+<th style="text-align: center;" width="33%">Email</th>
+</tr>
+<tr>
+<td>Ms Sultana Rahman</td>
+<td>School Staff Developer</td>
+<td><a href="mailto:sultana_rahman@moe.edu.sg" target="">sultana_rahman@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Mdm Adela Chee</td>
+<td>Senior Teacher</td>
+<td><a href="mailto:chee_kwek_khuen_adela@moe.edu.sg" target="">chee_kwek_khuen_adela@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Mrs Cherry Goh-Chan</td>
+<td>Senior Teacher</td>
+<td><a href="mailto:cherry_chan_hiang_puay@moe.edu.sg" target="">cherry_chan_hiang_puay@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Mdm Nur Ashikin Sapri</td>
+<td>Senior Teacher</td>
+<td><a href="mailto:nur_ashikin_sapri@moe.edu.sg" target="">nur_ashikin_sapri@moe.edu.sg</a></td>
+</tr>
+</tbody>
+</table>
