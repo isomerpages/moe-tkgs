@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Sports & Games/test CCA.md
       - Sports & Games/.keep
       - Sports & Games/Sports & Games.md
       - Sports & Games/Badminton.md
