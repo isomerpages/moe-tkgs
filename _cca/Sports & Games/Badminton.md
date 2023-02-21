@@ -13,7 +13,7 @@ third_nav_title: Sports & Games
 <p style="text-align: right;"><strong>Wong Xing Yee (Captain)</strong></p>
 
 <table>
-	<tbody><tr><th>Teacher-in-Charge</th>
+	<tbody><tr><th colspan="2">Teacher-in-Charge</th>
 </tr><tr>
 	<td rowspan="1">Mrs Melinda Loy</td>
  <td><a target="" href="mailto:chung_ah_boey@moe.edu.sg">chung_ah_boey@moe.edu.sg</a></td>
