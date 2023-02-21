@@ -4,6 +4,23 @@ permalink: /cca/sports-n-games/badminton/
 description: ""
 third_nav_title: Sports & Games
 ---
+<head>
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color: coral;}
+</style>
+</head>
+
 <iframe allowfullscreen="true" height="500" width="750" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR4eIH9TXZUDbt84cCr1IYtlepl_LLjVnhb9QseY3TtAZNUlft6n0ztPodCyvouNRQ528CKdI8SmkmM/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 
 <p>Badminton is a sport that demands good fitness and mental strength. A badminton player’s speed, stamina, agility, and strength as well mental strength is crucial and it is put to the test on court. A lot of patience, determination as well as perseverance is needed in order to be able to master the sport. Training is often strenuous but enriching as it allows us to be able to perfect our current skills. The strenuous training allowed us to bond as a team, help each other out to brush up on our individual skills and learn the importance of teamwork which we can use to achieve our goals as a team.&nbsp;</p>
