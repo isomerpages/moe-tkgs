@@ -3,32 +3,19 @@ title: test CCA
 permalink: /cca/Sports-and-Games/testcca/
 description: ""
 ---
+<section class="accordion">
+  <input type="checkbox" name="collapse" id="handle1" checked="checked">
+  <h2 class="handle">
+    <label for="handle1">
+    The Visible Short Heading 
+    </label>
+  </h2>
+  
+  <div class="content">
+    <p>Your detailed contents...</p>  
+  </div>
+</section>
 
-
-
-<h2>Collapsibles</h2>
-
-<p>A Collapsible:</p>
-<button class="collapsible" type="button">Open Collapsible</button>
-<div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
-
-<p>Collapsible Set:</p>
-<button class="collapsible" type="button">Open Section 1</button>
-<div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
-<button class="collapsible" type="button">Open Section 2</button>
-<div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
-<button class="collapsible" type="button">Open Section 3</button>
-<div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
-
-
-
-
-
+.accordion > input[name="collapse"] {
+  display: none;
+}
