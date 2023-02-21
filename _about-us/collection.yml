@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Key Personnels.md
+      - Key Personnel.md
       - School Advisory Committee.md
       - Teaching Staff.md
       - Teacher Leaders & AEDs.md
