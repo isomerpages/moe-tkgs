@@ -42,10 +42,6 @@ description: ""
 <td>Operations Support Officer (Reception)</td>
 </tr>
 <tr>
-<td>Ms Kate Choo</td>
-<td>Education and Career Guidance (ECG) Counsellor</td>
-</tr>
-<tr>
 <td style="text-align: center;" colspan="2"><strong>Technical &amp; Lab Staff</strong></td>
 </tr>
 <tr>
@@ -118,7 +114,22 @@ description: ""
 <tr>
 <td>Ms Jane Lau</td>
 <td>Librarian</td>
+<tr>
+<td style="text-align: center;" colspan="2"><strong>AED Consellors</strong></td>
+<tr>
+	<td> Ms Tang Yuin Kay</td>
+	<td> Senior School Counsellor</td>
+	</tr>
+<tr>
+	<td> Ms Shaikhah Bte Rubangin </td>
+	<td> Allied Educator (Learning & Behavioral Support)</td>
+	</tr>
+<tr>
+	<td> Ms Kate Choo </td>
+	<td> Education and Career Guidance (ECG) Counsellor </td>
 </tr>
+</tbody>
+</table>
 </tbody>
 </table>
 <p style="text-align: center;"><em>To contact the Non-Teaching Staff via email, please send to:&nbsp;<a href="mailto:tkgs@moe.edu.sg"><strong>tkgs@moe.edu.sg</strong></a></em></p>
