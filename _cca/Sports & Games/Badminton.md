@@ -11,14 +11,22 @@ third_nav_title: Sports & Games
 <p style="text-align: right;"><strong>Wong Xing Yee (Captain)</strong></p>
 
 <strong>Teacher-in-Charge</strong>
-| Mrs Melinda Loy | Mr Ang Wee Jin | Mdm Adela Chee |
-| -------- | -------- | -------- |
-| [chung_ah_boey@moe.edu.sg](mailto:chung_ah_boey@moe.edu.sg)     |  [ang_wee_jin@moe.edu.sg](mailto:ang_wee_jin@moe.edu.sg)     |  [chee_kwek_khuen_adela@moe.edu.sg](mailto:chee_kwek_khuen_adela@moe.edu.sg)     |
-
+<table>
+<tr>
+	<td rowspan = "1">Mrs Melinda Loy</td>
+ <td><a href="mailto:chung_ah_boey@moe.edu.sg" target="">chung_ah_boey@moe.edu.sg</a></td>
+	 	</tr>
+<tr>
+	<td rowspan = "1">Mr Ang Wee Jin</td>
+ <td><a href="mailto:chee_kwek_khuen_adela@moe.edu.sg" target="">chee_kwek_khuen_adela@moe.edu.sg</a></td>
+	</tr>
+<tr>
+	<td rowspan = "1">Mdm Adela Chee</td>
+ <td><a href="mailto:ang_wee_jin@moe.edu.sg" target="">ang_wee_jin@moe.edu.sg</a></td>
+	 	</tr>
+</table>
+<br>
 <strong>CCA Schedule</strong>
-| Training Day/Time | Training Venue | 
-| -------- | -------- | 
-| Monday, Wednesday & Friday |  ISH Court (L4) | 
-|3.15pm to 5.15pm|
+
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR4eIH9TXZUDbt84cCr1IYtlepl_LLjVnhb9QseY3TtAZNUlft6n0ztPodCyvouNRQ528CKdI8SmkmM/embed?start=false&loop=false&delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true"></iframe>
