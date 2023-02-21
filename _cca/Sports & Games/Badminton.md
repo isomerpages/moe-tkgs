@@ -43,6 +43,7 @@ tr:hover {background-color: #D6EEEE;}
 	 	</tr>
 </table>
 <table>
+	<br>
 	<th>CCA Schedule</th>
 <tr>
 	<td rowspan = "1">Training Day / Time</td>
