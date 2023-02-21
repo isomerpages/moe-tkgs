@@ -27,9 +27,9 @@ third_nav_title: Sports & Games
  <td><a target="" href="mailto:ang_wee_jin@moe.edu.sg">ang_wee_jin@moe.edu.sg</a></td>
 	 	</tr>
 </tbody></table>
-<br><table>
-	
-	<tbody><tr><th>CCA Schedule</th>
+<br>
+<table>
+<tbody><tr><th>CCA Schedule</th>
 </tr><tr>
 	<td rowspan="1">Training Day / Time</td>
  <td>Monday, Wednesday &amp; Friday<br>
