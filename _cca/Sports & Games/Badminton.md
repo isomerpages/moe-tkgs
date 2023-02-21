@@ -28,4 +28,15 @@ third_nav_title: Sports & Games
 	 	</tr>
 </table>
 <br>
-<strong>CCA Schedule</strong>
+<table>
+	<th>CCA Schedule</th>
+<tr>
+	<td rowspan = "1">Training Day / Time</td>
+ <td>Monday, Wednesday & Friday<br>
+	3.15pm to 5.15pm</td>
+	 	</tr>
+<tr>
+	<td rowspan = "1">Training Venue</td>
+ <td>Indoor Sport Hall (Level 4)</td>
+	</tr>
+</table>
