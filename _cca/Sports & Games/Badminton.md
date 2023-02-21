@@ -54,6 +54,6 @@ tr:hover {background-color: beige;}
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
- <td rowspan="1"> Indoor Sports Hall (Level 4)</td>
+ <td rowspan="1"> School Hall </td>
 	</tr>
 </tbody></table>
