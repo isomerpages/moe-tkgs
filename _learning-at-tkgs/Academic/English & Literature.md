@@ -20,13 +20,13 @@ third_nav_title: Academic
 <p>As part of the TKGS English language curriculum, students hone their oral communication skills through the Drama Education and Oral Communication modules. Apart from the technical skills of pronunciation and voice projection, students engage in public speaking and drama presentations where they creatively explore different modes of expression.</p>
 </td>
 <td style="width: 50%;">
-<u><strong>EL Reading Portfolio</u></strong>
+<strong>EL Reading Portfolio</strong>
 <p>The English Reading Portfolio empowers students in the development of their critical thinking skills, while also enabling them to build their vocabulary and become more confident speakers in engaging with social issues. Students gather texts and articulate their opinions of current issues, thus building their content knowledge as well as critical thinking skills in engaging with multiple perspectives.</p>
 </td>
 </tr>
 <tr>
 <td style="width: 50%;">
-<u><strong>Literature Journaling</u></strong>
+<strong>Literature Journaling</strong>
 <p>The Literature Journal fosters independent reading and self-directed learning as students make their own notes during lessons and connect ideas explored in texts with personal experiences or other texts/issues discussed. This allows them to actively practise Assessment for Learning as they record their questions and reflections, empowering them to examine their own learning processes.</p>
 </td>
 </tr>
