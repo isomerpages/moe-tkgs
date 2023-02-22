@@ -16,7 +16,7 @@ third_nav_title: Academic
 <tbody>
 <tr>
 <td style="width: 50%;">
-<u><strong>Drama Education &amp; Oral Communication</u></strong>
+<strong>Drama Education &amp; Oral Communication</strong>
 <p>As part of the TKGS English language curriculum, students hone their oral communication skills through the Drama Education and Oral Communication modules. Apart from the technical skills of pronunciation and voice projection, students engage in public speaking and drama presentations where they creatively explore different modes of expression.</p>
 </td>
 <td style="width: 50%;">
