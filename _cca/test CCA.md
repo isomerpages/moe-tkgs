@@ -5,6 +5,7 @@ description: ""
 ---
 <head>
 	<style>
+		
 .accordion > input[name="collapse"] {
   position: absolute;
   left: -100vw; /* Behind the scene */
