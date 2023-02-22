@@ -130,6 +130,4 @@ description: ""
 </tr>
 </tbody>
 </table>
-</tbody>
-</table>
 <p style="text-align: center;"><em>To contact the Non-Teaching Staff via email, please send to:&nbsp;<a href="mailto:tkgs@moe.edu.sg"><strong>tkgs@moe.edu.sg</strong></a></em></p>
