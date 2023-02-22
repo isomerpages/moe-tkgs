@@ -8,7 +8,7 @@ third_nav_title: Academic
 
 <h4><strong>Learning Outcomes</strong></h4>
 <p>The desired outcome of the PE Programme in TKGS is to develop a self-directed TKGS learner who takes ownership of her development in the area of physical health and fitness.</p>
-<p>The TKGS PE curriculum aims to achieve the following objectives in our students:<br /><br /></p>
+<p>The TKGS PE curriculum aims to achieve the following objectives in our students:</p>
 <ol>
 <li>To acquire competency in movement through a variety of sports and physical activities.</li>
 <li>To understand the game concepts and rules in a variety of sports.</li>
@@ -22,7 +22,7 @@ third_nav_title: Academic
 <tbody>
 <tr>
 <td style="width: 50%;">
-<strong>Sec 1</strong>
+<strong>Secondary 1</strong>
 <div>
 <ul>
 <li>Floorball</li>
@@ -32,26 +32,22 @@ third_nav_title: Academic
 <li>Physical Health &amp; Fitness 1</li>
 </ul>
 </div>
-</li>
-</ul>	
 </td>
 <td style="width: 50%;">
-<strong>Sec 2</strong></label>
+<strong>Secondary 2</strong>
 <div>
 <ul>
 <li>Badminton</li>
 <li>Court Games</li>
 <li>Outdoor Education 2</li>
 <li>Physical Health &amp; Fitness 2</li>
-</ul>
+	</ul>
 </div>
-</li>
-</ul>	
 </td>
 </tr>
 <tr>
 <td style="width: 50%;">
-	<strong>Sec 3</strong>
+	<strong>Secondary 3</strong>
 <div>
 <ul>
 <li>Football</li>
@@ -60,11 +56,9 @@ third_nav_title: Academic
 <li>Physical Health &amp; Fitness 3</li>
 </ul>
 </div>
-</li>
-</ul>		
 </td>
 <td style="width: 50%;">
-<strong>Sec 4</strong>
+<strong>Secondary 4</strong>
 <div>
 <ul>
 <li>Softball</li>
@@ -72,8 +66,6 @@ third_nav_title: Academic
 <li>Physical Health &amp; Fitness 4</li>
 </ul>
 </div>
-</li>
-</ul>		
 </td>
 </tr>
 <tr>
@@ -89,8 +81,6 @@ third_nav_title: Academic
 <li>Sec 3 MOE-OBS Camp</li>
 </ul>
 </div>
-</li>
-</ul>		
 </td>
 </tr>
 </tbody>
