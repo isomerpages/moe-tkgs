@@ -68,8 +68,6 @@ third_nav_title: Academic
 </div>
 </td>
 </tr>
-	</tbody>
-	</table>
 <td style="width: 50%;">
 <h4><strong>Key Events</strong></h4
 <div>
