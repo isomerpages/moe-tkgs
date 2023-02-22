@@ -4,7 +4,6 @@ permalink: /learning-at-tkgs/academic/humanities/
 description: ""
 third_nav_title: Academic
 ---
-<img src="/images/hum.png">
 <h4><strong>Learning Outcomes</strong></h4>
 <p>Alternative Assessment tasks, built into the curriculum, enable students to apply the skills acquired during Humanities lessons and understand the relevance of such skills in the real world. In keeping with innovative teaching strategies, the department uses a myriad of ICT tools such as Google-classroom, Mentimeter, Padlet and Kahoot to engage our students. Of particular mention here is the infusion of Virtual Reality in lessons where students immerse themselves in an experience that takes them up close to a volcano during an explosion and feel the wildlife in a rainforest. Historical heritage sites are also within easy reach of the students and learning transforms to a rich experience.</p>
 <h4><strong>Key Programmes</strong></h4>
@@ -12,18 +11,13 @@ third_nav_title: Academic
 <tbody>
 <tr>
 <td style="width: 50%;">
-<ul class="jekyllcodex_accordion">
-<li><strong><input id="accordion1" type="checkbox" /> <label for="accordion1">Humanities Strand</label></strong>
+	<b><u><strong>Humanities Strand</b></u></strong>
 <p>TKGS Plus Heritage Module As part of the TKGS Plus programme, the Humanities Dept organized the Heritage Module to help our students appreciate and promote the TKGS heritage. Heritage is a keystone of our TKGS culture. Through this programme, student-docents are empowered to curate artefacts and share their knowledge and appreciation of TKGS history to others</p>
-</li>
-</ul>
 </td>
-<td style="width: 50%;">
-<ul class="jekyllcodex_accordion">
-<li><strong><input id="accordion2" type="checkbox" /><label for="accordion2">Humanities Day</label></strong>
+	</tr>
+	</tbody>
+	<b><u><strong>Humanities Day</b></u></strong>
 <p>Humanities Day Learning Journeys At TKGS, students look forward to a day of learning, accompanied by their teachers embark on learning journey to places such as the Former Ford Factory, Kranji War Memorial to learn more about Singapore History. Learn about real world issues such as food security and how Singapore overcomes many of her constraints. Students have visited urban farms and learned how our farms in Singapore employ high-tech farming methods to grow crops. Interactive workshops are also organized for students to expand their learning beyond the textbooks. Students attended Financial Literacy workshops to gain deeper perspective on the value of money and its influence on people making personal financial choices. Speakers from varied background such as lawyers, environmentalist, yoga trainers were shared their perspectives on financial management. Students gained valuable insights through these sharing.</p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
