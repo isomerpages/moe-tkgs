@@ -68,9 +68,8 @@ third_nav_title: Academic
 </div>
 </td>
 </tr>
-<tr>
 <td style="width: 50%;">
-	<h4><strong>Key Events</strong></h4>
+<strong>Key Events</strong>
 <div>
 	<p>The PE Curriculum is also supported with the following events:</p>
 <ul>
@@ -79,9 +78,9 @@ third_nav_title: Academic
 <li>Inter-House Games</li>
 <li>Inter-Class Games</li>
 <li>Sec 3 MOE-OBS Camp</li>
-	</ul>
+</ul>
 </div>
-	</td>
-	</tr>
+</td>
+</tr>
 </tbody>
 </table>
