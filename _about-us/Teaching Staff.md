@@ -3,7 +3,7 @@ title: Teaching Staff
 permalink: /about-us/teaching-staff/
 description: ""
 ---
-| **Aesthetic** |
+| **Aesthetics** |
 <img src="/images/TeachingStaff-Aesthetics2023.png">
 <br>
 | **English Department** | 
@@ -15,7 +15,7 @@ description: ""
 | **Mother Tongue Department** | 
 <img src="/images/TeachingStaff-MotherTongue2023.png">
 <br>
-| **Physical Department** | 
+| **Physical Education Department** | 
 <img src="/images/TeachingStaff-PhysicalEducation2023.png">
 <br>
 | **Science Department** | 
