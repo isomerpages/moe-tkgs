@@ -72,7 +72,11 @@ third_nav_title: Academic
 <td>
 <strong>Key Events</strong>
 <div>
-<p>The PE Curriculum is also supported with the following events:</p>
+	</td>
+	</tr>
+	</tbody>
+	</table>
+&nbsp; The PE Curriculum is also supported with the following events:
 <ul>
 <li>Sports Carnival</li>
 <li>Cross Country</li>
@@ -81,7 +85,3 @@ third_nav_title: Academic
 <li>Sec 3 MOE-OBS Camp</li>
 </ul>
 </div>
-</td>
-</tr>
-</tbody>
-</table>
