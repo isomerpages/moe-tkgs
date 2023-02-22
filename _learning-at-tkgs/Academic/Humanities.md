@@ -9,7 +9,7 @@ third_nav_title: Academic
 <h4><strong>Learning Outcomes</strong></h4>
 <p>Alternative Assessment tasks, built into the curriculum, enable students to apply the skills acquired during Humanities lessons and understand the relevance of such skills in the real world. In keeping with innovative teaching strategies, the department uses a myriad of ICT tools such as Google-classroom, Mentimeter, Padlet and Kahoot to engage our students. Of particular mention here is the infusion of Virtual Reality in lessons where students immerse themselves in an experience that takes them up close to a volcano during an explosion and feel the wildlife in a rainforest. Historical heritage sites are also within easy reach of the students and learning transforms to a rich experience.</p>
 <h4><strong>Key Programmes</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;">
