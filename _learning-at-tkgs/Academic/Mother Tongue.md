@@ -12,9 +12,10 @@ third_nav_title: Academic
 <table style= "width: 100%;" border="1">
 <tbody>
 <tr>
+<td style="width: 50%;">
 <strong>Chinese Language</strong>
 <p>The TKGS Chinese Language Unit aims to develop students' language competency and cultivate appreciation for the Chinese Culture and History. The Reading Programme is infused into the curriculum to nurture the news reading habit amongst students and expose them to different genres of writing. The Chinese Fortnight Programme provides an immersive cultural learning experience to ignite students&rsquo; interest and appreciation for the language and culture, e.g. Chinese Seal Carving, Chinese Chess and Traditional Tea Appreciation. Furthermore, we bring learning beyond the confines of the classroom through local and overseas learning journeys, and exposing students to theatre and drama performances. Students also have the opportunities to attend competitions and workshops to enhance their understanding of Chinese Language and Culture.</p>
-</td>
+	</td>
 <td style="width: 50%;">
 <strong>Malay Language</strong>
 <p>The TKGS Malay Language Unit aims to develop students' language competency and cultivate appreciation for the Malay Culture and History. The Reading Programme is infused into the curriculum to nurture the news reading habit amongst students and expose them to different genres of writing. The Malay Fortnight Programme provides an immersive cultural learning experience to ignite students&rsquo; interest and appreciation for the language and culture, e.g. Tour to Kampong Lorong Buangkok, Traditional Malay Drama and Batik Art. Students also have the opportunities to attend workshops relating to writing and effective communication to enhance their understanding of Malay Language and Culture.</p>
