@@ -2,10 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - School Management Committee.md
+      - Key Personnel.md
       - School Advisory Committee.md
       - Teaching Staff.md
-      - Teacher Leaders & AEDs.md
       - Non–Teaching Staff.md
       - Our Partners/.keep
       - Our Partners/Alumni.md
