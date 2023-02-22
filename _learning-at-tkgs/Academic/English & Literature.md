@@ -12,7 +12,7 @@ third_nav_title: Academic
 <li><strong>Creative Inquirers &amp; Meaning-Makers</strong>&nbsp;who possess the capacity to explore and navigate multiple perspectives and ambiguities in real world contexts, so as to creatively synthesise information to co-construct knowledge and their interpretations of texts</li>
 </ul>
 <h4><strong>Key Programmes</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;">
