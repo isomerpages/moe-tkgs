@@ -18,7 +18,7 @@ third_nav_title: Academic
 <tbody>
 <tr>
 <td style="width: 50%;">
-<strong>TKGS Plus Biodiversity</label></strong>
+<strong>TKGS Plus Biodiversity</strong>
 <p>TKGS Plus Biodiversity is offered by the Science teachers as part of the TKGS Plus Programme. Offered to students at Secondary Three and in partnership with NParks, students learn and apply Biodiversity survey techniques used in real world (e.g. transect techniques) to study the effects of environmental conditions on species abundance.&nbsp;</p>
 </td>
 <td style="width: 50%;">
