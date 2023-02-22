@@ -81,6 +81,5 @@ third_nav_title: Academic
 	</ul>
 </div>
 	</td>
-	</tr>
 </tbody>
 </table>
