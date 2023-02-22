@@ -16,9 +16,9 @@ third_nav_title: Academic
 	<strong>Humanities Strand</strong>
 <p>TKGS Plus Heritage Module As part of the TKGS Plus programme, the Humanities Dept organized the Heritage Module to help our students appreciate and promote the TKGS heritage. Heritage is a keystone of our TKGS culture. Through this programme, student-docents are empowered to curate artefacts and share their knowledge and appreciation of TKGS history to others</p>
 </td>
+<td style="width: 50%;">
 <strong>Humanities Day</strong>
 <p>Humanities Day Learning Journeys At TKGS, students look forward to a day of learning, accompanied by their teachers embark on learning journey to places such as the Former Ford Factory, Kranji War Memorial to learn more about Singapore History. Learn about real world issues such as food security and how Singapore overcomes many of her constraints. Students have visited urban farms and learned how our farms in Singapore employ high-tech farming methods to grow crops. Interactive workshops are also organized for students to expand their learning beyond the textbooks. Students attended Financial Literacy workshops to gain deeper perspective on the value of money and its influence on people making personal financial choices. Speakers from varied background such as lawyers, environmentalist, yoga trainers were shared their perspectives on financial management. Students gained valuable insights through these sharing.</p>
-</td>
 </tr>
 <tr>
 <td style="width: 50%;">
