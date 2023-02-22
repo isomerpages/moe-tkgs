@@ -2,6 +2,7 @@ collections:
   admin:
     output: true
     order:
+      - test CCA.md
       - test.md
       - 2020.md
       - School Calendars & Events.md
