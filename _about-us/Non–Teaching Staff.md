@@ -115,7 +115,7 @@ description: ""
 <tr>
 <td>Ms Jane Lau</td>
 <td>Librarian</td>
-<tr>
+</tr>
 <td style="text-align: center;" colspan="2"><strong>AED Consellors</strong></td>
 <tr>
 	<td> Ms Tang Yuin Kay</td>
