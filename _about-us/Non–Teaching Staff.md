@@ -4,6 +4,7 @@ permalink: /about-us/non-teaching-staff/
 description: ""
 ---
 <img style="width: 90%;" src="/images/nts.jpg" /><br>
+<p style="text-align: center;"><em>To contact the Non-Teaching Staff via email, please send to:&nbsp;<a href="mailto:tkgs@moe.edu.sg"><strong>tkgs@moe.edu.sg</strong></a></em></p>
 <table>
 <tbody>
 <tr>
@@ -130,4 +131,3 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p style="text-align: center;"><em>To contact the Non-Teaching Staff via email, please send to:&nbsp;<a href="mailto:tkgs@moe.edu.sg"><strong>tkgs@moe.edu.sg</strong></a></em></p>
