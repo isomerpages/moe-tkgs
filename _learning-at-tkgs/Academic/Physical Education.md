@@ -83,7 +83,6 @@ third_nav_title: Academic
 <li>Inter-Class Games</li>
 <li>Sec 3 MOE-OBS Camp</li>
 	</ul>
-</div>
 	</td>
 	</tr>
 </tbody>
