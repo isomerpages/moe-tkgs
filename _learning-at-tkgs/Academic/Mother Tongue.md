@@ -9,7 +9,7 @@ third_nav_title: Academic
 <h4><strong>Learning Outcomes</strong></h4>
 <p>The TKGS Mother Tongue Department aims to be a bridge connecting our students to their Mother Tongue Language. As the students embark on their journey to become effective communicators of their Mother Tongue in both written and spoken forms, they achieve a deeper appreciation of the rich culture, history and values of their Mother Tongue. Turn on screen reader support.</p>
 <h4><strong>Key Programmes</strong></h4>
-<table style= "width: 100%;" border="1">
+<table style= "width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;">
