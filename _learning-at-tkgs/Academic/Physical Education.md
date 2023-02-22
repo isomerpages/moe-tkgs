@@ -69,7 +69,7 @@ third_nav_title: Academic
 </td>
 </tr>
 <td style="width: 50%;">
-<h4><strong>Key Events</strong></h4
+	<h4><strong>Key Events</strong></h4>
 <div>
 	<p>The PE Curriculum is also supported with the following events:</p>
 <ul>
