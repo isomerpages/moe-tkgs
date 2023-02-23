@@ -4,6 +4,7 @@ permalink: /about-us/non-teaching-staff/
 description: ""
 ---
 <img style="width: 90%;" src="/images/nts.jpg" /><br>
+<p style="text-align: center;"><em>To contact the Non-Teaching Staff via email, please send to:&nbsp;<a href="mailto:tkgs@moe.edu.sg"><strong>tkgs@moe.edu.sg</strong></a></em></p>
 <table>
 <tbody>
 <tr>
@@ -114,7 +115,7 @@ description: ""
 <tr>
 <td>Ms Jane Lau</td>
 <td>Librarian</td>
-<tr>
+</tr>
 <td style="text-align: center;" colspan="2"><strong>AED Consellors</strong></td>
 <tr>
 	<td> Ms Tang Yuin Kay</td>
@@ -130,6 +131,3 @@ description: ""
 </tr>
 </tbody>
 </table>
-</tbody>
-</table>
-<p style="text-align: center;"><em>To contact the Non-Teaching Staff via email, please send to:&nbsp;<a href="mailto:tkgs@moe.edu.sg"><strong>tkgs@moe.edu.sg</strong></a></em></p>

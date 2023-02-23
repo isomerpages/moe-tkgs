@@ -3,7 +3,7 @@ title: Key Personnel
 permalink: /about-us/key-personnel/
 description: ""
 ---
-
+<h3><strong>School Management Committee</strong></h3>
 
 <img src="/images/SMC2023.png"><br>
 <table>
