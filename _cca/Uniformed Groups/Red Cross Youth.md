@@ -7,17 +7,32 @@ third_nav_title: Uniformed Groups
 <p>2021 started like how 2020 ended with COVID-19 continued to dish out many challenges, including having to halt CCA training and losing a lot of valuable time we needed to conduct lessons. Furthermore, we were unable to meet face to face to discuss upcoming events, and coupled with the tight deadlines, it was truly quite a struggle. However, we persevered, not letting these drawbacks hold us down as a unit. We are getting used to conducting lessons and training through zoom and google meet, adapting our lessons to cover as much as possible during each training, as well as using online platforms to discuss and complete projects, we pushed through and overcame them!</p>
 <p>Despite all the challenges, the year was still filled with many fun activities and virtual projects that gave us the opportunities to give back to our community, below are some of these activities:&nbsp;</p>
 <p style="text-align: right;"><strong>Jewel Soh (3/4)</strong></p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
+
+<table>
+	<tbody><tr><th colspan="1">Teacher-in-Charge</th>
+</tr><tr>
+	<td rowspan="1">Dr Siti Munira Haidad Ali</td>
+ <td><a target="" href="mailto:siti_munira_haidad_ali@moe.edu.sg">siti_munira_haidad_ali@moe.edu.sg</a></td>
+	 	</tr>
 <tr>
-<td style="width: 50%;">
-<ul class="jekyllcodex_accordion">
-<li><strong><input id="accordion1" type="checkbox" /> <label for="accordion1">Teachers-in-Charge</label></strong>
-<div>
-<table class="iveo_table ives_tab_green ive_eobj_left">
-<tbody>
+	<td rowspan="1">Mr Indra Yu Jun Qi</td>
+ <td><a target="" href="mailto:indra_yu_jun_qi@moe.edu.sg">indra_yu_jun_qi@moe.edu.sg</a></td>
+	 	</tr>
+	</tbody></table>
+<br>
+<table>
+	<tbody><tr><th colspan="1">CCA Schedule</th>
+</tr><tr>
+	<td rowspan="1"> Training Day / Time</td>
+<td>Wednesday<br>
+	3:15pm to 6:15pm</td>
+	 	</tr>
 <tr>
-<td>
+	<td rowspan="1">Training Venue</td>
+ <td rowspan="1">Parade Square</td>
+	</tr>
+</tbody></table>
+
 <p style="text-align: center;"><strong>Mrs Gunasagaran</strong><br /><a href="mailto:gunasagaran_a@moe.edu.sg" target="">gunasagaran_a@moe.edu.sg</a></p>
 <p style="text-align: center;"><strong>Dr Siti Munira Haidad Ali</strong><br /><a href="mailto:siti_munira_haidad_ali@moe.edu.sg" target="">siti_munira_haidad_ali@moe.edu.sg</a></p>
 </td>
