@@ -41,7 +41,7 @@ You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programme
 		</tr>
 		<tr>
 			<td style="vertical-align: middle;" rowspan="0">Respectful 
-			<br>Relationships & Safety</td>
+			<br>Relationships &amp; Safety</td>
 			<td style="vertical-align: middle;">Steady or Not Lesson 1 <br>(60 mins)</td>
 			<td style="text-align: center;">This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.</td>
 			<td style="text-align: center;">·&nbsp;&nbsp;recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>
@@ -79,7 +79,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 		</tr>
 		<tr>
 			<td style="vertical-align: middle;" rowspan="0">Respectful 
-			<br>Relationships & Safety</td>
+			<br>Relationships &amp; Safety</td>
 <td style="vertical-align: middle;">A Role for Everyone<br>Lesson 1<br>(60 mins)</td>
 <td style="text-align:center;">This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.<br>Students learn to focus on their personal strengths to pursue their interests and build their self- confidence.<br>Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.</td>
 <td style="text-align:center;">·&nbsp;&nbsp;know that one’s understanding of gender roles should not be limited by gender stereotypes<br>
@@ -116,7 +116,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 		</tr>
 		<tr>
 			<td style="vertical-align: middle;" rowspan="0">Respectful 
-			<br>Relationships & Safety</td>
+			<br>Relationships &amp; Safety</td>
 <td style="vertical-align: middle;">Love Yourself, Love Others<br>Lesson 1A<br>
 (60 mins)</td>
 <td style="text-align:center;">This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship.</td>
@@ -161,7 +161,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 		</tr>
 		<tr>
 			<td style="vertical-align: middle;" rowspan="0">Respectful 
-			<br>Relationships & Safety</td>
+			<br>Relationships &amp; Safety</td>
 <td style="vertical-align: middle;">Levelling the Ground<br> Lesson 1<br>
 (60 mins)</td>
 <td style="text-align:center;">This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.</td>
@@ -216,6 +216,7 @@ Lesson 4<br>(60 mins)</td>
 			<td style="text-align: center;"><strong>Time Period<br>
 (e.g. Term 3 Week 9)</strong></td>
 </tr>
+		<tr>
 		<td>Mass Talk by HPB appointed vendor</td>
 <td>* Awareness of the different STIs and HIV/AIDS<br>
 * Modes of transmission<br>
