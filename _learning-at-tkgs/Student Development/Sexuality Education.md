@@ -31,6 +31,7 @@ You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programme
 
 <p style="text-align: center;"><strong>2023 Sexuality Education Lessons in CCE 2021</strong></p>
 <p style="text-align: center;"><strong><u>Secondary 1</u></strong></p>
+<table border="1">
 <table>
 	<tbody>
 		<tr>
