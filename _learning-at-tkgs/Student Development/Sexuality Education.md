@@ -107,7 +107,8 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 </table>
 <table>
 <tbody>
-<p style="text-align: center;"><strong><u>Secondary 3</u></strong>	
+	<tr>
+	<p style="text-align: center;"><strong><u>Secondary 3</u></strong></p>
 <td style="text-align: center;"><strong>Unit</strong></td>
 			<td style="text-align: center;"><strong>Lesson Title / Duration</strong></td>	
 			<td style="text-align: center;"><strong>Lesson Overview</strong></td>
