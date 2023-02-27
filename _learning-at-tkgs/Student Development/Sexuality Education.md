@@ -64,6 +64,7 @@ You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programme
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
 				<td style="text-align:center;">·&nbsp;&nbsp;understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>·&nbsp;&nbsp;recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</td>
 				<td style="vertical-align: middle;">Term 3 Week 8/<br>Term 3 Week 9</td>
+		</tr>
 	</tbody>
 	</table>
 	<p style="text-align: center;"><strong><u>Secondary 2</u></strong>
@@ -99,15 +100,29 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <td style="text-align:center;">This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.</td>
 <td style="text-align:center;">·&nbsp;&nbsp;recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br>
 	·&nbsp;&nbsp; recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
-<td style="vertical-align: middle;">Term 3 Week 8</td>
-	</tr>
-		<tr>
-			<td style="vertical-align: middle;" rowspan="0">Respectful 
-			<br>Relationships & Safety</td>
-<td style="vertical-align: middle;"></td>
-<td style="text-align:center;"></td>
-<td style="text-align:center;"></td>
-<td style="vertical-align: middle;"></td>
 </tr>
 </tbody>
 </table>
+<table>
+<tbody>
+<p style="text-align: center;"><strong><u>Secondary 3</u></strong>	
+<td style="text-align: center;"><strong>Unit</strong></td>
+			<td style="text-align: center;"><strong>Lesson Title / Duration</strong></td>	
+			<td style="text-align: center;"><strong>Lesson Overview</strong></td>
+			<td style="text-align: center;"><strong>Lesson Objectives</strong><br>At the end of the lesson, students will be able to:</td>
+			<td style="text-align: center;"><strong>Time Period<br>(e.g.Term 1 Week 2)</strong></td>
+		</tr>
+		<tr>
+			<td style="vertical-align: middle;" rowspan="0">Respectful 
+			<br>Relationships & Safety</td>
+<td style="vertical-align: middle;">Love Yourself, Love Others<br>Lesson 1A<br>
+(60 mins)</td>
+<td style="text-align:center;">This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship.</td>
+<td style="text-align:center;">·&nbsp;&nbsp;know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline
+<br>
+·&nbsp;&nbsp;understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours
+<br>
+·&nbsp;&nbsp;recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship</td>
+<td style="vertical-align: middle;">Term 3 Week 6</td>
+</tr>
+<tr>
