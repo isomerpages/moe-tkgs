@@ -21,7 +21,6 @@ third_nav_title: Uniformed Groups
  <td><a target="" href="mailto:indra_yu_jun_qi@moe.edu.sg">indra_yu_jun_qi@moe.edu.sg</a></td>
 	 	</tr>
 	</tbody></table>
-<br>
 <table>
 	<tbody><tr><th colspan="1">CCA Schedule</th>
 </tr><tr>
