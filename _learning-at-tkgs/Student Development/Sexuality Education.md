@@ -207,7 +207,7 @@ Lesson 4<br>(60 mins)</td>
 <p><h4><strong>eTeens Programme:</strong></h4></p>
 <p>8.&nbsp;&nbsp;eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.</p>
 <p>9.&nbsp;&nbsp;Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</p>
-<p><h4><strong>At Tanjong Katong Girls’ School, the eTeens programme will be implemented as follows in 2023:</strong></h4></p>
+<p><h4><strong>At Tanjong Katong Girls’ School, the eTeens programme will be implemented as follows in 2023:</strong></h4></p><p><h4><strong>At Tanjong Katong Girls’ School, the eTeens programme will be implemented as follows in 2023:</strong></h4></p>
 <table>
 	<tbody>
 		<tr>
@@ -231,3 +231,10 @@ Lesson 4<br>(60 mins)</td>
 	</tr>
 	</tbody>
 	</table>
+	<p><h4><strong>Information for Parents</strong></h4></p>
+	<p>10. &nbsp;&nbsp;Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
+	<p>11. &nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. <br>
+	<a href="https://go.gov.sg/2023-tkgs-sed-opt-out">https://go.gov.sg/2023-tkgs-sed-opt-out</a>&nbsp;The completed form is to be submitted by 31/01/2023.</p>
+	<p>12. &nbsp;&nbsp; Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form.<br>
+	<a href="https://go.gov.sg/2023-tkgs-eteens-opt-out">https://go.gov.sg/2023-tkgs-eteens-opt-out</a>&nbsp;The completed form is to be submitted by 31/01/2023.</p>
+	<p>13. &nbsp;&nbsp;Parents can contact the school at Tel: + 65 6344 1593 or tkgs@moe.edu.sg for discussion or to seek clarification about the school’s sexuality education programme.</p>
