@@ -40,7 +40,7 @@ third_nav_title: Visual & Performing Arts
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
- <td rowspan="1"></td>
+ <td rowspan="1">Various Music Rooms</td>
 	</tr>
 </tbody>
 </table>
