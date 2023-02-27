@@ -69,3 +69,45 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 	<p style="text-align: center;"><strong><u>Secondary 2</u></strong>
 <table>
 	<tbody>
+		<td style="text-align: center;"><strong>Unit</strong></td>
+			<td style="text-align: center;"><strong>Lesson Title / Duration</strong></td>	
+			<td style="text-align: center;"><strong>Lesson Overview</strong></td>
+			<td style="text-align: center;"><strong>Lesson Objectives</strong><br>At the end of the lesson, students will be able to:</td>
+			<td style="text-align: center;"><strong>Time Period<br>(e.g.Term 1 Week 2)</strong></td>
+		</tr>
+		<tr>
+			<td style="vertical-align: middle;" rowspan="0">Respectful 
+			<br>Relationships & Safety</td>
+<td style="vertical-align: middle;">A Role for Everyone<br>Lesson 1<br>(60 mins)</td>
+<td style="text-align:center;">This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.<br>Students learn to focus on their personal strengths to pursue their interests and build their self- confidence.<br>Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.</td>
+<td style="text-align:center;">·&nbsp;&nbsp;know that one’s understanding of gender roles should not be limited by gender stereotypes<br>
+·&nbsp;&nbsp;develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>
+·&nbsp;&nbsp;understand what sexual orientation entails</td>
+<td style="vertical-align: middle;">Term 3 Week 2</td>
+	</tr>
+	<tr>
+	<td style="vertical-align: middle;">Online Safety Challenge<br>Lesson 2A<br>
+(60 mins)</td>
+<td style="text-align:center;">This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety.<br>
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+<td style="text-align:center;">·&nbsp;&nbsp;recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
+<td style="vertical-align: middle;">Term 3 Week 2/Term 3 Week 3<br></td>
+	</tr>
+		<tr>
+	<td style="vertical-align: middle;">Do I or Don’t I<br>Lesson 2B<br>
+(60 mins)</td>
+<td style="text-align:center;">This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.</td>
+<td style="text-align:center;">·&nbsp;&nbsp;recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br>
+	·&nbsp;&nbsp; recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
+<td style="vertical-align: middle;">Term 3 Week 8</td>
+	</tr>
+		<tr>
+			<td style="vertical-align: middle;" rowspan="0">Respectful 
+			<br>Relationships & Safety</td>
+<td style="vertical-align: middle;"></td>
+<td style="text-align:center;"></td>
+<td style="text-align:center;"></td>
+<td style="vertical-align: middle;"></td>
+</tr>
+</tbody>
+</table>
