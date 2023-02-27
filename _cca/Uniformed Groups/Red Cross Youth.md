@@ -23,7 +23,8 @@ third_nav_title: Uniformed Groups
 	</tbody></table>
 <table>
 	<tbody><tr><th colspan="1">CCA Schedule</th>
-</tr><tr>
+</tr>
+		<tr>
 	<td rowspan="1"> Training Day / Time</td>
 <td>Wednesday<br>
 	3:15pm to 6:15pm</td>
