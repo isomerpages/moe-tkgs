@@ -237,4 +237,4 @@ Lesson 4<br>(60 mins)</td>
 	<a href="https://go.gov.sg/2023-tkgs-sed-opt-out">https://go.gov.sg/2023-tkgs-sed-opt-out</a>&nbsp;The completed form is to be submitted by 31/01/2023.</p>
 	<p>12. &nbsp;&nbsp; Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form.<br>
 	<a href="https://go.gov.sg/2023-tkgs-eteens-opt-out">https://go.gov.sg/2023-tkgs-eteens-opt-out</a>&nbsp;The completed form is to be submitted by 31/01/2023.</p>
-	<p>13. &nbsp;&nbsp;Parents can contact the school at Tel: + 65 6344 1593 or tkgs@moe.edu.sg for discussion or to seek clarification about the school’s sexuality education programme.</p>
+	<p>13. &nbsp;&nbsp;Parents can contact the school at Tel: + 65 6344 1593 or <a href="mailto:tkgs@moe.edu.sg">tkgs@moe.edu.sg</a> for discussion or to seek clarification about the school’s sexuality education programme.</p>
