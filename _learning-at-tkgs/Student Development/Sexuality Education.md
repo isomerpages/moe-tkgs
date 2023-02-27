@@ -30,7 +30,21 @@ You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programme
 
 <p style="text-align: center;"><strong>2023 Sexuality Education Lessons in CCE 2021</strong>
 <p style="text-align: center;"><strong><u>Secondary 1</u></strong>
-<p style="text-align: center;"><h4><u>Secondary 1</u></h4></p>
+<table>
+	<tbody>
+		<tr>
+			<td style="text-align: center;"><strong>Unit</strong></td>
+			<td style="text-align: center;"><strong>Lesson Title / Duration</strong></td>	
+			<td style="text-align: center;"><strong>Lesson Overview</strong></td>
+			<td style="text-align: center;"><strong>Lesson Objectives</strong><br>At the end of the lesson, students will be able to:</td>
+			<td style="text-align: center;"><strong>Time Period<br>(e.g.Term 1 Week 2)</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;" rowspan="3">Respectful 
+			<br>Relationships & Safety</td>
+			<td style="text-align: center;">Steady or Not Lesson 1 <br>(60 mins)</td>
+			<td style="text-align: center;">This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.</td>
+			<td style="text-align: center;"></td>
 <table width="0">
 <thead>
 <tr>
