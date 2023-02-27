@@ -126,3 +126,15 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <td style="vertical-align: middle;">Term 3 Week 6</td>
 </tr>
 <tr>
+	<td style="vertical-align: middle;">Mending a Broken Heart Lesson 1B<br>(60 mins)</td>
+<td style="text-align:center;">Students will learn how to manage their emotions if they were to face a breakup and know that relationship building involves person emotions and vulnerabilities, and changes and challenges. Students will also learn that a decision to end a relationship will have consequences on oneself and others, and that grief and loss due to rejections and broken relationships is normal and that one can recover from the experience. They will learn that there are healthy ways of coping with breakdowns in relationships and that family and friends are important pillars of support.</td>
+<td style="text-align:center;">·&nbsp;&nbsp;know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges
+<br>
+·&nbsp;&nbsp;know that a decision to end a relationship will have consequences on oneself and others
+<br>
+·&nbsp;&nbsp;know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience
+<br>
+·&nbsp;&nbsp;know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support</td>
+<td style="vertical-align: middle;">Term 3 Week 6</td>
+</tr>
+<tr>
