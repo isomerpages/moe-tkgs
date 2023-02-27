@@ -138,3 +138,9 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <td style="vertical-align: middle;">Term 3 Week 6</td>
 </tr>
 <tr>
+	<td style="vertical-align: middle;">When Respect Takes Centre Stage<br>Lesson 2<br>(60 mins)</td>
+<td style="text-align:center;">This lesson aims to help students think critically and make informed decisions in the contexts of sexting and voyeurism, and encourages students to exert a positive influence as a respectful online user. It will also deepen students’ convictions about making moral decisions by taking into consideration the impact of their decisions and actions on their well-being and safety, their loved ones, and the community. Students learn that they have a right and responsibility to be safe and protect their personal space and body. They also learn that sexting, voyeurism and other related sexual offences are never justifiable and they can seek help in times of need.</td>
+<td style="text-align:center;">·&nbsp;&nbsp;recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them
+<br>
+·&nbsp;&nbsp;understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</td>
+<td style="vertical-align: middle;">Term 3 Week 8</td>
