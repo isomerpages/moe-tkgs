@@ -57,6 +57,7 @@ You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programme
 	<td style="text-align:center;">This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self. <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
 	<td style="text-align:center;">·&nbsp;&nbsp;understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
 	<td style="vertical-align: middle;">Term 3 Week 6/<br>Term 3 Week 8</td>
+		</tr>
 			<tr>
 	<td style="vertical-align: middle;">More than Meets the Eye<br>Lesson 3<br>
 (60 mins)</td>
@@ -67,9 +68,10 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 		</tr>
 	</tbody>
 	</table>
-	<p style="text-align: center;"><strong><u>Secondary 2</u></strong>
+	<p style="text-align: center;"><strong><u>Secondary 2</u></strong></p>
 <table>
 	<tbody>
+		<tr>
 		<td style="text-align: center;"><strong>Unit</strong></td>
 			<td style="text-align: center;"><strong>Lesson Title / Duration</strong></td>	
 			<td style="text-align: center;"><strong>Lesson Overview</strong></td>
