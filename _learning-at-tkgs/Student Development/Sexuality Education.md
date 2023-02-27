@@ -19,12 +19,12 @@ third_nav_title: Student Development
 You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education">here</a>&nbsp;for more information on MOE Sexuality Education.
 <h4><strong>OVERVIEW OF TANJONG KATONG GIRLS’ SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2023</strong></h4>
 4. &nbsp;&nbsp;Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click here for more information on the scope of Sexuality Education in the school curriculum.
-<p>5. &nbsp&nbspThe subjects that incorporate topics on sexuality include:<br>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspa. Science<br>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspa. Character and Citizenship Education (CCE)</p>
+<p>5. &nbsp;&nbsp;The subjects that incorporate topics on sexuality include:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspa;. Science<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspa;. Character and Citizenship Education (CCE)</p>
 <p><b><u>Sexuality Education Lessons:</b></u></p><br>
-6. &nbsp&nbsp The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly.  Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.
-<p>7. &nbsp&nbspThrough the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
+6. &nbsp;&nbsp; The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly.  Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.
+<p>7. &nbsp;&nbsp;Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 </p>
 <p><h4><strong>At Tanjong Katong Girls’ School, the following lessons from the Sexuality Education Programme will be taught in 2023:</strong></h4></p>
 
@@ -44,8 +44,49 @@ You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programme
 			<br>Relationships & Safety</td>
 			<td style="text-align: center;">Steady or Not Lesson 1 <br>(60 mins)</td>
 			<td style="text-align: center;">This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.</td>
-			<td style="text-align: center;"></td>
-<table width="0">
+			<td style="text-align: center;">·&nbsp;&nbsp;recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>
+.&nbsp;&nbsp;recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>
+.&nbsp;&nbsp;recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>
+·&nbsp;&nbsp;understand what dating is, and recognise that the readiness and interest in dating vary among individuals</td>
+<td style="text-align: center;">Term 3 Week 5/<br>Term 3 Week 6></td>
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<table width="0">
 <thead>
 <tr>
 <td style="text-align: center;" width="112">
