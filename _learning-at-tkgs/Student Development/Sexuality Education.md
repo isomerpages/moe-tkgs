@@ -29,8 +29,8 @@ You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programme
 </p>
 <p><h4><strong>At Tanjong Katong Girls’ School, the following lessons from the Sexuality Education Programme will be taught in 2023:</strong></h4></p>
 
-<p style="text-align: center;"><strong>2023 Sexuality Education Lessons in CCE 2021</strong>
-<p style="text-align: center;"><strong><u>Secondary 1</u></strong>
+<p style="text-align: center;"><strong>2023 Sexuality Education Lessons in CCE 2021</strong></p>
+<p style="text-align: center;"><strong><u>Secondary 1</u></strong></p>
 <table>
 	<tbody>
 		<tr>
