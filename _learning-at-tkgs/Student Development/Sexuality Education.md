@@ -68,7 +68,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 	</tbody>
 	</table>
 	<p style="text-align: center;"><strong><u>Secondary 2</u></strong></p>
-<table>
+<table style="border-collapse: collapse;" border="1">
 	<tbody>
 		<tr>
 		<td style="text-align: center;"><strong>Unit</strong></td>
@@ -105,7 +105,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 </tbody>
 </table>
 <p style="text-align: center;"><strong><u>Secondary 3</u></strong></p>
-<table>
+<table style="border-collapse: collapse;" border="1">
 <tbody>
 	<tr>
 <td style="text-align: center;"><strong>Unit</strong></td>
@@ -150,7 +150,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 	</tbody>
 	</table>
 <p style="text-align: center;"><strong><u>Secondary 4</u></strong></p>
-	<table>
+<table style="border-collapse: collapse;" border="1">
 <tbody>
 	<tr>
 <td style="text-align: center;"><strong>Unit</strong></td>
