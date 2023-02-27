@@ -40,7 +40,7 @@ You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programme
 			<td style="text-align: center;"><strong>Time Period<br>(e.g.Term 1 Week 2)</strong></td>
 		</tr>
 		<tr>
-			<td style="text-align: center;" rowspan="0">Respectful 
+			<td style="vertical-align: middle;" rowspan="0">Respectful 
 			<br>Relationships & Safety</td>
 			<td style="text-align: center;">Steady or Not Lesson 1 <br>(60 mins)</td>
 			<td style="text-align: center;">This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.</td>
@@ -51,43 +51,17 @@ You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programme
 <td style="text-align: center;">Term 3 Week 5/<br>Term 3 Week 6></td>
 		</tr>
 <tr>
-	<td style="text-align:center;"></td>
-			
+	<td style="text-align:center;">Being Aware, Being Safe
+<br>Lesson 2<br>(60 mins)</td>
+	<td style="text-align:center;">This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self. <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+	<td style="text-align:center;">·&nbsp;&nbsp;understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
+	<td style="text-align:center;">Term 3 Week 6/<br>Term 3 Week 8</td>
+			<tr>
+	<td style="text-align:center;">More than Meets the Eye<br>Lesson 3<br>
+(60 mins)</td>
+				<td style="text-align:center;">This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours.<br>
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+				<td style="text-align:center;">·&nbsp;&nbsp;understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>·&nbsp;&nbsp;recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</td>
+				<td style="text-align:center;">Term 3 Week 8/<br>Term 3 Week 9</td>
 	</tbody>
 	</table>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
