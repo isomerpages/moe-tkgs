@@ -144,3 +144,6 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <br>
 ·&nbsp;&nbsp;understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</td>
 <td style="vertical-align: middle;">Term 3 Week 8</td>
+	</tr>
+	</tbody>
+	</table>
