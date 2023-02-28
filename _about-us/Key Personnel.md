@@ -144,7 +144,8 @@ target="">	lim_kian_long@moe.edu.sg </a></td>
 </tr>
 </tbody>
 </table>
-
+<p></p>
+<img src="/images/Teacher_Leader2023.png">
 <h3><strong>Teacher Leaders</strong></h3>
 <table>
 <tbody>
