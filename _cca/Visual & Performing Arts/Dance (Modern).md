@@ -4,6 +4,23 @@ permalink: /cca/visual-n-performing-arts/dance-modern/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
+<head>
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color: #F5F5DC;}
+</style>
+</head>
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT0iJq9-JCm160irRhr8Bo3-zgyHmCO6Tcms2FGmTVlR405SWVsOwU2gp9QxqK6K5UT8YIVZQ0mOluB/embed?start=false&loop=false&delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true"></iframe>
 
 <p>Dance Club was formed in 2004, consisting of Ballet and Modern dance groups. Members are allowed to learn alongside and from each other during their weekly trainings. Opportunities are also given to explore different dance types and participation in various school and public performances. After four years in TKGS Dance Club, all dancers acquire good psychomotor skills, varying repertoire of dance techniques and a good degree of leadership and organizational skills.&nbsp;</p>
@@ -21,6 +38,8 @@ third_nav_title: Visual & Performing Arts
 	<td rowspan="1">Ms Yeo Ling Seem</td>
  <td><a target="" href="mailto:yeo_ling_seem@moe.edu.sg">yeo_ling_seem@moe.edu.sg</a></td>
 	 	</tr>
+	</tbody>
+	</table>
 <table>
 	<tbody><tr><th colspan="1">CCA Schedule</th>
 </tr><tr>
