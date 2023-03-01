@@ -4,6 +4,25 @@ permalink: /cca/clubs-n-service-boards/literary-n-debating-society/
 description: ""
 third_nav_title: Clubs and Service Boards
 ---
+<head>
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color: #F5F5DC;}
+</style>
+</head>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRTXD45GP6ruwsvXZz_jDR2A3pyFmOiqsqAGxIjkWGvZwOLkBtQWJL5ETlwcrgN3XE9i-XmtVf5ftoB/embed?start=false&loop=false&delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true"></iframe>
+
 <p>At the start of the year, the Literary members warmly welcomed Ms Cherlyn into the CCA, who also like us, share a love for the written word. The Literary members were privileged to have Ms Sheperdson, a young and budding Singaporean poet, teach us the art of writing good poems. We learnt how to make use of our surroundings to write interesting poems. This taught us that no matter where we are, it is always possible to write a poem. Through practicing the different skills she taught us, we were able to develop our interest in poetry.&nbsp;</p>
 <p>Natasha Bisht (3E6) and Faith Lee (2E3) took part in the recent Singapore Writers&rsquo; Festival which is a National Literary event organised by the National Arts Council. It is a multilingual literature festival that encourages intercultural dialogue by bringing together writers, thinkers and participants from Singapore and overseas. In addition, some of our members also took part in the Camp Lit workshop that was held virtually. Through this workshop, our members learnt about the art of creative writing.</p>
 <p>During CCA sessions, we often hold public speaking sessions. Topics range from current affairs to personal experiences. This enables members to build confidence and learn to think on the spot. Overall, the Literary Wing aims to improve members&rsquo; English oratorical and writing skills, while making CCA sessions fun and enjoyable.&nbsp;</p>
@@ -12,42 +31,28 @@ third_nav_title: Clubs and Service Boards
 <p>All this could not have been possible without the support of our coaches, coach Sudhi and coach Sanjana, and our teachers, Mdm Haryati, Ms Cheryln and Mr Leong. They have also worked tirelessly to provide us with a wide array of opportunities to develop into confident speakers by guiding us through competitions and making every single training session fun and enjoyable.&nbsp;</p>
 <p>To end the year with a bang, we organised a yearly camp where members from the Literary and Debate wings get to come together and have fun. During the day camp, members can interact with others from different levels by playing fun games that the LDS EXCO had planned. It is a time where we are able to learn new things together as a team.&nbsp;</p>
 <p style="text-align: right;"><strong>Claire Goh (3E4)</strong><br /><strong>Gracia Teo (3E4)</strong><br /><strong>Chua Hsui-Ting Erin (3E5)</strong><br /><strong>AAdhya Bhatia (3E3)</strong></p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;">
-<ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" />
-<p><strong>Teachers in Charge</strong></p>
-<div>
-<p style="text-align: center;"><strong>Mdm Haryati Hussin</strong><br /><a href="mailto:haryati_hussin@moe.edu.sg" target="">haryati_hussin@moe.edu.sg</a></strong></p>
-<p style="text-align: center;"><strong>Ms Cherlyn Tan Wei Yu</strong><br /><a href="mailto:cherlyn_tan_wei_yu@moe.edu.sg" target="">cherlyn_tan_wei_yu@moe.edu.sg</a></strong></p>
-</div>
-</li>
-</ul>
-</td>
-<td style="width: 50%;">
-<ul class="jekyllcodex_accordion">
-<li><input id="accordion2" type="checkbox" />
-<p><strong>CCA Schedule</strong></p>
-<div>
+
 <table>
-<tbody>
+	<tbody><tr><th colspan="1">Teacher-in-Charge</th>
+</tr><tr>
+	<td rowspan="1">Mdm Haryati Hussin</td>
+ <td><a target="" href="mailto:haryati_hussin@moe.edu.sg">haryati_hussin@moe.edu.sg</a></td>
+	 	</tr>
 <tr>
-<td style="text-align: center;"><strong>Training Venue</strong></td>
-<td style="text-align: center;"><strong>ISH Level 4</strong></td>
-</tr>
+	<td rowspan="1">Ms Cherlyn Tan Wei Yu</td>
+ <td><a target="" href="mailto:cherlyn_tan_wei_yu@moe.edu.sg">cherlyn_tan_wei_yu@moe.edu.sg</a></td>
+	 	</tr>
+	</tbody></table>
+<br>
+<table>
+	<tbody><tr><th colspan="1">CCA Schedule</th>
+</tr><tr>
+	<td rowspan="1"> Training Day / Time</td>
+<td>Wednesday<br>
+	3:15pm to 6:15pm</td>
+	 	</tr>
 <tr>
-<td style="text-align: center;"><strong>Training Day / Time</strong></td>
-<td style="text-align: center;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
-</div>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRTXD45GP6ruwsvXZz_jDR2A3pyFmOiqsqAGxIjkWGvZwOLkBtQWJL5ETlwcrgN3XE9i-XmtVf5ftoB/embed?start=false&loop=false&delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true"></iframe>
+	<td rowspan="1">Training Venue</td>
+ <td rowspan="1">Parade Square</td>
+	</tr>
+</tbody></table>
