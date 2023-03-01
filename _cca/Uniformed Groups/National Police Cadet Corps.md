@@ -37,6 +37,8 @@ tr:hover {background-color: #F5F5DC;}
 	<td rowspan="1">Mrs Boey-Seah Hui Loo</td>
  <td><a target="" href="mailto:seah_hui_loo@moe.edu.sg">seah_hui_loo@moe.edu.sg</a></td>
 	 	</tr>
+	</tbody>
+	</table>
 <br>
 <table>
 	<tbody><tr><th colspan="1">CCA Schedule</th>
