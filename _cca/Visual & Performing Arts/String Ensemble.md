@@ -4,6 +4,23 @@ permalink: /cca/visual-n-performing-arts/string-ensemble/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
+<head>
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color: #F5F5DC;}
+</style>
+</head>
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQFAPdYiyKaK_-3vZe9rxAPf5Dhyu3xRsHRjdrtZzOp6jV-XsiEf-r5oFvioMyIqUDrIQ70BoCJrmhr/embed?start=false&loop=false&delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true" ></iframe>
 
 <p>Established in 1998, the String Ensemble has grown steadily, from a very modest 10-member team to the current 40-strong ensemble.</p>
@@ -24,6 +41,8 @@ third_nav_title: Visual & Performing Arts
 	<td rowspan="1">Ms Yeo Ling Seem</td>
  <td><a target="" href="mailto:yeo_ling_seem@moe.edu.sg">yeo_ling_seem@moe.edu.sg</a></td>
 	 	</tr>
+	</tbody>
+	</table>
 <table>
 	<tbody><tr><th colspan="1">CCA Schedule</th>
 </tr><tr>
