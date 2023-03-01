@@ -29,8 +29,11 @@ tr:hover {background-color: #F5F5DC;}
 <p>Guided by the Choir's motto, "A Vibrant and United Choir", the Choir emphasizes character building and seeks to continue to scale greater heights by empowering every chorister through the pursuit of choral excellence. We warmly welcome anyone with a passion for singing and a desire to learn.</p>
 
 <table>
-	<tbody><tr><th colspan="1">Teacher-in-Charge</th>
-</tr><tr>
+	<tbody>
+		<tr>
+			<th colspan="1">Teacher-in-Charge</th>
+</tr>
+		<tr>
 	<td rowspan="1">Ms Tong Siok Theng </td>
  <td><a target="" href="mailto:tong_siok_theng@moe.edu.sg">tong_siok_theng@moe.edu.sg</a></td>
 	 	</tr>
@@ -45,8 +48,11 @@ tr:hover {background-color: #F5F5DC;}
 	</tbody>
 	</table>
 		<table>
-	<tbody><tr><th colspan="1">CCA Schedule</th>
-</tr><tr>
+	<tbody>
+		<tr>
+			<th colspan="1">CCA Schedule</th>
+</tr>
+		<tr>
 	<td rowspan="1"> Training Day / Time</td>
 <td>Wednesday & Friday<br>
 	3:30pm to 6:00pm
