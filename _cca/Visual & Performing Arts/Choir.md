@@ -42,6 +42,8 @@ tr:hover {background-color: #F5F5DC;}
 	<td rowspan="1">Mdm Chong Su Yee </td>
  <td><a target="" href="mailto:chong_su_yee@moe.edu.sg">chong_su_yee@moe.edu.sg</a></td>
 	 	</tr>
+	</tbody>
+	</table>
 		<table>
 	<tbody><tr><th colspan="1">CCA Schedule</th>
 </tr><tr>
