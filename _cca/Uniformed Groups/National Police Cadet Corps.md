@@ -4,6 +4,23 @@ permalink: /cca/uniformed-groups/national-police-cadet-corps/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+<head>
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color: #F5F5DC;}
+</style>
+</head>
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRednZaU-rtRF3dgrEIPIzA1P_igKs0EucvuBkxM0uDZzRVBX9Bs49TiulemoJMs0WQNepq6UmgjYVS/embed?start=false&loop=false&delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true"></iframe>
 
 <p>2021 is another fun-filled year for our committed members of TKGS NPCC. The cadets continue to earn their proficiency badges for the past months and participated in many activities. The cadets were quick to adapt to the new norms that came about due to the COVID-19 outbreak and displayed a high level of resilience while rising up to the challenge in their continuous show of commitment to the CCA.</p>
