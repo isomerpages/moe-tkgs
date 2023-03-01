@@ -12,11 +12,6 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/
-  - infobar:
-      title: Who are we?
-      subtitle: Youtube
-      url: https://youtu.be/DzRCKUi1UTg
-      button: Click here to find out
   - resources:
       title: TKGS Sparkling Moments
       button: More
