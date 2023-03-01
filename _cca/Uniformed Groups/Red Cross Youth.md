@@ -37,9 +37,11 @@ tr:hover {background-color: #F5F5DC;}
 	<td rowspan="1">Mr Indra Yu Jun Qi</td>
  <td><a target="" href="mailto:indra_yu_jun_qi@moe.edu.sg">indra_yu_jun_qi@moe.edu.sg</a></td>
 	 	</tr>
-	</tbody></table>
+	</tbody>
+</table>
 <table>
-	<tbody><tr><th colspan="1">CCA Schedule</th>
+	<tbody>
+		<tr><th colspan="1">CCA Schedule</th>
 </tr>
 		<tr>
 	<td rowspan="1"> Training Day / Time</td>
