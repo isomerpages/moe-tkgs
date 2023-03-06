@@ -43,7 +43,6 @@ tr:hover {background-color: beige;}
 	<td rowspan="1">Mdm Adela Chee</td>
  <td><a target="" href="mailto:ang_wee_jin@moe.edu.sg">ang_wee_jin@moe.edu.sg</a></td>
 	 	</tr>
-</tbody></table>
 <br>
 <table>
 	<tbody><tr><th colspan="1">CCA Schedule</th>

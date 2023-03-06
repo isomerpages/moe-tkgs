@@ -4,6 +4,23 @@ permalink: /cca/visual-n-performing-arts/choir/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
+<head>
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color: #F5F5DC;}
+</style>
+</head>
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT_5z2_tY9JvbxyIbInqdhvZOhoK7N4CcIqhfMaEBtmYjPEnlEYMxXMYY-XkT3ETjq_h-vo70J3QZSI/embed?start=false&loop=false&delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true"></iframe>
 
 <p>Under the baton of Ms Lim Ai Hooi, the Choir has obtained several notable awards and achievements both locally and internationally. It was awarded the highest accolade, Gold with Honours and the Certificate of Distinction, at the Singapore Youth Festival (SYF) Arts Presentation since 2009. Most recently, we clinched a Gold Award in the Open Category at in the 7th Winter Choral Festival (2016) in Hong Kong and a Distinction in SYF 2019, and performed at Esplanade for its Limelight programme, 2019.</p>
@@ -12,8 +29,11 @@ third_nav_title: Visual & Performing Arts
 <p>Guided by the Choir's motto, "A Vibrant and United Choir", the Choir emphasizes character building and seeks to continue to scale greater heights by empowering every chorister through the pursuit of choral excellence. We warmly welcome anyone with a passion for singing and a desire to learn.</p>
 
 <table>
-	<tbody><tr><th colspan="1">Teacher-in-Charge</th>
-</tr><tr>
+	<tbody>
+		<tr>
+			<th colspan="1">Teacher-in-Charge</th>
+</tr>
+		<tr>
 	<td rowspan="1">Ms Tong Siok Theng </td>
  <td><a target="" href="mailto:tong_siok_theng@moe.edu.sg">tong_siok_theng@moe.edu.sg</a></td>
 	 	</tr>
@@ -25,11 +45,16 @@ third_nav_title: Visual & Performing Arts
 	<td rowspan="1">Mdm Chong Su Yee </td>
  <td><a target="" href="mailto:chong_su_yee@moe.edu.sg">chong_su_yee@moe.edu.sg</a></td>
 	 	</tr>
+	</tbody>
+	</table>
 		<table>
-	<tbody><tr><th colspan="1">CCA Schedule</th>
-</tr><tr>
+	<tbody>
+		<tr>
+			<th colspan="1">CCA Schedule</th>
+</tr>
+		<tr>
 	<td rowspan="1"> Training Day / Time</td>
-<td>Wednesday & Friday<br>
+<td>Wednesday &amp; Friday<br>
 	3:30pm to 6:00pm
 		</td>
 	 	</tr>

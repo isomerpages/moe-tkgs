@@ -1,11 +1,12 @@
 ---
 title: GCT NextGen Award
 permalink: /tkgs-sparkling-moments/sparkling-moment/gct-nextgen-award/
-date: 2023-01-02
+date: 2022-01-20
 layout: post
 description: ""
 image: ""
 ---
+
 <table style="border-collapse: collapse; width: 90%;" border="1">
 <tbody>
 <tr>

@@ -1,11 +1,12 @@
 ---
 title: 69th Speech & Prize–Giving Ceremony and School Official Opening Ceremony 2022
 permalink: /sparkling-moment/69th-speech-n-prize-giving-ceremony-and-school-official-opening-ceremony-2022/
-date: 2023-01-02
+date: 2022-05-02
 layout: post
 description: ""
 image: ""
 ---
+
 <img style="width: 33%;" src="/images/22e.png" />
 <p style="text-align: center;">Click&nbsp;<a href="https://drive.google.com/file/d/1TO08_sfLNmzKE6g4hOfdU0JwH4EkYaUo/view?usp=sharing" target="_blank" rel="noopener">here</a>&nbsp;to view the programme booklet</p>
 <p>The 69th Speech &amp; Prize-Giving Ceremony and School Official Opening Ceremony 2022 was held from 11 to 16 April 2022. This ceremony themed New Hopes, Unbounded marks the beginning of a new chapter in TKGS&rsquo; history. As we move out of the COVID-19 pandemic into the endemic stage, we hope to be COVID-resilient. New Hopes, Unbounded encourages the spirit of positivity, optimism, resilience, abundant courage, and creative thinking amongst the TKGS family. Anchored in service and leadership, TKGS is now at the forefront of designing and enhancing programmes to meet the 21st century needs of the students, leveraging technology and the improved physical facilities of the school to allow learning to take place in the &ldquo;big classroom&rdquo;, beyond the four walls of the classroom. This big classroom concept also extends to the Mountbatten community where TKGians can keep an observant eye to see the needs of others, hold an attentive heart to care about community issues and have the courage to act on social issues. This will enable them to be leaders of character with the impassioned spirit to serve common good and live out the ideals encapsulated in the school song which is to &ldquo;serve in honour and work for selfless fame, for credit of our country and glory of her name.&rdquo; This story of the extraordinary journey of TKGS past and present was celebrated through the official school opening and launch of the TKGS Heritage Gallery on 16 April 2022.</p>

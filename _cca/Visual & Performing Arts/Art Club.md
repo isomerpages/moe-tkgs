@@ -4,6 +4,23 @@ permalink: /cca/visual-n-performing-arts/art-club/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
+<head>
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color: #F5F5DC;}
+</style>
+</head>
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTlfcd2VNdxCccTM_FOnObkvAP3O1XXYLmPt_fAgKbmHTyxgmjiva3i5RIJwEsq-8NvVYHjY4XCbRxB/embed?start=false&loop=false&delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true"></iframe>
 
 <p>2021 has been a fruitful year for us as we embarked on new art experiences, allowing the art club members an opportunity to play around with various new art mediums.</p>
@@ -33,6 +50,8 @@ third_nav_title: Visual & Performing Arts
 	 <a target="" href="mailto:bernice_lau_li_yuan@moe.edu.sg">bernice_lau_li_yuan@moe.edu.sg</a>
 	</td>
 	 	</tr>
+	</tbody>
+	</table>
 <table>
 	<tbody>
 		<tr>

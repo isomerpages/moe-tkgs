@@ -4,6 +4,23 @@ permalink: /cca/visual-n-performing-arts/symphonic-band/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
+<head>
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color: #F5F5DC;}
+</style>
+</head>
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRTJ_cbqgFG9lMYPz3z8a-xs8ZZifLwmi8RnncEYpe2Qey6PUwSFbz_RnTeZRqjYRLx8Jwfis7ciSZm/embed?start=false&loop=false&delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true"></iframe>
 
 <p>The year kicked off with hectic preparations for the Singapore Youth Festival Arts Presentation (SYFAP). To adhere to Safe Management Measures (SMM) and the cap of less than 30 people per band, we had to regroup and form two bands - Band A and Band B; where Band A comprised mainly the seniors while Band B the junior members. The bands presented &ldquo;Triumphal March&rdquo; from Aida and &ldquo;Nabucco&rdquo;, both by Giuseppe Verdi.&nbsp;</p>
@@ -32,6 +49,8 @@ third_nav_title: Visual & Performing Arts
 	<td rowspan="1">Mdm Ng Suan Ching</td>
  <td><a target="" href="mailto:ng_suan_ching@moe.edu.sg">ng_suan_ching@moe.edu.sg</a></td>
 	 	</tr>
+	</tbody>
+	</table>
 <table>
 	<tbody><tr><th colspan="1">CCA Schedule</th>
 </tr><tr>

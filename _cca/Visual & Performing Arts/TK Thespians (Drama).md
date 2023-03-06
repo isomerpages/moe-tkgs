@@ -4,6 +4,23 @@ permalink: /cca/visual-n-performing-arts/tk-thespians-drama/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
+<head>
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color: #F5F5DC;}
+</style>
+</head>
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQeENgarNTHc1V3AFdHHl5j9t2S5dHgVeNGdfka_Z5-SJJv2M_nxoSaPG0Bajkq4pLFVojCVtwSZ3SX/embed?start=false&loop=false&delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true"></iframe>
 
 <p>TK Thespians (Drama) are a vibrant community of creative and talented students who are passionate about the dramatic arts. Members attend weekly training sessions and workshops conducted by experienced and qualified drama teachers and instructor to develop their acting skills and the use of voice, movement and improvisation techniques.</p>
@@ -28,6 +45,8 @@ third_nav_title: Visual & Performing Arts
 	<td rowspan="1">Ms Song Sharizah Dianah</td>
  <td><a target="" href="mailto:song_xiufen_sharizah_dianah_ismail@moe.edu.sg">song_xiufen_sharizah_dianah_ismail@moe.edu.sg</a></td>
 	 	</tr>
+	</tbody>
+	</table>
 <table>
 	<tbody><tr><th colspan="1">CCA Schedule</th>
 </tr><tr>

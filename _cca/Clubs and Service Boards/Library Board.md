@@ -4,6 +4,23 @@ permalink: /cca/clubs-n-service-boards/library-board/
 description: ""
 third_nav_title: Clubs and Service Boards
 ---
+<head>
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color: #F5F5DC;}
+</style>
+</head>
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSmsy4YHH8nNCsE-9EZjhzxJ8QZKpujjCTWM0OljbJpLGQphB5EG86zbCzAWdD5H5GEcFafY9ySbdEF/embed?start=false&loop=false&delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true"></iframe>
 
 <p dir="ltr">The Library Board aims to promote the love for reading and writing and provides members with various opportunities to participate in competitions to hone their writing and information literacy skills. We forge close bonds with one another by sharing our love for books and reading.</p>
@@ -25,6 +42,8 @@ third_nav_title: Clubs and Service Boards
 	<td rowspan="1">Ms Jane Lau</td>
  <td>School Librarian</td>
 	 	</tr>
+	</tbody>
+	</table>
 <table>
 	<tbody><tr><th colspan="1">CCA Schedule</th>
 </tr><tr>

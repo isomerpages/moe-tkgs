@@ -72,7 +72,8 @@ description: ""
 <tr>
 <td style="text-align: center;">
 <p><strong><a href="/resources/announcements/financial-assistance-scheme-fas-2023" target="">Financial Assistance Scheme 2023</a></strong></p>
-</td>
+	</td>
+	</tr>
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Useful Links</strong></h4>
@@ -91,7 +92,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%;"><br><a href="https://www.family.org.sg/"><img style="width: 85%;" src="/images/pr7.png"></a></td>
-<td style="width: 33.3333%;"><br><a href="https://campaigns.family.org.sg/every-season-matters/"><img style="width: 85%;" src="/images/pr8.png"></a><p style="text-align: center;"><a href="https://campaigns.family.org.sg/every-season-matters/"><span style="text-decoration: underline;"><strong>Every Season Matters</strong></span></p></a></td>
+<td style="width: 33.3333%; text-align: center;"><br>	<a href="https://campaigns.family.org.sg/every-season-matters/"><img style="width: 85%;" src="/images/pr8.png"></a><a href="https://campaigns.family.org.sg/every-season-matters/"><span style="text-decoration: underline;"><strong>Every Season Matters</strong></span></a></td>
 <td style="width: 33.3333%;"><br><a href="https://drive.google.com/file/d/1pk1dVhntYEZbAzM9cNXioveGATTfD8bY/view"><img style="width: 75%;" src="/images/pr9.png"></a></td>
 </tr>
 <tr>

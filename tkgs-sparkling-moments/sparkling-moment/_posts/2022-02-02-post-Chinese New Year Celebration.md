@@ -1,11 +1,12 @@
 ---
 title: Chinese New Year Celebration
 permalink: /tkgs-sparkling-moments/sparkling-moment/chinese-new-year-celebration/
-date: 2023-01-02
+date: 2022-02-02
 layout: post
 description: ""
 image: ""
 ---
+
 <img style="width: 80%;" src="/images/22w.png" />
 <p>This year, we celebrated our Chinese New Year with the elderlies over at Thong Teck Home. Our activities&nbsp;include Bingo game with the elderly folks, making of hampers, Chinese knots and CNY cards for them and many more!</p>
 <p>Here are some of the highlights taken during the celebration.</p>

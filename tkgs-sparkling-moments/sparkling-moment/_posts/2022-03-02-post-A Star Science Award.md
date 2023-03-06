@@ -1,11 +1,12 @@
 ---
 title: A Star Science Award
 permalink: /tkgs-sparkling-moments/sparkling-moment/a-star-science-award/
-date: 2023-01-02
+date: 2022-03-02
 layout: post
 description: ""
 image: ""
 ---
+
 <img style="width: 50%;" src="/images/star.jpg" />
 <p>We are proud to announce that our secondary 3 students, Eleanor Tham Lemon and Goh Li Xin have been awarded the A*STAR Science Award.</p>
 <p>The A*STAR Science Award (Upper Secondary) is only open to Singaporean Secondary 3 students who show strong aptitude and interest in science and mathematics to encourage and nurture their potential.</p>

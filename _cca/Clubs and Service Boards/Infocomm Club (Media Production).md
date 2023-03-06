@@ -4,6 +4,23 @@ permalink: /cca/clubs-n-service-boards/infocomm-club-media-production/
 description: ""
 third_nav_title: Clubs and Service Boards
 ---
+<head>
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color: #F5F5DC;}
+</style>
+</head>
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTb641Zccr6iV0wyEuKUGHDHjM_OE2EXXsgijADECNAzrbqQWpk8Ts48FleEDPuqKfrC1q_9o6hah9T/embed?start=false&loop=false&delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true"></iframe>
 
 <p>This year has been full of ups and downs for Infocomm Club. We started off the year as usual with Audio-Visual (AV) training where some of our Sec 3 members stepped up and volunteered to teach the juniors. Due to the Safe Management Measures (SMM) at the beginning of the year, we were not able to have external trainers come in for the various courses. Instead, the Exco members organised a mini video competition where members were put in groups to plan, film and edit their own videos.</p>
@@ -23,6 +40,8 @@ third_nav_title: Clubs and Service Boards
 	<td rowspan="1">Ms Vina Ng Bei Ling</td>
  <td><a target="" href="mailto:ng_bei_ling_vina@moe.edu.sg">ng_bei_ling_vina@moe.edu.sg</a></td>
 	 	</tr>
+	</tbody>
+	</table>
 <table>
 	<tbody><tr><th colspan="1">CCA Schedule</th>
 </tr><tr>
