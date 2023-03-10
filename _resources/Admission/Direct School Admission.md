@@ -19,7 +19,7 @@ third_nav_title: Admission
 			<th style="text-align: center">CCA</th>
 		</tr>
 		<tr>
-			<td style= "vertical-align: middle;" rowspan="4"><center>Performing <br>Arts</center></td>
+			<td style= "vertical-align: middle;" rowspan="4">Performing <br>Arts</td>
 			<td style= "text-align: center">Concert Band</td>
 		</tr>
 		<tr>
@@ -32,7 +32,7 @@ third_nav_title: Admission
 			<td style= "text-align: center">String Ensemble</td>
 		</tr>
 		<tr>
-			<td style="vertical-align: middle;" rowspan="6"><center>Sports</center></td>
+			<td style="vertical-align: middle;" rowspan="6">Sports</td>
 			<td style= "text-align: center">Badminton</td>
 		</tr>
 		<tr>
@@ -51,13 +51,12 @@ third_nav_title: Admission
 			<td style= "text-align: center">Softball</td>
 		</tr>
 		<tr>
-			<td><center>Music</center></td>
+			<td>Music</td>
 			<td style= "text-align: center">Badminton</td>
 		</tr>
 				</tbody>
 		</table>
-		<b>More information about the criteria of selection and the DSA time line will be updated on this page.</b><br>
-		<br>
-		<b>For more details, please refer to MOE DSA-Sec website – <a href="www.moe.gov.sg/dsa-sec" target="">www.moe.gov.sg/dsa-sec</a>.</b>
-		<p><b><u>Further enquiries</u></b></p>
+		<b>More information about the criteria of selection and the DSA time line will be updated on this page.</b>
+		<p><b>For more details, please refer to MOE DSA-Sec website – <a href="www.moe.gov.sg/dsa-sec" target="">www.moe.gov.sg/dsa-sec</a>.</b></p>
+<p><b><u>Further enquiries</u></b></p>
 Please contact Mr Ng We Keat (DSA Coordinator) at tel. no. 63441593 or email <a href="ng_we_keat@moe.edu.sg" target="">ng_we_keat@moe.edu.sg</a> if you need further clarifications. Thank you.
