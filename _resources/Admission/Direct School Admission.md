@@ -11,7 +11,7 @@ third_nav_title: Admission
 <p>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</p>
 
 <p>TKGS offers the following talent areas for DSA Exercise 2023:</p>
-<p><b>Talent in Special Areas</b><p>
+<p><b>Talent in Special Areas</b></p>
 <table>
 	<tbody>
 		<tr>
