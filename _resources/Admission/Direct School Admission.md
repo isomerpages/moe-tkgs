@@ -18,41 +18,41 @@ third_nav_title: Admission
 			<th style="text-align: center">Area</th>
 			<th style="text-align: center">CCA</th>
 		</tr>
-		<tr style="text-align: center">
-			<td style="vertical-align: middle;" rowspan="4">Performing <br>Arts</td>
-			<td>Concert Band</td>
+		<tr>
+			<td style= "vertical-align: middle;" rowspan="4">Performing <br>Arts</td>
+			<td style= "text-align: center">Concert Band</td>
 		</tr>
-		<tr style="text-align: center">
-			<td>Choir</td>
+		<tr>
+			<td style="text-align: center">Choir</td>
 		</tr>
-		<tr style="text-align: center">
-			<td>Modern Dance</td>
+		<tr>
+			<td style="text-align: center">Modern Dance</td>
 		</tr>
-		<tr style="text-align: center">
-			<td>String Ensemble</td>
+		<tr>
+			<td style= "text-align: center">String Ensemble</td>
 		</tr>
-		<tr style="text-align: center">
+		<tr>
 			<td style="vertical-align: middle;" rowspan="6">Sports</td>
-			<td>Badminton</td>
+			<td style= "text-align: center">Badminton</td>
 		</tr>
-		<tr style="text-align: center">
-			<td>Bowling</td>
+		<tr>
+			<td style= "text-align: center">Bowling</td>
 		</tr>
-		<tr style="text-align: center">
-			<td>Floorball</td>
+		<tr>
+			<td style= "text-align: center">Floorball</td>
 		</tr>
-		<tr style="text-align: center">
-			<td>Netball</td>
+		<tr>
+			<td style= "text-align: center">Netball</td>
 		</tr>
-		<tr style="text-align: center">
-			<td>Sailing</td>
+		<tr>
+			<td style= "text-align: center">Sailing</td>
 		</tr>
-		<tr style="text-align: center">
-			<td>Softball</td>
+		<tr>
+			<td style= "text-align: center">Softball</td>
 		</tr>
-		<tr style="text-align: center">
-			<td>Music</td>
-			<td>Badminton</td>
+		<tr>
+			<td style= "text-align: center">Music</td>
+			<td style= "text-align: center">Badminton</td>
 		</tr>
 				</tbody>
 		</table>
@@ -60,4 +60,4 @@ third_nav_title: Admission
 		<br>
 		<b>For more details, please refer to MOE DSA-Sec website – <a href="www.moe.gov.sg/dsa-sec" target="">www.moe.gov.sg/dsa-sec</a>.</b>
 		<p><b><u>Further enquiries</u></b></p>
-Please contact Mr Ng We Keat (DSA Coordinator) at tel. no. 63441593 or email <a href="ng_we_keat@moe.edu.sg" target="">ng_we_keat@moe.edu.sg</a></b> if you need further clarifications. Thank you. 
+Please contact Mr Ng We Keat (DSA Coordinator) at tel. no. 63441593 or email <a href="ng_we_keat@moe.edu.sg" target="">ng_we_keat@moe.edu.sg</a></b> if you need further clarifications. Thank you.
