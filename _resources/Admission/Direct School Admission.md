@@ -19,7 +19,7 @@ third_nav_title: Admission
 			<th style="text-align: center">CCA</th>
 		</tr>
 		<tr>
-			<td style= "vertical-align: middle;" rowspan="4">Performing <br>Arts</td>
+			<td style= "vertical-align: middle;" rowspan="4"><center>Performing <br>Arts</center></td>
 			<td style= "text-align: center">Concert Band</td>
 		</tr>
 		<tr>
