@@ -54,9 +54,6 @@ third_nav_title: Admission
 			<td>Music</td>
 			<td style= "text-align: center">Badminton</td>
 		</tr>
-				</tbody>
-		</table>
+</tbody>
+</table>
 		<p>More information about the criteria of selection and the DSA time line will be updated on this page.</p>
-		<p>For more details, please refer to MOE DSA-Sec website&nbsp;–&nbsp;<a href="www.moe.gov.sg/dsa-sec">www.moe.gov.sg/dsa-sec.</a></p>
-	  Further enquiries<br>
-		Please contact Mr Ng We Keat (DSA Coordinator) at tel. no. 63441593 or email <a href="mailto:ng_we_keat@moe.edu.sg">ng_we_keat@moe.edu.sg</a> if you need further clarifications. Thank you.
