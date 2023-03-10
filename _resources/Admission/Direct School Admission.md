@@ -32,7 +32,7 @@ third_nav_title: Admission
 			<td style= "text-align: center">String Ensemble</td>
 		</tr>
 		<tr>
-			<td style="vertical-align: middle;" rowspan="6">Sports</td>
+			<td style="vertical-align: middle;" rowspan="6"><center>Sports</center></td>
 			<td style= "text-align: center">Badminton</td>
 		</tr>
 		<tr>
@@ -51,7 +51,7 @@ third_nav_title: Admission
 			<td style= "text-align: center">Softball</td>
 		</tr>
 		<tr>
-			<td>Music</td>
+			<td><center>Music</center></td>
 			<td style= "text-align: center">Badminton</td>
 		</tr>
 				</tbody>
