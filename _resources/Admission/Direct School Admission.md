@@ -56,3 +56,4 @@ third_nav_title: Admission
 		</tr>
 				</tbody>
 		</table>
+		<p><strong>More information about the criteria of selection and the DSA time line will be updated on this page.</strong></p>
