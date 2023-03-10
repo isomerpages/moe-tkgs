@@ -51,7 +51,7 @@ third_nav_title: Admission
 			<td style= "text-align: center">Softball</td>
 		</tr>
 		<tr>
-			<td style= "text-align: center">Music</td>
+			<td>Music</td>
 			<td style= "text-align: center">Badminton</td>
 		</tr>
 				</tbody>
