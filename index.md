@@ -12,6 +12,9 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/
+        - title: Direct School Admission 2023
+          description: Click here to find out more
+          url: /resources/admission/direct-school-admission/
   - resources:
       title: TKGS Sparkling Moments
       button: More
