@@ -58,6 +58,6 @@ third_nav_title: Admission
 		</table>
 		<br>
 		<b>More information about the criteria of selection and the DSA time line will be updated on this page.</b>
-		<p><b>For more details, please refer to MOE DSA-Sec website – </b><b><a href="www.moe.gov.sg/dsa-sec" target="">www.moe.gov.sg/dsa-sec</a>.</b></p>
+		<p><b>For more details, please refer to MOE DSA-Sec website&nbsp;–&nbsp; </b><b><a href="www.moe.gov.sg/dsa-sec" target="">www.moe.gov.sg/dsa-sec</a>.</b></p>
 <p><b><u>Further enquiries</u></b></p>
 Please contact Mr Ng We Keat (DSA Coordinator) at tel. no. 63441593 or email <a href="ng_we_keat@moe.edu.sg" target="">ng_we_keat@moe.edu.sg</a> if you need further clarifications. Thank you.
