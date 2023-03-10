@@ -3,103 +3,39 @@ title: test
 permalink: /admin/test/
 description: ""
 ---
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-#customers {
-  font-family: Arial, Helvetica, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
+<head>  
+<style>  
+th {text-align: center;}  
+td {text-align: center;}  
+</style>  
+</head>  
 
-#customers td, #customers th {
-  border: 1px solid #ddd;
-  padding: 8px;
-}
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/wXNyVhlxC1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
-#customers tr:nth-child(even){background-color: #f2f2f2;}
+<p>The Direct School Admission (DSA) Exercise allows schools to offer places to suitable students with outstanding talent areas before the release of their PSLE exam results. TKGS invites Primary 6 students who have the ability and potential to meet our listed criteria below to apply.</p>
 
-#customers tr:hover {background-color: #ddd;}
+<p>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</p>
 
-#customers th {
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: left;
-  background-color: #04AA6D;
-  color: white;
-}
-</style>
-</head>
-<body>
-
-<h1>A Fancy Table</h1>
-
-<table id="customers">
-  <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
-  </tr>
-  <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Berglunds snabbköp</td>
-    <td>Christina Berglund</td>
-    <td>Sweden</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
-  <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
-  </tr>
-  <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
-  </tr>
-  <tr>
-    <td>Königlich Essen</td>
-    <td>Philip Cramer</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
-  </tr>
-  <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>North/South</td>
-    <td>Simon Crowther</td>
-    <td>UK</td>
-  </tr>
-  <tr>
-    <td>Paris spécialités</td>
-    <td>Marie Bertrand</td>
-    <td>France</td>
-  </tr>
-</table>
-
-</body>
-</html>
-
-
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
+<p>TKGS offers the following talent areas for DSA Exercise 2023:</p>
+<p><b>Talent in Special Areas</b><p>
+<table>
+	<tbody>
+		<tr>
+			<th>Area</th>
+			<th>CCA</th>
+		</tr>
+		<tr>
+			<td style="vertical-align: middle;" rowspan="4">Performing <br>Arts</td>
+			<td>Concert Band</td>
+		</tr>
+		<tr>
+			<td>Choir</td>
+		</tr>
+		<tr>
+			<td>Modern Dance</td>
+		</tr>
+		<tr>
+			<td>String Ensemble</td>
+		</tr>
+				</tbody>
+		</table>
