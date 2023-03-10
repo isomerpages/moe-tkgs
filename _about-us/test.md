@@ -3,14 +3,6 @@ title: test
 permalink: /admin/test/
 description: ""
 ---
-
-<head>  
-<style>  
-th {text-align: center;}  
-td {text-align: center;}  
-</style>  
-</head>  
-
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/wXNyVhlxC1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 <p>The Direct School Admission (DSA) Exercise allows schools to offer places to suitable students with outstanding talent areas before the release of their PSLE exam results. TKGS invites Primary 6 students who have the ability and potential to meet our listed criteria below to apply.</p>
@@ -22,21 +14,44 @@ td {text-align: center;}
 <table>
 	<tbody>
 		<tr>
-			<th>Area</th>
-			<th>CCA</th>
+			<th style="text-align: center">Area</th>
+			<th style="text-align: center">CCA</th>
 		</tr>
-		<tr>
+		<tr style="text-align: center">
 			<td style="vertical-align: middle;" rowspan="4">Performing <br>Arts</td>
 			<td>Concert Band</td>
 		</tr>
-		<tr>
+		<tr style="text-align: center">
 			<td>Choir</td>
 		</tr>
-		<tr>
+		<tr style="text-align: center">
 			<td>Modern Dance</td>
 		</tr>
-		<tr>
+		<tr style="text-align: center">
 			<td>String Ensemble</td>
+		</tr>
+		<tr style="text-align: center">
+			<td style="vertical-align: middle;" rowspan="6">Sports</td>
+			<td>Badminton</td>
+		</tr>
+		<tr style="text-align: center">
+			<td>Bowling</td>
+		</tr>
+		<tr style="text-align: center">
+			<td>Floorball</td>
+		</tr>
+		<tr style="text-align: center">
+			<td>Netball</td>
+		</tr>
+		<tr style="text-align: center">
+			<td>Sailing</td>
+		</tr>
+		<tr style="text-align: center">
+			<td>Softball</td>
+		</tr>
+		<tr style="text-align: center">
+			<td>Music</td>
+			<td>Badminton</td>
 		</tr>
 				</tbody>
 		</table>
