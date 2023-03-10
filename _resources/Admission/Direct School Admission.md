@@ -60,4 +60,4 @@ third_nav_title: Admission
 		<br>
 		<b>For more details, please refer to MOE DSA-Sec website – <a href="www.moe.gov.sg/dsa-sec" target="">www.moe.gov.sg/dsa-sec</a>.</b>
 		<p><b><u>Further enquiries</u></b></p>
-Please contact Mr Ng We Keat (DSA Coordinator) at tel. no. 63441593 or email <a href="ng_we_keat@moe.edu.sg" target="">ng_we_keat@moe.edu.sg</a></b> if you need further clarifications. Thank you.
+Please contact Mr Ng We Keat (DSA Coordinator) at tel. no. 63441593 or email <a href="ng_we_keat@moe.edu.sg" target="">ng_we_keat@moe.edu.sg</a> if you need further clarifications. Thank you.
