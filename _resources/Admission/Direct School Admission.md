@@ -55,5 +55,5 @@ third_nav_title: Admission
 </tbody>
 </table>
 <br>
-		<p>More information about the criteria of selection and the DSA time line will be updated on this page.</p>
+More information about the criteria of selection and the DSA time line will be updated on this page.
 <p>For more details, please refer to MOE DSA-Sec website&nbsp;-&nbsp;<a href="www.moe.gov.sg/dsa-sec">www.moe.gov.sg/dsa-sec</a></p>
