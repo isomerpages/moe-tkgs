@@ -50,7 +50,7 @@ third_nav_title: Admission
 		</tr>
 		<tr>
 			<td>Music</td>
-			<td style= "text-align: center">Badminton</td>
+			<td style= "text-align: center">Music Elective Program</td>
 		</tr>
 </tbody>
 </table>
