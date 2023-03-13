@@ -96,9 +96,9 @@ description: ""
 <td style="width: 33.3333%;"><br><a href="https://drive.google.com/file/d/1pk1dVhntYEZbAzM9cNXioveGATTfD8bY/view"><img style="width: 75%;" src="/images/pr9.png"></a></td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">&nbsp;</td>
 <td style="width: 33.3333%;"><a href="https://www.morningstar.org.sg/"><img src="/images/pr10.png"></a></td>
 <td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;"><a href="https://drive.google.com/file/d/1-M6rkGXwfXowUf63uMECQ_aGo2oJPZR6/view?usp=share_link"><img src="/images/Resources/Parents/Raising_a_Digitally_Smart_Child.png"></a></td>
 </tr>
 </tbody>
 </table>
