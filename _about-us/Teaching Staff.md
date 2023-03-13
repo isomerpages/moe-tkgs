@@ -19,5 +19,5 @@ description: ""
 <img src="/images/TeachingStaff-PhysicalEducation2023.png">
 <br>
 | **Science Department** | 
-<img src="/images/TeachingStaff-Sci2023.png">
+<img src="/images/StaffPhoto/Sci_2023.png">
 <br>
