@@ -5,7 +5,7 @@ description: ""
 ---
 <h3><strong>School Management Committee</strong></h3>
 
-<img src="/images/SMC2023.png"><br>
+<img src="/images/StaffPhoto/SMC2023.png"><br>
 <table>
 <tbody>
 <tr>
