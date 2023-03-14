@@ -80,7 +80,7 @@ description: ""
 <p style="text-align: center;"><strong><u>MOE HPB-related</u></strong></p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
-<tr>
+<tr style="vertical-align: center;">
 <td style="width: 33.3333%;"><a href="https://www.moe.gov.sg/"><img src="/images/pr1.png"></a></td>
 <td style="width: 33.3333%;"><br><br><a href="https://www.schoolbag.edu.sg/"><img src="/images/pr2.png"></a></td>
 <td style="width: 33.3333%;"><a href="https://www.hpb.gov.sg/"><img src="/images/pr3.png"></a></td>
@@ -97,8 +97,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%;"><a href="https://www.morningstar.org.sg/"><img src="/images/pr10.png"></a></td>
-<td style="width: 33.3333%;">&nbsp;</td>
-<td style="width: 33.3333%;"><a href="https://drive.google.com/file/d/1-M6rkGXwfXowUf63uMECQ_aGo2oJPZR6/view?usp=share_link"><img src="/images/Resources/Parents/Raising_a_Digitally_Smart_Child.png"></a></td>
+<td colspan="2"><a href="https://drive.google.com/file/d/1-M6rkGXwfXowUf63uMECQ_aGo2oJPZR6/view?usp=share_link"><img src="/images/Resources/Parents/Raising_a_Digitally_Smart_Child.png"></a></td>
 </tr>
 </tbody>
 </table>
