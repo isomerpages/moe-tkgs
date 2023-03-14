@@ -19,7 +19,7 @@ Physical Education Department
 <img src="/images/StaffPhoto/TeachingStaff-PhysicalEducation2023.png">
 <br>
 Science Department
-<img src="/images/StaffPhoto/Sci_2023.png">
+<img src="/images/StaffPhoto/Sci2023.png">
 <br>
 	</u>
 	</h4>
