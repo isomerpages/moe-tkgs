@@ -5,7 +5,7 @@ description: ""
 ---
 <h3><strong>School Management Committee</strong></h3>
 
-<img src="/images/SMC2023.png"><br>
+<img src="/images/StaffPhoto/SMC2023.png"><br>
 <table>
 <tbody>
 <tr>
@@ -92,7 +92,7 @@ description: ""
 <td><a href="mailto:noorlizah_abdul_rahman@moe.edu.sg" target="">noorlizah_abdul_rahman@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Ms Foo Wen Xin</td>
+<td>Ms Foo Wenxin</td>
 <td>Assistant Year Head</td>
 <td><a href="mailto:foo_wenxin@moe.edu.sg" target="">foo_wenxin@moe.edu.sg</a></td>
 </tr>

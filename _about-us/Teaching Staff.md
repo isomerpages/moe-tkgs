@@ -3,21 +3,23 @@ title: Teaching Staff
 permalink: /about-us/teaching-staff/
 description: ""
 ---
-| **Aesthetics** |
-<img src="/images/TeachingStaff-Aesthetics2023.png">
+<h4><u>Aesthetics
+<img src="/images/StaffPhoto/TeachingStaff-Aesthetics2023.png">
 <br>
-| **English Department** | 
-<img src="/images/TeachingStaff-EL2023.png">
+English Department
+<img src="/images/StaffPhoto/TeachingStaff-EL2023.png">
 <br>
-| **Humanities Department** | 
-<img src="/images/TeachingStaff-Hum2023.png">
+Humanities Department
+<img src="/images/StaffPhoto/TeachingStaff-Hum2023.png">
 <br>
-| **Mother Tongue Department** | 
-<img src="/images/TeachingStaff-MotherTongue2023.png">
+Mother Tongue Department
+<img src="/images/StaffPhoto/TeachingStaff-MotherTongue2023.png">
 <br>
-| **Physical Education Department** | 
-<img src="/images/TeachingStaff-PhysicalEducation2023.png">
+Physical Education Department
+<img src="/images/StaffPhoto/TeachingStaff-PhysicalEducation2023.png">
 <br>
-| **Science Department** | 
-<img src="/images/TeachingStaff-Sci2023.png">
+Science Department
+<img src="/images/StaffPhoto/Sci2023.png">
 <br>
+	</u>
+	</h4>
