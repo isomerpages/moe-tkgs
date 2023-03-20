@@ -92,7 +92,7 @@ description: ""
 <td><a href="mailto:noorlizah_abdul_rahman@moe.edu.sg" target="">noorlizah_abdul_rahman@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Ms Foo Wenxin</td>
+<td>Ms Esther Foo Wenxin</td>
 <td>Assistant Year Head</td>
 <td><a href="mailto:foo_wenxin@moe.edu.sg" target="">foo_wenxin@moe.edu.sg</a></td>
 </tr>
@@ -145,7 +145,7 @@ target="">	lim_kian_long@moe.edu.sg </a></td>
 </tbody>
 </table>
 <p></p>
-<img src="/images/Teacher_Leader2023.png">
+<img src="/images/StaffPhoto/Teacher_Leader2023.png">
 <h3><strong>Teacher Leaders</strong></h3>
 <table>
 <tbody>
