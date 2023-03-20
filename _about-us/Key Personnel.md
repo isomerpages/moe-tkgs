@@ -92,7 +92,7 @@ description: ""
 <td><a href="mailto:noorlizah_abdul_rahman@moe.edu.sg" target="">noorlizah_abdul_rahman@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Ms Foo Wenxin</td>
+<td>Ms Esther Foo Wenxin</td>
 <td>Assistant Year Head</td>
 <td><a href="mailto:foo_wenxin@moe.edu.sg" target="">foo_wenxin@moe.edu.sg</a></td>
 </tr>
