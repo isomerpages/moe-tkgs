@@ -4,43 +4,41 @@ permalink: /about-us/our-partners/alumni/committee/
 description: ""
 third_nav_title: Our Partners
 ---
-<img style="width: 80%;" src="/images/com.jpg" />
 <table>
 <tbody>
 <tr>
-<th style="text-align: center;" colspan="2">TKGS Alumni 17th Committee</th>
+<th style="text-align: center;" colspan="2">TKGS Alumni 18th Committee</th>
 </tr>
 <tr>
 <td>PRESIDENT</td>
-<td>Kwek Hui Ping</td>
+<td>Mrs Sally Low-Lee</td>
 </tr>
 <tr>
 <td>VICE PRESIDENT</td>
-<td>Aishah Bte Ahmad Alkaff</td>
+<td>Ms Wong Yoke Lin</td>
 </tr>
 <tr>
 <td>HON. SECRETARY</td>
-<td>Foo Su Ling</td>
+<td>Ms Aishah Bte Ahmad Alkaff</td>
 </tr>
 <tr>
 <td>HON.ASST. SECRETARY</td>
-<td>Christie Kamala</td>
+<td>Dr Christie Kamala</td>
 </tr>
 <tr>
 <td>HON. TREASURER</td>
-<td>Surianah Sufarman</td>
+<td>Ms Geraldine Ng Pheng Yee</td>
 </tr>
 <tr>
 <td>HON. ASST. TREASURER</td>
-<td>Lily Yeo</td>
+<td>Ms Kaushilya Lulla</td>
 </tr>
 <tr>
 <td>COMMITTEE MEMBERS</td>
 <td>
-<div>Yeo Siew Mei</div>
-<div>Ong Soon Ping</div>
-<div>Jean Ong</div>
-<div>Geraldine Ng</div>
+<div>Ms Surianah Sufarman</div>
+<div>Ms Florence Koh</div>
+<div>Ms Yeo Siew Mei</div>
 </td>
 </tr>
 <tr>
@@ -56,26 +54,3 @@ third_nav_title: Our Partners
 </tr>
 </tbody>
 </table>
-<h4 style="text-align: center;"><strong>Sub-Committees</strong></h4>
-<table>
-<tbody>
-<tr>
-<th style="text-align: center;" colspan="2">Sub-Committees</th>
-</tr>
-<tr>
-<td>MARKETING COMMUNICATIONS</td>
-<td>Geraldine Ng (chairperson), Surianah Sufarman</td>
-</tr>
-<tr>
-<td>SCHOOL SERVICE</td>
-<td>Yeo Siew Mei (chairperson), Christie Kamala</td>
-</tr>
-<tr>
-<td>SOCIAL &amp; MEMBERSHIP</td>
-<td>Jean Ong (chairperson), Lily Yeo</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Marketing Communications<br /></strong>Publicising Alumni events and information.</p>
-<p><strong>School Service<br /></strong>Organising and supporting programmes for student enrichment.</p>
-<p><strong>Social &amp; Membership<br /></strong>Organising activities for interaction and networking and to increase membership.</p>
