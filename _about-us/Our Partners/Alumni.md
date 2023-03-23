@@ -58,10 +58,10 @@ third_nav_title: Our Partners
 <table>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><a href="https://www.facebook.com/profile.php?id=100057374841835/"><img style="width: 70px;" src="/images/Standard/FB_icon.png">@TKGSAlumni</a>
+			<td style="text-align: center"><b><a href="https://www.facebook.com/profile.php?id=100057374841835/"><img style="width: 70px;" src="/images/Standard/FB_icon.png">@TKGSAlumni</a></b>
 			</td>
-			<td style="text-align: center">
-		<a href="https://www.facebook.com/moesingapore/"><img style="width: 70px;" src="/images/Standard/IG_icon.png">@TKGSAlumni</a>
+			<td style="text-align: center"><b>
+		<a href="https://www.facebook.com/moesingapore/"><img style="width: 70px;" src="/images/Standard/IG_icon.png">@TKGSAlumni</a></b>
 			</td>
 		</tr>
 	</tbody>
