@@ -48,10 +48,21 @@ third_nav_title: Our Partners
 </tr>
 </tbody>
 </table>
-
 <h4><strong>Objectives</strong></h4>
 <ul>
 <li>to develop and maintain a true spirit of loyalty for the Alma Mater.</li>
 <li>to maintain close links with the Alma Mater so as to help her achieve her objectives.</li>
 <li>to enable members to renew ties for mutual benefits</li>
 </ul>
+<h4><strong>Connect with us</strong></h4>
+<table>
+	<tbody>
+		<tr>
+			<td style="text-align: center"><a href="https://www.facebook.com/profile.php?id=100057374841835/"><img style="width: 70px;" src="/images/Standard/FB_icon.png">@TKGSAlumni</a>
+			</td>
+			<td style="text-align: center">
+		<a href="https://www.facebook.com/moesingapore/"><img style="width: 70px;" src="/images/Standard/IG_icon.png">@TKGSAlumni</a>
+			</td>
+		</tr>
+	</tbody>
+	</table>
