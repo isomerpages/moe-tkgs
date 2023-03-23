@@ -26,4 +26,5 @@ sections:
       button: Click here to find out more
       url: https://docs.google.com/forms/d/e/1FAIpQLSex_HjrA1AoDaRFMQlsEpoIfJHnG9GDZVeL-xPDe2TLJ8eH-w/viewform
       alt: Image alt text
+      image: /images/Hompage/Infopic/Alumni.png
 ---
