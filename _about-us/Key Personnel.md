@@ -37,11 +37,6 @@ description: ""
 <th style="text-align: center;" width="33%">Email</th>
 </tr>
 <tr>
-<td>Ms Cheong Mei Xi</td>
-<td>HOD / English Language</td>
-<td><a href="mailto:cheong_mei_xi@moe.edu.sg" target="">cheong_mei_xi@moe.edu.sg</a></td>
-</tr>
-<tr>
 <td>Mrs Hilary Pang</td>
 <td>HOD / Mathematics</td>
 <td><a href="mailto:cheong_chui_chui_hilary@moe.edu.sg" target="">cheong_chui_chui_hilary@moe.edu.sg</a></td>
