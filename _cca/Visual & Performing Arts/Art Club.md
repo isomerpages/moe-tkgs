@@ -44,12 +44,6 @@ tr:hover {background-color: #F5F5DC;}
 	 <a target="" href="mailto:ili_sofia_shahrin@moe.edu.sg">ili_sofia_shahrin@moe.edu.sg</a>
 	</td>
 	 	</tr>
-		<tr>
-	<td rowspan="1">Ms Bernice Lau</td>
- <td>
-	 <a target="" href="mailto:bernice_lau_li_yuan@moe.edu.sg">bernice_lau_li_yuan@moe.edu.sg</a>
-	</td>
-	 	</tr>
 	</tbody>
 	</table>
 <table>
