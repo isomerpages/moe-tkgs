@@ -2,8 +2,9 @@
 title: Code of Conduct
 permalink: /about-tkgs/school-vision-mission-n-values/code-of-conduct/
 description: ""
-third_nav_title: School Vision, Mission & Value
+third_nav_title: Vision, Mission & Values
 ---
+
 <p style="text-align: center;"><strong>I AM PROUD TO BE A TKGIAN &amp;<br />I WANT TKGS TO BE PROUD OF ME</strong></p>
 <p>I am proud to be a TKGian. I will be guided by the vision the school has for me to be an accomplished woman of character and grace, and the mission the school has to develop me as a leader who displays the school values. Through my words and actions, I will do my part to make the school a conducive learning environment for all, where every person is cared for and nurtured. In doing so, I believe TKGS will be proud of me.</p>
 <table>

@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - School Vision, Mission & Value/.keep
-      - School Vision, Mission & Value/School Vision, Mission & Values.md
-      - School Vision, Mission & Value/TKGS Crest.md
-      - School Vision, Mission & Value/Code of Conduct.md
+      - Vision, Mission & Values/.keep
+      - Vision, Mission & Values/School Vision, Mission & Values.md
+      - Vision, Mission & Values/TKGS Crest.md
+      - Vision, Mission & Values/Code of Conduct.md
       - TKGian Creed.md
       - TKGS School Song.md
       - Contact Information.md
