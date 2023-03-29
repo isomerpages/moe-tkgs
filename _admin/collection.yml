@@ -2,7 +2,7 @@ collections:
   admin:
     output: true
     order:
-      - Committee.md
+      - Committee testing 1 2 3 53p292.md
       - test.md
       - test CCA.md
       - 2020.md
