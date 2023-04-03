@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Principal's Message.md
+      - Vision, Mission & Values/School VMV.md
       - Vision, Mission & Values/.keep
       - Vision, Mission & Values/Our VMV.md
       - Vision, Mission & Values/TKGS Crest.md
