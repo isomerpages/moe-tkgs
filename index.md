@@ -27,4 +27,13 @@ sections:
       url: https://docs.google.com/forms/d/e/1FAIpQLSex_HjrA1AoDaRFMQlsEpoIfJHnG9GDZVeL-xPDe2TLJ8eH-w/viewform
       alt: Image alt text
       image: /images/Hompage/Infopic/Alumni.png
+  - infopic:
+      title: TKGS 70th Speech & Prize-Giving Ceremony
+      description: The 70th Speech & Prize-Giving Ceremony will be held from 13 to 15
+        April 2023. We are honoured to have Mr Lawrence Chan, NETS Group CEO, as
+        our GOH this year.
+      button: Click here to view e-Program Booklet
+      url: https://drive.google.com/file/d/13dylenuAarqLhJxIVlR72bp7sRhC_t-d/view?usp=share_link
+      image: /images/Hompage/Infopic/homepage.png
+      alt: Image alt text
 ---
