@@ -2,6 +2,7 @@ collections:
   about-tkgs:
     output: true
     order:
+      - Code of Conduct.md
       - TKGS Crest.md
       - Our VMV.md
       - School VMV.md
