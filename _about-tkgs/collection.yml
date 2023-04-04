@@ -2,10 +2,10 @@ collections:
   about-tkgs:
     output: true
     order:
-      - Code of Conduct.md
-      - TKGS Crest.md
-      - Vision, Mission & Values.md
       - Principal's Message.md
-      - TKGian Creed.md
+      - Vision, Mission & Values.md
+      - TKGS Crest.md
       - TKGS School Song.md
+      - TKGian Creed.md
+      - Code of Conduct.md
       - Contact Information.md
