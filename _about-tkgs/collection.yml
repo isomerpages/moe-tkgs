@@ -2,6 +2,7 @@ collections:
   about-tkgs:
     output: true
     order:
+      - Our VMV.md
       - School VMV.md
       - Principal's Message.md
       - Vision, Mission & Values/.keep
