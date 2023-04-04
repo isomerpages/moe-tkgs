@@ -2,6 +2,7 @@ collections:
   about-tkgs:
     output: true
     order:
+      - TKGS Crest.md
       - Our VMV.md
       - School VMV.md
       - Principal's Message.md
