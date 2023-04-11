@@ -19,6 +19,14 @@ sections:
       title: TKGS Sparkling Moments
       button: More
   - infopic:
+      title: Graduation Certificates Ready For Collection
+      description: Please refer to the infographic for more details and the link below
+        for Letter of authorization for proxy collection.
+      button: LOA for Proxy collection
+      url: https://drive.google.com/file/d/1Lhl5W6nQ-DVhvxZyPZiAW7b374T8fr7-/view?usp=sharing
+      image: /images/Hompage/Infopic/collection of cert.png
+      alt: Image alt text
+  - infopic:
       title: TKGS 70th Speech & Prize-Giving Ceremony
       description: The 70th Speech & Prize-Giving Ceremony will be held from 13 to 15
         April 2023. We are honoured to have Mr Lawrence Chan, NETS Group CEO, as
