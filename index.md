@@ -20,7 +20,7 @@ sections:
       button: More
   - infopic:
       title: Graduation Certificates Ready For Collection
-      description: Please refer to the picture for more information.
+      description: Please refer to the infographic for more details.
       button: Click her for letter for authorization for proxy collection
       url: https://drive.google.com/file/d/1Lhl5W6nQ-DVhvxZyPZiAW7b374T8fr7-/view?usp=sharing
       image: /images/Hompage/Infopic/collection of cert.png
