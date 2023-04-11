@@ -22,7 +22,7 @@ sections:
       title: Graduation Certificates Ready For Collection
       description: Please refer to the infographic for more details and the link below
         for Letter of authorization for proxy collection.
-      button: Proxy letter for authorization
+      button: LOA for proxy collection
       url: https://drive.google.com/file/d/1Lhl5W6nQ-DVhvxZyPZiAW7b374T8fr7-/view?usp=sharing
       image: /images/Hompage/Infopic/collection of cert.png
       alt: Image alt text
