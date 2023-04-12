@@ -32,7 +32,7 @@ sections:
         April 2023. We are honoured to have Mr Lawrence Chan, NETS Group CEO, as
         our GOH this year.
       button: Click here to view e-Program Booklet
-      url: https://drive.google.com/file/d/13dylenuAarqLhJxIVlR72bp7sRhC_t-d/view?usp=share_link
+      url: https://drive.google.com/file/d/10Xgu_wjLy3OKuFUyTPeDiNxVFqQMQyHs/view?usp=share_link
       image: /images/Hompage/Infopic/homepage.png
       alt: Image alt text
   - infopic:
