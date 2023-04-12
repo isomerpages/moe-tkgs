@@ -7,7 +7,7 @@ description: ""
 <img src="/images/StaffPhoto/TeachingStaff-Aesthetics2023.png">
 <br>
 English Department
-<img src="/images/StaffPhoto/TeachingStaff-EL2023.png">
+<img src="/images/StaffPhoto/teachingstaff-el2023v2.png">
 <br>
 Humanities Department
 <img src="/images/StaffPhoto/TeachingStaff-Hum2023.png">
