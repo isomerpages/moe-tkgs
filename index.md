@@ -27,15 +27,6 @@ sections:
       image: /images/Hompage/Infopic/collection of cert.png
       alt: Image alt text
   - infopic:
-      title: TKGS 70th Speech & Prize-Giving Ceremony
-      description: The 70th Speech & Prize-Giving Ceremony will be held from 13 to 15
-        April 2023. We are honoured to have Mr Lawrence Chan, NETS Group CEO, as
-        our GOH this year.
-      button: Click here to view e-Program Booklet
-      url: https://drive.google.com/file/d/10Xgu_wjLy3OKuFUyTPeDiNxVFqQMQyHs/view?usp=share_link
-      image: /images/Hompage/Infopic/homepage.png
-      alt: Image alt text
-  - infopic:
       title: "TKGS Alumni Association: 70th Anniversary Dinner"
       description: A major event to mark the occasion will be the Anniversary Dinner
         on 1 June 2023 organized by the TKGS Alumni Association and we love to
