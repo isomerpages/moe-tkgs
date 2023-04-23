@@ -2,6 +2,8 @@ collections:
   admin:
     output: true
     order:
+      - example-page.md
+      - faq.md
       - School VMV.md
       - Committee.md
       - test CCA.md
