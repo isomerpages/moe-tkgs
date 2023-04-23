@@ -2,7 +2,6 @@ collections:
   admin:
     output: true
     order:
-      - privacy.md
       - example-page.md
       - faq.md
       - School VMV.md
