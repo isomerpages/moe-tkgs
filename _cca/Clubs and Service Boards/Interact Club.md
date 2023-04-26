@@ -19,7 +19,11 @@ th, td {
 tr:hover {background-color: #F5F5DC;}
 </style>
 
-<center><img src="/images/CCA/Debate_Club/2023_debate_club.png"></center>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTb641Zccr6iV0wyEuKUGHDHjM_OE2EXXsgijADECNAzrbqQWpk8Ts48FleEDPuqKfrC1q_9o6hah9T/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true"></iframe>
+
+<p>Nothing is too small as long as it comes from the heart’ is Interact Club’s motto. We aim to develop in our members a sense of responsibility and to give back to the community with little selfless acts of service. This year, our club managed to remain united even in the face of the raging pandemic by participating in various community projects. With the completion of each project, reaching each milestone, we sincerely hope that these little selfless seeds of kindness will grow and become an integral way of life for all Interactors.</p>
+<p style="text-align: right;"><strong>Rinaaz Abdul Salam (President)</strong></p>
 
 <table>
 	<tbody><tr><th colspan="1">Teacher-in-Charge</th>
