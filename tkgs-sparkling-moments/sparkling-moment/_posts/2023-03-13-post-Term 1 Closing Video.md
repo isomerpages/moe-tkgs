@@ -1,6 +1,6 @@
 ---
 title: Term 1 Closing Video
-permalink: /tkgs-sparkling-moments/sparkling-moment/permalink/
+permalink: /tkgs-sparkling-moments/sparkling-moment/term-1-closing-video/
 date: 2023-03-13
 layout: post
 description: ""
