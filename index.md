@@ -15,6 +15,9 @@ sections:
         - title: Direct School Admission 2023
           description: Click here to find out more
           url: /resources/admission/direct-school-admission/
+        - title: show your appreciation to our staff!
+          description: Submit an appreciation note
+          url: https://form.gov.sg/644b493aee16a900127eaa28
   - resources:
       title: TKGS Sparkling Moments
       button: More

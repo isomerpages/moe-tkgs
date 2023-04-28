@@ -16,4 +16,4 @@ image: ""
 		</tr>
 		</tbody>
 	</table>
-	As these students embark on the next phase of their journey, we have no doubt that they will continue to make remarkable strides in both their academic and personal pursuits. Congratulations once again, and best wishes for their future endeavors!
+As these students embark on the next phase of their journey, we have no doubt that they will continue to make remarkable strides in both their academic and personal pursuits. Congratulations once again, and best wishes for their future endeavors!
