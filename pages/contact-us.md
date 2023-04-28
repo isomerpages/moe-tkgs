@@ -5,8 +5,8 @@ permalink: /contact-us/
 agency_name: Tanjong Katong Girls' School
 locations:
   - address:
-      - "20 "
-      - Dunman Lane
+      - "  "
+      - 20 Dunman Lane
       - Singapore 439272
     operating_hours:
       - days: Mon - Fri
