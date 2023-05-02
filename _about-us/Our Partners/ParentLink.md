@@ -4,14 +4,14 @@ permalink: /about-us/our-partners/parentlink/
 description: ""
 third_nav_title: Our Partners
 ---
-<p>Dear Parents,<br />All TKGS parents are part of Parentlink and each is a valued partner! Parentlink comprises 2 pillars:</p>
+<p>Dear Parents,<br>All TKGS parents are part of Parentlink and each is a valued partner! Parentlink comprises 2 pillars:</p>
 <ul>
 <li><strong>Ignite Pillar</strong>&nbsp;where parents are invited to serve in supporting TKGian education, well-being and one another.</li>
 <li><strong>Connect Pillar&nbsp;</strong>where parents link up with one another and with potential parents from beyond TKGS</li>
 </ul>
-<img style="width: 75%;" src="/images/pl1.png" />
+<img style="width: 75%;" src="/images/pl1.png">
 <p>In an attempt to connect with as many TKGian parents as possible, TKGS Parentlink has put together the first e-handbook! It is a user-friendly guide and you can find all the essential information about Parentlink in the e-handbook. In addition to letters from school, SMS and email communication, the Wizlearn Parents Portal will provide you with timely information on TKGS news. Together with the Parentlink Facebook page (managed entirely by parent volunteers), you will find support and experience a sense of community amongst parents here in TKGS. Welcome onboard!&nbsp;</p>
-<img style="width: 90%;" src="/images/pl2.jpg" />
+<img style="width: 90%;" src="/images/pl2.jpg">
 <table>
 <tbody>
 <tr>
@@ -52,4 +52,4 @@ third_nav_title: Our Partners
 </tr>
 </tbody>
 </table>
-<p><a href="/files/ParentLink_Nuggets%20from%20SC_2016.pdf" target="_blank" rel="noopener">Download Tanjong Katong Girls' School - ParentLink_Nuggets from SC</a>&nbsp;</p>
+</div>
