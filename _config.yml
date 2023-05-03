@@ -2,13 +2,13 @@ title: Tanjong Katong Girls' School
 url: https://tkgs.moe.edu.sg
 favicon: /images/logo.png
 colors:
-  primary-color: "#f4c759"
+  primary-color: "#9b1b1e"
   secondary-color: "#135400"
   media-colors:
     - title: media-color-one
       color: "#b50e0e"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#9b1b1e"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
