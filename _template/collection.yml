@@ -1,4 +1,5 @@
 collections:
   template:
     output: true
-    order: []
+    order:
+      - Template Selection.md
