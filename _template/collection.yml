@@ -1,0 +1,4 @@
+collections:
+  template:
+    output: true
+    order: []
