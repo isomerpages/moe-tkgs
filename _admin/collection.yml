@@ -2,4 +2,5 @@ collections:
   admin:
     output: true
     order:
+      - Art Club (Mockup Page).md
       - Contact Information.md
