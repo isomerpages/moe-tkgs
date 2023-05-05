@@ -119,8 +119,8 @@ To help us understand your application, please email an excerpt of your playing 
 <br>
 <br>
 Shortlisted students will be notified of the dates of the auditions, trials or interview via email register in the DSA portal. Please be informed that parents are not allowed to attend the auditions, trials and interviews<br><br>
-<b>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website &nbsp;-&nbsp;<a href="https://www.moe.gov.sg/secondary/dsa">www.moe.gov.sg/secondary/dsa</a>.</b>
-	<br>
+<b>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website &nbsp;-&nbsp;<a href="https://www.moe.gov.sg/secondary/dsa">www.moe.gov.sg/secondary/dsa</a>.</b><br><br>
+<img src="/images/Resources/Admission/DSA/2023_criteria.jpg">
 	<br>
 	<b>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</b><br><br>
 <b>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.</b><br>
