@@ -115,7 +115,7 @@ To help us understand your application, please email an excerpt of your playing 
 			<td>Apart from the Auditions/ Trials, all students will also undergo an interview.</td>
 			</tr></tbody>
 </table>
-* Please note that meeting all the criteria does not guarantee the student will be shortlisted/ given an offer.
+    <font color="red">* Please note that meeting all the criteria does not guarantee the student will be shortlisted/ given an offer.</font>
 <br>
 <br>
 Shortlisted students will be notified of the dates of the auditions, trials or interview via email register in the DSA portal. Please be informed that parents are not allowed to attend the auditions, trials and interviews<br><br>
