@@ -4,8 +4,7 @@ permalink: /resources/admission/direct-school-admission/
 description: ""
 third_nav_title: Admission
 ---
-
-	<style>
+<style>
 		table { 
 			border-collapse: collapse; 
 			width: 100%;
@@ -27,7 +26,7 @@ Applicants should fulfil criteria in <b>2 areas:</b><p>
 Students who have achieved an overall score of 70% or more for the Primary 5 Year-End Examination (2022) and Primary 6 Mid-Year Assessment (2023) result.
 </p><p>
 <b><u>2. Talent in Special Areas</u></b><br>
-<p></p><p></p><table>
+</p><p></p><p></p><table>
 		<tbody>
 			<tr>
 				<th>Area</th>
@@ -38,22 +37,22 @@ Students who have achieved an overall score of 70% or more for the Primary 5 Yea
 				<td style="vertical-align: middle;" rowspan="4">Performing <br>Arts</td>
 				<td class="centered">Choir</td>
 				<td>Students should preferably have relevant experience such as:<br><br>
-				•&nbsp;&nbsp;&nbsp;Being an active Choir member in Primary School or having prior experience in choral/solo singing<p></p>
-					<p>Students will be assessed on:<br>
+				•&nbsp;&nbsp;&nbsp;Being an active Choir member in Primary School or having prior experience in choral/solo singing<br><br>
+					Students will be assessed on:<br><br>
 •&nbsp;&nbsp;&nbsp;A song of the student’s choice<br>
 •&nbsp;&nbsp;&nbsp;Intonation, musicality and vocal technique<br>
-						•&nbsp;&nbsp;&nbsp;Sight-singing</p>
+						•&nbsp;&nbsp;&nbsp;Sight-singing
 				</td>
 			</tr>
 			<tr>
 				<td class="centered">String Ensemble</td>
 				<td>Students should preferably have relevant experience such as:<br><br>
 					•&nbsp;&nbsp;&nbsp;Being an active member of the String Ensemble in Primary School, OR<br>
-					•&nbsp;&nbsp;&nbsp;Having at least a year’s experience playing in an orchestra/ensemble<p></p>
-<p>Students will be assessed on:
-- Two contrasting solo pieces of the student’s choice (not more than 5 min)
-- Two different scales of student’s choice (commensurate to their current level of proficiency)
-	- Sight-reading</p>
+					•&nbsp;&nbsp;&nbsp;Having at least a year’s experience playing in an orchestra/ensemble<br><br>
+Students will be assessed on:<br><br>
+	•&nbsp;&nbsp;&nbsp;Two contrasting solo pieces of the student’s choice (not more than 5 min)<br>
+	•&nbsp;&nbsp;&nbsp;Two different scales of student’s choice (commensurate to their current level of proficiency)
+					•&nbsp;&nbsp;&nbsp;Sight-reading
 </td>
 			</tr>
 			<tr>
@@ -96,4 +95,4 @@ Students who have achieved an overall score of 70% or more for the Primary 5 Yea
 	<br>
 	<br>
 	<strong><u>Further enquires</u></strong>
-	<br>Please contact Mr Ng We Keat (DSA Coordinator) at tel. no. 63441593 or email <a href="mailto:ng_we_keat@moe.edu.sg">ng_we_keat@moe.edu.sg</a> if you need further clarifications. Thank you.</p>
+	<br>Please contact Mr Ng We Keat (DSA Coordinator) at tel. no. 63441593 or email <a href="mailto:ng_we_keat@moe.edu.sg">ng_we_keat@moe.edu.sg</a> if you need further clarifications. Thank you.<p></p>
