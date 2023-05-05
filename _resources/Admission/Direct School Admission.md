@@ -43,12 +43,10 @@ Students will be assessed on:<br><br>
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align: center">Symphonic Band
-</td>
+			<td style="text-align: center">Symphonic Band</td>
 			<td>Students should preferably have relevant experience such as:<br><br>
 •&nbsp;&nbsp;&nbsp;Being an active member of the Band or any music CCA in Primary School, and / or<br>
 •&nbsp;&nbsp;&nbsp;Any other musical experiences outside school<br><br>
-
 Shortlisted students will be assessed on:<br><br>
 •&nbsp;&nbsp;&nbsp;Two contrasting pieces of the student’s choice (ensemble parts are allowed)*<br>
 •&nbsp;&nbsp;&nbsp;Instrumental technique (including scales – Concert Bb, Eb, F major)<br>
@@ -80,34 +78,34 @@ Students will be assessed on:<br><br>
 </td>
 		</tr>
 		<tr>
-			<td style="text-align: center"><u>Additionally for:</u> Badminton, Floorball, Netball and Softball
+			<td style="text-align: center"><u>Additionally for:</u><br> Badminton, Floorball, Netball and Softball
 </td>
 			<td>In addition to the criteria mentioned above, applicants for the following Sports CCAs will also be assessed on:<br><br>
 •&nbsp;&nbsp;&nbsp;Sport-specific fitness<br>
 •&nbsp;&nbsp;&nbsp;Sport-specific skills<br>
 •&nbsp;&nbsp;&nbsp;In-game decision-making skills</td>
 		</tr>
-		
-		<tr>
-			<td style="text-align: center"><u>Additionally for:</u> Bowling</td>
+				<tr>
+			<td style="text-align: center"><u>Additionally for:</u><br>Bowling</td>
 	<td>Students will be assessed on: <br><br>
-		•&nbsp;&nbsp;&nbsp;Sport-specific skills (Based on the physical game)
+				•&nbsp;&nbsp;&nbsp;Sport-specific skills (Based on the physical game)
 </td>
 		</tr>
 		<tr>
-			<td style="text-align: center"><u>Additionally for:</u> Sailing</td>
+			<td style="text-align: center"><u>Additionally for:</u><br>Sailing</td>
 	<td>Applicants should preferably be ranked top 100 in the Optimist Gold Fleet or ILCA4 in Singapore Sailing Federation’s rank list.</td>
 		</tr>
-					<tr><td>Music</td>
+					<tr>
+						<td>Music</td>
 			<td style="text-align: center">Music Elective Program</td>
 	<td>Students should preferably have relevant experience such as:<br><br>
-- Being actively involved in a school-based or external musical group<br><br>
+•&nbsp;&nbsp;&nbsp;Being actively involved in a school-based or external musical group<br><br>
 Students will be assessed on:<br><br>
-- Performance of two contrasting prepared pieces on an instrument of choice or voice that is 2-5 minutes in duration<br><br>
+•&nbsp;&nbsp;&nbsp;Performance of two contrasting prepared pieces on an instrument of choice or voice that is 2-5 minutes in duration<br>
 and any or all of the following items:<br>
-- Aural that requires students to imitate and respond to simple rhythmic and/ or melodic phrase by clapping and singing<br>
-- Sight-reading and Scales<br>
-- Listening &amp; Theory written test which may require simple
+•&nbsp;&nbsp;&nbsp;Aural that requires students to imitate and respond to simple rhythmic and/ or melodic phrase by clapping and singing<br>
+•&nbsp;&nbsp;&nbsp;Sight-reading and Scales<br>
+•&nbsp;&nbsp;&nbsp;Listening &amp; Theory written test which may require simple
 score-reading skills<br><br>
 To help us understand your application, please email an excerpt of your playing in the form of an mp3 audio clip (no longer than 1min) to <a href="mailto:wong_ching_yi_chesed@moe.edu.sg">wong_ching_yi_chesed@moe.edu.sg</a> by 2 June 2023
 </td>
