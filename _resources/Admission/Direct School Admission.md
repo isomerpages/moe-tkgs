@@ -123,6 +123,6 @@ Shortlisted students will be notified of the dates of the auditions, trials or i
 	<br>
 	<br>
 	<b>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</b><br><br>
-<b>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.<b><br>
+<b>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.</b><br>
 	<p><strong><u>Further enquires</u></strong>
-<br>Please contact Mr Ng We Keat (DSA Coordinator) at tel. no. 63441593 or email <a href="mailto:ng_we_keat@moe.edu.sg">ng_we_keat@moe.edu.sg</a> if you need further clarifications. Thank you.</p></b></b>
+<br>Please contact Mr Ng We Keat (DSA Coordinator) at tel. no. 63441593 or email <a href="mailto:ng_we_keat@moe.edu.sg">ng_we_keat@moe.edu.sg</a> if you need further clarifications. Thank you.</p>
