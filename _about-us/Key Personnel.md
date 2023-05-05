@@ -119,18 +119,17 @@ description: ""
 <tr>
 <td>Ms Du Tong Tong</td>
 <td>Subject Head / Social Studies</td>
-<td><a href="mailto:du_tongtong@moe.edu.sg " target="">du_tongtong@moe.edu.sg </a></td>
+<td><a href="mailto:du_tongtong@moe.edu.sg" target="">du_tongtong@moe.edu.sg </a></td>
 </tr>
 <tr>
 <td>Mr Kaleb Lim Kian Long</td>
 <td>Subject Head / Geography</td>
-<td><a href="mailto:	lim_kian_long@moe.edu.sg " 
-target="">	lim_kian_long@moe.edu.sg </a></td>
+<td><a href="mailto:	lim_kian_long@moe.edu.sg" target="">	lim_kian_long@moe.edu.sg </a></td>
 </tr>
 <tr>
 <td>Ms Neo Xuanpei Madeline</td>
 <td>Subject Head / CCE</td>
-<td><a href="mailto:neo_xuanpei@moe.edu.sg " target="">neo_xuanpei@moe.edu.sg</a></td>
+<td><a href="mailto:neo_xuanpei@moe.edu.sg" target="">neo_xuanpei@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td>Ms Tan Hui Lan</td>
@@ -140,7 +139,7 @@ target="">	lim_kian_long@moe.edu.sg </a></td>
 </tbody>
 </table>
 <p></p>
-<img src="/images/StaffPhoto/Teacher_Leader2023.png">
+<img src="/images/StaffPhoto/2023teacher_leader.png">
 <h3><strong>Teacher Leaders</strong></h3>
 <table>
 <tbody>
@@ -150,19 +149,9 @@ target="">	lim_kian_long@moe.edu.sg </a></td>
 <th style="text-align: center;" width="33%">Email</th>
 </tr>
 <tr>
-<td>Ms Sultana Rahman</td>
-<td>School Staff Developer</td>
-<td><a href="mailto:sultana_rahman@moe.edu.sg" target="">sultana_rahman@moe.edu.sg</a></td>
-</tr>
-<tr>
 <td>Mdm Adela Chee</td>
 <td>Senior Teacher</td>
 <td><a href="mailto:chee_kwek_khuen_adela@moe.edu.sg" target="">chee_kwek_khuen_adela@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td>Mrs Cherry Goh-Chan</td>
-<td>Senior Teacher</td>
-<td><a href="mailto:cherry_chan_hiang_puay@moe.edu.sg" target="">cherry_chan_hiang_puay@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td>Mdm Nur Ashikin Sapri</td>
