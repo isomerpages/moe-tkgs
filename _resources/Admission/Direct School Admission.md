@@ -7,7 +7,7 @@ third_nav_title: Admission
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/jIdLWBo-ezg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></center>
 
 The Direct School Admission (DSA) Exercise allows schools to offer places to suitable students with outstanding talent areas before the release of their PSLE exam results. TKGS invites Primary 6 students who have the ability and potential to meet our listed criteria below to apply.
-<br>
+
 <h3><u>Criteria</u></h3>
 Applicants should fulfil criteria in <b>2 areas:</b><br>
 <br><b>1.   Academic Performance</b><br>
