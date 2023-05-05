@@ -8,7 +8,7 @@ third_nav_title: Admission
 
 <p>The Direct School Admission (DSA) Exercise allows schools to offer places to suitable students with outstanding talent areas before the release of their PSLE exam results. TKGS invites Primary 6 students who have the ability and potential to meet our listed criteria below to apply.</p>
 
-<u><h3>Criteria</h3></u>
+<h3><u>Criteria</u></h3>
 Applicants should fulfil criteria in <b>2 areas:</b><br>
 <br><b>1.   Academic Performance</b><br>
 Students who have achieved an overall score of 70% or more for the Primary 5 Year-End Examination (2022) and Primary 6 Mid-Year Assessment (2023) result.
@@ -68,7 +68,7 @@ Students will be assessed on:<br><br>
 		</tr>
 		<tr>
 			<td style="vertical-align: middle;" rowspan="4">Sports</td>
-			<td style="text-align: center"><b>For Sports CCAs</b> (Badminton, Bowling, Floorball, Netball, Sailing &amp; Softball)</td>
+			<td style="text-align: center"><b>For Sports CCAs</b> <br>(Badminton, Bowling, Floorball, Netball, Sailing &amp; Softball)</td>
 			<td>Students should preferably have relevant experience such as:<br><br>
 •&nbsp;&nbsp;&nbsp;Being a member of the relevant Sports CCA for at least 1 year, OR <br>
 •&nbsp;&nbsp;&nbsp;Having represented Primary School in the National School Games (Zonal or National) Inter-Primary School Championship, OR<br>
@@ -116,13 +116,3 @@ To help us understand your application, please email an excerpt of your playing 
 			</tr></tbody>
 </table>
     <font color="red">* Please note that meeting all the criteria does not guarantee the student will be shortlisted/ given an offer.</font>
-<br>
-<br>
-Shortlisted students will be notified of the dates of the auditions, trials or interview via email register in the DSA portal. Please be informed that parents are not allowed to attend the auditions, trials and interviews<br><br>
-<b>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website &nbsp;-&nbsp;<a href="https://www.moe.gov.sg/secondary/dsa">www.moe.gov.sg/secondary/dsa</a>.</b><br><br>
-<img src="/images/Resources/Admission/DSA/2023_criteria.jpg">
-	<br>
-	<b>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</b><br><br>
-<b>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.</b><br>
-	<p><strong><u>Further enquires</u></strong>
-<br>Please contact Mr Ng We Keat (DSA Coordinator) at tel. no. 63441593 or email <a href="mailto:ng_we_keat@moe.edu.sg">ng_we_keat@moe.edu.sg</a> if you need further clarifications. Thank you.</p>
