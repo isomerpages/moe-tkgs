@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Contact Information.md
-      - Committee.md
