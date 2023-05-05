@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Contact Information.md
-      - example-page.md
       - faq.md
       - School VMV.md
       - Committee.md
