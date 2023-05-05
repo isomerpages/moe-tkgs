@@ -110,8 +110,8 @@ and any or all of the following items:<br>
 - Listening &amp; Theory written test which may require simple
 score-reading skills<br><br>
 To help us understand your application, please email an excerpt of your playing in the form of an mp3 audio clip (no longer than 1min) to <a href="mailto:wong_ching_yi_chesed@moe.edu.sg">wong_ching_yi_chesed@moe.edu.sg</a> by 2 June 2023
-		</td></tr>
-
+</td>
+	</tr>
 			</tbody>
 </table>
 <br>
