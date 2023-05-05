@@ -55,7 +55,7 @@ Shortlisted students will be assessed on:<br><br>
 •&nbsp;&nbsp;&nbsp;Musicality &amp; expression<br>
 •&nbsp;&nbsp;&nbsp;Sight-reading (rhythm and pitch)<br>
 •&nbsp;&nbsp;&nbsp;Aural ability (play back a short musical passage on their instrument after listening)<br><br>
-*Please send in a PDF of the score at least one week before the audition.
+*Shortlisted applicants will be notified to send in a PDF of the score at least one week before the audition.
 </td>
 		</tr>
 		<tr>
@@ -71,20 +71,48 @@ Students will be assessed on:<br><br>
 		<tr>
 			<td style="vertical-align: middle;" rowspan="4">Sports</td>
 			<td style="text-align: center"><b>For Sports CCAs</b> (Badminton, Bowling, Floorball, Netball, Sailing &amp; Softball)</td>
+			<td>Students should preferably have relevant experience such as:<br><br>
+•&nbsp;&nbsp;&nbsp;Being a member of the relevant Sports CCA for at least 1 year, OR <br>
+•&nbsp;&nbsp;&nbsp;Having represented Primary School in the National School Games (Zonal or National) Inter-Primary School Championship, OR<br>
+•&nbsp;&nbsp;&nbsp;Having represented National Sports Association or Club in local or overseas competition, OR<br>
+•&nbsp;&nbsp;&nbsp;Having represented Singapore Primary Schools Sports Council in local or overseas competition (Attach copy of the certificate if any), OR<br>
+•&nbsp;&nbsp;&nbsp;Being currently enrolled in MOE’s Junior Sports Academy (JSA) Programme and has completed a sport module similar to the relevant Sports CCA of choice.
+</td>
 		</tr>
 		<tr>
-			<td style="text-align: center">Bowling</td>
+			<td style="text-align: center"><u>Additionally for:</u> Badminton, Floorball, Netball and Softball
+</td>
+			<td>In addition to the criteria mentioned above, applicants for the following Sports CCAs will also be assessed on:<br><br>
+•&nbsp;&nbsp;&nbsp;Sport-specific fitness<br>
+•&nbsp;&nbsp;&nbsp;Sport-specific skills<br>
+•&nbsp;&nbsp;&nbsp;In-game decision-making skills</td>
+		</tr>
+		
+		<tr>
+			<td style="text-align: center"><u>Additionally for:</u> Bowling</td>
+	<td>Students will be assessed on: <br><br>
+		•&nbsp;&nbsp;&nbsp;Sport-specific skills (Based on the physical game)
+</td>
 		</tr>
 		<tr>
-			<td style="text-align: center">Floorball</td>
-		</tr>
-		<tr>
-			<td style="text-align: center">Netball</td>
+			<td style="text-align: center"><u>Additionally for:</u> Sailing</td>
+	<td>Applicants should preferably be ranked top 100 in the Optimist Gold Fleet or ILCA4 in Singapore Sailing Federation’s rank list.</td>
 		</tr>
 					<tr><td>Music</td>
 			<td style="text-align: center">Music Elective Program</td>
-		</tr>
-</tbody>
+	<td>Students should preferably have relevant experience such as:<br><br>
+- Being actively involved in a school-based or external musical group<br><br>
+Students will be assessed on:<br><br>
+- Performance of two contrasting prepared pieces on an instrument of choice or voice that is 2-5 minutes in duration<br><br>
+and any or all of the following items:<br>
+- Aural that requires students to imitate and respond to simple rhythmic and/ or melodic phrase by clapping and singing<br>
+- Sight-reading and Scales<br>
+- Listening &amp; Theory written test which may require simple
+score-reading skills<br><br>
+To help us understand your application, please email an excerpt of your playing in the form of an mp3 audio clip (no longer than 1min) to <a href="mailto:wong_ching_yi_chesed@moe.edu.sg">wong_ching_yi_chesed@moe.edu.sg</a> by 2 June 2023
+		</td></tr>
+
+			</tbody>
 </table>
 <br>
 <b>More information about the criteria of selection and the DSA time line will be updated on this page.</b>
