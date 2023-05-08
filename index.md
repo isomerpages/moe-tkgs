@@ -23,10 +23,11 @@ sections:
       button: More
   - infopic:
       title: Direct School Admission Virtual Open House
-      description: "Join us on 17 May "
-      button: Button Text
+      description: Join us on 20th May to find out more about life as a TKGian
+      button: Click here to register!
       image: /images/Hompage/Infopic/dsa_web.png
       alt: Image alt text
+      url: https://form.gov.sg/6449d0cdc65f22001116ecde
   - infopic:
       title: Graduation Certificates Ready For Collection
       description: Please refer to the infographic for more details and the link below
