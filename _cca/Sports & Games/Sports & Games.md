@@ -13,7 +13,7 @@ third_nav_title: Sports & Games
 	<th style="text-align: center;">Result</th>
 		</tr>
 		<tr>
-			<td style="vertical-align: middle;" width="28" rowspan="2">Netball</td>
+			<td style="vertical-align: middle;" rowspan="2">Netball</td>
 			<td style="text-align: center;">East Zone 'B' Division School Games</td>
 			<td style="text-align: center;">Champion</td>
 	</tr>
@@ -61,7 +61,7 @@ third_nav_title: Sports & Games
 			<td style="text-align: center;">4th Position</td>
 	</tr>
 	<tr>
-			<td style="vertical-align: middle;" width="28" rowspan="2">Tenpin Bowling</td>
+			<td style="vertical-align: middle;" rowspan="2">Tenpin Bowling</td>
 			<td style="text-align: center;">National ‘B’ Division School Games</td>
 			<td style="text-align: center;">3rd Position</td>
 	</tr>
