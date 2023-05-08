@@ -38,4 +38,10 @@ sections:
       url: https://docs.google.com/forms/d/e/1FAIpQLSex_HjrA1AoDaRFMQlsEpoIfJHnG9GDZVeL-xPDe2TLJ8eH-w/viewform
       alt: Image alt text
       image: /images/Hompage/Infopic/Alumni.png
+  - infopic:
+      title: Direct School Admission Virtual Open House
+      description: "Join us on 17 May "
+      button: Button Text
+      image: /images/Hompage/Infopic/dsa_web.png
+      alt: Image alt text
 ---
