@@ -5,68 +5,83 @@ description: ""
 third_nav_title: Sports & Games
 ---
 <p>Sports in TKGS imbues important values such as determination in our student-players. Our Badminton, Netball, Bowling and Softball teams have outdone themselves on many occasions at the annual National School Games.</p>
-<table>
+<h3>Year 2023</h3><table>
 <tbody>
-<tr>
-<th style="text-align: center;">
-<p>CCA</p>
-</th>
-<th style="text-align: center;">
-<p>National School Games</p>
-</th>
-</tr>
-<tr>
-<td style="text-align: center;">
-<p><strong>Netball</strong></p>
-</td>
-<td style="text-align: center;">
-<p><u><strong>2022<br /></strong></u>East Zone &lsquo;C&rsquo; Division &ndash; Champion</p>
-<p><u><strong>2019<br /></strong></u>National 'B' Division - Champion&nbsp;<br />National 'C' Division - 3rd Position</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;">
-<p><strong>Tenpin Bowling</strong></p>
-</td>
-<td style="text-align: center;">
-<p><strong><u>2022<br /></u></strong>National &lsquo;B&rsquo; Division &ndash; 3rd position<br />National &lsquo;C&rsquo; Division &ndash; 2nd position</p>
-<p><strong><u>2019<br /></u></strong>National 'B' Division - 3rd Position</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;">
-<p><strong>Softball</strong></p>
-</td>
-<td style="text-align: center;">
-<p><strong>2022<br /></strong>National &lsquo;B&rsquo; Division &ndash; 4th Position</p>
-<p><strong>2019<br /></strong>National 'B' Division - 3rd Position</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;">
-<p><strong>Sailing</strong></p>
-</td>
-<td style="text-align: center;">
-<p><strong>2019<br /></strong>National 'C' Division (Optimist) - Champion<br />National 'C' Division (Byte) - 2nd Position<br />National 'B' Division (Byte) - 3rd Position</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;">
-<p><strong>Tennis</strong></p>
-</td>
-<td style="text-align: center;">
-<p><strong><u>2019<br /></u></strong>National 'B' Division - 3rd Position&nbsp;<br />National 'C' Division - 1st Position</p>
-<p><strong><u>2016<br /></u></strong>National 'B' Division - 4th Position</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;">
-<p><strong>Badminton</strong></p>
-</td>
-<td style="text-align: center;">
-<p><strong><u>2022<br /></u></strong>East Zone 'B' Division - 3rd Position</p>
-<p><u></u><strong><u>2021<br /></u></strong>East Zone 'B' Division - 4th Position</p>
-</td>
-</tr>
-</tbody>
+	<tr>
+	<th style="text-align: center;">CCA</th>
+	<th style="text-align: center;">Competition</th>
+	<th style="text-align: center;">Result</th>
+		</tr>
+		<tr>
+			<td style="vertical-align: middle;" rowspan="2">Netball</td>
+			<td style="text-align: center;">East Zone 'B' Division School Games</td>
+			<td style="text-align: center;">Champion</td>
+	</tr>
+	<tr>
+		<td style="text-align: center;">National ‘B’ Division School Games</td>
+			<td style="text-align: center;">3rd Position</td>
+	</tr>
+	<tr>
+			<td>Sailing</td>
+			<td style="text-align: center;">National ‘C’ Division School Games<br>(Optimist)</td>
+			<td style="text-align: center;">2nd Position</td>
+	</tr>
+	<tr>
+			<td>Softball</td>
+			<td style="text-align: center;">National ‘B’ Division School Games</td>
+			<td style="text-align: center;">3rd Position</td>
+	</tr>
+	<tr>
+			<td style="vertical-align: middle;">Tenpin Bowling</td>
+			<td style="text-align: center;">National ‘B’ Division School Games</td>
+			<td style="text-align: center;">2nd Position</td>
+	</tr>
+	</tbody>
+</table>
+<h3>Year 2022</h3><table>
+<tbody>
+	<tr>
+	<th style="text-align: center;">CCA</th>
+	<th style="text-align: center;">Competition</th>
+	<th style="text-align: center;">Result</th>
+		</tr>
+		<tr>
+			<td>Badminton</td>
+			<td style="text-align: center;">East Zone 'B' Division School Games</td>
+			<td style="text-align: center;">3rd Position</td>
+	</tr>
+		<tr>
+			<td>Netball</td>
+			<td style="text-align: center;">East Zone 'C' Division School Games</td>
+			<td style="text-align: center;">Champion</td>
+	</tr>
+	<tr>
+			<td>Softball</td>
+			<td style="text-align: center;">National ‘B’ Division School Games</td>
+			<td style="text-align: center;">4th Position</td>
+	</tr>
+	<tr>
+			<td style="vertical-align: middle;" rowspan="2">Tenpin Bowling</td>
+			<td style="text-align: center;">National ‘B’ Division School Games</td>
+			<td style="text-align: center;">3rd Position</td>
+	</tr>
+	<tr>
+		<td style="text-align: center;">National ‘C’ Division School Games</td>
+			<td style="text-align: center;">2nd Position</td>
+	</tr>
+	</tbody>
+</table>
+<h3>Year 2021</h3><table>
+<tbody>
+	<tr>
+	<th style="text-align: center;">CCA</th>
+	<th style="text-align: center;">Competition</th>
+	<th style="text-align: center;">Result</th>
+		</tr>
+		<tr>
+			<td>Badminton</td>
+			<td style="text-align: center;">East Zone 'B' Division School Games</td>
+			<td style="text-align: center;">4th Position</td>
+	</tr>
+	</tbody>
 </table>

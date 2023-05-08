@@ -2,4 +2,4 @@ collections:
   template:
     output: true
     order:
-      - Template Selection.md
+      - Design A.md
