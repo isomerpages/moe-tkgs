@@ -61,7 +61,7 @@ third_nav_title: Visual & Performing Arts
 </tr>
 <tr>
 <td style="text-align: center;">Symphonic Band</td>
-<td style="text-align: center;">Certificate of Accomplishment</td>
+<td style="text-align: center;">Certificate of Distinction</td>
 </tr>
 </tbody>
 </table>
