@@ -15,7 +15,7 @@ third_nav_title: Visual & Performing Arts
 <td style="text-align: center;"><strong>Achievements</strong></td>
 </tr>
 <tr>
-<td>Choir</td>
+<td style="text-align: center;">Choir</td>
 <td style="text-align: center;">Certificate of Distinction</td>
 </tr>
 <tr>
