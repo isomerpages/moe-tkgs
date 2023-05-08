@@ -22,6 +22,12 @@ sections:
       title: TKGS Sparkling Moments
       button: More
   - infopic:
+      title: Direct School Admission Virtual Open House
+      description: "Join us on 17 May "
+      button: Button Text
+      image: /images/Hompage/Infopic/dsa_web.png
+      alt: Image alt text
+  - infopic:
       title: Graduation Certificates Ready For Collection
       description: Please refer to the infographic for more details and the link below
         for Letter of authorization for proxy collection.
@@ -38,10 +44,4 @@ sections:
       url: https://docs.google.com/forms/d/e/1FAIpQLSex_HjrA1AoDaRFMQlsEpoIfJHnG9GDZVeL-xPDe2TLJ8eH-w/viewform
       alt: Image alt text
       image: /images/Hompage/Infopic/Alumni.png
-  - infopic:
-      title: Direct School Admission Virtual Open House
-      description: "Join us on 17 May "
-      button: Button Text
-      image: /images/Hompage/Infopic/dsa_web.png
-      alt: Image alt text
 ---
