@@ -4,7 +4,7 @@ permalink: /resources/admission/direct-school-admission/
 description: ""
 third_nav_title: Admission
 ---
-<center><img src="/images/Hompage/Infopic/dsa_web.png"></center>
+<center><img src="/images/Hompage/Infopic/dsa_web_re.png"></center>
 Join us on 20th May to find out more about life as a TKGian! Click <a href="https://form.gov.sg/6449d0cdc65f22001116ecde">here</a> to register!!<br><br>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/jIdLWBo-ezg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></center>
 
