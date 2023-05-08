@@ -29,10 +29,10 @@ third_nav_title: Sports & Games
 	<tr>
 			<td>Softball</td>
 			<td style="text-align: center;">National ‘B’ Division School Games</td>
-			<td style="text-align: center;">4th Position</td>
+			<td style="text-align: center;">3rd Position</td>
 	</tr>
 	<tr>
-			<td style="vertical-align: middle;" rowspan="1">Tenpin Bowling</td>
+			<td style="vertical-align: middle;">Tenpin Bowling</td>
 			<td style="text-align: center;">National ‘B’ Division School Games</td>
 			<td style="text-align: center;">2nd Position</td>
 	</tr>
