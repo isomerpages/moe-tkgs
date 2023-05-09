@@ -23,7 +23,7 @@ sections:
       button: More
   - infopic:
       title: Direct School Admission Virtual Open House
-      description: Join us on 20th May to find out more about life as a TKGian
+      description: Join us on 20th May to find out more about life as a TKGian.
       button: Click here to register!
       image: /images/Hompage/Infopic/dsa_web_re.png
       alt: Image alt text
