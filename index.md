@@ -4,8 +4,8 @@ title: Tanjong Katong Girls' School
 description: Brief site description here
 image: /images/logo.png
 permalink: /
-notification: <p>You may type here <a href="https://www.YouMayLinkHere.com">
-  Find Out More.</a></p> <p>DSA Admission Virtual Open House<a
+notification: <p>1. You may type here <a href="https://www.YouMayLinkHere.com">
+  Find Out More.</a></p> <p>2. DSA Admission Virtual Open House<a
   href="https://www.YouMayLinkHere.com"> Click here to register!</a></p>
 sections:
   - hero:
