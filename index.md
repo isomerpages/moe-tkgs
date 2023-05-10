@@ -4,7 +4,8 @@ title: Tanjong Katong Girls' School
 description: Brief site description here
 image: /images/logo.png
 permalink: /
-notification: ""
+notification: '<p>You may type here <a href="https://www.YouMayLinkHere.com">
+  Find Out More.</a></p> '
 sections:
   - hero:
       background: /images/Hompage/newbannerv1.gif
