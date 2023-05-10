@@ -7,7 +7,7 @@ permalink: /
 notification: <p>1. You may type here <a href="https://www.YouMayLinkHere.com">
   Find Out More.</a></p> <p>2. DSA Admission Virtual Open House<a
   href="https://www.YouMayLinkHere.com"> Click here to register!</a></p> <p><img
-  src="/images/Hompage/Infopic/dsa_web_re.png"></p>
+  src="/images/Hompage/Infopic/dsa_web_re.png" width="200" height="200"></p>
 sections:
   - hero:
       background: /images/Hompage/newbannerv1.gif
