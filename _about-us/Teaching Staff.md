@@ -13,7 +13,7 @@ Humanities Department
 <img src="/images/StaffPhoto/teachingstaff-hum2023v1.png">
 <br>
 Math Department
-<img src="/images/StaffPhoto/teachingstaff-math2023_v2.png">
+<img src="/images/StaffPhoto/teachingstaff-math2023_v3.png">
 <br>
 Mother Tongue Department
 <img src="/images/StaffPhoto/TeachingStaff-MotherTongue2023.png">
