@@ -12,6 +12,9 @@ English Department
 Humanities Department
 <img src="/images/StaffPhoto/TeachingStaff-Hum2023.png">
 <br>
+Math Department
+<img src="/images/StaffPhoto/teachingstaff-math2023.png">
+<br>
 Mother Tongue Department
 <img src="/images/StaffPhoto/TeachingStaff-MotherTongue2023.png">
 <br>
