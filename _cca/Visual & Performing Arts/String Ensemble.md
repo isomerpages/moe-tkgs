@@ -23,7 +23,7 @@ tr:hover {background-color: #F5F5DC;}
 
 <p>Established in 1998, the String Ensemble has grown steadily, from a very modest 10-member team to the current 40-strong ensemble.</p>
 <p>The ensemble has participated regularly in the biennial Singapore Youth Festival (SYF), clinching gold and silver awards. Most recently, the string ensemble was awarded the highest accolade, the Certificate of Distinction for the past four SYF Arts Presentation in 2015, 2017, 2019, and 2021. The ensemble is currently under the baton of Mr. Jesher Loi.</p>
-<p>Dedicated to providing our young musicians with musical, social and intellectual growth, the string ensemble has nurtured many music enthusiasts and young talents and will continue to do so for years to come. The string ensemble has also made numerous performances both in school and at public venues. We will be taking part in the SYF Arts Presentation this year, and look forward to catching us at our biennial concert series, Da Capo, at the Victoria Concert Hall next year.</p>
+<p>Dedicated to providing our young musicians with musical, social and intellectual growth, the string ensemble has nurtured many music enthusiasts and young talents and will continue to do so for years to come.</p>
 
 <table>
 	<tbody><tr><th colspan="1">Teacher-in-Charge</th>
