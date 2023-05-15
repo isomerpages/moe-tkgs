@@ -19,8 +19,7 @@ th, td {
 tr:hover {background-color: #F5F5DC;}
 </style>
 
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSmsy4YHH8nNCsE-9EZjhzxJ8QZKpujjCTWM0OljbJpLGQphB5EG86zbCzAWdD5H5GEcFafY9ySbdEF/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true"></iframe>
+<img src="/images/CCA/Library_Board/library.gif">
 
 <p dir="ltr">The Library Board aims to promote the love for reading and writing and provides members with various opportunities to participate in competitions to hone their writing and information literacy skills. We forge close bonds with one another by sharing our love for books and reading.</p>
 <p dir="ltr">We started off 2021 with the Secondary One Orientation cum Bonding, followed by a sharing of a video created by the Secondary Ones on books by local author Gabby Tye. To better appreciate Singapore Literature, librarians attended a virtual workshop by renowned local writer, Alvin Pang. We also created thematic displays on Singapore Literature, shape poems by our Secondary Ones and posters on friendship.</p>
