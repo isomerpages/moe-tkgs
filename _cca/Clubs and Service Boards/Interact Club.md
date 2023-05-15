@@ -35,3 +35,16 @@ tr:hover {background-color: #F5F5DC;}
 	 	</tr>
 </tbody>
 </table>
+table&gt;
+	CCA Schedule
+
+	 Training Day / Time
+Wednesday<br>
+	3:30pm to 5:30pm
+		
+	 	
+
+	Training Venue
+ Nexus 1 &amp; 2
+	
+
