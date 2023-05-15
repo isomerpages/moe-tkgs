@@ -4,7 +4,6 @@ permalink: /cca/visual-n-performing-arts/choir/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-<head>
 <style>
 table {
   border-collapse: collapse;
@@ -19,9 +18,8 @@ th, td {
 
 tr:hover {background-color: #F5F5DC;}
 </style>
-</head>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT_5z2_tY9JvbxyIbInqdhvZOhoK7N4CcIqhfMaEBtmYjPEnlEYMxXMYY-XkT3ETjq_h-vo70J3QZSI/embed?start=false&loop=false&delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true"></iframe>
+<img src="/images/CCA/Choir/tkgschoir.gif">
 
 <p>Under the baton of Ms Lim Ai Hooi, the Choir has obtained several notable awards and achievements both locally and internationally. It was awarded the highest accolade, Gold with Honours and the Certificate of Distinction, at the Singapore Youth Festival (SYF) Arts Presentation since 2009. Most recently, we clinched a Gold Award in the Open Category at in the 7th Winter Choral Festival (2016) in Hong Kong and a Distinction in SYF 2019, and performed at Esplanade for its Limelight programme, 2019.</p>
 <p>The TKGS Choir offers many different opportunities for one to grow as a singer and performer through school and public events. Some of such recent events include performances at the Esplanade Concert Hall (2017 and 2019), Christmas carolling at Gardens by the Bay (2016) and performance at the launch of the 2nd edition of Singapore Rhapsodies (2017) in the beautiful backdrop of the National Museum of Singapore.&nbsp;</p>
