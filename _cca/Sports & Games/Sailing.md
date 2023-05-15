@@ -4,7 +4,6 @@ permalink: /cca/sports-n-games/sailing/
 description: ""
 third_nav_title: Sports & Games
 ---
-<head>
 <style>
 table {
   border-collapse: collapse;
@@ -19,12 +18,13 @@ th, td {
 
 tr:hover {background-color: #F5F5DC;}
 </style>
-</head>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSRLIo4iIr0obbURE-Hhaa4KeVQxGEcj_APZTifzMOI0iH7vME9CqqYf0E_8xzaLhOGCVfntel2wQ4P/embed?start=false&loop=false&delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true"></iframe>
+<img src="/images/CCA/Sailing/sailing.gif">
 
-<p>In Sailing, there are many uncontrollable factors that are constantly changing such as weather conditions and wind shifts. Despite these challenges we continue to train hard every week to do better and strive to achieve our goals.</p>
-<p>The Covid-19 pandemic has brought the TKGS sailors many challenges. For the second year in a row, we were unable to compete in the regattas (competitions) and more importantly, the National School Games. Due to Safe Management Measures (SMM), we have shifted the majority of our CCA trainings through Zoom performing physical trainings. Although it is not be the most ideal way to train, we still make use of the opportunity to bond with our team mates, albeit virtually, and at the same time maintain our fitness levels. We look forward to 2022 to which we hope to achieve great things to bring honour to our school.<table>
+<p>Sailing fosters a wide range of physical and mental abilities such as physical fitness, self confidence, alertness and focus. Trainings and participation in regattas have helped us to also develop our agility, concentration and communication skills. A sailor faces challenges in every training and regatta, be it rigging up our boats into and out of the sea, or improving our sailing techniques under the scorching sun. However, these challenges enable us to constantly improve our physical and mental attributes.</p>
+
+<p>Training sessions are often physically and mentally draining, but because we are doing it together as a group, it has allowed us to bond together as a team. We are always looking out for our team mates, giving constant encouragements and always lending a helping hand whenever a team mate is in need. This has created a strong team spirit between us in the CCA.</p>
+<table>
 	<tbody><tr><th colspan="1">Teacher-in-Charge</th>
 </tr><tr>
 	<td rowspan="1">Mr Abdul Mutalib Khan Bin Abd</td>
@@ -34,16 +34,16 @@ tr:hover {background-color: #F5F5DC;}
 	<td rowspan="1">Mr Lim Kok Siong</td>
  <td><a target="" href="mailto:lim_kok_siong@moe.edu.sg">lim_kok_siong@moe.edu.sg</a></td>
 	</tr>
-<br>
-<table>
+
+</tbody></table><table>
 	<tbody><tr><th colspan="1">CCA Schedule</th>
 </tr><tr>
 	<td rowspan="1"> Training Day / Time</td>
-<td>Monday & Wednesday<br>
+<td>Monday &amp; Wednesday<br>
 	3:15pm to 6:00pm</td>
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
  <td rowspan="1"> National Sailing Centre</td>
 	</tr>
-</tbody></table>
+</tbody></table><p></p>
