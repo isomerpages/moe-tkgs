@@ -22,7 +22,6 @@ tr:hover {background-color: #F5F5DC;}
 <img src="/images/CCA/Interact/interact.gif">
 
 <p>Nothing is too small as long as it comes from the heart’ is Interact Club’s motto. We aim to develop in our members a sense of responsibility and to give back to the community with little selfless acts of service. This year, our club managed to remain united even in the face of the raging pandemic by participating in various community projects. With the completion of each project, reaching each milestone, we sincerely hope that these little selfless seeds of kindness will grow and become an integral way of life for all Interactors.</p>
-<p style="text-align: right;"><strong>Rinaaz Abdul Salam (President)</strong></p>
 
 <table>
 	<tbody><tr><th colspan="1">Teacher-in-Charge</th>
