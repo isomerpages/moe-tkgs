@@ -35,14 +35,17 @@ tr:hover {background-color: #F5F5DC;}
 	 	</tr>
 </tbody>
 </table>
-table&gt;
-	CCA Schedule
-
-	 Training Day / Time
-Wednesday<br>
+<table>
+	<tbody><tr><th colspan="1">CCA Schedule</th>
+</tr><tr>
+	<td rowspan="1"> Training Day / Time</td>
+<td>Wednesday<br>
 	3:30pm to 5:30pm
-		
-	 	
-
-	Training Venue
- Nexus 1 &amp; 2
+		</td>
+	 	</tr>
+<tr>
+	<td rowspan="1">Training Venue</td>
+ <td rowspan="1">Nexus 1 &amp; 2</td>
+	</tr>
+</tbody>
+</table>
