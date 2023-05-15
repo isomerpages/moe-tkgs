@@ -46,5 +46,3 @@ Wednesday<br>
 
 	Training Venue
  Nexus 1 &amp; 2
-	
-
