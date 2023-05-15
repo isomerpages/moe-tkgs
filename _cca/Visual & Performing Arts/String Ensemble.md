@@ -4,7 +4,6 @@ permalink: /cca/visual-n-performing-arts/string-ensemble/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-<head>
 <style>
 table {
   border-collapse: collapse;
@@ -19,9 +18,8 @@ th, td {
 
 tr:hover {background-color: #F5F5DC;}
 </style>
-</head>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQFAPdYiyKaK_-3vZe9rxAPf5Dhyu3xRsHRjdrtZzOp6jV-XsiEf-r5oFvioMyIqUDrIQ70BoCJrmhr/embed?start=false&loop=false&delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true" ></iframe>
+<img src="/images/CCA/Strings/strings.gif">
 
 <p>Established in 1998, the String Ensemble has grown steadily, from a very modest 10-member team to the current 40-strong ensemble.</p>
 <p>The ensemble has participated regularly in the biennial Singapore Youth Festival (SYF), clinching gold and silver awards. Most recently, the string ensemble was awarded the highest accolade, the Certificate of Distinction for the past four SYF Arts Presentation in 2015, 2017, 2019, and 2021. The ensemble is currently under the baton of Mr. Jesher Loi.</p>
