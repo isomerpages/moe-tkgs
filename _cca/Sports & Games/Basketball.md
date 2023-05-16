@@ -26,8 +26,11 @@ tr:hover {background-color: beige;}
 <p style="text-align: right;"><strong>Mr Noor Ghazali (Teacher-in-Charge)</strong></p>
 
 <table>
-	<tbody><tr><th colspan="1">Teacher-in-Charge</th>
-</tr><tr>
+	<tbody>
+		<tr>
+			<th colspan="1">Teacher-in-Charge</th>
+</tr>
+		<tr>
 	<td rowspan="1">Mr Noor Ghazali</td>
  <td><a target="" href="mailto:noor_ghazali_md_nor@moe.edu.sg">noor_ghazali_md_nor@moe.edu.sg</a></td>
 	 	</tr>
@@ -35,11 +38,13 @@ tr:hover {background-color: beige;}
 	<td rowspan="1">Mdm Zheng Ling Qiao</td>
  <td><a target="" href="mailto:zheng_ling_qiao@moe.edu.sg">zheng_ling_qiao@moe.edu.sg</a></td>
 	</tr>
-</tbody></table>
-<br>
+</tbody>
+</table>
+
 <table>
-	<tbody><tr><th colspan="1">CCA Schedule</th>
-</tr><tr>
+ <tbody><tr><th colspan="1">CCA Schedule</th>
+</tr>
+	 <tr>
 	<td rowspan="1"> Training Day / Time</td>
 <td>Monday &amp; Wednesday<br>
 	3.15pm to 5.15pm</td>
@@ -48,4 +53,5 @@ tr:hover {background-color: beige;}
 	<td rowspan="1">Training Venue</td>
  <td rowspan="1"> Indoor Sports Hall (Level 4)</td>
 	</tr>
-</tbody></table>
+</tbody>
+</table>
