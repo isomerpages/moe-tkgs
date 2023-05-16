@@ -26,8 +26,11 @@ tr:hover {background-color: #F5F5DC;}
 <p>Dedicated to providing our young musicians with musical, social and intellectual growth, the string ensemble has nurtured many music enthusiasts and young talents and will continue to do so for years to come.</p>
 
 <table>
-	<tbody><tr><th colspan="1">Teacher-in-Charge</th>
-</tr><tr>
+	<tbody>
+		<tr>
+			<th colspan="1">Teacher-in-Charge</th>
+</tr>
+		<tr>
 	<td rowspan="1">Mr Lee Wei Xun</td>
  <td><a target="" href="mailto:lee_wei_xun@moe.edu.sg">lee_wei_xun@moe.edu.sg</a></td>
 	 	</tr>
@@ -41,9 +44,13 @@ tr:hover {background-color: #F5F5DC;}
 	 	</tr>
 	</tbody>
 	</table>
+	<br>
 <table>
-	<tbody><tr><th colspan="1">CCA Schedule</th>
-</tr><tr>
+	<tbody>
+		<tr>
+			<th colspan="1">CCA Schedule</th>
+</tr>
+		<tr>
 	<td rowspan="1"> Training Day / Type / Time</td>
 		<td>Tuesday <b>(Tuition)</b><br>
 	3:00pm to 6:00pm<br>
