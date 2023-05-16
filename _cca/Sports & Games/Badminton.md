@@ -54,7 +54,6 @@ as a team.</p>
 	 	</tr>
 </tbody>
 </table>
-<br>
 <table>
 	<tbody>
 		<tr>
