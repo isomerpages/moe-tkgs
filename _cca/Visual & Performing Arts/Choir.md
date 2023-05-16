@@ -29,22 +29,22 @@ tr:hover {background-color: #F5F5DC;}
 	<tbody>
 		<tr>
 			<th colspan="1">Teacher-in-Charge</th>
-</tr>
+		</tr>
 		<tr>
-	<td rowspan="1">Ms Tong Siok Theng </td>
- <td><a target="" href="mailto:tong_siok_theng@moe.edu.sg">tong_siok_theng@moe.edu.sg</a></td>
-	 	</tr>
-<tr>
-	<td rowspan="1">Mrs Chan Pin Hong</td>
- <td><a target="" href="mailto:chew_pin_hong@moe.edu.sg">chew_pin_hong@moe.edu.sg</a></td>
-	 	</tr>
+			<td rowspan="1">Ms Tong Siok Theng </td>
+			<td><a target="" href="mailto:tong_siok_theng@moe.edu.sg">tong_siok_theng@moe.edu.sg</a></td>
+		</tr>
 		<tr>
-	<td rowspan="1">Mdm Chong Su Yee </td>
+			<td rowspan="1">Mrs Chan Pin Hong</td>
+			<td><a target="" href="mailto:chew_pin_hong@moe.edu.sg">chew_pin_hong@moe.edu.sg</a></td>
+		</tr>
+		<tr>
+			<td rowspan="1">Mdm Chong Su Yee </td>
 			<td><a target="" href="mailto:chong_su_yee@moe.edu.sg">chong_su_yee@moe.edu.sg</a></td>
 		</tr>
 	</tbody>
-	</table>
-	<table>
+</table>
+<table>
 	<tbody>
 		<tr>
 			<th colspan="1">CCA Schedule</th>
@@ -53,11 +53,11 @@ tr:hover {background-color: #F5F5DC;}
 	<td rowspan="1"> Training Day / Time</td>
 <td>Wednesday &amp; Friday<br>
 	3:30pm to 6:00pm
-		</td>
-	 	</tr>
-<tr>
-	<td rowspan="1">Training Venue</td>
- <td rowspan="1">Vivaldi Room</td>
-	</tr>
-</tbody>
-		</table>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="1">Training Venue</td>
+			<td rowspan="1">Vivaldi Room</td>
+		</tr>
+	</tbody>
+</table>
