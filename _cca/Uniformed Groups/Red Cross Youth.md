@@ -26,8 +26,11 @@ tr:hover {background-color: #F5F5DC;}
 <p style="text-align: right;"><strong>Jewel Soh (3/4)</strong></p>
 
 <table>
-	<tbody><tr><th colspan="1">Teacher-in-Charge</th>
-</tr><tr>
+	<tbody>
+		<tr>
+			<th colspan="1">Teacher-in-Charge</th>
+</tr>
+		<tr>
 	<td rowspan="1">Dr Siti Munira Haidad Ali</td>
  <td><a target="" href="mailto:siti_munira_haidad_ali@moe.edu.sg">siti_munira_haidad_ali@moe.edu.sg</a></td>
 	 	</tr>
@@ -39,7 +42,8 @@ tr:hover {background-color: #F5F5DC;}
 </table>
 <table>
 	<tbody>
-		<tr><th colspan="1">CCA Schedule</th>
+		<tr>
+			<th colspan="1">CCA Schedule</th>
 </tr>
 		<tr>
 	<td rowspan="1"> Training Day / Time</td>
