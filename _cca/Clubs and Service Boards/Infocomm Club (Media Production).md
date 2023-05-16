@@ -19,7 +19,7 @@ th, td {
 tr:hover {background-color: #F5F5DC;}
 </style>
 
-<img src="/images/CCA/Media_Club/basketball.gif">
+<img src="/images/CCA/Media_Club/mediaclub.gif">
 
 <p>This year has been full of ups and downs for Infocomm Club. We started off the year as usual with Audio-Visual (AV) training where some of our Sec 3 members stepped up and volunteered to teach the juniors. Due to the Safe Management Measures (SMM) at the beginning of the year, we were not able to have external trainers come in for the various courses. Instead, the Exco members organised a mini video competition where members were put in groups to plan, film and edit their own videos.</p>
 <p>With the easing of SMM coupled with the Sec 1 members joining the CCA, the photography and videography courses began for the Sec 1 and 2 respectively. The Sec 1 members learned how to use the DSLR cameras and basic photography skills. The Sec 2 members had a videography course, where they also learnt how to conduct interviews. They learnt skills like how to engage the interviewee and what questions to ask in an interview. As the Sec 3 members did not have any courses planned for them, they participated in a variety of activities led by the Exco members such as taking photographs of the school landscapes for the student handbook as well as designing cyber-wellness posters during CCA sessions. Due to the many changes in SMM over the year, courses were often disrupted as many face-to-face CCA sessions were cancelled. Nonetheless, our members have learnt a lot.</p>
@@ -29,8 +29,11 @@ tr:hover {background-color: #F5F5DC;}
 <p>Finally, we aim to give our fullest in providing the school with technical help. This includes editing videos for school events, such as Leaders' Investiture, Teachers' Day and many other events throughout the year. We also carry out our usual AV duties every morning in the general office helping out with morning announcements and playing audio tracks. Furthermore, our members are responsible for the photography coverage at every school event, locking each precious moment in a little time capsule.</p>
 
 <table>
-	<tbody><tr><th colspan="1">Teacher-in-Charge</th>
-</tr><tr>
+	<tbody>
+		<tr>
+			<th colspan="1">Teacher-in-Charge</th>
+</tr>
+		<tr>
 	<td rowspan="1">Mr Poh Hou Shun</td>
  <td><a target="" href="mailto:poh_hou_shun@moe.edu.sg">poh_hou_shun@moe.edu.sg</a></td>
 	 	</tr>
@@ -40,9 +43,13 @@ tr:hover {background-color: #F5F5DC;}
 	 	</tr>
 	</tbody>
 	</table>
+	<br>
 <table>
-	<tbody><tr><th colspan="1">CCA Schedule</th>
-</tr><tr>
+	<tbody>
+		<tr>
+			<th colspan="1">CCA Schedule</th>
+</tr>
+		<tr>
 	<td rowspan="1"> Training Day / Time</td>
 <td>Monday<br>
 	3:30pm to 5:30pm
