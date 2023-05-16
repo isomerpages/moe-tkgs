@@ -35,9 +35,12 @@ team, help each other out to brush up on our
 individual skills and learn the importance of
 teamwork which we can use to achieve our goals
 as a team.</p>
-<table>
-	<tbody><tr><th colspan="1">Teacher-in-Charge</th>
-</tr><tr>
+&lt;
+			th colspan="1"&gt;Teacher-in-Charge<table>
+	<tbody>
+		<tr>
+</tr>
+		<tr>
 	<td rowspan="1">Mrs Melinda Loy</td>
  <td><a target="" href="mailto:chung_ah_boey@moe.edu.sg">chung_ah_boey@moe.edu.sg</a></td>
 	 	</tr>
@@ -49,10 +52,15 @@ as a team.</p>
 	<td rowspan="1">Mdm Adela Chee</td>
  <td><a target="" href="mailto:ang_wee_jin@moe.edu.sg">ang_wee_jin@moe.edu.sg</a></td>
 	 	</tr>
-
-</tbody></table><table>
-	<tbody><tr><th colspan="1">CCA Schedule</th>
-</tr><tr>
+</tbody>
+</table>
+<br>
+<table>
+	<tbody>
+		<tr>
+			<th colspan="1">CCA Schedule</th>
+</tr>
+		<tr>
 	<td rowspan="1"> Training Day / Time</td>
 <td>Monday, Wednesday &amp; Friday<br>
 	3.15pm to 5.15pm</td>
@@ -61,4 +69,5 @@ as a team.</p>
 	<td rowspan="1">Training Venue</td>
  <td rowspan="1"> School Hall </td>
 	</tr>
-</tbody></table>
+</tbody>
+</table>
