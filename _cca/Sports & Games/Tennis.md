@@ -26,7 +26,9 @@ tr:hover {background-color: #F5F5DC;}
 <p>When the COVID situation got worse, we had to conduct e-CCA instead. Although it was hard to conduct a sports CCA online, the members cooperated with the leaders. In the end, e-CCA was a success. Even though we were not able to play tennis, the leaders incorporated tennis videos and bonding games. Such as Kahoot and other games.&nbsp;</p>
 <p>Through all hardships we faced, we stayed strong and continued keeping up our team spirit. This could not have been done without the help of our coaches and teachers that guided us. On behalf of the team, we would like to thank them for their patience and guidance. Our members will continue to strive and work hard for our school. We will remain resilient in the face of challenges.</p>
 <table>
-	<tbody><tr><th colspan="1">Teacher-in-Charge</th>
+	<tbody>
+		<tr>
+			<th colspan="1">Teacher-in-Charge</th>
 </tr>
 <tr>
 	<td rowspan="1">Ms Koo Ching Ching</td>
@@ -40,11 +42,15 @@ tr:hover {background-color: #F5F5DC;}
 	<td rowspan="1">Ms Tong Liying</td>
  <td><a target="" href="mailto:tong_liying@moe.edu.sg">tong_liying@moe.edu.sg</a></td>
 	 	</tr>
-</tbody></table>
+</tbody>
+</table>
 <br>
 <table>
-	<tbody><tr><th colspan="1">CCA Schedule</th>
-</tr><tr>
+	<tbody>
+		<tr>
+			<th colspan="1">CCA Schedule</th>
+</tr>
+		<tr>
 	<td rowspan="1"> Training Day / Time</td>
 <td>Monday, Wednesday &amp; Friday<br>
 	3:30pm to 5.30pm</td>
@@ -53,4 +59,5 @@ tr:hover {background-color: #F5F5DC;}
 	<td rowspan="1">Training Venue</td>
  <td rowspan="1"> Sports SG Tennis Centre</td>
 	</tr>
-</tbody></table>
+</tbody>
+</table>
