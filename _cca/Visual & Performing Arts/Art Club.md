@@ -26,8 +26,11 @@ tr:hover {background-color: #F5F5DC;}
 <p>As a member, you'll have the freedom to make your own artistic choices and hone your skills using your aesthetic senses. With support from our instructors, you'll learn new techniques and expand your ideas of what art can be.
 </p>
 <table>
-	<tbody><tr><th colspan="1">Teacher-in-Charge</th>
-</tr><tr>
+	<tbody>
+		<tr>
+			<th colspan="1">Teacher-in-Charge</th>
+</tr>
+		<tr>
 	<td rowspan="1">Mdm Yante Yahya</td>
  <td>
 	 <a target="" href="mailto:yante_yahya@moe.edu.sg">yante_yahya@moe.edu.sg</a></td>
@@ -40,6 +43,7 @@ tr:hover {background-color: #F5F5DC;}
 	 	</tr>
 	</tbody>
 	</table>
+	<br>
 <table>
 	<tbody>
 		<tr>
