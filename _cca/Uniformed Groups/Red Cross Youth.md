@@ -4,7 +4,6 @@ permalink: /cca/uniformed-groups/red-cross-youth/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<head>
 <style>
 table {
   border-collapse: collapse;
@@ -19,9 +18,8 @@ th, td {
 
 tr:hover {background-color: #F5F5DC;}
 </style>
-</head>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQuAKc-xIH9vGwZwobxAKHpo0jgZXO3geLWl-LU88Uo9-c6_jf7u2xiPvcnOuQnNkht0-cH3vVHOX7l/embed?start=false&loop=false&delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true"></iframe>
+<img src="/images/CCA/RCY/redcross.gif">
 
 <p>2021 started like how 2020 ended with COVID-19 continued to dish out many challenges, including having to halt CCA training and losing a lot of valuable time we needed to conduct lessons. Furthermore, we were unable to meet face to face to discuss upcoming events, and coupled with the tight deadlines, it was truly quite a struggle. However, we persevered, not letting these drawbacks hold us down as a unit. We are getting used to conducting lessons and training through zoom and google meet, adapting our lessons to cover as much as possible during each training, as well as using online platforms to discuss and complete projects, we pushed through and overcame them!</p>
 <p>Despite all the challenges, the year was still filled with many fun activities and virtual projects that gave us the opportunities to give back to our community, below are some of these activities:&nbsp;</p>
