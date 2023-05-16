@@ -26,8 +26,11 @@ tr:hover {background-color: #F5F5DC;}
 <p>In March, there was NSG B Div Competition for the Sec 3 and 4 players. We managed to train at the bowling lanes a few times before the actual competition. Although we did not manage to win, the whole team did their best, silently comforting each other when we were down and cheering for each other without any physical contact. It was very heart-warming to feel the team spirit despite the SMM measures, and it was definitely an unforgettable experience for us all.&nbsp;</p>
 <p style="text-align: right;"><strong>Nosheen Syarafana (3E2)</strong><br><strong>Delaney Loh (3E2)</strong></p>
 <table>
-	<tbody><tr><th colspan="1">Teacher-in-Charge</th>
-</tr><tr>
+	<tbody>
+		<tr>
+			<th colspan="1">Teacher-in-Charge</th>
+</tr>
+		<tr>
 	<td rowspan="1">Mrs Tan Woei Ling</td>
  <td><a target="" href="mailto:wong_woei_ling@moe.edu.sg">wong_woei_ling@moe.edu.sg</a></td>
 	 	</tr>
@@ -35,11 +38,15 @@ tr:hover {background-color: #F5F5DC;}
 	<td rowspan="1">Mdm Alena Puhari</td>
  <td><a target="" href="mailto:alena_puhari@moe.edu.sg">alena_puhari@moe.edu.sg</a></td>
 	</tr>
-</tbody></table>
+</tbody>
+</table>
 <br>
 <table>
-	<tbody><tr><th colspan="1">CCA Schedule</th>
-</tr><tr>
+	<tbody>
+		<tr>
+			<th colspan="1">CCA Schedule</th>
+</tr>
+		<tr>
 	<td rowspan="1"> Training Day / Time</td>
 <td>Tuesday &amp; Friday<br>
 	4:00pm to 6:00pm</td>
@@ -48,4 +55,5 @@ tr:hover {background-color: #F5F5DC;}
 	<td rowspan="1">Training Venue</td>
  <td rowspan="1"> Singapore Swimming Club</td>
 	</tr>
-</tbody></table>
+</tbody>
+</table>
