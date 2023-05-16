@@ -40,7 +40,6 @@ tr:hover {background-color: #F5F5DC;}
 	</tr>
 </tbody>
 </table>
-
 <table>
 	<tbody>
 		<tr>
