@@ -19,15 +19,16 @@ th, td {
 tr:hover {background-color: #F5F5DC;}
 </style>
 
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTb641Zccr6iV0wyEuKUGHDHjM_OE2EXXsgijADECNAzrbqQWpk8Ts48FleEDPuqKfrC1q_9o6hah9T/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true"></iframe>
+<img src="/images/CCA/Interact/interact.gif">
 
 <p>Nothing is too small as long as it comes from the heart’ is Interact Club’s motto. We aim to develop in our members a sense of responsibility and to give back to the community with little selfless acts of service. This year, our club managed to remain united even in the face of the raging pandemic by participating in various community projects. With the completion of each project, reaching each milestone, we sincerely hope that these little selfless seeds of kindness will grow and become an integral way of life for all Interactors.</p>
-<p style="text-align: right;"><strong>Rinaaz Abdul Salam (President)</strong></p>
 
 <table>
-	<tbody><tr><th colspan="1">Teacher-in-Charge</th>
-</tr><tr>
+	<tbody>
+		<tr>
+			<th colspan="1">Teacher-in-Charge</th>
+</tr>
+		<tr>
 	<td rowspan="1">Mrs Sng-Tang Yilin</td>
  <td><a target="" href="mailto:tang_yilin@moe.edu.sg">tang_yilin@moe.edu.sg</a></td>
 	 	</tr>
@@ -35,5 +36,23 @@ tr:hover {background-color: #F5F5DC;}
 	<td rowspan="1">Mdm Alena Puhari</td>
  <td><a target="" href="mailto:alena_puhari@moe.edu.sg">alena_puhari@moe.edu.sg</a></td>
 	 	</tr>
+</tbody>
+</table>
+<br>
+<table>
+	<tbody>
+		<tr>
+			<th colspan="1">CCA Schedule</th>
+</tr>
+		<tr>
+	<td rowspan="1"> Training Day / Time</td>
+<td>Wednesday<br>
+	3:30pm to 5:30pm
+		</td>
+	 	</tr>
+<tr>
+	<td rowspan="1">Training Venue</td>
+ <td rowspan="1">Nexus 1 &amp; 2</td>
+	</tr>
 </tbody>
 </table>

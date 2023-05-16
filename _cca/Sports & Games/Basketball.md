@@ -4,7 +4,6 @@ permalink: /cca/sports-n-games/basketball/
 description: ""
 third_nav_title: Sports & Games
 ---
-<head>
 <style>
 table {
   border-collapse: collapse;
@@ -19,9 +18,7 @@ th, td {
 
 tr:hover {background-color: beige;}
 </style>
-</head>
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSyyxh4r-AK5LUKSfCKYNXj01Fn23iskSnKTZZoZFkQYWetBlGwxZiGGSGWoSkllhuAkrQ7GOXmMnm8/embed?start=false&loop=false&delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true"></iframe>
+<img src="/images/CCA/Basketball/basketball.gif">
 
 <p>Basketball is a sport that challenges the individual as well as the team. In the face of the ongoing pandemic, the CCA has evolved to suit the needs of the members, shifting between online fitness and skills training and face-to-face game sessions.</p>
 <p>The coaches and teachers also made use of different media to ensure that the aims of the CCA were not altered despite not having as many face-to-face training sessions. Values like sportsmanship, resilience and mental toughness were discussed and coaches and teachers shared their personal experiences on facing adversity.</p>
@@ -29,8 +26,11 @@ tr:hover {background-color: beige;}
 <p style="text-align: right;"><strong>Mr Noor Ghazali (Teacher-in-Charge)</strong></p>
 
 <table>
-	<tbody><tr><th colspan="1">Teacher-in-Charge</th>
-</tr><tr>
+	<tbody>
+		<tr>
+			<th colspan="1">Teacher-in-Charge</th>
+</tr>
+		<tr>
 	<td rowspan="1">Mr Noor Ghazali</td>
  <td><a target="" href="mailto:noor_ghazali_md_nor@moe.edu.sg">noor_ghazali_md_nor@moe.edu.sg</a></td>
 	 	</tr>
@@ -38,17 +38,20 @@ tr:hover {background-color: beige;}
 	<td rowspan="1">Mdm Zheng Ling Qiao</td>
  <td><a target="" href="mailto:zheng_ling_qiao@moe.edu.sg">zheng_ling_qiao@moe.edu.sg</a></td>
 	</tr>
-</tbody></table>
+</tbody>
+</table>
 <br>
 <table>
-	<tbody><tr><th colspan="1">CCA Schedule</th>
-</tr><tr>
+ <tbody><tr><th colspan="1">CCA Schedule</th>
+</tr>
+	 <tr>
 	<td rowspan="1"> Training Day / Time</td>
-<td>Monday & Wednesday<br>
+<td>Monday &amp; Wednesday<br>
 	3.15pm to 5.15pm</td>
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
  <td rowspan="1"> Indoor Sports Hall (Level 4)</td>
 	</tr>
-</tbody></table>
+</tbody>
+</table>
