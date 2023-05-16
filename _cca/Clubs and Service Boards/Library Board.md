@@ -31,7 +31,9 @@ tr:hover {background-color: #F5F5DC;}
 <p style="text-align: right;"><strong>Tan Si Qi Mary (President)</strong></p>
 
 <table>
-	<tbody><tr><th colspan="1">Teacher-in-Charge</th>
+	<tbody>
+		<tr>
+			<th colspan="1">Teacher-in-Charge</th>
 </tr><tr>
 	<td rowspan="1">Mrs Tan-Wong Ling Min</td>
  <td><a target="" href="mailto:wong_ling_min@moe.edu.sg">wong_ling_min@moe.edu.sg</a></td>
@@ -42,9 +44,13 @@ tr:hover {background-color: #F5F5DC;}
 	 	</tr>
 	</tbody>
 	</table>
+	<br>
 <table>
-	<tbody><tr><th colspan="1">CCA Schedule</th>
-</tr><tr>
+	<tbody>
+		<tr>
+			<th colspan="1">CCA Schedule</th>
+</tr>
+		<tr>
 	<td rowspan="1"> Training Day / Time</td>
 <td>Wednesday<br>
 	3:15pm to 6:15pm<br>
