@@ -35,10 +35,10 @@ team, help each other out to brush up on our
 individual skills and learn the importance of
 teamwork which we can use to achieve our goals
 as a team.</p>
-&lt;
-			th colspan="1"&gt;Teacher-in-Charge<table>
+<table>
 	<tbody>
 		<tr>
+			<th colspan="1">Teacher-in-Charge</th>
 </tr>
 		<tr>
 	<td rowspan="1">Mrs Melinda Loy</td>
