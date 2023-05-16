@@ -29,8 +29,11 @@ tr:hover {background-color: #F5F5DC;}
 <p style="text-align: right;"><strong>Tabitha Sarah Lee (3E2)&nbsp;<br></strong><strong>Danielle Chan (3E5)</strong></p>
 
 <table>
-	<tbody><tr><th colspan="1">Teacher-in-Charge</th>
-</tr><tr>
+	<tbody>
+		<tr>
+			<th colspan="1">Teacher-in-Charge</th>
+</tr>
+		<tr>
 	<td rowspan="1">Mdm Cherry Chan Hiang Puay</td>
  <td><a target="" href="mailto:cherry_chan_hiang_puay@moe.edu.sg">cherry_chan_hiang_puay@moe.edu.sg</a></td>
 	 	</tr>
@@ -49,9 +52,13 @@ tr:hover {background-color: #F5F5DC;}
 	 	</tr>
 	</tbody>
 	</table>
+<br>
 <table>
-	<tbody><tr><th colspan="1">CCA Schedule</th>
-</tr><tr>
+	<tbody>
+		<tr>
+			<th colspan="1">CCA Schedule</th>
+</tr>
+		<tr>
 	<td rowspan="1"> Training Day / Time</td>
 <td>Tuesday, Wednesday &amp; Friday<br>
 	3:15pm to 6:00pm<br>
