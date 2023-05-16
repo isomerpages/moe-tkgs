@@ -31,8 +31,11 @@ tr:hover {background-color: #F5F5DC;}
 <p style="text-align: right;"><strong>Claire Goh (3E4)</strong><br><strong>Gracia Teo (3E4)</strong><br><strong>Chua Hsui-Ting Erin (3E5)</strong><br><strong>AAdhya Bhatia (3E3)</strong></p>
 
 <table>
-	<tbody><tr><th colspan="1">Teacher-in-Charge</th>
-</tr><tr>
+	<tbody>
+		<tr>
+			<th colspan="1">Teacher-in-Charge</th>
+</tr>
+		<tr>
 	<td rowspan="1">Mdm Haryati Hussin</td>
  <td><a target="" href="mailto:haryati_hussin@moe.edu.sg">haryati_hussin@moe.edu.sg</a></td>
 	 	</tr>
@@ -40,11 +43,15 @@ tr:hover {background-color: #F5F5DC;}
 	<td rowspan="1">Ms Cherlyn Tan Wei Yu</td>
  <td><a target="" href="mailto:cherlyn_tan_wei_yu@moe.edu.sg">cherlyn_tan_wei_yu@moe.edu.sg</a></td>
 	 	</tr>
-	</tbody></table>
+	</tbody>
+</table>
 <br>
 <table>
-	<tbody><tr><th colspan="1">CCA Schedule</th>
-</tr><tr>
+	<tbody>
+		<tr>
+			<th colspan="1">CCA Schedule</th>
+</tr>
+		<tr>
 	<td rowspan="1"> Training Day / Time</td>
 <td>Wednesday<br>
 	3:15pm to 6:15pm</td>
@@ -53,4 +60,5 @@ tr:hover {background-color: #F5F5DC;}
 	<td rowspan="1">Training Venue</td>
  <td rowspan="1">Parade Square</td>
 	</tr>
-</tbody></table>
+</tbody>
+</table>
