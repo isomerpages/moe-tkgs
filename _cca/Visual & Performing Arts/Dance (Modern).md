@@ -37,6 +37,7 @@ tr:hover {background-color: #F5F5DC;}
 	 	</tr>
 	</tbody>
 	</table>
+	<br>
 <table>
 	<tbody><tr><th colspan="1">CCA Schedule</th>
 </tr><tr>
