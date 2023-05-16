@@ -25,8 +25,11 @@ tr:hover {background-color: #F5F5DC;}
 <p>Through the games and training, we were also able to understand the importance of teamwork and sportsmanship. Some of these games that strengthen our team bonding would be our relay races and our annual overnight camp. This allows interaction between all levels, while also allowing us to identify each other’s strengths and weaknesses which is a key factor in all team sports.</p>
 
 <table>
-	<tbody><tr><th colspan="1">Teacher-in-Charge</th>
-</tr><tr>
+	<tbody>
+		<tr>
+			<th colspan="1">Teacher-in-Charge</th>
+</tr>
+		<tr>
 	<td rowspan="1">Mr Shyamsuraj</td>
  <td><a target="" href="mailto:shyamsuraj_yadav@moe.edu.sg">shyamsuraj_yadav@moe.edu.sg</a></td>
 	 	</tr>
@@ -38,11 +41,15 @@ tr:hover {background-color: #F5F5DC;}
 	<td rowspan="1">Ms Nurliana Abdullah</td>
  <td><a target="" href="mailto:nurliana_abdullah@moe.edu.sg">nurliana_abdullah@moe.edu.sg</a></td>
 	 	</tr>
-</tbody></table>
+</tbody>
+</table>
 <br>
 <table>
-	<tbody><tr><th colspan="1">CCA Schedule</th>
-</tr><tr>
+	<tbody>
+		<tr>
+			<th colspan="1">CCA Schedule</th>
+</tr>
+		<tr>
 	<td rowspan="1"> Training Day / Time</td>
 <td>Tuesday, Wednesday &amp; Friday<br>
 	3:15pm to 6:00pm</td>
@@ -51,4 +58,5 @@ tr:hover {background-color: #F5F5DC;}
 	<td rowspan="1">Training Venue</td>
  <td rowspan="1"> Field</td>
 	</tr>
-</tbody></table>
+</tbody>
+</table>
