@@ -44,27 +44,26 @@ tr:hover {background-color: #F5F5DC;}
 	 	</tr>
 	</tbody>
 	</table>
-	<br>
-<table>
+	<table>
 	<tbody>
 		<tr>
 			<th colspan="1">CCA Schedule</th>
-</tr>
+		</tr>
 		<tr>
-	<td rowspan="1"> Training Day / Type / Time</td>
-		<td>Tuesday <b>(Tuition)</b><br>
-	3:00pm to 6:00pm<br>
-	<br>
+			<td rowspan="1"> Training Day / Type / Time</td>
+			<td>Tuesday <b>(Tuition)</b><br>
+				3:00pm to 6:00pm<br>
+				<br>
 			Wednesday <b>(Sectionals)</b><br>
-	3:30pm to 6:00pm<br>
-	<br>
-			Friday <b>(Combined Practice)</b><br>
-	3:30pm to 6:00pm
-		</td>
-	 	</tr>
-<tr>
-	<td rowspan="1">Training Venue</td>
- <td rowspan="1">Various Music Rooms</td>
-	</tr>
-</tbody>
+				3:30pm to 6:00pm<br>
+				<br>
+				Friday <b>(Combined Practice)</b><br>
+				3:30pm to 6:00pm
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="1">Training Venue</td>
+			<td rowspan="1">Various Music Rooms</td>
+		</tr>
+	</tbody>
 </table>
