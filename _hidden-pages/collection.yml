@@ -2,5 +2,5 @@ collections:
   hidden-pages:
     output: true
     order:
-      - About your iPad/About your iPad.md
+      - About your iPad/Home.md
       - About your iPad/.keep
