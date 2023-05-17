@@ -1,4 +1,5 @@
 collections:
   hidden-pages:
     output: true
-    order: []
+    order:
+      - IPad/.keep
