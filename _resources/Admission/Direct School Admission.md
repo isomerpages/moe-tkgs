@@ -13,7 +13,7 @@ The Direct School Admission (DSA) Exercise allows schools to offer places to sui
 <h3><u>Criteria</u></h3>
 Applicants should fulfil criteria in <b>2 areas:</b><br>
 <br><b>1.   Academic Performance</b><br>
-Students who have achieved an overall score of 70% or more for the Primary 5 Year-End Examination (2022) and Primary 6 Mid-Year Assessment (2023) result.
+Students who have achieved an overall score of 70% or more for the Primary 5 Year-End Examination (2022) result.
 
 <b>2.   Talent in Special Areas</b>
 <table>
