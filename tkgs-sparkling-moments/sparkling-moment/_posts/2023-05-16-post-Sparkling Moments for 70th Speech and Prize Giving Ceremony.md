@@ -19,14 +19,3 @@ Principal’s report by our Principal, Ms Chew Ing Lim.<br><br>
 Guest of Honour address by Mr Lawrence Chan, Group Chief Executive Officer, NETS<br><br>
 <img src="/images/Sparkling_Moment/2023_speechday/speech_day_students_combine.png">Awards presentation to our alumni from Class of 2022<br><br>
 <img src="/images/Sparkling_Moment/2023_speechday/speech_day_cca_combine.png">Concert performances by TKGS Dance Club, String Ensemble and Choir. <br>
-<h3><strong>Outstanding Academic Achievements</strong></h3>
-<table>
-	<tbody>
-		<tr>
-			<td style="width: 50%;"><img src="/images/Sparkling_Moment/2023_tjc.png"></td>
-<td style="width:50%;"><img src="/images/Sparkling_Moment/stem_sp.png">
-		</td>
-		</tr>
-		</tbody>
-	</table>
-As these students embark on the next phase of their journey, we have no doubt that they will continue to make remarkable strides in both their academic and personal pursuits. Congratulations once again, and best wishes for their future endeavors!
