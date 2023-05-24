@@ -11,8 +11,8 @@ table {
 
 table img {
   display: block;
-  width: 100%;
-  height: auto;
+  margin: 0;
+  border: none;
 }
 
 table td {
