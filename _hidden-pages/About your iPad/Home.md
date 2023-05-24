@@ -21,6 +21,7 @@ third_nav_title: About your iPad
 		<tr>
 			<td><img src="/images/PDLP/About_ipad/slicev1_01.png"></td>
 			<td><img src="/images/PDLP/About_ipad/slicev1_02.png"></td>
-			<td><img src="/images/PDLP/About_ipad/slicev1_03.png"></td></tr>
+			<td><img src="/images/PDLP/About_ipad/slicev1_03.png"></td>
+		</tr>
 	</tbody>
 </table>
