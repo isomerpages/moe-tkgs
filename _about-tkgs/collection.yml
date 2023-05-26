@@ -2,6 +2,7 @@ collections:
   about-tkgs:
     output: true
     order:
+      - TKGS Corporate Video.md
       - Principal's Message.md
       - Vision, Mission & Values.md
       - TKGS Crest.md
