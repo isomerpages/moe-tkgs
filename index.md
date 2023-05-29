@@ -38,4 +38,10 @@ sections:
       url: https://docs.google.com/forms/d/e/1FAIpQLSex_HjrA1AoDaRFMQlsEpoIfJHnG9GDZVeL-xPDe2TLJ8eH-w/viewform
       alt: Image alt text
       image: /images/Hompage/Infopic/Alumni.png
+  - infopic:
+      title: TKGS Corporate Video
+      button: Click here to watch
+      url: https://www.youtube.com/watch?v=UWsWh9b3Xvk&embeds_referring_euri=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUWsWh9b3Xvk%26t%3D14s&feature=emb_imp_woyt
+      image: /images/Hompage/Infopic/corporatevideo.png
+      alt: Image alt text
 ---
