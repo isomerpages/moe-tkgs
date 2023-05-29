@@ -2,4 +2,5 @@ collections:
   connect-with-us:
     output: true
     order:
+      - Our Social Media Platforms.md
       - Contact Information.md
