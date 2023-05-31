@@ -3,7 +3,7 @@ title: Appreciation Notes
 permalink: /connect-with-us/appreciation-notes/
 description: ""
 ---
-<img src="images/Connect_with_us/Appreciation_note/appreciation_note_mas.png">
+<img src="/images/Connect_with_us/Appreciation_note/appreciation_note_mas.png">
 
 If you feel inclined to express your gratitude or words of thanks to any of our staff members, we invite you to share a gratitude E-note <a href="https://form.gov.sg/644b493aee16a900127eaa28">here</a>.
 
