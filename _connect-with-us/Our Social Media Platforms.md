@@ -3,7 +3,7 @@ title: Our Social Media Platforms
 permalink: /connect-with-us/permalink/
 description: ""
 ---
-Stay connected with us through our social media platforms.
+Stay connected and be part of our community by following our social network! Join us on our journey as we share stories and exciting updates. Stay informed about the impactful work let us build a strong network together!
 <table>
 	<tbody>
 		<tr>
