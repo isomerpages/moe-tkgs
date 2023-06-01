@@ -1,0 +1,7 @@
+collections:
+  connect-with-us:
+    output: true
+    order:
+      - Appreciation Notes.md
+      - Our Social Media Platforms.md
+      - Contact Information.md
