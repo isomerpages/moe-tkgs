@@ -11,7 +11,7 @@ description: ""
 <img src="/images/LearningTKGS/Key_school_event\key_event41.png"><br>
 <img src="/images/LearningTKGS/Key_school_event\key_event4_r.png"><br>
 <img src="/images/LearningTKGS/Key_school_event\key_event5_r.png"><br>
-<img src="/images/LearningTKGS/Key_school_event\key_event6_r.png"><br>
+<img src="/images/LearningTKGS/Key_school_event\key_event51_r.png"><br>
 <img src="/images/LearningTKGS/Key_school_event\key_event7_r.png"><br>
 <img src="/images/LearningTKGS/Key_school_event\key_event8_r.png"><br>
 <img src="/images/LearningTKGS/Key_school_event\key_event9_r.png"><br>
