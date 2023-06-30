@@ -11,9 +11,9 @@ Below are some of the settings you should not change and actions not to take.
 		<tr>
 			<td><img src="/images/PDLP/About_ipad/The_dont/wifi_setting.png">
 			</td>
-			<td><img src="/images/PDLP/About_ipad/The_dont/wifi_setting.png">
+			<td><img src="/images/PDLP/About_ipad/The_dont/lowpower.png">
 			</td>
-			<td><img src="/images/PDLP/About_ipad/The_dont/wifi_setting.png">
+			<td><img src="/images/PDLP/About_ipad/The_dont/folding.png">
 			</td>
 		</tr>
 		<tr>
