@@ -19,6 +19,10 @@ Below are some of the settings you should not change and actions not to take.
 		<tr>
 			<td>Do not change the Wifi settings
 			</td>
+			<td>Do not change the Wifi settings
+			</td>
+			<td>Do not change the Wifi settings
+			</td>
 			</tr>
 	</tbody>
 </table>
