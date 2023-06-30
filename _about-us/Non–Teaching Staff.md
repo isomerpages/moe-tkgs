@@ -3,7 +3,7 @@ title: Non–Teaching Staff
 permalink: /about-us/non-teaching-staff/
 description: ""
 ---
-<img style="width: 90%;" src="/images/nts.jpg" /><br>
+<img style="width: 90%;" src="/images/nts.jpg"><br>
 <p style="text-align: center;"><em>To contact the Non-Teaching Staff via email, please send to:&nbsp;<a href="mailto:tkgs@moe.edu.sg"><strong>tkgs@moe.edu.sg</strong></a></em></p>
 <table>
 <tbody>
@@ -51,6 +51,12 @@ description: ""
 </tr>
 <tr>
 <td>Mr Abdul Malik Sulaiman</td>
+<td>
+<div>Technical Support Officer (School Lab Technician)</div>
+</td>
+</tr>
+	<tr>
+<td>Mr Yap Pao Ming</td>
 <td>
 <div>Technical Support Officer (School Lab Technician)</div>
 </td>
@@ -116,14 +122,14 @@ description: ""
 <td>Ms Jane Lau</td>
 <td>Librarian</td>
 </tr>
-<td style="text-align: center;" colspan="2"><strong>AED Consellors</strong></td>
-<tr>
+<tr><td style="text-align: center;" colspan="2"><strong>AED Consellors</strong></td>
+</tr><tr>
 	<td> Ms Tang Yuin Kay</td>
 	<td> Senior School Counsellor</td>
 	</tr>
 <tr>
 	<td> Ms Shaikhah Bte Rubangin </td>
-	<td> Allied Educator (Learning & Behavioral Support)</td>
+	<td> Allied Educator (Learning &amp; Behavioral Support)</td>
 	</tr>
 <tr>
 	<td> Ms Kate Choo </td>

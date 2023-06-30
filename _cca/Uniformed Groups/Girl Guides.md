@@ -28,10 +28,6 @@ tr:hover {background-color: #F5F5DC;}
 		<tr>
 			<th colspan="1">Teacher-in-Charge</th>
 </tr>
-		<tr>
-	<td rowspan="1">Ms Kristen Ong</td>
- <td><a target="" href="mailto:ong_kwei_teng@moe.edu.sg">ong_kwei_teng@moe.edu.sg</a></td>
-	 	</tr>
 <tr>
 	<td rowspan="1">Ms Esther Foo</td>
  <td><a target="" href="mailto:foo_wenxin@moe.edu.sg">foo_wenxin@moe.edu.sg</a></td>
