@@ -47,7 +47,9 @@ tr:hover {background-color: #F5F5DC;}
 		<tr>
 	<td rowspan="1"> Training Day / Time</td>
 <td>Monday &amp; Wednesday<br>
-	3:15pm to 6:00pm</td>
+	3:15pm to 6:00pm<br>
+	* Additional Friday training during NSG period (3.15pm - 4.45pm)
+			</td>
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
