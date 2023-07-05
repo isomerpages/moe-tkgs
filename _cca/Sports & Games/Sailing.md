@@ -29,14 +29,14 @@ tr:hover {background-color: #F5F5DC;}
 		<tr>
 			<th colspan="1">Teacher-in-Charge</th>
 </tr>
+	<tr>
+	<td rowspan="1">Mr Lim Kok Siong</td>
+ <td><a target="" href="mailto:lim_kok_siong@moe.edu.sg">lim_kok_siong@moe.edu.sg</a></td>
+	</tr>
 		<tr>
 	<td rowspan="1">Mr Abdul Mutalib Khan Bin Abd</td>
  <td><a target="" href="mailto:abdul_mutalib_khan@moe.edu.sg">abdul_mutalib_khan@moe.edu.sg</a></td>
 	 	</tr>
-<tr>
-	<td rowspan="1">Mr Lim Kok Siong</td>
- <td><a target="" href="mailto:lim_kok_siong@moe.edu.sg">lim_kok_siong@moe.edu.sg</a></td>
-	</tr>
 </tbody>
 </table>
 <table>
