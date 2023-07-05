@@ -10,7 +10,7 @@ English Department
 <img src="/images/StaffPhoto/teachingstaff-el2023v2.png">
 <br>
 Humanities Department
-<img src="/images/StaffPhoto/teachingstaff-hum_21_june2023.png">
+<img src="/images/StaffPhoto/teachingstaff-hum2023v1.png">
 <br>
 Math Department
 <img src="/images/StaffPhoto/teachingstaff-maths_21_june2023.png">
