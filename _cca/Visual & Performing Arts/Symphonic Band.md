@@ -48,14 +48,6 @@ tr:hover {background-color: #F5F5DC;}
  <td><a target="" href="mailto:ng_suan_ching@moe.edu.sg">ng_suan_ching@moe.edu.sg</a>
 	</td>
 	 	</tr>
-		<tr>
-	<td rowspan="1">Mdm Li Liping</td>
- <td><a target="" href="mailto:li_li_ping@moe.edu.sg">li_li_ping@moe.edu.sg</a></td>
-	 	</tr>
-		<tr>
-	<td rowspan="1">Mdm Ng Suan Ching</td>
- <td><a target="" href="mailto:ng_suan_ching@moe.edu.sg">ng_suan_ching@moe.edu.sg</a></td>
-	 	</tr>
 	</tbody>
 	</table>
 <table>
