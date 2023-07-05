@@ -1,6 +1,6 @@
 ---
-title: Tenpin Bowling
-permalink: /cca/sports-n-games/tenpin-bowling/
+title: Bowling
+permalink: /cca/sports-n-games/bowling/
 description: ""
 third_nav_title: Sports & Games
 ---

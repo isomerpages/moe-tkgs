@@ -9,11 +9,13 @@ third_nav_title: Our Partners
 <p>In early 1987, she invited a group of former students to form the Pro-temp committee. This committee drafted up the direction for the Alumni and made the necessary preparations for its official formation.</p>
 <p>Hence, the TKGS Alumni was registered on 15 October 1987.</p>
 <h4><strong>Our Committee</strong></h4>
+<img src="/images/About_us/Our_partners/2023_alumni_photo.jpg">
 <table>
 <tbody>
 <tr>
 <th style="text-align: center;" colspan="2">TKGS Alumni 18th Committee</th>
 </tr>
+	
 <tr>
 <td>PRESIDENT</td>
 <td>Mrs Sally Lee-Low Kwee Hua</td>

@@ -16,7 +16,7 @@ Math Department
 <img src="/images/StaffPhoto/teachingstaff-maths_21_june2023.png">
 <br>
 Mother Tongue Department
-<img src="/images/StaffPhoto/TeachingStaff-MotherTongue2023.png">
+<img src="/images/StaffPhoto/teachingstaff-mt_21_june2023.png">
 <br>
 Physical Education Department
 <img src="/images/StaffPhoto/TeachingStaff-PhysicalEducation2023.png">
