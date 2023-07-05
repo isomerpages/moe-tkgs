@@ -51,7 +51,9 @@ tr:hover {background-color: #F5F5DC;}
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
- <td rowspan="1"> National Sailing Centre</td>
+ <td rowspan="1"> Monday &amp; Wednesday - National Sailing Centre (ECP)<br>
+	 Friday - School Gym &amp; Classroom Block
+	</td>
 	</tr>
 </tbody>
 </table>
