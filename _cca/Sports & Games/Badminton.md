@@ -41,12 +41,12 @@ as a team.</p>
 			<th colspan="1">Teacher-in-Charge</th>
 </tr>
 		<tr>
+			<td rowspan="1">Mr Ang Wee Jin</td>
+ <td><a target="" href="mailto:chee_kwek_khuen_adela@moe.edu.sg">chee_kwek_khuen_adela@moe.edu.sg</a></td>
+		</tr>
+<tr>
 	<td rowspan="1">Mrs Melinda Loy</td>
  <td><a target="" href="mailto:chung_ah_boey@moe.edu.sg">chung_ah_boey@moe.edu.sg</a></td>
-	 	</tr>
-<tr>
-	<td rowspan="1">Mr Ang Wee Jin</td>
- <td><a target="" href="mailto:chee_kwek_khuen_adela@moe.edu.sg">chee_kwek_khuen_adela@moe.edu.sg</a></td>
 	</tr>
 <tr>
 	<td rowspan="1">Mdm Adela Chee</td>
