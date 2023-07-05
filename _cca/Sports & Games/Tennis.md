@@ -56,7 +56,7 @@ tr:hover {background-color: #F5F5DC;}
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
- <td rowspan="1"> Sports SG Tennis Centre</td>
+ <td rowspan="1"> School Parade Square or Sports SG Tennis Centre</td>
 	</tr>
 </tbody>
 </table>
