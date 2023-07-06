@@ -52,12 +52,12 @@ tr:hover {background-color: #F5F5DC;}
 </tr>
 		<tr>
 	<td rowspan="1"> Training Day / Time</td>
-<td>Wednesday<br>
-	3:15pm to 6:15pm</td>
+<td>Wednesday &amp; Friday<br>
+	3:15pm to 6:00pm</td>
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
- <td rowspan="1">Parade Square</td>
+ <td rowspan="1">Computer Lab 3 &amp; 4</td>
 	</tr>
 </tbody>
 </table>
