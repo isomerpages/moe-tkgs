@@ -50,14 +50,12 @@ tr:hover {background-color: #F5F5DC;}
 		</tr>
 		<tr>
 			<td rowspan="1"> Training Day / Type / Time</td>
-			<td>Tuesday <b>(Tuition)</b><br>
-				3:00pm to 6:00pm<br>
+			<td>Tuesday <b>(Tuition for selected students)</b><br>
+				3:15pm to 6:00pm<br>
 				<br>
-			Wednesday <b>(Sectionals)</b><br>
-				3:30pm to 6:00pm<br>
-				<br>
-				Friday <b>(Combined Practice)</b><br>
-				3:30pm to 6:00pm
+			Wednesday &amp; Friday<br>
+				3:30pm to 6:00pm<br><br>
+				* Selected Saturdays when necessary for school events and other preparations
 			</td>
 		</tr>
 		<tr>
