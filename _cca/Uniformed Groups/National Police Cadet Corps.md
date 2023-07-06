@@ -54,7 +54,7 @@ tr:hover {background-color: #F5F5DC;}
 	3:15pm to 5:00pm<br>
 	<br>
 	Friday<br>
-	3:30pm to 6:00pm
+	3:15pm to 6:00pm
 		</td>
 	 	</tr>
 <tr>
