@@ -15,19 +15,21 @@ Below are some of the settings you should not change and actions not to take.
 			</td>
 		</tr>
 		<tr>
-			<td>Do not change the Wifi settings
+			<td>Do not change any of the Wifi settings
 			</td>
-			<td>Do not change the Wifi settings
-			</td>
-		</tr>
-		<tr>
-			<td><img src="/images/PDLP/About_ipad/The_dont/wifi_setting.png">
-			</td>
-			<td><img src="/images/PDLP/About_ipad/The_dont/lowpower.png">
+			<td>Do not turn on Low Power Mode
 			</td>
 		</tr>
 		<tr>
-			<td>Do not change the Wifi settings
+			<td><img src="/images/PDLP/About_ipad/The_dont/locked.png">
+			</td>
+			<td><img src="/images/PDLP/About_ipad/The_dont/folding.png">
+			</td>
+		</tr>
+		<tr>
+			<td>If you have fogotten your iPad passcode, <b>proceed to the staff room and seek assistance from the ICT personnel.
+			</b></td>
+			<td>Do not fold your keyboard. 
 			</td>
 			</tr>
 	</tbody>
