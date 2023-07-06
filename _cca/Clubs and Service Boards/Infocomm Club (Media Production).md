@@ -51,12 +51,13 @@ tr:hover {background-color: #F5F5DC;}
 		<tr>
 	<td rowspan="1"> Training Day / Time</td>
 <td>Monday<br>
+	Wednesday <b>(Project-Based students only)</b><br>
 	3:30pm to 5:30pm
 		</td>
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
- <td rowspan="1">VR Labs</td>
+ <td rowspan="1">VR Lab 1</td>
 	</tr>
 </tbody>
 </table>
