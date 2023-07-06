@@ -54,7 +54,7 @@ tr:hover {background-color: #F5F5DC;}
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
- <td rowspan="1">Parade Square</td>
+ <td rowspan="1">Circular Block &amp; Parade Square</td>
 	</tr>
 </tbody>
 </table>
