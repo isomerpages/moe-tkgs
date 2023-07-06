@@ -29,13 +29,13 @@ tr:hover {background-color: #F5F5DC;}
 			<th colspan="1">Teacher-in-Charge</th>
 </tr>
 <tr>
-	<td rowspan="1">Ms Esther Foo</td>
- <td><a target="" href="mailto:foo_wenxin@moe.edu.sg">foo_wenxin@moe.edu.sg</a></td>
-	 	</tr>
-<tr>
 	<td rowspan="1">Ms Kamaliah Bte Othman</td>
  <td><a target="" href="mailto:kamaliah_othman@moe.edu.sg">kamaliah_othman@moe.edu.sg</a></td>
 	</tr>
+		<tr>
+		<td rowspan="1">Ms Esther Foo</td>
+ <td><a target="" href="mailto:foo_wenxin@moe.edu.sg">foo_wenxin@moe.edu.sg</a></td>
+	 	</tr>
 		<tr>
 	<td rowspan="1">Ms Anne Yong Mong Li</td>
  <td><a target="" href="mailto:yong_mong_li@moe.edu.sg">yong_mong_li@moe.edu.sg</a></td>
@@ -49,12 +49,12 @@ tr:hover {background-color: #F5F5DC;}
 </tr>
 		<tr>
 	<td rowspan="1"> Training Day / Time</td>
-<td>Wednesday<br>
+<td>Monday &amp; Wednesday <br>
 	3:15pm to 6:15pm</td>
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
- <td rowspan="1">Parade Square</td>
+ <td rowspan="1">Circular Block &amp; Parade Square</td>
 	</tr>
 </tbody>
 </table>

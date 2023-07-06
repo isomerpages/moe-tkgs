@@ -35,7 +35,7 @@ tr:hover {background-color: #F5F5DC;}
  <td><a target="" href="mailto:koo_ching_ching@moe.edu.sg">koo_ching_ching@moe.edu.sg</a></td>
 	</tr>
 <tr>
-	<td rowspan="1">Ms Siti Ainun Mardhiah binte Mohsin </td>
+	<td rowspan="1">Ms Siti Ainun Mardhiah Binte Mohsin </td>
  <td><a target="" href="mailto:siti_ainun_mardhiah_mohsin@moe.edu.sg">siti_ainun_mardhiah_mohsin@moe.edu.sg</a></td>
 	 	</tr>
 		<tr>
@@ -52,11 +52,11 @@ tr:hover {background-color: #F5F5DC;}
 		<tr>
 	<td rowspan="1"> Training Day / Time</td>
 <td>Monday, Wednesday &amp; Friday<br>
-	3:30pm to 5.30pm</td>
+	3:30pm to 5:30pm</td>
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
- <td rowspan="1"> Sports SG Tennis Centre</td>
+ <td rowspan="1"> School Parade Square or Sports SG Tennis Centre</td>
 	</tr>
 </tbody>
 </table>

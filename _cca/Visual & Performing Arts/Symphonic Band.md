@@ -40,15 +40,13 @@ tr:hover {background-color: #F5F5DC;}
 <tr>
 	<td rowspan="1">Mdm Serena Lee Yee Na</td>
  <td><a target="" href="mailto:lee_yee_na_serena@moe.edu.sg">lee_yee_na_serena@moe.edu.sg</a>
-	</td>
-	 	</tr>
-		<tr>
+	 </td></tr><tr>
 	<td rowspan="1">Mdm Li Liping</td>
- <td><a target="" href="mailto:li_li_ping@moe.edu.sg">li_li_ping@moe.edu.sg</a></td>
-	 	</tr>
-		<tr>
+ <td><a target="" href="mailto:li_li_ping@moe.edu.sg">li_li_ping@moe.edu.sg</a>
+	 </td></tr><tr>
 	<td rowspan="1">Mdm Ng Suan Ching</td>
- <td><a target="" href="mailto:ng_suan_ching@moe.edu.sg">ng_suan_ching@moe.edu.sg</a></td>
+ <td><a target="" href="mailto:ng_suan_ching@moe.edu.sg">ng_suan_ching@moe.edu.sg</a>
+	</td>
 	 	</tr>
 	</tbody>
 	</table>

@@ -29,14 +29,14 @@ tr:hover {background-color: #F5F5DC;}
 		<tr>
 			<th colspan="1">Teacher-in-Charge</th>
 </tr>
+	<tr>
+	<td rowspan="1">Mr Lim Kok Siong</td>
+ <td><a target="" href="mailto:lim_kok_siong@moe.edu.sg">lim_kok_siong@moe.edu.sg</a></td>
+	</tr>
 		<tr>
 	<td rowspan="1">Mr Abdul Mutalib Khan Bin Abd</td>
  <td><a target="" href="mailto:abdul_mutalib_khan@moe.edu.sg">abdul_mutalib_khan@moe.edu.sg</a></td>
 	 	</tr>
-<tr>
-	<td rowspan="1">Mr Lim Kok Siong</td>
- <td><a target="" href="mailto:lim_kok_siong@moe.edu.sg">lim_kok_siong@moe.edu.sg</a></td>
-	</tr>
 </tbody>
 </table>
 <table>
@@ -47,11 +47,15 @@ tr:hover {background-color: #F5F5DC;}
 		<tr>
 	<td rowspan="1"> Training Day / Time</td>
 <td>Monday &amp; Wednesday<br>
-	3:15pm to 6:00pm</td>
+	3:15pm to 6:00pm<br>
+	* Additional Friday training during NSG period (3.15pm - 4.45pm)
+			</td>
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
- <td rowspan="1"> National Sailing Centre</td>
+ <td rowspan="1"> Monday &amp; Wednesday - National Sailing Centre (ECP)<br>
+	 Friday - School Gym &amp; Classroom Block
+	</td>
 	</tr>
 </tbody>
 </table>

@@ -49,11 +49,11 @@ tr:hover {background-color: #F5F5DC;}
 		<tr>
 	<td rowspan="1"> Training Day / Time</td>
 <td>Tuesday &amp; Friday<br>
-	3.15pm to 5.15pm</td>
+	3:15pm to 6:15pm</td>
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
- <td rowspan="1"> Netball Court </td>
+ <td rowspan="1"> ISH Level 4 </td>
 	</tr>
 </tbody>
 </table>

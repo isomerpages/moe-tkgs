@@ -35,6 +35,10 @@ tr:hover {background-color: #F5F5DC;}
 	<td rowspan="1">Ms Yeo Ling Seem</td>
  <td><a target="" href="mailto:yeo_ling_seem@moe.edu.sg">yeo_ling_seem@moe.edu.sg</a></td>
 	 	</tr>
+		<tr>
+	<td rowspan="1">Mdm Alena Puhari</td>
+ <td><a target="" href="mailto:alena_puhari@moe.edu.sg">alena_puhari@moe.edu.sg</a></td>
+	</tr>
 	</tbody>
 	</table>
 <table>
@@ -42,12 +46,13 @@ tr:hover {background-color: #F5F5DC;}
 </tr><tr>
 	<td rowspan="1"> Training Day / Time</td>
 <td>Monday &amp; Wednesday<br>
-	3:15pm to 6:00pm
+	3:15pm to 6:00pm<br><br>
+	*Additional weekday and/or selected Saturdays when necessary for school events and other preparations
 		</td>
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
- <td rowspan="1">Hall &amp; Studio</td>
+ <td rowspan="1">Performing Arts Studio</td>
 	</tr>
 </tbody>
 </table>

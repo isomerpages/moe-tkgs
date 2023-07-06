@@ -1,6 +1,6 @@
 ---
-title: TK Thespians (Drama)
-permalink: /cca/visual-n-performing-arts/tk-thespians-drama/
+title: English Drama
+permalink: /cca/visual-n-performing-arts/english-drama/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---

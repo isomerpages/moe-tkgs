@@ -30,7 +30,7 @@ tr:hover {background-color: #F5F5DC;}
 			<th colspan="1">Teacher-in-Charge</th>
 </tr>
 		<tr>
-	<td rowspan="1">Mr Shyamsuraj</td>
+	<td rowspan="1">Mr Shyamsuraj Yadav</td>
  <td><a target="" href="mailto:shyamsuraj_yadav@moe.edu.sg">shyamsuraj_yadav@moe.edu.sg</a></td>
 	 	</tr>
 <tr>
@@ -51,7 +51,7 @@ tr:hover {background-color: #F5F5DC;}
 		<tr>
 	<td rowspan="1"> Training Day / Time</td>
 <td>Tuesday, Wednesday &amp; Friday<br>
-	3:15pm to 6:00pm</td>
+	3:15pm to 6:15pm</td>
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
