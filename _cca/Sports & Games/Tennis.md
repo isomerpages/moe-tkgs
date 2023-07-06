@@ -52,7 +52,7 @@ tr:hover {background-color: #F5F5DC;}
 		<tr>
 	<td rowspan="1"> Training Day / Time</td>
 <td>Monday, Wednesday &amp; Friday<br>
-	3:30pm to 5.30pm</td>
+	3:30pm to 5:30pm</td>
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
