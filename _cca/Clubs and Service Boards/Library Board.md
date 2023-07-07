@@ -52,8 +52,7 @@ tr:hover {background-color: #F5F5DC;}
 		<tr>
 	<td rowspan="1"> Training Day / Time</td>
 <td>Tuesday<br>
-	3:15pm to 5:00pm<br><br>
-	* Duty days can be on other days during the week as well
+	3:15pm to 5:00pm
 		</td>
 	 	</tr>
 <tr>
