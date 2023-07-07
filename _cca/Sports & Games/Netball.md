@@ -51,14 +51,14 @@ tr:hover {background-color: #F5F5DC;}
 		<tr>
 		<td rowspan="1"> Training Day / Time for <strong>B Div</strong></td>
 <td>Monday &amp; Fridays<br>
-	3:15pm to 6:00pm<br>
+	3:15pm to 6:00pm<br><br>
 		Tuesday<br>
 		3:15pm - 4:30pm</td>
 	 	</tr>
 <tr>
 		<td rowspan="1"> Training Day / Time for <strong>C Div</strong></td>
 <td> Monday<br>
-	3:15pm to 4:30pm<br>
+	3:15pm to 4:30pm<br><br>
 		Tuesday &amp; Friday<br>
 		3:15pm - 6:00pm</td>
 	 	</tr>
