@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - test.md
-      - Students Resources.md
+      - Student Resources.md
       - Staff Resources.md
       - Parent Resources.md
       - Admission/.keep
