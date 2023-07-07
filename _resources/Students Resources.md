@@ -10,5 +10,9 @@ description: ""
 <td style="width: 33.3333%;"><a href="https://workspace.google.com/dashboard"><img src="/images/srr2.png"></a></td>
 <td style="width: 33.3333%;"><a href="http://www.myskillsfuture.sg/secondary"><img src="/images/srr3.jpg"></a></td>
 </tr>
-</tbody>
+	<tr>
+		<td style="text-align: center;" colspan="3">
+			<a href="https://schoolibrary.moe.edu.sg/tanjongkatonggirls/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"><img style="width: 30%;" src="/images/Resources/Student/liblogo.png"></a></td>
+			
+</tr></tbody>
 </table>
