@@ -30,7 +30,7 @@ Below are some of the settings you should not change and actions not to take.
 			<td>If you have fogotten your iPad passcode, <b>proceed to the staff room and seek assistance from the ICT personnel.
 			</b>
 			</td>
-			<td>Do not fold the keyboard, doing so may damage the circuitry 
+			<td>Do not fold the keyboard, doing so may damage the circuitry.
 			</td>
 			</tr>
 	</tbody>
