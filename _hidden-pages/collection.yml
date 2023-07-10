@@ -2,6 +2,7 @@ collections:
   hidden-pages:
     output: true
     order:
+      - About your iPad/Installing Approved Apps.md
       - About your iPad/.keep
       - About your iPad/Home.md
       - About your iPad/The Don'ts.md
