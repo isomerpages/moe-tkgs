@@ -14,7 +14,7 @@ This year, Thawdar Hnin Htet Kaylen (2E6) represented TKGS with her original son
 
 Experience the remarkable performance once more through this captivating video.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/n9ncvqZC1b4" height="315" width="560"></iframe>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/n9ncvqZC1b4" height="315" width="560"></iframe></center>
 
 Many thanks to the students and staff who supported and encouraged Kaylen in her journey. Special thanks go to Mr Syamil for recording Kaylen’s song for submission.  
 
