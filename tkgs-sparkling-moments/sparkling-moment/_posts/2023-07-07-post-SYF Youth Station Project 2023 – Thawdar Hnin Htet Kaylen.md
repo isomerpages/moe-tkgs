@@ -12,7 +12,7 @@ The Singapore Youth Festival (SYF) is a series of events organised by MOE for st
 
 This year, Thawdar Hnin Htet Kaylen (2E6) represented TKGS with her original song “Letting it Slip”. We are proud to announce that her song was awarded Top 10 song from a total of 49 songs submitted by schools for the lower secondary category. Kaylen presented her song solo at the “Youth Station Live!” SYF Celebration event at the Esplanade Concourse over the Youth Day weekend to screams of delight and support from the public. 
 
-Experience the remarkable performance once more through this captivating video.
+Here is Kaylen live with "Letting It Slip".
 
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/n9ncvqZC1b4" height="315" width="560"></iframe></center>
 
