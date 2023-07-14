@@ -1,5 +1,5 @@
 ---
-title: Outstanding Academic Achievements
+title: Outstanding Academic Achievement by Alumni
 permalink: /tkgs-sparkling-moments/sparkling-moment/outstanding-academic-achievements/
 date: 2023-04-25
 layout: post
