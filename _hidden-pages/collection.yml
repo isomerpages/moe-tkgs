@@ -2,6 +2,7 @@ collections:
   hidden-pages:
     output: true
     order:
+      - About your iPad/Information on After School Hours.md
       - About your iPad/Installing Approved Apps.md
       - About your iPad/.keep
       - About your iPad/Home.md
