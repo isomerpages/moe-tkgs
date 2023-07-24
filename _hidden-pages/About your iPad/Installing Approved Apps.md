@@ -19,11 +19,12 @@ third_nav_title: About your iPad
 			6. Google Earth
 			7. Google Sheets 
 			8. Google Slides
-			GuitarTuna
-			iNaturalist (Available for Secondary 1 students only)
-			9. Notability
-			Procreate (Available for Secondary 1 students only)
-			10. Microsoft Excel
-			11. Microsoft Powerpoint
-			12. Microsoft Word
-			13. Zoom
+			9. GuitarTuna
+			10. iNaturalist (Available for Secondary 1 students only)			
+			11. Microsoft Excel
+			12. Microsoft Powerpoint
+			13. Microsoft Word
+			14. Notability
+			15. Procreate (Available for Secondary 1 students only)
+			16. Stop Motion (Available for Secondary 1 &amp; 2 students only)
+			17. Zoom
