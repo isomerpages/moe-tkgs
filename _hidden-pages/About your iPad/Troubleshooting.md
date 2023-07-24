@@ -4,8 +4,7 @@ permalink: /hidden-pages/about-your-ipad/troubleshooting/
 description: ""
 third_nav_title: About your iPad
 ---
-
-    <style>
+<style>
         .faq-item {
             margin-bottom: 20px;
         }
@@ -48,4 +47,3 @@ third_nav_title: About your iPad
 </div>
 
 <!-- Add more FAQs as needed -->
-	
