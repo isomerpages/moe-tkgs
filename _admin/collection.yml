@@ -2,7 +2,6 @@ collections:
   admin:
     output: true
     order:
-      - Test page.md
       - CCA Achievements.md
       - Art Club (Mockup Page).md
       - Contact Information.md
