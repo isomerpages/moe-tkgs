@@ -3,8 +3,7 @@ title: Example
 permalink: /admin/example/
 description: ""
 ---
-
-    <style>
+<style>
         table {
             width: 100%;
             border-collapse: collapse;
@@ -62,4 +61,3 @@ description: ""
     </tr>
     <!-- Add more FAQs as needed -->
 </tbody></table>
-
