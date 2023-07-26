@@ -6,7 +6,7 @@ third_nav_title: About your iPad
 ---
 <style>
         .faq-item {
-            margin-bottom: 20px;
+            margin-bottom: 5px;
         }
 
         .faq-item input {
