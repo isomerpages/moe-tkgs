@@ -22,6 +22,7 @@ third_nav_title: About your iPad
 
         .faq-answer {
             max-height: 0;
+	          font-size: 15px;
             overflow: hidden;
             transition: max-height 0.2s ease-out;
         }
