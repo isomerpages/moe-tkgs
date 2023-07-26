@@ -46,12 +46,12 @@ third_nav_title: About your iPad
 </div>
 <div class="faq-item">
     <input id="q3" type="checkbox">
-    <label for="q2">My iPad is laggy/slow.</label>
+    <label for="q3">My iPad is laggy/slow.</label>
     <p class="faq-answer">Please reboot your iPad</p>
 </div>
 <div class="faq-item">
     <input id="q4" type="checkbox">
-    <label for="q2">Question 2</label>
+    <label for="q4">Question 2</label>
     <p class="faq-answer">Answer to question 2.</p>
 </div>
 
