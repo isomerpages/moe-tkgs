@@ -17,6 +17,7 @@ third_nav_title: About your iPad
 
         .faq-item label {
             cursor: pointer;
+	          font-size: 18px;
         }
 
         .faq-answer {
