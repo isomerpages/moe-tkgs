@@ -49,9 +49,9 @@ third_nav_title: About your iPad
 	<p class="faq-answer"><u>Within School Premises</u><br>Report the loss immediately to your form teacher or to the General Office.<br><u>Outside of School Premises</u><br>Report the loss to your parents immediately and have your parents make a police report.<br></p>
 </div>
 <div class="faq-item">
-    <input id="q2" type="checkbox">
-    <label for="q2">Q2: What does the insurance covers?</label>
-    <p class="faq-answer">The insurance covers theft loss and physical damage to device and its accessories. <br></p>
+    <input id="q4" type="checkbox">
+    <label for="q4">Q4: My iPad is faulty, what should I do?</label>
+    <p class="faq-answer">Please visit the ICT personnel to have your device verified, should the device be deem faulty, please visit the following Apple Stores to have the faulty device properly diagnosed and replaced.<br><br><img style="width:870px;height:360px;" src="/images/PDLP/About_ipad/FAQ/apple_stores.png"></p>
 </div>
 <div class="faq-item">
     <input id="q2" type="checkbox">
