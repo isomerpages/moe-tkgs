@@ -33,26 +33,36 @@ third_nav_title: About your iPad
     </style>
 
 
-
+<h3>iPad Related</h3>
 <div class="faq-item">
     <input id="q1" type="checkbox">
     <label for="q1">My iPad is not responding</label>
-    <p class="faq-answer">Please perform a force restart for your iPad.<br> Click <a rel="noopener" target="_blank" href="https://support.apple.com/en-us/HT212017">here</a> for instruction on how to do so. </p><p>
-</p></div>
+    <p class="faq-answer">Please perform a force restart for your iPad.<br> Click <a rel="noopener" target="_blank" href="https://support.apple.com/en-us/HT212017">here</a> for instruction on how to do so. </p>
+	</div>
 <div class="faq-item">
     <input id="q2" type="checkbox">
-    <label for="q2">My keyboard is not working</label>
-    <p class="faq-answer">Remove the iPad from the casing and reinsert it again.<br>Should the keyboard remains unresponsive, please approach the ICT personnel for help.</p>
+    <label for="q2">My iPad is laggy/slow.</label>
+    <p class="faq-answer">Please check that there is sufficent space left in your iPad. We recommend to have at least 1GB of free storage space in order for iPad to function properly. </p>
 </div>
 <div class="faq-item">
     <input id="q3" type="checkbox">
-    <label for="q3">My iPad is laggy/slow.</label>
-    <p class="faq-answer">Please reboot your iPad</p>
+    <label for="q3">My iPad is struck on Mobile Guardian page</label>
+    <p class="faq-answer">Please make sure that your iPad is connected to an active internet connection and with <a rel="noopener" target="_blank" href="/hidden-pages/about-your-ipad/the-dont/">Low Power Mode</a>switched off.</p>
 </div>
+
 <div class="faq-item">
-    <input id="q4" type="checkbox">
-    <label for="q4">Question 2</label>
+    <input id="q3" type="checkbox">
+    <label for="q3">Question 2</label>
     <p class="faq-answer">Answer to question 2.</p>
 </div>
+
+<h3>Logitech Rugged Combo 3 Related</h3>
+<div class="faq-item">
+    <input id="q4" type="checkbox">
+    <label for="q4">My keyboard is not working</label>
+    <p class="faq-answer">Remove the iPad from the casing and reinsert it again.<br>Should the keyboard remains unresponsive, please approach the ICT personnel for help.</p>
+</div>
+
+<h3>Apple Pencil</h3>
 
 <!-- Add more FAQs as needed -->
