@@ -12,7 +12,7 @@ third_nav_title: NDLP
 <h3>List of Approved Apps</h3>
 
 			1. GarageBand
-			2. GoodNotes
+			2. GoodNotes (Paid version)
 			3. Google Classroom
 			4. Google Doc
 			5. Google Drive
@@ -24,7 +24,7 @@ third_nav_title: NDLP
 			11. Microsoft Excel
 			12. Microsoft Powerpoint
 			13. Microsoft Word
-			14. Notability
+			14. Notability (Paid version)
 			15. Procreate (Available for Secondary 1 students only)
 			16. Stop Motion (Available for Secondary 1 &amp; 2 students only)
 			17. Zoom
