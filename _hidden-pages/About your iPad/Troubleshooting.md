@@ -42,8 +42,8 @@ third_nav_title: About your iPad
 <div class="faq-item">
     <input id="q2" type="checkbox">
     <label for="q2">My iPad is laggy/slow.</label>
-    <p class="faq-answer">Please check that there is sufficent space left in your iPad. We recommend to have at least 1GB of free storage space in order for iPad to function properly. </p>
-</div>
+    <p class="faq-answer">Please check that there is sufficent space left in your iPad. We recommend to have at least 1GB of free storage space in order for iPad to function properly. </p><p>
+</p></div>
 <div class="faq-item">
     <input id="q3" type="checkbox">
     <label for="q3">My iPad is always struck on Mobile Guardian page</label>
@@ -51,9 +51,9 @@ third_nav_title: About your iPad
 </div>
 
 <div class="faq-item">
-    <input id="q3" type="checkbox">
-    <label for="q3"></label>
-    <p class="faq-answer">Answer to question 2.</p>
+    <input id="q4" type="checkbox">
+    <label for="q4">My apps requires updating</label>
+    <p class="faq-answer">Please launch the Mobile Guardian app to trigger the updating of apps. Click <a rel="noopener" target="_blank" href="/hidden-pages/about-your-ipad/approved-apps/">here</a></p>
 </div>
 
 <h3>Logitech Rugged Combo 3 Related</h3>
