@@ -21,8 +21,8 @@ third_nav_title: NDLP
 <table>
 	<tbody>
 		<tr>
-			<td><a href="/hidden-pages/about-your-ipad/the-dont/"><img src="/images/PDLP/About_ipad/slicev1_01.png"></a></td>
-			<td><a href="/hidden-pages/about-your-ipad/approved-apps/"><img src="/images/PDLP/About_ipad/slicev1_02.png"></a></td>
+			<td><a href="/TKignite/NDLP/The Dont's/"><img src="/images/PDLP/About_ipad/slicev1_01.png"></a></td>
+			<td><a href="/TKignite/NDLP/approved-apps/"><img src="/images/PDLP/About_ipad/slicev1_02.png"></a></td>
 			<td><a href="/hidden-pages/about-your-ipad/after-school/"><img src="/images/PDLP/About_ipad/slicev1_03.png"></a></td>
 		</tr>
 		<tr>
