@@ -23,12 +23,12 @@ third_nav_title: NDLP
 		<tr>
 			<td><a href="/tkignite/ndlp/the-dont/"><img src="/images/PDLP/About_ipad/slicev1_01.png"></a></td>
 			<td><a href="/tkignite/ndlp/approved-apps/"><img src="/images/PDLP/About_ipad/slicev1_02.png"></a></td>
-			<td><a href="/hidden-pages/about-your-ipad/after-school/"><img src="/images/PDLP/About_ipad/slicev1_03.png"></a></td>
+			<td><a href="/tkignite/ndlp/after-school/"><img src="/images/PDLP/About_ipad/slicev1_03.png"></a></td>
 		</tr>
 		<tr>
-			<td><a href="/hidden-pages/about-your-ipad/troubleshooting/"><img src="/images/PDLP/About_ipad/slicev1_04.png"></a></td>
+			<td><a href="/tkignite/ndlp/troubleshooting/"><img src="/images/PDLP/About_ipad/slicev1_04.png"></a></td>
 			<td><img src="/images/PDLP/About_ipad/slicev1_05.png"></td>
-			<td><a href="/hidden-pages/about-your-ipad/faq/"><img src="/images/PDLP/About_ipad/slicev1_06.png"></a></td>
+			<td><a href="/tkignite/ndlp/faq/"><img src="/images/PDLP/About_ipad/slicev1_06.png"></a></td>
 		</tr>
 	</tbody>
 </table>
