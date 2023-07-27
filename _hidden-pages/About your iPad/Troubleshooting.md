@@ -46,13 +46,13 @@ third_nav_title: About your iPad
 </div>
 <div class="faq-item">
     <input id="q3" type="checkbox">
-    <label for="q3">My iPad is struck on Mobile Guardian page</label>
+    <label for="q3">My iPad is always struck on Mobile Guardian page</label>
     <p class="faq-answer">Please make sure that your iPad is connected to an active internet connection and with <a rel="noopener" target="_blank" href="/hidden-pages/about-your-ipad/the-dont/">Low Power Mode</a>switched off.</p>
 </div>
 
 <div class="faq-item">
     <input id="q3" type="checkbox">
-    <label for="q3">Question 2</label>
+    <label for="q3"></label>
     <p class="faq-answer">Answer to question 2.</p>
 </div>
 
