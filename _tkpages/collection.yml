@@ -1,5 +1,5 @@
 collections:
-  hidden-pages:
+  tkpages:
     output: true
     order:
       - About your iPad/.keep
