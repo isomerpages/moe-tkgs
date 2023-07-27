@@ -2,6 +2,7 @@ collections:
   tkignite:
     output: true
     order:
+      - NDLP/Troubleshooting.md
       - NDLP/After School Profile.md
       - NDLP/Installing Approved Apps.md
       - NDLP/The Don'ts.md
