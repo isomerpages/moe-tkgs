@@ -48,12 +48,12 @@ third_nav_title: NDLP
 <div class="faq-item">
     <input type="checkbox" id="q3">
     <label for="q3">iPad is always struck on Mobile Guardian page.</label>
-    <p class="faq-answer">Please make sure that your iPad is connected to an active internet connection and with <a href="/hidden-pages/about-your-ipad/the-dont/" target="_blank" rel="noopener">Low Power Mode</a>&nbsp;switched off.<br></p>
+    <p class="faq-answer">Please make sure that your iPad is connected to an active internet connection and with <a href="/tkignite/ndlp/the-dont/" target="_blank" rel="noopener">Low Power Mode</a>&nbsp;switched off.<br></p>
 </div>
 <div class="faq-item">
     <input type="checkbox" id="q4">
     <label for="q4">Apps requires updating.</label>
-    <p class="faq-answer">Please launch the Mobile Guardian app to trigger the updating of apps. Click <a href="/hidden-pages/about-your-ipad/approved-apps/" target="_blank" rel="noopener">here</a>&nbsp;for more information<br></p>
+    <p class="faq-answer">Please launch the Mobile Guardian app to trigger the updating of apps. Click <a href="/tkignite/ndlp/approved-apps/" target="_blank" rel="noopener">here</a>&nbsp;for more information<br></p>
 </div>
 
 <h3>Logitech Rugged Combo 3 Related</h3>
