@@ -25,6 +25,7 @@ third_nav_title: About your iPad
 	          font-size: 15px;
             overflow: hidden;
             transition: max-height 0.2s ease-out;
+	          color: #e00d11;
         }
 
         .faq-item input:checked ~ .faq-answer {
