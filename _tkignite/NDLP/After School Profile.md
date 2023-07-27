@@ -11,4 +11,5 @@ third_nav_title: NDLP
 Sleeping Hours (Applicable to Default &amp; Option A)<br>
 11pm to 7am<br>
 <br>
+	Please visit the FAQ <a href="/tkignite/ndlp/faq/" target="_blank" rel="noopener">page</a> for more questions on After School Hours Profile
 </center>
