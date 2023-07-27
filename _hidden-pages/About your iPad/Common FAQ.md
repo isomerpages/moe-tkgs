@@ -54,12 +54,27 @@ third_nav_title: About your iPad
     <p class="faq-answer">Please visit the ICT personnel to have your device verified, should the device be deem faulty, please visit the following Apple Stores to have the faulty device properly diagnosed and replaced.<br><br><img style="width:870px;height:360px;" src="/images/PDLP/About_ipad/FAQ/apple_stores.png"></p>
 </div>
 <div class="faq-item">
-    <input id="q2" type="checkbox">
-    <label for="q2">Q2: What does the insurance covers?</label>
-    <p class="faq-answer">The insurance covers theft loss and physical damage to device and its accessories. <br></p>
+    <input id="q5" type="checkbox">
+    <label for="q5">Q5: Can I use my personal iPad instead?</label>
+    <p class="faq-answer">Students are required to use iPads that have Mobile Guardian installed. Any deviation from this requirement may result in disciplinary actions. <br></p>
 </div>
 <div class="faq-item">
-    <input id="q2" type="checkbox">
-    <label for="q2">Q2: What does the insurance covers?</label>
-    <p class="faq-answer">The insurance covers theft loss and physical damage to device and its accessories. <br></p>
+    <input id="q6" type="checkbox">
+    <label for="q6">Q6: Can I sign into my personal iCloud account?</label>
+    <p class="faq-answer">Yes, students are highly encouraged to do so. It offers a reliable backup solution for their devices. <br></p>
+</div>
+<div class="faq-item">
+    <input id="q7" type="checkbox">
+    <label for="q7">Q7: How do I change my After School Hours DMA Option?</label>
+    <p class="faq-answer">Please pick up the DMA Options Request form from the General Office, have the form completed with your parents endorsement and return it back to the General Office. Your parents will receive notification via PG (Parent Gateway) once the changes have been implemented. <br></p>
+</div>
+<div class="faq-item">
+    <input id="q8" type="checkbox">
+    <label for="q8">Q8: I have a problem with my After School Hours DMA profile.</label>
+    <p class="faq-answer">Please drop us an email at <a href="mailto:tkgs@moe.edu.sg" target="">tkgs@moe.edu.sg</a>, please include the following,<br><br>1) Student Name &amp; Class<br>2) Description of probelm<br>3) Screenshots or videos of the problem.<br></p>
+</div>
+<div class="faq-item">
+    <input id="q9" type="checkbox">
+    <label for="q9">Q9: What happens if my parents did not indicate any DMA After School Options for my device?</label>
+    <p class="faq-answer">The device will be placed in Default Option, much similar to school hours profile. <br></p>
 </div>
