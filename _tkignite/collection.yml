@@ -2,5 +2,6 @@ collections:
   tkignite:
     output: true
     order:
+      - NDLP/The Don'ts.md
       - NDLP/About Your iPad.md
       - NDLP/.keep
