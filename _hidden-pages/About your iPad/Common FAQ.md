@@ -51,7 +51,7 @@ third_nav_title: About your iPad
 <div class="faq-item">
     <input id="q4" type="checkbox">
     <label for="q4">Q4: My iPad is faulty, what should I do?</label>
-    <p class="faq-answer">Please visit the ICT personnel to have your device verified, should the device be deem faulty, please visit the following Apple Stores to have the faulty device properly diagnosed and replaced.<br><br><img style="width:870px;height:360px;" src="/images/PDLP/About_ipad/FAQ/apple_stores.png"></p>
+    <p class="faq-answer">Please visit the ICT personnel to have your device verified, should the device be deem faulty, please visit the following Apple Stores to have the faulty device properly diagnosed and replaced.<br><br><img style="width:870px;height:340px;" src="/images/PDLP/About_ipad/FAQ/apple_stores.png"></p>
 </div>
 <div class="faq-item">
     <input id="q5" type="checkbox">
