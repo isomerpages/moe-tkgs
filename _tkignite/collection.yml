@@ -2,4 +2,5 @@ collections:
   tkignite:
     output: true
     order:
+      - NDLP/About Your iPad.md
       - NDLP/.keep
