@@ -46,7 +46,7 @@ third_nav_title: NDLP
 <div class="faq-item">
     <input type="checkbox" id="q3">
     <label for="q3">Q3: What should I do if I misplaced my device?</label>
-	<p class="faq-answer"><u>Within School Premises</u><br>Report the loss immediately to your form teacher or to the General Office.<br><u>Outside of School Premises</u><br>Report the loss to your parents immediately.<br></p>
+	<p class="faq-answer"><u>Within School Premises</u><br>Report the loss immediately to your form teacher or to the General Office.<br><u>Outside of School Premises</u><br>Report the loss to your parents immediately.<br><br><br><u>Should the device remains missing, you are advised to promptly file a police report.</u></p>
 </div>
 <div class="faq-item">
     <input type="checkbox" id="q4">
