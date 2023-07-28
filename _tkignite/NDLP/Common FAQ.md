@@ -50,13 +50,17 @@ third_nav_title: NDLP
 </div>
 <div class="faq-item">
     <input type="checkbox" id="q4">
-    <label for="q4">Q4: My iPad/Pencil is faulty, what should I do?</label>
-    <p class="faq-answer">Please visit the ICT personnel to have your device verified, should the device be deem faulty, please visit the following Apple Stores to have the faulty device properly diagnosed and replaced.<br><br><img src="/images/PDLP/About_ipad/FAQ/apple_stores.png" style="width:870px;height:340px;"></p>
+    <label for="q4">Q4: My iPad/Pencil has been deemed faulty, where should I get it replaced?</label>
+    <p class="faq-answer">Please visit the designated Apple Stores to get your faulty device examined and, if necessary, replaced.<br><br><img src="/images/PDLP/About_ipad/FAQ/apple_stores.png" style="width:870px;height:340px;"></p>
 </div>
 <div class="faq-item">
     <input type="checkbox" id="q5">
-    <label for="q5">Q5: What should I do if I misplaced my device?</label>
-	<p class="faq-answer"><u>Within School Premises</u><br>Report the loss immediately to your form teacher or to the General Office.<br><u>Outside of School Premises</u><br>Report the loss to your parents immediately.<br></p>
+    <label for="q5">Q5: My keyboard is faulty, where should I get it replaced?</label>
+	<p class="faq-answer">Although the school does offer a replacement service, it can be subject to extended waiting times. For immediate replacement, we strongly recommend visiting the specified Asiapac Service Centre. Before your visit, please ensure to contact the service centre to confirm the availability of stock.<br><br>ASIAPAC TECHNOLOGY PTE. LTD.<br>
+Henderson Industrial Park, <br>
+ Blk 219 Henderson Road, #05-01/02/03/04,<br>
+Singapore 159556<br>
+ Telephone: 6270 8281</p>
 </div>
 <div class="faq-item">
     <input type="checkbox" id="q6">
