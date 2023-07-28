@@ -9,22 +9,21 @@ third_nav_title: NDLP
 	</a>
 		</center>
 
-<h3>List of Approved Apps</h3>
-
-			1. GarageBand
-			2. GoodNotes (Paid version)
-			3. Google Classroom
-			4. Google Doc
-			5. Google Drive
-			6. Google Earth
-			7. Google Sheets 
-			8. Google Slides
-			9. GuitarTuna
-			10. iNaturalist (Available for Secondary 1 students only)			
-			11. Microsoft Excel
-			12. Microsoft Powerpoint
-			13. Microsoft Word
-			14. Notability (Paid version)
-			15. Procreate (Available for Secondary 1 students only)
-			16. Stop Motion (Available for Secondary 1 &amp; 2 students only)
-			17. Zoom
+<h3>List of Approved Apps</h3><br>
+			1. GarageBand<br>
+			2. GoodNotes (Paid version)<br>
+			3. Google Classroom<br>
+			4. Google Doc<br>
+			5. Google Drive<br>
+			6. Google Earth<br>
+			7. Google Sheets<br>
+			8. Google Slides<br>
+			9. GuitarTuna<br>
+			10. iNaturalist <br>(Available for Secondary 1 students only)<br>	
+			11. Microsoft Excel<br>
+			12. Microsoft Powerpoint<br>
+			13. Microsoft Word<br>
+			14. Notability (Paid version)<br>
+			15. Procreate (Available for Secondary 1 students only)<br>
+			16. Stop Motion (Available for Secondary 1 &amp; 2 students only)<br>
+			17. Zoom<br>
