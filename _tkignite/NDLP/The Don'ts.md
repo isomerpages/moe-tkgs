@@ -1,8 +1,8 @@
 ---
 title: The Don'ts
-permalink: /hidden-pages/about-your-ipad/the-dont/
+permalink: /tkignite/ndlp/the-dont/
 description: ""
-third_nav_title: About your iPad
+third_nav_title: NDLP
 ---
 Below are some of the settings you should not change and actions not to take.
 
