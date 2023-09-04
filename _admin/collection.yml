@@ -2,6 +2,7 @@ collections:
   admin:
     output: true
     order:
+      - Subpages/School Canteen Advertisement.md
       - Subpages/.keep
       - Example.md
       - CCA Achievements.md
