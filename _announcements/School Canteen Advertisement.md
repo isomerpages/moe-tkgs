@@ -16,6 +16,11 @@ description: ""
 		<td>29 Sep 2023</td>
 		<td>Any Chinese noodle menu is acceptable.</td>
 		</tr>
-			
-</tbody>
+			</tbody>
 </table>
+
+<h3>Background</h3>
+<br>
+We are a single session secondary school with student enrolment and staff strength of 1,100. We have 5 food stalls and 2 drinks stalls in our school.
+
+<h3>Application Procedure</h3>
