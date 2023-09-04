@@ -11,7 +11,7 @@ description: ""
 <th style="text-align: center;">eFAS</th>
 </tr>
 <tr>
-<td><img class="ive_eobj_center" style="display: block; margin-left: auto; margin-right: auto; width: 25%;" src="/images/fas.jpg" /></td>
+<td><img class="ive_eobj_center" style="display: block; margin-left: auto; margin-right: auto; width: 25%;" src="/images/fas.jpg"></td>
 </tr>
 <tr>
 <td>
@@ -26,7 +26,7 @@ description: ""
 <th style="text-align: center;">Hardcopy Form</th>
 </tr>
 <tr>
-<td style="text-align: center;"><strong><br /><a href="/files/2023%20FAS%20Application%20FormTKGS.pdf">2023 FAS Application FormTKGS.pdf</a></strong><br /><br /></td>
+<td style="text-align: center;"><strong><br><a href="/files/2023%20FAS%20Application%20FormTKGS.pdf">2023 FAS Application FormTKGS.pdf</a></strong><br><br></td>
 </tr>
 <tr>
 <td>

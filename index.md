@@ -15,6 +15,10 @@ sections:
   - resources:
       title: TKGS Sparkling Moments
       button: More
+  - infobar:
+      title: School Canteen Advertisement
+      button: Click here more details
+      url: /announcements/canteen/
   - infopic:
       title: TKGS Corporate Video
       button: Click here to watch
