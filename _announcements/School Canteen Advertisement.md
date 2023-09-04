@@ -7,9 +7,9 @@ description: ""
 <table>
 	<tbody>
 		<tr>
-	<td>Type of Stall</td>
-		<td>Closing Date</td><td>
-	</td><td>Requirements</td>
+			<td><b>Type of Stall</b></td>
+			<td><b>Closing Date</b></td>
+			<td><b>Requirements</b></td>
 		</tr>
 	<tr>
 		<td>Chinese Noodles Stall</td>
