@@ -5,13 +5,19 @@ description: ""
 ---
 <table>
 	<tbody>
-		<tr><th style="text-align: center;">Stall Vacancies
-		</th>
-</tr><tr>
-	<td> Type of Stall</td>
-		<td> Closing Date</td><td>
+		<tr>
+			<th></th>
+			<th>Stall Vacancies</th>
+			<th></th>
+</tr>
+		<tr>
+	<td>Type of Stall</td>
+		<td>Closing Date</td><td>
 	</td><td>Requirements</td>
-	
+		</tr>
+	<tr>
+		<td>
+		</td></tr>
 			
-</tr></tbody>
+</tbody>
 </table>
