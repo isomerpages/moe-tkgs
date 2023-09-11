@@ -32,7 +32,7 @@ third_nav_title: Sports & Games
 			<td style="text-align: center;">3rd Position</td>
 	</tr>
 	<tr>
-			<td style="vertical-align: middle;">Tenpin Bowling</td>
+			<td style="vertical-align: middle;">Bowling</td>
 			<td style="text-align: center;">National ‘B’ Division School Games</td>
 			<td style="text-align: center;">2nd Position</td>
 	</tr>
@@ -61,7 +61,7 @@ third_nav_title: Sports & Games
 			<td style="text-align: center;">4th Position</td>
 	</tr>
 	<tr>
-			<td style="vertical-align: middle;" rowspan="2">Tenpin Bowling</td>
+			<td style="vertical-align: middle;" rowspan="2">Bowling</td>
 			<td style="text-align: center;">National ‘B’ Division School Games</td>
 			<td style="text-align: center;">3rd Position</td>
 	</tr>
