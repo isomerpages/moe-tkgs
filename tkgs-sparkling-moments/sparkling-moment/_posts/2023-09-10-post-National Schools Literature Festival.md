@@ -10,7 +10,7 @@ image: ""
 <table>
 	<tbody>
 	<tr>
-		<td><a href="https://raw.githubusercontent.com/isomerpages/moe-tkgs/staging/images/Sparkling_Moment/2023/Literature_Festival/picture1.png"><img src="/images/Sparkling_Moment/2023/Literature_Festival/picture1.png"></a></td>
+		<td><a href="https://raw.githubusercontent.com/isomerpages/moe-tkgs/staging/images/Sparkling_Moment/2023/Literature_Festival/updated_picture1.png"><img src="/images/Sparkling_Moment/2023/Literature_Festival/updated_picture1.png"></a></td>
 		<td><a href="https://raw.githubusercontent.com/isomerpages/moe-tkgs/staging/images/Sparkling_Moment/2023/Literature_Festival/picture2.png"><img src="/images/Sparkling_Moment/2023/Literature_Festival/picture2.png"></a></td>
 		</tr>
 	</tbody>
