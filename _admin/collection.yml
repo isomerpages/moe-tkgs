@@ -2,6 +2,7 @@ collections:
   admin:
     output: true
     order:
+      - Student Well–being Framework.md
       - Announcements.md
       - Release of O – Level Results.md
       - Class of 2021 School Graduation Certificate & Testimonial.md
