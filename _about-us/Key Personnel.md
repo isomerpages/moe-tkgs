@@ -18,7 +18,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Ms Xu Wanjing&nbsp;</strong></td>
-<td style="text-align: center;">&nbsp;<strong>Vice-Principal (Academic)</strong></td>
+<td style="text-align: center;">&nbsp;<strong>Vice-Principal (Curriculum)</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Mr Chai Chi Yang Moses</strong></td>
