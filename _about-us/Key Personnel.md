@@ -108,7 +108,7 @@ description: ""
 </tr>
 <tr>
 <td>Mr Mohamed Firdaus</td>
-<td>Subject Head / Lit &amp; Drama</td>
+<td>Subject Head / English Literature</td>
 <td><a href="mailto:mohamed_firdaus@moe.edu.sg" target="">mohamed_firdaus@moe.edu.sg</a></td>
 </tr>
 <tr>
