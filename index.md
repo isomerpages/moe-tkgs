@@ -16,7 +16,7 @@ sections:
       title: TKGS Sparkling Moments
       button: More
   - infopic:
-      title: TKGS Open House & Ask-the-leader 2023
+      title: Experience TKGS 2023!
       id: infopic
       description: Join us on 18 November 2023 and experience life as a TKGian!
       button: Click here to register for ask-the-leader live chat
