@@ -15,6 +15,14 @@ sections:
   - resources:
       title: TKGS Sparkling Moments
       button: More
+  - infopic:
+      title: Experience TKGS 2023!
+      id: infopic
+      description: Join us on 18 November 2023 and experience life as a TKGian!
+      button: Click here to register for ask-the-leader live chat
+      url: https://moe-singapore.zoom.us/meeting/register/tZ0kcuCpqD0iEtUlFRnzU4e5fp8NpueGZR4Z
+      image: /images/Hompage/Infopic/publicity_poster_low.png
+      alt: Image alt text
   - infobar:
       title: School Canteen Advertisement
       button: Click here more details
