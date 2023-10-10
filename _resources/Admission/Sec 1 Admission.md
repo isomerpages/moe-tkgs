@@ -23,7 +23,7 @@ third_nav_title: Admission
 </tr>
 <tr>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1xaCYr6f1qoxL6GG8uwT11ICrDu70O82c/view" target="_blank" rel="noopener"><strong>FAQs</strong></a></td>
-<td style="text-align: center;"><a href="/useful-links/booklist-uniform-bus-n-locker" target="_blank" rel="noopener"><strong>Booklist, uniform, bus and locker</strong></a></td>
+<td style="text-align: center;"><a href="/resources/admission/other-admission-matters" target="_blank" rel="noopener"><strong>Booklist, uniform, bus and locker</strong></a></td>
 <td style="text-align: center;"><a href="/useful-links/contact-information" target="_blank" rel="noopener"><strong>Contact Information</strong></a></td>
 </tr>
 </tbody>
