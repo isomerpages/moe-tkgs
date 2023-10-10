@@ -11,7 +11,6 @@ third_nav_title: Admission
 <p>Students do not need to report to our school after receiving the S1 Posting Results. Parents/guardian of 2023 Secondary 1 students who are successfully posted to our school will be contacted via Parent Gateway for registration details. For more information, please refer to the MOE website&nbsp;<a href="https://www.moe.gov.sg/secondary/s1-posting" target="_blank" rel="noopener">https://www.moe.gov.sg/secondary/s1-posting</a>.&nbsp;</p>
 <br>
 <br>
-
 <table>
 <tbody>
 <tr>
