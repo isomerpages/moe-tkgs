@@ -2,7 +2,6 @@ collections:
   tkignite:
     output: true
     order:
-      - NDLP/Resources.md
       - NDLP/.keep
       - NDLP/About Your iPad.md
       - NDLP/The Don'ts.md
@@ -10,3 +9,4 @@ collections:
       - NDLP/After School Profile.md
       - NDLP/Troubleshooting.md
       - NDLP/Common FAQ.md
+      - NDLP/Resources.md
