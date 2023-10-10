@@ -3,61 +3,31 @@ title: Example
 permalink: /admin/example/
 description: ""
 ---
-<style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
+<style type="text/css">
+#amplify-app-root img {
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+.content table td, .content table th {
+	padding: 0;
+</style>
 
-        th, td {
-            border: 1px solid #ddd;
-            padding: 15px;
-        }
-
-        .faq-item input {
-            position: absolute;
-            opacity: 0;
-            z-index: -1;
-        }
-
-        .faq-item label {
-            cursor: pointer;
-        }
-
-        .faq-answer {
-            max-height: 0;
-            overflow: hidden;
-            transition: max-height 0.2s ease-out;
-        }
-
-        .faq-item input:checked ~ .faq-answer {
-            max-height: 100vh;
-        }
-    </style>
-
-
-
-<h1>FAQs for iPad</h1>
-
+<img src="/images/PDLP/About_ipad/maintitle.png">
+<br>
+<br>
 <table>
-    <tbody><tr class="faq-item">
-        <th>
-            <input id="q1" type="checkbox">
-            <label for="q1">Question 1</label>
-        </th>
-        <td class="faq-answer">
-            Answer to question 1.
-        </td>
-    </tr>
-
-    <tr class="faq-item">
-        <th>
-            <input id="q2" type="checkbox">
-            <label for="q2">Question 2</label>
-        </th>
-        <td class="faq-answer">
-            Answer to question 2.
-        </td>
-    </tr>
-    <!-- Add more FAQs as needed -->
-</tbody></table>
+	<tbody>
+		<tr>
+			<td><a href="/tkignite/ndlp/the-dont/"><img src="/images/PDLP/About_ipad/slicev1_01.png"></a></td>
+			<td><a href="/tkignite/ndlp/approved-apps/"><img src="/images/PDLP/About_ipad/slicev1_02.png"></a></td>
+			<td><a href="/tkignite/ndlp/after-school/"><img src="/images/PDLP/About_ipad/slicev1_03.png"></a></td>
+		</tr>
+		<tr>
+			<td><a href="/tkignite/ndlp/troubleshooting/"><img src="/images/PDLP/About_ipad/slicev1_04.png"></a></td>
+			<td><a href="/tkignite/ndlp/resources/"><img src="/images/PDLP/About_ipad/after-slicev1_05r.png"></a></td>
+			<td><a href="/tkignite/ndlp/faq/"><img src="/images/PDLP/About_ipad/slicev1_06.png"></a></td>
+		</tr>
+	</tbody>
+</table>

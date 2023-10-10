@@ -13,12 +13,12 @@ description: ""
 		</tr>
 	<tr>
 		<td>Chinese Noodles Stall</td>
-		<td>15 Oct 2023</td>
+		<td>31 Oct 2023</td>
 		<td>Any Chinese noodle menu is acceptable.</td>
 		</tr>
 		<tr>
 			<td>Halal Cuisine (Noodle/Rice) Stall</td>
-			<td>15 Oct 2023</td>
+			<td>31 Oct 2023</td>
 			<td>Rice or noodle stalls are acceptable.</td>
 		</tr>
 			</tbody>
