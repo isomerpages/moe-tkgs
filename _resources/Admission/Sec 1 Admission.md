@@ -9,6 +9,7 @@ third_nav_title: Admission
 <p><strong><u>Overview of Secondary 1 Posting Exercise</u></strong></p>
 <p>The annual Secondary 1 Posting Exercise is conducted by the Ministry of Education (MOE) to post Primary 6 students from mainstream primary schools who have sat for the Primary School Leaving Examination (PSLE) and are eligible for secondary school. The exercise takes into consideration the students’ PSLE results, choices of schools and availability of vacancies. The posting results will be released between 21 Dec and 22 Dec 2022 (tentative) via online, SMS and through the primary school.</p>
 <p>Students do not need to report to our school after receiving the S1 Posting Results. Parents/guardian of 2023 Secondary 1 students who are successfully posted to our school will be contacted via Parent Gateway for registration details. For more information, please refer to the MOE website&nbsp;<a href="https://www.moe.gov.sg/secondary/s1-posting" target="_blank" rel="noopener">https://www.moe.gov.sg/secondary/s1-posting</a>.&nbsp;</p>
+<br>
 <table>
 <tbody>
 <tr>
