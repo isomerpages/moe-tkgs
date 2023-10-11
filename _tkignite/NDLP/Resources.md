@@ -4,3 +4,10 @@ permalink: /tkignite/ndlp/resources/
 description: ""
 third_nav_title: NDLP
 ---
+<h3>Past ICT Sharing Slides</h3>
+
+<b><u>2022</u></b><br>
+<a href="https://drive.google.com/file/d/1WdMX6rBqn3FsmIpSeLgDBH1rBbY1wHQm/view?usp=drive_link">ICT Update Briefing Slides Oct 2022 </a>
+
+<b><u>2023</u></b><br>
+<a href="https://drive.google.com/file/d/1rs_TWw1A7icI54Gf-GIJYiAcZEmbpNIc/view?usp=sharing">ICT Update Briefing Slides Oct 2023 </a>
