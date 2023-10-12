@@ -27,7 +27,7 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><a href="https://www.learning.moe.edu.sg/sls/index.html"><img style="width: 80%;" src="/images/sr9.png"></a></td>
+<td style="width: 33.3333%;"><a href="https://vle.learning.moe.edu.sg/login"><img style="width: 80%;" src="/images/sr9.png"></a></td>
 <td style="width: 33.3333%;"><a href="https://workspace.google.com/dashboard"><img src="/images/sr10.png"></a></td>
 <td style="width: 33.3333%;"><br><a href="https://classroom.google.com/u/0/h"><img src="/images/sr11.png"></a></td>
 </tr>
