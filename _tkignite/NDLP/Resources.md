@@ -29,4 +29,4 @@ third_nav_title: NDLP
 		</tr>
 	</tbody>
 </table>
-Visit <a href="https://vle.learning.moe.edu.sg/login">SLS</a> to access the training package
+<center><h4>Visit <a href="https://vle.learning.moe.edu.sg/login">SLS</a> to access these training packages</h4></center>
