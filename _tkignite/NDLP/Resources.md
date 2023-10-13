@@ -17,7 +17,7 @@ third_nav_title: NDLP
 <table>
 	<tbody>
 		<tr>
-			<td colspan="2">SLS Learning Package</td>
+			<td colspan="2"><h3>SLS Learning Package</h3></td>
 		</tr>
 		<tr>
 			<td><img src="/images/PDLP/About_ipad/Resources/ipad_op_r.png"></td>
