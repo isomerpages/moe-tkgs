@@ -17,20 +17,16 @@ third_nav_title: NDLP
 <table>
 	<tbody>
 		<tr>
-			<td colspan="2"><h3> SLS Learning Package</h3>
-			</td>
+			<td colspan="2">SLS Learning Package</td>
 		</tr>
 		<tr>
 			<td><img src="/images/PDLP/About_ipad/Resources/ipad_op_r.png"></td>
-			<td><img src="/images/PDLP/About_ipad/Resources/ipad_notetaking_r.png">
-			</td>
+			<td><img src="/images/PDLP/About_ipad/Resources/ipad_notetaking_r.png"></td>
 		</tr>
 		<tr>
-			<td><img src="/images/PDLP/About_ipad/Resources/ipad_toolkit.png">
-			</td>
-			<td><img src="/images/PDLP/About_ipad/Resources/ipad_cyberwellness.png">
-			</td>
+			<td><img src="/images/PDLP/About_ipad/Resources/ipad_toolkit.png"></td>
+			<td><img src="/images/PDLP/About_ipad/Resources/ipad_cyberwellness.png"></td>
 		</tr>
 	</tbody>
 </table>
-<h5><center>Visit <a href="https://vle.learning.moe.edu.sg/login">SLS</a> to access the training package</center></h5>
+Visit <a href="https://vle.learning.moe.edu.sg/login">SLS</a> to access the training package
