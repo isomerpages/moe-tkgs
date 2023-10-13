@@ -11,10 +11,14 @@ third_nav_title: NDLP
 
 <b><u>2023</u></b><br>
 <a href="https://drive.google.com/file/d/1rs_TWw1A7icI54Gf-GIJYiAcZEmbpNIc/view?usp=sharing">ICT Update Briefing Slides Oct 2023 </a>
-
-<h3> SLS Learning Package</h3>
+<br>
+<br>
 <table>
 	<tbody>
+		<tr>
+			<td colspan="2"><h3> SLS Learning Package</h3>
+			</td>
+		</tr>
 		<tr>
 			<td><img src="/images/PDLP/About_ipad/Resources/ipad_op_r.png"></td>
 			<td><img src="/images/PDLP/About_ipad/Resources/ipad_notetaking_r.png">
