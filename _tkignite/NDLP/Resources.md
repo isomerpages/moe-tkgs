@@ -13,6 +13,7 @@ third_nav_title: NDLP
 <a href="https://drive.google.com/file/d/1rs_TWw1A7icI54Gf-GIJYiAcZEmbpNIc/view?usp=sharing">ICT Update Briefing Slides Oct 2023 </a>
 <br>
 <br>
+<!--Break-->
 <table>
 	<tbody>
 		<tr>
@@ -30,9 +31,6 @@ third_nav_title: NDLP
 			<td><img src="/images/PDLP/About_ipad/Resources/ipad_cyberwellness.png">
 			</td>
 		</tr>
-		<tr>
-			<td colspan="2"><h5><center>Visit <a href="https://vle.learning.moe.edu.sg/login">SLS</a> to access the training package</center></h5>
-			</td>
-		</tr>
 	</tbody>
 </table>
+<h5><center>Visit <a href="https://vle.learning.moe.edu.sg/login">SLS</a> to access the training package</center></h5>
