@@ -34,7 +34,7 @@ tr:hover {background-color: #F5F5DC;}
  <td><a target="" href="mailto:lim_kok_siong@moe.edu.sg">lim_kok_siong@moe.edu.sg</a></td>
 	</tr>
 		<tr>
-	<td rowspan="1">Mr Abdul Mutalib Khan Bin Abd</td>
+	<td rowspan="1">Mr Abdul Mutalib</td>
  <td><a target="" href="mailto:abdul_mutalib_khan@moe.edu.sg">abdul_mutalib_khan@moe.edu.sg</a></td>
 	 	</tr>
 </tbody>
