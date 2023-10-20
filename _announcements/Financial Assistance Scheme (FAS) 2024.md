@@ -11,9 +11,23 @@ The eligibility calculator is also available on the MOE website
 <table>
 	<tbody>
 		<tr>
-			<td>eFAS
+			<td><center><h4>eFAS</h4></center>
+			</td>
+		</tr>
+		<tr>
+			<td><img style="width:270px;height:240px;" src="/images/Annoucement/FAS 2024/qrcode.jpg">
+				<center><a href="https://go.gov.sg/moe-efas" target="_blank" rel="noopener">https://go.gov.sg/moe-efas</a></center>
+			</td>
+		</tr>
+		<tr>
+			<td><center><h4>Hardcopy Form</h4><br>
+				<a href="https://drive.google.com/file/d/1y-BOp_c9-qOxPzBv4rqPew7muIyYraV5/view?usp=sharing" target="_blank" rel="noopener">2024 MOE FAS Application Form</a></center>
+			</td>
+		</tr>
+		<tr>
+			<td>Application strictly via hardcopy form is required for:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. &nbsp;&nbsp;families with other dependents (Great grandparents, Aunties/Uncles, Cousins <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and others)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	&nbsp;&nbsp;family with more than 6 children in government school<br>
 			</td>
 		</tr>
 	</tbody>
 	</table>
-	
