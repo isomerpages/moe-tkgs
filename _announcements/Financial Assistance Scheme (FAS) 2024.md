@@ -26,7 +26,7 @@ The eligibility calculator is also available on the MOE website
 		</tr>
 		<tr>
 			<td>Application strictly via hardcopy form is required for:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. &nbsp;&nbsp;families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.&nbsp;&nbsp;&nbsp;family with more than 6 children in government school<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.&nbsp;&nbsp;&nbsp;family with more than 5 unmarried children not in government school<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. &nbsp;&nbsp;families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.&nbsp;&nbsp;&nbsp;family with more than 6 children in government school<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.&nbsp;&nbsp;&nbsp;family with more than 5 unmarried children not in government school<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.&nbsp;&nbsp;&nbsp;family with more than 3 grandparents in the household
 			</td>
 		</tr>
 	</tbody>
