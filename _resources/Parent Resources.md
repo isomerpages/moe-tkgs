@@ -71,7 +71,7 @@ description: ""
 <tbody>
 <tr>
 <td style="text-align: center;">
-<p><strong><a href="/announcements/fas" target="">Financial Assistance Scheme 2023</a></strong></p>
+<p><strong><a href="/announcements/fas/" target="">Financial Assistance Scheme</a></strong></p>
 	</td>
 	</tr>
 </tbody>
