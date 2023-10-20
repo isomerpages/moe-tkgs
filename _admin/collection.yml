@@ -2,6 +2,5 @@ collections:
   admin:
     output: true
     order:
-      - Resources.md
       - Announcements.md
       - Contact Information.md
