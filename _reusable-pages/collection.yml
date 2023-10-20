@@ -1,0 +1,5 @@
+collections:
+  reusable-pages:
+    output: true
+    order:
+      - Student Well–being Framework.md

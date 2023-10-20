@@ -2,14 +2,5 @@ collections:
   admin:
     output: true
     order:
-      - Resources.md
-      - Student Well–being Framework.md
       - Announcements.md
-      - Release of O – Level Results.md
-      - Financial Assistance Scheme (FAS) 2023.md
-      - Subpages/School Canteen Advertisement.md
-      - Subpages/.keep
-      - Example.md
-      - CCA Achievements.md
-      - Art Club (Mockup Page).md
       - Contact Information.md

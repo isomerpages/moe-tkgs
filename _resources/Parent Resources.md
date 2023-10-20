@@ -71,7 +71,7 @@ description: ""
 <tbody>
 <tr>
 <td style="text-align: center;">
-<p><strong><a href="/resources/announcements/financial-assistance-scheme-fas-2023" target="">Financial Assistance Scheme 2023</a></strong></p>
+<p><strong><a href="/announcements/fas/" target="">Financial Assistance Scheme</a></strong></p>
 	</td>
 	</tr>
 </tbody>
@@ -88,7 +88,7 @@ description: ""
 <tr>
 <td style="width: 33.3333%;"><br><br><a href="https://www.moe.gov.sg/parentkit"><img src="/images/pr4.png"></a></td>
 <td style="width: 33.3333%;"><br><br><a href="https://sites.google.com/moe.edu.sg/psg-online-repository"><img src="/images/pr5.png"></a></td>
-<td style="width: 33.3333%;"><a href="https://m.healthhub.sg/auth/login?source_app=hh_web&source_module=myhealth&source_source_sub=&target=/childhealth"><img style="width: 65%;" src="/images/pt6.png"></a></td>
+<td style="width: 33.3333%;"><a href="https://m.healthhub.sg/auth/login?source_app=hh_web&amp;source_module=myhealth&amp;source_source_sub=&amp;target=/childhealth"><img style="width: 65%;" src="/images/pt6.png"></a></td>
 </tr>
 <tr>
 <td style="width: 33.3333%;"><br><a href="https://www.family.org.sg/"><img style="width: 85%;" src="/images/pr7.png"></a></td>

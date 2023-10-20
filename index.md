@@ -24,6 +24,12 @@ sections:
       image: /images/Hompage/Infopic/publicity_poster_low.png
       alt: Image alt text
   - infobar:
+      title: Application for Financial Assistance Scheme (FAS)
+      id: infobar
+      description: Application for year 2024 is now open.
+      button: Click here for more details
+      url: /announcements/fas/
+  - infobar:
       title: School Canteen Advertisement
       button: Click here more details
       url: /announcements/canteen/
