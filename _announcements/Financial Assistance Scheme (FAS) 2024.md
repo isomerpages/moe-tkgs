@@ -25,11 +25,12 @@ The eligibility calculator is also available on the MOE website
 			</td>
 		</tr>
 		<tr>
-			<td>Application strictly via hardcopy form is required for:<br><br>
+			<td>Application strictly via hardcopy form is required for:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. &nbsp;&nbsp;families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.&nbsp;&nbsp;&nbsp;family with more than 6 children in government school<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.&nbsp;&nbsp;&nbsp;family with more than 5 unmarried children not in government school<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.&nbsp;&nbsp;&nbsp;family with more than 3 grandparents in the household
 			</td>
 		</tr>
 	</tbody>
 	</table>
-	<p>Note:<br>
-	i.	If your child is a ComCare recipient, you do not need to submit the application form for MOE FAS as MOE FAS will be auto granted to ComCare beneficiaries.</p>
+	<br>Note:<br><br>
+	i.&nbsp;&nbsp;&nbsp;&nbsp;If your child is a ComCare recipient, you do not need to submit the application form for MOE FAS as MOE FAS will be auto granted to ComCare beneficiaries.<br>
+ii.	Please ready all softcopy supporting documents in advance for eFAS application.<br> iii.	Please submit the completed hardcopy FAS forms and supporting documents at the General Office.
