@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Resources.md
-      - Student Well–being Framework.md
       - Announcements.md
       - Release of O – Level Results.md
       - Subpages/School Canteen Advertisement.md
