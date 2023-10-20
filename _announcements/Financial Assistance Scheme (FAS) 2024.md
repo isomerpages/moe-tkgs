@@ -31,3 +31,5 @@ The eligibility calculator is also available on the MOE website
 		</tr>
 	</tbody>
 	</table>
+	<p>Note:<br>
+	i.	If your child is a ComCare recipient, you do not need to submit the application form for MOE FAS as MOE FAS will be auto granted to ComCare beneficiaries.</p>
