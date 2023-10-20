@@ -27,7 +27,7 @@ third_nav_title: NDLP
 		</tr>
 		<tr>
 			<td><a href="/tkignite/ndlp/troubleshooting/"><img src="/images/PDLP/About_ipad/slicev1_04.png"></a></td>
-			<td><a href="/tkignite/ndlp/troubleshooting/"><img src="/images/PDLP/About_ipad/after-slicev1_05r.png"></a></td>
+			<td><a href="/tkignite/ndlp/resources/"><img src="/images/PDLP/About_ipad/after-slicev1_05r.png"></a></td>
 			<td><a href="/tkignite/ndlp/faq/"><img src="/images/PDLP/About_ipad/slicev1_06.png"></a></td>
 		</tr>
 	</tbody>
