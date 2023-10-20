@@ -2,5 +2,6 @@ collections:
   announcements:
     output: true
     order:
+      - Financial Assistance Scheme (FAS) 2023.md
       - Financial Assistance Scheme (FAS) 2024.md
       - School Canteen Advertisement.md
