@@ -34,7 +34,8 @@ The eligibility calculator is also available on the MOE website
 	<li>family with more than 5 unmarried children not in government school</li>
 	<li>family with more than 3 grandparents in the household</li>
 	</ol>
-		<p>Note:</p>
+
+<p>Note:</p>
 <ol style="list-style-type: lower-roman;">
 <li>If your child is a ComCare recipient, you do not need to submit the application form for MOE FAS as MOE FAS will be auto granted to ComCare beneficiaries.</li>
 <li>Please ready all softcopy supporting documents to be prepared in advance for eFAS application.&nbsp;</li>
