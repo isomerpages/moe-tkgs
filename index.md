@@ -29,6 +29,11 @@ sections:
       description: Application for year 2024 is now open.
       button: Click here for more details
       url: /announcements/fas/
+  - infobar:
+      title: School Canteen Advertisement
+      id: infobar
+      button: Click here for more details
+      url: /announcements/canteen/
   - infopic:
       title: TKGS Corporate Video
       button: Click here to watch
@@ -43,9 +48,4 @@ sections:
       url: https://drive.google.com/file/d/1Lhl5W6nQ-DVhvxZyPZiAW7b374T8fr7-/view?usp=sharing
       image: /images/Hompage/Infopic/collection of cert.png
       alt: Image alt text
-  - infobar:
-      title: School Canteen Advertisement
-      id: infobar
-      button: Click here for more details
-      url: /announcements/canteen/
 ---
