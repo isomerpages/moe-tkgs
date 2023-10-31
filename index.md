@@ -31,7 +31,8 @@ sections:
       url: /announcements/fas/
   - infobar:
       title: School Canteen Advertisement
-      button: Click here more details
+      id: infobar
+      button: Click here for more details
       url: /announcements/canteen/
   - infopic:
       title: TKGS Corporate Video
