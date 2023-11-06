@@ -2,6 +2,7 @@
 title: Staff Resources
 permalink: /resources/staff-resources/
 description: ""
+variant: markdown
 ---
 <p style="text-align: center;"><strong><u>Administrative Related</u></strong></p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
@@ -28,7 +29,7 @@ description: ""
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><a href="https://vle.learning.moe.edu.sg/login"><img style="width: 80%;" src="/images/sr9.png"></a></td>
-<td style="width: 33.3333%;"><a href="https://workspace.google.com/dashboard"><img src="/images/sr10.png"></a></td>
+<td style="width: 33.3333%;"><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso?SAMLRequest=fVLJTsMwEL0j8Q%2BW79laicVqgkoRohJLRAMHbq4zSd16CR6nhb%2FHTUHAAa7Pb94ynsnFm1ZkCw6lNTnN4pQSMMLW0rQ5faquozN6URwfTZBr1bFp71fmEV57QE%2FCpEE2POS0d4ZZjhKZ4RqQecEW07tbNopT1jnrrbCKkvlVTttaqqU2ZiWXG8lNY6TSYDtd87ZZr1cClJJW8Q0lz1%2BxRvtYc8Qe5gY9Nz5A6WgcZVmUnlTpKcvO2fj8hZLy0%2BlSmkOD%2F2ItDyRkN1VVRuXDohoEtrIGdx%2FYIaq1rYJYWL23Lzmi3Aa44QqBkikiOB8CzqzBXoNbgNtKAU%2BPtzlded8hS5Ldbhd%2FyyQ80RZiqPsY24QLpMWwWTaUcz9W%2Bn90%2FmVNiz%2FEJ8kP3eLz%2B%2Fat5lelVVK8k6lSdjdzwH2o5F0fGl1bp7n%2F2zqLswGRddQMVNYb7EDIRkJNSVIcXH%2FfSbieDw%3D%3D&amp;RelayState=https%3A%2F%2Faccounts.google.com%2FCheckCookie%3Fcontinue%3Dhttps%253A%252F%252Fmail.google.com%252Fmail%252F%26service%3Dmail%26checkedDomains%3Dyoutube%26checkConnection%3Dyoutube%253A212%253A0%26pstMsg%3D1%26flowName%3DGlifWebSignIn%26ifkv%3DAVQVeyyg0ziovZP7hoY79ggBtOq-lh-1xBUFBwX4vNAw78leCzCR_8UdzCtQ3toGo3RpspO-VG7zsQ%26theme%3Dglif"><img src="/images/sr10.png"></a></td>
 <td style="width: 33.3333%;"><br><a href="https://classroom.google.com/u/0/h"><img src="/images/sr11.png"></a></td>
 </tr>
 </tbody>
