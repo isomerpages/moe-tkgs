@@ -4,7 +4,7 @@ permalink: /resources/student-resources/
 description: ""
 variant: markdown
 ---
-<h3><center>Weblinks</center></h3>
+<h4 style="text-align: center;"><strong>Weblinks</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -19,4 +19,9 @@ variant: markdown
 </tr></tbody>
 </table>
 
-<center><h3>Resources</h3></center>
+<h4 style="text-align: center;"><strong>Resources &amp; Services</strong></h4>
+<table>
+	<tbody>
+		<tr>
+			<td style="text-align: center;"><a href="/learning-at-tkgs/student-development/student-well-being/counselling/">Counselling</a></td>
+			<td> Visit <a href="https://vle.learning.moe.edu.sg/login">SLS</a> for timetabling matters</td></tr></tbody></table>
