@@ -13,10 +13,10 @@ variant: markdown
 <td style="width: 33.3333%;"><a href="http://www.myskillsfuture.sg/secondary"><img src="/images/srr3.jpg"></a></td>
 </tr>
 	<tr>
-		<td style="text-align: center;" colspan="3">
+		<td style="text-align: center;" colspan="2">
 			<a href="https://schoolibrary.moe.edu.sg/tanjongkatonggirls/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"><img style="width: 30%;" src="/images/Resources/Student/liblogo.png"></a></td>
-			
-</tr></tbody>
+			<td>
+</td></tr></tbody>
 </table>
 
 <h4 style="text-align: center;"><strong>Resources &amp; Services</strong></h4>
