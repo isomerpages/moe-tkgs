@@ -24,7 +24,7 @@ variant: markdown
 	<tbody>
 		<tr>
 			<td style="text-align: center;"><a href="/learning-at-tkgs/student-development/student-well-being/counselling/">Counselling</a></td>
-			<td style="text-align: center;"> Visit <a href="https://vle.learning.moe.edu.sg/login">SLS</a> for timetabling matters</td>
-		</tr>
+			<td style="text-align: center;"> <a href="https://vle.learning.moe.edu.sg/login">Timetabling Matters
+		</a></td></tr>
 	</tbody>
 	</table>
