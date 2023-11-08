@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <h4>Compulsory Forms to be Completed</h4>
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table border="1" align="center" style="border-collapse: collapse; width: 100%;">
 	<tbody>
 		<tr>
 			<td style="font-weight: bold;">Description of Document</td>
