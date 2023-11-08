@@ -8,8 +8,9 @@ description: ""
 <table border="1" style="border-collapse: collapse; width: 100%;">
 	<tbody>
 		<tr>
-			<td>Description of Document
-			</td>
+			<td style="font-weight: bold;">Description of Document</td>
+			<td style="font-weight: bold;">Deadline</td>
+			<td style="font-weight: bold;">Remarks</td>
 		</tr>
 	</tbody>
 	</table>
