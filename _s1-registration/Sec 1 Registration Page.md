@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <h4>Compulsory Forms to be Completed</h4>
-<table border="1" align="center" style="border-collapse: collapse; width: 100%;">
+<table border="1" style="border-collapse: collapse; width: 100%;">
 	<tbody>
 		<tr>
 			<td style="font-weight: bold;">Description of Document</td>
@@ -13,14 +13,14 @@ description: ""
 			<td style="font-weight: bold;">Remarks</td>
 		</tr>
 		<tr>
-			<td>2024 Sec 1 Registration Form<br><br><a href="https://vle.learning.moe.edu.sg/login">click here</a></td>
-			<td>XX December 2023</td>
-			<td>Parents are reminded to complete and submit the form by the stipulated deadline.</td>
+			<td valign="middle" align="center">2024 Sec 1 Registration Form<br><br><a href="https://vle.learning.moe.edu.sg/login">click here</a></td>
+			<td valign="middle" align="center">XX December 2023</td>
+			<td valign="middle" align="center">Parents are reminded to complete and submit the form by the stipulated deadline.</td>
 		</tr>
 		<tr>
-			<td>2024 Sec 1 Registration Form<br><br><a href="https://vle.learning.moe.edu.sg/login">click here</a></td>
-			<td>XX December 2023</td>
-			<td>Parents are reminded to complete and submit the form by the stipulated deadline.</td>
+			<td valign="middle" align="center">2024 Sec 1 Registration Form<br><br><a href="https://vle.learning.moe.edu.sg/login">click here</a></td>
+			<td valign="middle" align="center">XX December 2023</td>
+			<td valign="middle" align="center">Parents are reminded to complete and submit the form by the stipulated deadline.</td>
 		</tr>
 	</tbody>
 	</table>
