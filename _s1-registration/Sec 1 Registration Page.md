@@ -14,13 +14,18 @@ description: ""
         </tr>
         <tr>
             <td style="text-align: center; vertical-align: middle;">2024 Sec 1 Registration Form<br><br><a href="https://vle.learning.moe.edu.sg/login">click here</a></td>
-            <td style="text-align: center; vertical-align: middle;">XX December 2023</td>
-            <td style="text-align: center; vertical-align: middle;">Parents are reminded to complete and submit the form by the stipulated deadline.</td>
+            <td style="text-align: center; vertical-align: middle;">21 December 2023 (Thursday)<br>12pm</td>
+            <td colspan="3" style="text-align: center; vertical-align: middle;">Parents are reminded to complete and submit the form by the stipulated deadline.</td>
         </tr>
         <tr>
-            <td style="text-align: center; vertical-align: middle;">2024 Sec 1 Registration Form<br><br><a href="https://vle.learning.moe.edu.sg/login">click here</a></td>
-            <td style="text-align: center; vertical-align: middle;">XX December 2023</td>
-            <td style="text-align: center; vertical-align: middle;">Parents are reminded to complete and submit the form by the stipulated deadline.</td>
+            <td style="text-align: center; vertical-align: middle;">2024 Student Profile<br><br><a href="https://vle.learning.moe.edu.sg/login">click here</a></td>
+            <td style="text-align: center; vertical-align: middle;">5 January 2024</td>
+            <td style="text-align: center; vertical-align: middle;"></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">2024 Sec 1 Dental Consent Form<br><br><a href="https://vle.learning.moe.edu.sg/login">click here</a></td>
+            <td style="text-align: center; vertical-align: middle;">5 January 2024</td>
+            <td style="text-align: center; vertical-align: middle;"></td>
         </tr>
     </tbody>
 </table>
