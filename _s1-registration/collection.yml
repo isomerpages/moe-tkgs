@@ -1,4 +1,5 @@
 collections:
   s1-registration:
     output: true
-    order: []
+    order:
+      - Sec 1 Registration Page.md
