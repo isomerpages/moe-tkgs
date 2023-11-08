@@ -12,5 +12,8 @@ description: ""
 			<td style="font-weight: bold;">Deadline</td>
 			<td style="font-weight: bold;">Remarks</td>
 		</tr>
+		<tr>
+			<td>2024 Sec 1 Registration Form<br><br><a href="https://vle.learning.moe.edu.sg/login"></a></td>
+		</tr>
 	</tbody>
 	</table>
