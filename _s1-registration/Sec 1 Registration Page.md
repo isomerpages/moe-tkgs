@@ -6,21 +6,21 @@ description: ""
 ---
 <h4>Compulsory Forms to be Completed</h4>
 <table border="1" style="border-collapse: collapse; width: 100%;">
-	<tbody>
-		<tr>
-			<td align="center" style="font-weight: bold;">Description of Document</td>
-			<td align="center" style="font-weight: bold;">Deadline</td>
-			<td align="center" style="font-weight: bold;">Remarks</td>
-		</tr>
-		<tr>
-			<td valign="middle" align="center">2024 Sec 1 Registration Form<br><br><a href="https://vle.learning.moe.edu.sg/login">click here</a></td>
-			<td valign="middle" align="center">XX December 2023</td>
-			<td valign="middle" align="center">Parents are reminded to complete and submit the form by the stipulated deadline.</td>
-		</tr>
-		<tr>
-			<td valign="middle" align="center">2024 Sec 1 Registration Form<br><br><a href="https://vle.learning.moe.edu.sg/login">click here</a></td>
-			<td valign="middle" align="center">XX December 2023</td>
-			<td valign="middle" align="center">Parents are reminded to complete and submit the form by the stipulated deadline.</td>
-		</tr>
-	</tbody>
-	</table>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold; text-align: center;">Description of Document</td>
+            <td style="font-weight: bold; text-align: center;">Deadline</td>
+            <td style="font-weight: bold; text-align: center;">Remarks</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">2024 Sec 1 Registration Form<br><br><a href="https://vle.learning.moe.edu.sg/login">click here</a></td>
+            <td style="text-align: center; vertical-align: middle;">XX December 2023</td>
+            <td style="text-align: center; vertical-align: middle;">Parents are reminded to complete and submit the form by the stipulated deadline.</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">2024 Sec 1 Registration Form<br><br><a href="https://vle.learning.moe.edu.sg/login">click here</a></td>
+            <td style="text-align: center; vertical-align: middle;">XX December 2023</td>
+            <td style="text-align: center; vertical-align: middle;">Parents are reminded to complete and submit the form by the stipulated deadline.</td>
+        </tr>
+    </tbody>
+</table>
