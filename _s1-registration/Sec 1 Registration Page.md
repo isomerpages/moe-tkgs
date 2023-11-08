@@ -13,16 +13,16 @@ description: ""
             <td style="font-weight: bold; text-align: center;">Remarks</td>
         </tr>
         <tr>
-            <td style="text-align: center; vertical-align: middle;">2024 Sec 1 Registration Form<br><br><a href="https://tkgs.moe.edu.sg">click here</a></td>
+            <td style="text-align: center; vertical-align: middle;">2024 Sec 1 Registration Form<br><br><a href="https://tkgs.moe.edu.sg">Click Here</a></td>
             <td style="text-align: center; vertical-align: middle;">21 December 2023 (Thursday)<br>12pm</td>
             <td rowspan="3" style="text-align: center; vertical-align: middle;">Parents are reminded to complete and submit the form by the stipulated deadline.</td>
         </tr>
         <tr>
-            <td style="text-align: center; vertical-align: middle;">2024 Student Profile<br><br><a href="https://tkgs.moe.edu.sg">click here</a></td>
+            <td style="text-align: center; vertical-align: middle;">2024 Student Profile<br><br><a href="https://tkgs.moe.edu.sg">Click Here</a></td>
             <td style="text-align: center; vertical-align: middle;">5 January 2024 (Friday)<br>5pm</td>
         </tr>
         <tr>
-            <td style="text-align: center; vertical-align: middle;">2024 Sec 1 Dental Consent Form<br><br><a href="https://tkgs.moe.edu.sg">click here</a></td>
+            <td style="text-align: center; vertical-align: middle;">2024 Sec 1 Dental Consent Form<br><br><a href="https://tkgs.moe.edu.sg">Click Here</a></td>
             <td style="text-align: center; vertical-align: middle;">XX XXX XXXX</td>
         </tr>
     </tbody>
@@ -62,7 +62,7 @@ at a more Demanding Level </td>
             <td style="font-weight: bold; text-align: center;">Remarks</td>
         </tr>
         <tr>
-            <td style="text-align: center; vertical-align: middle;">2024 Sec 1 MEP Application Form<br><br><a href="https://tkgs.moe.edu.sg">Website URL</a></td>
+            <td style="text-align: center; vertical-align: middle;">2024 Sec 1 MEP Application Form<br><br><a href="https://tkgs.moe.edu.sg">Click Here</a></td>
             <td style="text-align: center; vertical-align: middle;">XXX <br>XXam/pm</td>
             <td style="text-align: center; vertical-align: middle;">Option Form and Approval Letter will be sent to eligible students via Parents Gateway.<br><br>More information on our MEP is available at <a href="https://tkgs.moe.edu.sg">Website URL</a></td>
         </tr>
