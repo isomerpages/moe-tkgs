@@ -13,7 +13,9 @@ description: ""
 			<td style="font-weight: bold;">Remarks</td>
 		</tr>
 		<tr>
-			<td>2024 Sec 1 Registration Form<br><br><a href="https://vle.learning.moe.edu.sg/login"></a></td>
+			<td>2024 Sec 1 Registration Form<br><br><a href="https://vle.learning.moe.edu.sg/login">click here</a></td>
+			<td>XX December 2023</td>
+			<td>Parents are reminded to complete and submit the form by the stipulated deadline.</td>
 		</tr>
 	</tbody>
 	</table>
