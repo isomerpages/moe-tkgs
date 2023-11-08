@@ -8,9 +8,9 @@ description: ""
 <table border="1" style="border-collapse: collapse; width: 100%;">
 	<tbody>
 		<tr>
-			<td style="font-weight: bold;">Description of Document</td>
-			<td style="font-weight: bold;">Deadline</td>
-			<td style="font-weight: bold;">Remarks</td>
+			<td align="center" style="font-weight: bold;">Description of Document</td>
+			<td align="center" style="font-weight: bold;">Deadline</td>
+			<td align="center" style="font-weight: bold;">Remarks</td>
 		</tr>
 		<tr>
 			<td valign="middle" align="center">2024 Sec 1 Registration Form<br><br><a href="https://vle.learning.moe.edu.sg/login">click here</a></td>
