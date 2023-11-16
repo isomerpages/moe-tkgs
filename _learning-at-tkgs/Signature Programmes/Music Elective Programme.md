@@ -9,7 +9,8 @@ variant: markdown
 	ol.s {list-style-type: inherit;}
 	</style>
 
-<p>The Music Elective Programme is a MOE programme for students with passion and aptitude in Music. Being in MEP in TKGS means </p>
+<p>The Music Elective Programme is a MOE programme for students with passion and aptitude in Music.</p>
+Being in MEP in TKGS means <br>
 <ol class="s">
 	<li>committing to 4 years of in-depth study of music.</li>
 	<li>being immersed in an enriched music learning environment.</li>
@@ -18,9 +19,9 @@ variant: markdown
 	<li>being part of a musical  community in school, with shared experiences and relationships.</li>
 	<li>learning how to be a servant leader in the arts by leading others and promoting music to school and community.</li>
 	<li>preparing for Higher Music at the O levels with a specialization in Music Research, Performing or Music composition.</li>
-	</ol>
+	</ol><br><br>
 
-<p>Through the MEP, student will:</p>
+<br>Through the MEP, student will:<br>
 <li>be exposed to a range of music from the Western Classical tradition, Asian Music, Jazz, and Popular music.</li>
 <li>enjoy opportunities for musical learning and collaboration with students of other schools during MEP Camp, MOE music events.</li>
 <li>Learn from music professionals in masterclasses and Asian music workshops.</li>
