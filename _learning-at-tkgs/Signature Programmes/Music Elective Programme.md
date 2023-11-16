@@ -9,7 +9,7 @@ variant: markdown
 	ol.s {list-style-type: inherit;}
 	</style>
 
-<p>The Music Elective Programme is a MOE programme for students with passion and aptitude in Music.</p>
+The Music Elective Programme is a MOE programme for students with passion and aptitude in Music.<br><br>
 Being in MEP in TKGS means <br>
 <ol class="s">
 	<li>committing to 4 years of in-depth study of music.</li>
