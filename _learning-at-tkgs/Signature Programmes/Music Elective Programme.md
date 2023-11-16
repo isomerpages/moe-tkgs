@@ -38,5 +38,4 @@ After confirmation of placement in TKGS, refer to Sec 1 registration package for
 
 For more information on MEP <br>
 MOE MEP page - <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec">https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec</a>
-									<a href="https://www.hrp.gov.sg/hrp/#/">
-</a></li>
+</li>
