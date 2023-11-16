@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Signature Programmes
 variant: markdown
 ---
+<style>
+	ol.s {list-style-type: inherit;}
+	</style>
+
 <p>The Music Elective Programme is a MOE programme for students with passion and aptitude in Music. Being in MEP in TKGS means </p>
 <ol class="s">
 	<li>committing to 4 years of in-depth study of music</li>
