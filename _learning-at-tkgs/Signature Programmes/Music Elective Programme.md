@@ -36,6 +36,7 @@ Pass MEP Selection Exercise, comprising the following components:</p>
 Registration for interested Secondary 1s<br>
 After confirmation of placement in TKGS, refer to Sec 1 registration package for information on how to register for MEP. 
 
-For more information on MEP 
-MOE MEP page - https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec
-</li>
+For more information on MEP <br>
+MOE MEP page - <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec">https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec</a>
+									<a href="https://www.hrp.gov.sg/hrp/#/">
+</a></li>
