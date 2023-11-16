@@ -3,6 +3,7 @@ title: Sports & Games
 permalink: /cca/sports-n-games/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <p>Sports in TKGS imbues important values such as determination in our student-players. Our Badminton, Netball, Bowling and Softball teams have outdone themselves on many occasions at the annual National School Games.</p>
 <h3>Year 2023</h3><table>
@@ -32,9 +33,18 @@ third_nav_title: Sports & Games
 			<td style="text-align: center;">3rd Position</td>
 	</tr>
 	<tr>
-			<td style="vertical-align: middle;">Bowling</td>
+		<td style="vertical-align: middle;" rowspan="2">Bowling</td>
 			<td style="text-align: center;">National ‘B’ Division School Games</td>
 			<td style="text-align: center;">2nd Position</td>
+	</tr>
+	<tr>
+		<td style="text-align: center;">National ‘C’ Division School Games</td>
+			<td style="text-align: center;">2nd Position</td>
+	</tr>
+		<tr>
+			<td style="vertical-align: middle;">Badminton</td>
+			<td style="text-align: center;">East Zone 'C' Division School Games</td>
+			<td style="text-align: center;">4th Position</td>
 	</tr>
 	</tbody>
 </table>
