@@ -20,7 +20,6 @@ Being in MEP in TKGS means <br>
 	<li>learning how to be a servant leader in the arts by leading others and promoting music to school and community.</li>
 	<li>preparing for Higher Music at the O levels with a specialization in Music Research, Performing or Music composition.</li>
 	</ol>
-<br>
 Through the MEP, student will :
 	<br>
 <li>be exposed to a range of music from the Western Classical tradition, Asian Music, Jazz, and Popular music.</li>
