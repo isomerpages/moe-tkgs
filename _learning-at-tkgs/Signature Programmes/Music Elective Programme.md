@@ -30,10 +30,12 @@ Through the MEP, student will :
 <li>Have opportunity to work in groups for school recitals, performing examinations, and organizing events for the school community.</li>
 	</ol>
 <br>Entry requirements<br>
+<ol class="s">
 Pass MEP Selection Exercise, comprising the following components:<br>
 <li><b>Audition - 2</b> solo pieces on an instrument of choice OR voice in any style of a total duration of not more than 5 mins); auditions should be unaccompanied.</li>
 <li><b>E-Listening Test  -</b> Assesses applicant’s aural perception through responses to short musical extracts.</li>
 <li><b>Interview </b></li>
+	</ol>
 <br><br>Registration for interested Secondary 1s<br>
 After confirmation of placement in TKGS, refer to Sec 1 registration package for information on how to register for MEP. <br><br>
 
