@@ -2,7 +2,6 @@ collections:
   learning-at-tkgs:
     output: true
     order:
-      - Signature Programmes/Student Leadership.md
       - Signature Programmes/TKGS Plus.md
       - Signature Programmes/TKGlow.md
       - Signature Programmes/Music Elective Programme.md
