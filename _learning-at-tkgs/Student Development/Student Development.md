@@ -28,3 +28,5 @@ The TKGS Student Development framework seeks to provide every student in TKGS wi
         <img src="/images/LearningTKGS/Student_development/framework_sm.png">
     </a>
 </div>
+
+The picture above illustrates the caring, affirming and enabling environment in TKGS, one established on good seeds (school values), good soil (school culture) and strong roots (quality relationships). As they feel secure and find their sense of place within this citadel of learning, TKGians are empowered to explore their strengths, enabling them to thrive and flourish like mighty oaks. 
