@@ -2,4 +2,5 @@ collections:
   reusable-pages:
     output: true
     order:
+      - Student Leadership.md
       - Student Well–being Framework.md

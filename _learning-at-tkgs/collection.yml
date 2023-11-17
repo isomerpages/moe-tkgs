@@ -2,7 +2,6 @@ collections:
   learning-at-tkgs:
     output: true
     order:
-      - Signature Programmes/Student Leadership.md
       - Signature Programmes/TKGS Plus.md
       - Signature Programmes/TKGlow.md
       - Signature Programmes/Music Elective Programme.md
@@ -15,9 +14,11 @@ collections:
       - Academic/Science.md
       - Academic/Physical Education.md
       - Academic/.keep
-      - Student Development/Student Well–being.md
+      - Student Development/.keep
+      - Student Development/Student Development.md
+      - Student Development/Student Well–Being.md
+      - Student Development/Student Leadership Development.md
       - Student Development/Counselling.md
       - Student Development/Character and Citizenship Education.md
       - Student Development/Sexuality Education.md
-      - Student Development/.keep
       - Key School Events.md
