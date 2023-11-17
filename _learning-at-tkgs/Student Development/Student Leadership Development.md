@@ -17,7 +17,7 @@ third_nav_title: Student Development
 <li>Guided by the practice of Servant Leadership and our belief that leadership is not positional, leadership in TKGS is purpose-driven towards serving the common good and its development anchored on character growth and excellence.</li>
 
 <li>Every student possesses a unique blend of abilities, inclinations and talents, and has the potential to be developed as a leader. When we focus on the ‘person’ and encourage our students to be self-reflective in their personal growth, they learn to leverage their strengths and develop a mindset that supports personal resilience and emotional agility. In doing so, we move our students towards self-assurance and help them discover their unique value as a leader.</li>
-<br>
+	</ol>
 	<br>
 	<b>Tiered Leadership Development</b>
 <br>
@@ -40,4 +40,4 @@ Signature TKGS experiences<br>
 	<li>Inter House Games</li>
 	<li>Docents for Music Wall and Art Gallery</li>
 	<li>Tiered ViA programme</li>
-	</ol></ol>
+	</ol>
