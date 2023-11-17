@@ -15,12 +15,9 @@ third_nav_title: Student Development
 <b>Key Beliefs</b>
 <ol class="s">
 <li>Guided by the practice of Servant Leadership and our belief that leadership is not positional, leadership in TKGS is purpose-driven towards serving the common good and its development anchored on character growth and excellence.</li>
-
 <li>Every student possesses a unique blend of abilities, inclinations and talents, and has the potential to be developed as a leader. When we focus on the ‘person’ and encourage our students to be self-reflective in their personal growth, they learn to leverage their strengths and develop a mindset that supports personal resilience and emotional agility. In doing so, we move our students towards self-assurance and help them discover their unique value as a leader.</li>
 	</ol>
-	<br>
 	<b>Tiered Leadership Development</b>
-<br>
 	<br>
 In TKGS, we adopt a three-tiered student leadership development approach to equip our students with the relevant knowledge and skills that empower them to serve beyond the school and make a difference to the community. 
 <br><br>
