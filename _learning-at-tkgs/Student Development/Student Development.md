@@ -5,6 +5,12 @@ description: ""
 third_nav_title: Student Development
 variant: markdown
 ---
+<style>
+    .center-image {
+        text-align: center;
+    }
+</style>
+
 <div style="text-align: center;">
     <h3>OUR APPROACH TO STUDENT DEVELOPMENT</h3>
 </div>
@@ -15,4 +21,10 @@ In TKGS, we see the TKGian to be more than a student, more than an achiever with
     <h3>TKGS STUDENT DEVELOPMENT FRAMEWORK</h3>
 </div>
 
-The TKGS Student Development framework seeks to provide every student in TKGS with the strongest foundation possible for them to reach their aspirations in learning and in life. It guides our focus to ‘Grow the Gracious Woman’ and ‘Raise the Servant Leader,’ and tells the story of our whole school approach towards Student Development. 
+The TKGS Student Development framework seeks to provide every student in TKGS with the strongest foundation possible for them to reach their aspirations in learning and in life. It guides our focus to ‘Grow the Gracious Woman’ and ‘Raise the Servant Leader,’ and tells the story of our whole school approach towards Student Development.
+
+<div class="center-image">
+    <a href="/images/LearningTKGS/Student_development/framework_sm.png">
+        <img src="/images/LearningTKGS/Student_development/framework_sm.png">
+    </a>
+</div>
