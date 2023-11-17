@@ -21,11 +21,11 @@ third_nav_title: Student Development
 <b>Tiered Intervention and Support to Enhance Student Well-Being</b>
 <br>
 In TKGS, we seek to nurture a sense of belonging to the school because we believe that doing so encourages our students to engage actively in interactions within the school environment, which help shape their character, social-emotional well-being and identity development. To enhance student well-being, the school’s intervention and support efforts are mapped out according to 3 tiers. Key structures and programmes support the entire student population under Tier 1, targeted support remedy problems for different student segments in Tier 2 and individualised interventions address the needs of specific students in Tier 3.
-
+<br>
 To engender greater student motivation and engagement, we also focus on strengthening the quality of relationships in school. To nurture strong peer support relations, TKGians are guided to show sisterly care to one another. Teachers, on the other hand, strive to improve teacher-student relationships by incorporating relational teaching practices into their everyday curriculum. These supportive networks between student-student and teacher-student serve as strong roots as they encourage our students to see school as a meaningful and inviting place to be and provide them with the safe and empowering environment they need, to make mistakes and learn from them.
-
+<br>
 We are also intentional and thoughtful in designing experiences that are uniquely TKGS. There are numerous platforms available to foster positive teacher-student relationship and peer relations, thereby providing the caring, affirming and trusting environment for every girl to discover herself, strengthen her social-emotional competencies and develop a healthy self-concept to thrive and flourish. 
-
+<br>
 These signature TKGS experiences include:
 ▪	Cohort Experiences
 ▪	TKGS Spirit Week
