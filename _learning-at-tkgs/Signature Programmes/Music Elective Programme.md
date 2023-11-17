@@ -38,7 +38,7 @@ Being in MEP in TKGS means <br>
     <li><b>Interview </b></li>
 </ol>
 <p>Registration for interested Secondary 1s</p>
-After confirmation of placement in TKGS, refer to Sec 1 registration package for information on how to register for MEP. <br><br>
+After confirmation of placement in TKGS, refer to Sec 1 registration package for information on how to register for MEP. <br>
 
 For more information on MEP, please visit MOE MEP page.
 <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec">https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec</a>
