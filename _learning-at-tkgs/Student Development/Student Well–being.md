@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Student Development
 ---
-&gt;<style>
+<style>
     ol.s {list-style-type: inherit;}
 	.center-image {
         text-align: center;
