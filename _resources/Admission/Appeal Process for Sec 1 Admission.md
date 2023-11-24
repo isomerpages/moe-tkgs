@@ -15,7 +15,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center; width: 415px;">
-<p>22 December 2023, 12:00pm&nbsp;</p>
+<p>Within 3 days after posting results. <br>Exact date to be updated after posting results</p>
 </td>
 </tr>
 </tbody>
@@ -28,5 +28,4 @@ variant: markdown
 <li>Copies of CCA Records&nbsp;</li>
 <li>Other relevant documents.&nbsp;</li>
 </ol>
-<p>Please submit your appeal application by 22 December 2023, 12:00pm.</p>
 <p>More information on admission matters can be found&nbsp;<a href="https://www.moe.gov.sg/faq?categoryid=C547D6C3F9584A80B5634874DBD4423B" target="_blank" rel="noopener">here</a>.</p>
