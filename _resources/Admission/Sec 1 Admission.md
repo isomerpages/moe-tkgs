@@ -3,6 +3,7 @@ title: Sec 1 Admission
 permalink: /resources/admission/sec-1-admission/
 description: ""
 third_nav_title: Admission
+variant: markdown
 ---
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR1PKA2IqgSl57df_61FlcsQ9sQt1mWHhcJVGaYPlWitlx9_Qo9UgcWG_AeMUQgdgbpAIIx-KuKgOhc/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true"></iframe>
 
@@ -20,11 +21,11 @@ third_nav_title: Admission
 </tr>
 <tr>
 <td style="vertical-align: middle;"><a href="https://drive.google.com/file/d/16JYQWH36CSnqIK1qANzg44q0nMw5_VGV/view" target="_blank" rel="noopener"><strong>Our School Day</strong></a></td>
-<td style="vertical-align: middle;"><a href="https://drive.google.com/file/d/11OCdILYhV63ey7CX4vlUFt2JDBpZISti/view"><img src="/images/sec1.jpg"></a></td>
+<td style="vertical-align: middle;"><a href="https://drive.google.com/file/d/1L-A20LLWcH6BjFctgFQJMJHIttDGHSUB/view?usp=sharing"><img src="/images/sec1.jpg"></a></td>
 <td style="vertical-align: middle;"><a href="https://drive.google.com/file/d/1Z1FbjdJ4RibMAlgxsW83cJMW5sPmtOxV/view" target="_blank" rel="noopener"><strong>Personal Bearing</strong></a></td>
 </tr>
 <tr>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1xaCYr6f1qoxL6GG8uwT11ICrDu70O82c/view" target="_blank" rel="noopener"><strong>FAQs</strong></a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1MTnb-Vfc4KBs5RnZC1iuNaWPFpDVH-9G/view?usp=drive_link" target="_blank" rel="noopener"><strong>FAQs</strong></a></td>
 <td style="text-align: center;"><a href="/resources/admission/other-admission-matters" target="_blank" rel="noopener"><strong>Booklist, uniform, bus and locker</strong></a></td>
 <td style="text-align: center;"><a href="/useful-links/contact-information" target="_blank" rel="noopener"><strong>Contact Information</strong></a></td>
 </tr>
