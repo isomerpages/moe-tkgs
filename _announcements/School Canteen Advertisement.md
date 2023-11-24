@@ -10,7 +10,6 @@ variant: markdown
 		<tr>
 			<td><b>Type of Stall</b></td>
 			<td><b>Closing Date</b></td>
-			<td><b>Requirements</b></td>
 		</tr>
 	<tr>
 			<td>Asia Cuisine (Non-Halal Japanese/Korean etc)</td>
