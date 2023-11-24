@@ -2,6 +2,7 @@
 title: School Canteen Advertisement
 permalink: /announcements/canteen/
 description: ""
+variant: markdown
 ---
 <h4 style="text-align: center;"><strong>Stall Vacancies</strong></h4>
 <table>
@@ -9,21 +10,10 @@ description: ""
 		<tr>
 			<td><b>Type of Stall</b></td>
 			<td><b>Closing Date</b></td>
-			<td><b>Requirements</b></td>
 		</tr>
 	<tr>
-		<td>Chinese Noodles Stall</td>
-		<td>30 Nov 2023</td>
-		<td>Any Chinese noodle menu is acceptable.</td>
-		</tr>
-		<tr>
-			<td>Halal Cuisine (Noodle/Rice) Stall</td>
-			<td>30 Nov 2023</td>
-			<td>Rice or noodle stalls are acceptable.</td>
-		</tr>
-		<tr>
 			<td>Asia Cuisine (Non-Halal Japanese/Korean etc)</td>
-			<td>30 Nov 2023</td>
+			<td>31 Dec 2023</td>
 		</tr>
 			</tbody>
 </table>

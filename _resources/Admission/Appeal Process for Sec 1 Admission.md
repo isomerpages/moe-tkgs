@@ -3,6 +3,7 @@ title: Appeal Process for Sec 1 Admission
 permalink: /resources/admission/appeal-process-for-sec-1-admission/
 description: ""
 third_nav_title: Admission
+variant: markdown
 ---
 <p>The Sec 1 appeal exercise is open from the period stated below.&nbsp;</p>
 <table style="width: 425px; margin-left: auto; margin-right: auto;">
@@ -14,7 +15,7 @@ third_nav_title: Admission
 </tr>
 <tr>
 <td style="text-align: center; width: 415px;">
-<p>21 - 23 December 2022, 12:00pm&nbsp;</p>
+<p>22 December 2023, 12:00pm&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -27,5 +28,5 @@ third_nav_title: Admission
 <li>Copies of CCA Records&nbsp;</li>
 <li>Other relevant documents.&nbsp;</li>
 </ol>
-<p>Please submit your appeal application by 23 December 2022, 12:00pm.</p>
+<p>Please submit your appeal application by 22 December 2023, 12:00pm.</p>
 <p>More information on admission matters can be found&nbsp;<a href="https://www.moe.gov.sg/faq?categoryid=C547D6C3F9584A80B5634874DBD4423B" target="_blank" rel="noopener">here</a>.</p>
