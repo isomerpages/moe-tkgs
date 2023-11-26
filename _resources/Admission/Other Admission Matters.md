@@ -113,7 +113,7 @@ variant: markdown
 </tr>
 <tr>
 <td>
-<p>Application form can be downloaded here: <a href="/files/TKGS%20SCHOOL%20BUS%20FORM%202023.pdf">TKGS SCHOOL BUS FORM 2023.pdf</a></p>
+<p>Application form can be downloaded here:<br> <a href="/files/Other_Admission_Matters/TKGS_SCHOOL_BUS_FORM_2024.pdf">TKGS SCHOOL BUS FORM 2024</a></p>
 </td>
 </tr>
 </tbody>
@@ -122,20 +122,19 @@ variant: markdown
 <tbody>
 <tr>
 <td>
-<p style="text-align: center;"><strong>Locker and Lock Pte Ltd (Locker Rental Service)</strong></p>
+<p style="text-align: center;"><strong>Locker &amp; Lock Placement Pte Ltd (Locker Rental Service)</strong></p>
 </td>
 </tr>
 <tr>
 <td>
-<p><a href="/files/2023%20School%20Locker%20Rental.pdf" target="_blank" rel="noopener">Information on School Locker Rental 2023</a></p>
+<p><a href="/files/2023%20School%20Locker%20Rental.pdf" target="_blank" rel="noopener">Information on School Locker Rental 2024</a></p>
 <p>Email:&nbsp;<a href="mailto:rent@lockerandlock.com" target="">rent@lockerandlock.com</a></p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Application can be filled here or scan QR code :</p>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeisolK3flJHuHebdSK2kFlvzFlzeXmoubTjBSpnylG-NlllA/viewform?pli=1" target="_blank" rel="noopener">https://docs.google.com/forms/d/e/1FAIpQLSeisolK3flJHuHebdSK2kFlvzFlzeXmoubTjBSpnylG-NlllA/viewform?pli=1</a></p>
-<img style="width: 30%;" src="/images/qr.png" align="left">
+<p>Application can be filled here:</p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeisolK3flJHuHebdSK2kFlvzFlzeXmoubTjBSpnylG-NlllA/viewform?pli=1" target="_blank" rel="noopener">e-Application Form</a></p>
 </td>
 </tr>
 </tbody>
