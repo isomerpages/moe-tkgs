@@ -32,7 +32,7 @@ variant: markdown
 </tr>
 <tr>
 <td>
-<p>Tel: 6559 2269<br>Email:&nbsp;<a href="mailto:sales@pacificbookstores.com" target="">sales@pacificbookstores.com</a></p>
+<p>Tel: 69298012<br>Email:&nbsp;<a href="mailto:sales@pacificbookstores.com" target="">sales@pacificbookstores.com</a></p>
 </td>
 </tr>
 <tr>
@@ -62,7 +62,7 @@ variant: markdown
 <p><strong>Retail Store Address</strong></p>
 </td>
 <td>
-<p style="text-align: center;">1 Kaki Bukit Road 1, #01-30/31 Enterprise One, Singapore 415934<br>(within approx. 10 minutes walk from DT27 Ubi MRT station)</p>
+<p style="text-align: center;">1 Kaki Bukit Road 1, #01-31 Enterprise One, Singapore 415934<br>(within approx. 10 minutes walk from DT27 Ubi MRT station)</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +92,7 @@ variant: markdown
 </tbody>
 </table>
 <p>Parents are strongly encourage to purchase uniforms online&nbsp;via the website (<a href="http://www.intrenduniforms.com/" target="_blank" rel="noopener">www.intrenduniforms.com</a>)&nbsp;and have them delivered to your home. However, if you prefer to self-collect your online orders, you may do so at the retail store for school attire. Please refer to the following attachment for more information.</p>
-<p><a href="/files/Information%20for%20Sale%20of%20Uniforms%202023_TKGS.pdf">Information for Sale of Uniforms 2023_TKGS.pdf</a></p>
+<p><a href="/files/Other_Admission_Matters/Information_for_Sale_of_Uniforms_2024_TKGS.pdf">Information for Sale of Uniforms 2024_TKGS.pdf</a></p>
 </div>
 </div>
 </td>
