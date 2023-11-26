@@ -3,18 +3,22 @@ title: Other Admission Matters
 permalink: /resources/admission/other-admission-matters/
 description: ""
 third_nav_title: Admission
+variant: markdown
 ---
 <table>
 <tbody>
 <tr>
 <td>
-<p style="text-align: center;"><strong><u>TKGS Booklist for 2023</u></strong></p>
+<p style="text-align: center;"><strong><u>TKGS Booklist for 2024</u></strong></p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Dear Parents,<br />Please refer to the links below for the 2023 booklist. Thank you.</p>
-<p><a href="/files/Sec%201%20Booklist%202023.pdf">Sec 1 Booklist 2023.pdf</a><br /><a href="/files/Sec%202%20Booklist%202023.pdf">Sec 2 Booklist 2023.pdf</a><br /><a href="/files/Sec%203%20Booklist%202023.pdf">Sec 3 Booklist 2023.pdf</a><br /><a href="/files/Sec%204%20Booklist%202023.pdf">Sec 4 Booklist 2023.pdf</a></p>
+<p>Dear Parents,<br>Please refer to the links below for the 2024 booklist. Thank you.</p>
+<p><a href="/files/Other_Admission_Matters/Sec_1_Booklist_2024.pdf">Sec 1 Booklist</a><br>
+	<a href="/files/Other_Admission_Matters/Sec_2_Booklist_2024.pdf">Sec 2 Booklist</a><br>
+	<a href="/files/Other_Admission_Matters/Sec_3_Booklist_2024.pdf">Sec 3 Booklist</a><br>
+	<a href="/files/Other_Admission_Matters/Sec_4_Booklist_2024.pdf">Sec 4 Booklist</a></p>
 </td>
 </tr>
 </tbody>
@@ -28,14 +32,14 @@ third_nav_title: Admission
 </tr>
 <tr>
 <td>
-<p>Tel: 6559 2269<br />Email:&nbsp;<a href="mailto:sales@pacificbookstores.com" target="">sales@pacificbookstores.com</a></p>
+<p>Tel: 6559 2269<br>Email:&nbsp;<a href="mailto:sales@pacificbookstores.com" target="">sales@pacificbookstores.com</a></p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Please place your order via the website&nbsp;<a href="http://www.pacificbookstores.com/" target="_blank" rel="noopener">www.pacificbookstores.com</a><br />Payment via VISA / MASTERCARD / Debit Cards / PayLah / PayNow</p>
-<p><strong><u>Home Delivery<br /></u></strong>Delivery Charge Applicable</p>
-<p><strong><u>Self-Collection<br /></u></strong>Collection can be done at the school on the date/session you have selected when placing your order online</p>
+<p>Please place your order via the website&nbsp;<a href="http://www.pacificbookstores.com/" target="_blank" rel="noopener">www.pacificbookstores.com</a><br>Payment via VISA / MASTERCARD / Debit Cards / PayLah / PayNow</p>
+<p><strong><u>Home Delivery<br></u></strong>Delivery Charge Applicable</p>
+<p><strong><u>Self-Collection<br></u></strong>Collection can be done at the school on the date/session you have selected when placing your order online</p>
 </td>
 </tr>
 </tbody>
@@ -58,7 +62,7 @@ third_nav_title: Admission
 <p><strong>Retail Store Address</strong></p>
 </td>
 <td>
-<p style="text-align: center;">1 Kaki Bukit Road 1, #01-30/31 Enterprise One, Singapore 415934<br />(within approx. 10 minutes walk from DT27 Ubi MRT station)</p>
+<p style="text-align: center;">1 Kaki Bukit Road 1, #01-30/31 Enterprise One, Singapore 415934<br>(within approx. 10 minutes walk from DT27 Ubi MRT station)</p>
 </td>
 </tr>
 <tr>
@@ -82,7 +86,7 @@ third_nav_title: Admission
 <p><strong>Business hours</strong></p>
 </td>
 <td>
-<p style="text-align: center;">Monday to Friday (10am to 6pm), Saturday (10am to 3pm),<br />Closed on Sunday &amp; Public Holidays</p>
+<p style="text-align: center;">Monday to Friday (10am to 6pm), Saturday (10am to 3pm),<br>Closed on Sunday &amp; Public Holidays</p>
 </td>
 </tr>
 </tbody>
@@ -104,7 +108,7 @@ third_nav_title: Admission
 </tr>
 <tr>
 <td>
-<p>Tel: 62963522 / 62964921<br />Email:&nbsp;<a href="mailto:tkbschua@singnet.com.sg" target="">tkbschua@singnet.com.sg</a></p>
+<p>Tel: 62963522 / 62964921<br>Email:&nbsp;<a href="mailto:tkbschua@singnet.com.sg" target="">tkbschua@singnet.com.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -131,7 +135,7 @@ third_nav_title: Admission
 <td>
 <p>Application can be filled here or scan QR code :</p>
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeisolK3flJHuHebdSK2kFlvzFlzeXmoubTjBSpnylG-NlllA/viewform?pli=1" target="_blank" rel="noopener">https://docs.google.com/forms/d/e/1FAIpQLSeisolK3flJHuHebdSK2kFlvzFlzeXmoubTjBSpnylG-NlllA/viewform?pli=1</a></p>
-<img style="width: 30%;" src="/images/qr.png" align = "left" />
+<img style="width: 30%;" src="/images/qr.png" align="left">
 </td>
 </tr>
 </tbody>
