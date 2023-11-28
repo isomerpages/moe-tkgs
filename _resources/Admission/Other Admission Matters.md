@@ -15,7 +15,8 @@ variant: markdown
 <tr>
 <td>
 <p>Dear Parents,<br>Please refer to the links below for the 2024 booklist. Thank you.</p>
-<p><a href="/files/Other_Admission_Matters/Sec_1_Booklist_2024.pdf">Sec 1 Booklist</a><br>
+<p>
+	<!--<a href="/files/Other_Admission_Matters/Sec_1_Booklist_2024.pdf">Sec 1 Booklist</a><br>-->
 	<a href="/files/Other_Admission_Matters/Sec_2_Booklist_2024.pdf">Sec 2 Booklist</a><br>
 	<a href="/files/Other_Admission_Matters/Sec_3_Booklist_2024.pdf">Sec 3 Booklist</a><br>
 	<a href="/files/Other_Admission_Matters/Sec_4_Booklist_2024.pdf">Sec 4 Booklist</a></p>
