@@ -93,7 +93,7 @@ variant: markdown
 </tbody>
 </table>
 <p>Parents are strongly encourage to purchase uniforms online&nbsp;via the website (<a href="http://www.intrenduniforms.com/" target="_blank" rel="noopener">www.intrenduniforms.com</a>)&nbsp;and have them delivered to your home. However, if you prefer to self-collect your online orders, you may do so at the retail store for school attire. Please refer to the following attachment for more information.</p>
-<p><a href="/files/Other_Admission_Matters/Information_for_Sale_of_Uniforms_2024_TKGS.pdf">Information for Sale of Uniforms 2024_TKGS.pdf</a></p>
+<p><a href="/files/Other_Admission_Matters/Information_for_Sale_of_Uniforms_2024_TKGS.pdf">Information for Sale of Uniforms 2024_TKGS</a></p>
 </div>
 </div>
 </td>
