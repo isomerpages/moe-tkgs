@@ -62,9 +62,9 @@ at a more Demanding Level </td>
             <td style="font-weight: bold; text-align: center;">Remarks</td>
         </tr>
         <tr>
-            <td style="text-align: center; vertical-align: middle;">2024 Sec 1 MEP Application Form<br><br><a href="https://tkgs.moe.edu.sg">Click Here</a></td>
-            <td style="text-align: center; vertical-align: middle;">XXX <br>XXam/pm</td>
-            <td style="text-align: center; vertical-align: middle;">Option Form and Approval Letter will be sent to eligible students via Parents Gateway.<br><br>More information on our MEP is available at <a href="https://tkgs.moe.edu.sg">Website URL</a></td>
+            <td style="text-align: center; vertical-align: middle;">2024 Sec 1 MEP Application Form<br><br><a href="https://drive.google.com/file/d/1FrytKmBauJL87eKeUrbLLTcA1MyirbmC/view?usp=sharing">Click Here</a></td>
+            <td style="text-align: center; vertical-align: middle;">26 Decemeber 2023 (Tuesday) <br>12pm</td>
+            <td style="text-align: center; vertical-align: middle;">Option Form and Approval Letter will be sent to eligible students via Parents Gateway.<br><br>Click <a href="https://drive.google.com/file/d/1E18sXcCS3yV65NojxYiN3XJlj5u-YqFy/view?usp=sharing">here</a> for more information on our MEP.</td>
         </tr>
     </tbody>
 </table>
