@@ -17,10 +17,10 @@ variant: markdown
 <tr>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1iGFxBq1JCxu-v087SGPATq1tXcWu8QvR/view" target="_blank" rel="noopener"><strong>School Management Committee</strong></a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1BTjofokggmYMzZISB5prlWSCFVtPMx31/view?usp=sharing" target="_blank" rel="noopener"><strong>2024 TKGS Sec One Form Teachers</strong></a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1quzlyeeJcMEujRh7nyWH1KE46DfHTDlQ/view" target="_blank" rel="noopener"><strong>2024 TKGS Student Development Team</strong></a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1quzlyeeJcMEujRh7nyWH1KE46DfHTDlQ/view" target="_blank" rel="noopener"><strong>2023 TKGS Student Development Team</strong></a></td>
 </tr>
 <tr>
-<td style="vertical-align: middle;"><a href="https://drive.google.com/file/d/16JYQWH36CSnqIK1qANzg44q0nMw5_VGV/view" target="_blank" rel="noopener"><strong>Our School Day</strong></a></td>
+<td style="vertical-align: middle;"><a href="https://drive.google.com/file/d/1wGSJJV8t9qsFgG0B4PFCr3VZJ73I5J5k/view?usp=drive_link" target="_blank" rel="noopener"><strong>Our School Day</strong></a></td>
 <td style="vertical-align: middle;"><a href="https://drive.google.com/file/d/1L-A20LLWcH6BjFctgFQJMJHIttDGHSUB/view?usp=sharing"><img src="/images/sec1.jpg"></a></td>
 <td style="vertical-align: middle;"><a href="https://drive.google.com/file/d/1g-yZV60K0zSDiAiecFc2oFxygc_aI3QO/view?usp=sharing" target="_blank" rel="noopener"><strong>Personal Bearing</strong></a></td>
 </tr>
