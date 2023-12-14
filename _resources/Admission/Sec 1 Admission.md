@@ -15,7 +15,7 @@ variant: markdown
 <table>
 <tbody>
 <tr>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1iGFxBq1JCxu-v087SGPATq1tXcWu8QvR/view" target="_blank" rel="noopener"><strong>School Management Committee</strong></a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1a9BS3cHTObu_yzPJuF81_y_a4aBPjgUu/view?usp=sharing" target="_blank" rel="noopener"><strong>School Management Committee</strong></a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1BTjofokggmYMzZISB5prlWSCFVtPMx31/view?usp=sharing" target="_blank" rel="noopener"><strong>2024 TKGS Sec One Form Teachers</strong></a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1quzlyeeJcMEujRh7nyWH1KE46DfHTDlQ/view" target="_blank" rel="noopener"><strong>2023 TKGS Student Development Team</strong></a></td>
 </tr>
