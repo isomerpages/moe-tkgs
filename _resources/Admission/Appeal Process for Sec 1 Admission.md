@@ -15,7 +15,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center; width: 415px;">
-<p>20 December 2023, 9am to 22 December 2023 </p>
+<p>20 December 2023, 9am <br>to<br> 22 December 2023, 5pm </p>
 </td>
 </tr>
 </tbody>
