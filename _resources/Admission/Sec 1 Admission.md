@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Admission
 variant: markdown
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR1PKA2IqgSl57df_61FlcsQ9sQt1mWHhcJVGaYPlWitlx9_Qo9UgcWG_AeMUQgdgbpAIIx-KuKgOhc/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true"></iframe>
+<img src="/images/Resources/Admission/s1admission.gif">
 
 <p><strong><u>Overview of Secondary 1 Posting Exercise</u></strong></p>
 <p>The annual Secondary 1 Posting Exercise is conducted by the Ministry of Education (MOE) to post Primary 6 students from mainstream primary schools who have sat for the Primary School Leaving Examination (PSLE) and are eligible for secondary school. The exercise takes into consideration the students’ PSLE results, choices of schools and availability of vacancies. The posting results will be released between 20 Dec and 22 Dec 2023 (tentative) via online, SMS and through the primary school.</p>
