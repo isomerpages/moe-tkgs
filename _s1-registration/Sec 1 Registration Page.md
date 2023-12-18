@@ -35,16 +35,14 @@ description: ""
         <tr>
             <td style="text-align: center; vertical-align: middle;">2024 Letter of Offer to take Subject(s) 
 at a more Demanding Level </td>
-            <td style="text-align: center; vertical-align: middle;">As stated in form</td>
+            <td rowspan="3" style="text-align: center; vertical-align: middle;">As stated in form</td>
             <td rowspan="3" style="text-align: center; vertical-align: middle;">Option Form and Approval Letter will be sent to eligible students via Parents Gateway.<br><br>More information on our Mother Tongue Languages is available at <a href="https://tkgs.moe.edu.sg">Website URL</a></td>
         </tr>
         <tr>
             <td style="text-align: center; vertical-align: middle;">2024 Sec 1 Higher Mother Tongue Option Form</td>
-            <td style="text-align: center; vertical-align: middle;">XXX <br>XXam/pm</td>
-        </tr>
-        <tr>
+			</tr>
+			<tr>
             <td style="text-align: center; vertical-align: middle;"> 2024 Sec 1 Third Language Approval Letter</td>
-            <td style="text-align: center; vertical-align: middle;">XXX <br>XXam/pm</td>
         </tr>
     </tbody>
 </table>
