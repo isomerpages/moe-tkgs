@@ -3,6 +3,7 @@ title: Direct School Admission
 permalink: /resources/admission/direct-school-admission/
 description: ""
 third_nav_title: Admission
+variant: markdown
 ---
 <center><img src="/images/Hompage/Infopic/dsa_web_re.png"></center>
 <br>
@@ -121,7 +122,7 @@ To help us understand your application, please email an excerpt of your playing 
 
 Shortlisted students will be notified of the dates of the auditions, trials, or interview via email registered in the DSA portal. Please be informed that parents are not allowed to attend the auditions, trials, and interviews.
 
-<b>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11 am to 31 May 2023, 3 pm. For more details, please refer to MOE website - <a href="https://www.moe.gov.sg/secondary/dsa">www.moe.gov.sg/secondary/dsa</a>.</b><br>
+<b>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11 am to 31 May 2023, 3 pm. For more details, please refer to MOE website - <a href="https://www.moe.gov.sg/secondary/dsa" target="_blank" rel="noopener">www.moe.gov.sg/secondary/dsa</a>.</b><br>
 
 <img src="/images/Resources/Admission/DSA/2023_criteria.jpg"><br>
 
