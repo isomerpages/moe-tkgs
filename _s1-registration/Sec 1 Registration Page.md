@@ -32,7 +32,7 @@ description: ""
             <td style="text-align: center; vertical-align: middle;">2024 Letter of Offer to take Subject(s) 
 at a more Demanding Level </td>
             <td style="text-align: center; vertical-align: middle;">26 December 2023 (Tuesday)<br>12 p.m.</td>
-            <td rowspan="3" style="text-align: center; vertical-align: middle;">Option Form and Approval Letter will be sent to eligible students via Parents Gateway.<br><br>Click <a href="https://drive.google.com/drive/folders/1GWMESnFLqOlRxLwkWyZ9xEcQWfSfgATI?usp=sharing">here</a> for more information on our Mother Tongue Languages.</td>
+            <td rowspan="3" style="text-align: center; vertical-align: middle;">Option Form and Approval Letter will be sent to eligible students via Parents Gateway.<br><br>Click <a href="https://drive.google.com/file/d/1lPdDZiv9tV-ymluZv2Xjv4op2V3yHzY_/view?usp=sharing">here</a> for more information on our Mother Tongue Languages.</td>
         </tr>
         <tr>
             <td style="text-align: center; vertical-align: middle;">2024 Sec 1 Higher Mother Tongue Option Form</td>
