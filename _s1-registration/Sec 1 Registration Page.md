@@ -32,7 +32,7 @@ description: ""
             <td style="text-align: center; vertical-align: middle;">2024 Letter of Offer to take Subject(s) 
 at a more Demanding Level </td>
             <td style="text-align: center; vertical-align: middle;">26 December 2023 (Tuesday)<br>12 p.m.</td>
-            <td rowspan="3" style="text-align: center; vertical-align: middle;">Option Form and Approval Letter will be sent to eligible students via Parents Gateway.<br><br>Click <a href="https://drive.google.com/file/d/1lPdDZiv9tV-ymluZv2Xjv4op2V3yHzY_/view?usp=sharing">here</a> for more information on our Mother Tongue Languages.</td>
+            <td rowspan="3" style="text-align: center; vertical-align: middle;">Option Form and Approval Letter will be sent to eligible students via Parents Gateway.<br><br>Click <a href="https://drive.google.com/file/d/1lPdDZiv9tV-ymluZv2Xjv4op2V3yHzY_/view?usp=sharing" target="_blank" rel="noopener">here</a> for more information on our Mother Tongue Languages.</td>
         </tr>
         <tr>
             <td style="text-align: center; vertical-align: middle;">2024 Sec 1 Higher Mother Tongue Option Form</td>
@@ -54,9 +54,9 @@ at a more Demanding Level </td>
             <td style="font-weight: bold; text-align: center;">Remarks</td>
         </tr>
         <tr>
-            <td style="text-align: center; vertical-align: middle;">2024 Sec 1 MEP Application Form<br><br><a href="https://drive.google.com/file/d/1FrytKmBauJL87eKeUrbLLTcA1MyirbmC/view?usp=sharing">Click Here</a></td>
+            <td style="text-align: center; vertical-align: middle;">2024 Sec 1 MEP Application Form<br><br><a href="https://drive.google.com/file/d/1FrytKmBauJL87eKeUrbLLTcA1MyirbmC/view?usp=sharing" target="_blank" rel="noopener">Click Here</a></td>
             <td style="text-align: center; vertical-align: middle;">26 Decemeber 2023 (Tuesday) <br>12 p.m.</td>
-            <td style="text-align: center; vertical-align: middle;">Option Form and Approval Letter will be sent to eligible students via Parents Gateway.<br><br>Click <a href="https://drive.google.com/file/d/1E18sXcCS3yV65NojxYiN3XJlj5u-YqFy/view?usp=sharing">here</a> for more information on our MEP.</td>
+            <td style="text-align: center; vertical-align: middle;">Option Form and Approval Letter will be sent to eligible students via Parents Gateway.<br><br>Click <a href="https://drive.google.com/file/d/1E18sXcCS3yV65NojxYiN3XJlj5u-YqFy/view?usp=sharing" target="_blank" rel="noopener">here</a> for more information on our MEP.</td>
         </tr>
     </tbody>
 </table>
