@@ -18,10 +18,6 @@ description: ""
             <td rowspan="3" style="text-align: center; vertical-align: middle;">Parents are reminded to complete and submit the form by the stipulated deadline.</td>
         </tr>
         <tr>
-            <td style="text-align: center; vertical-align: middle;">2024 Student Profile
-            </td><td style="text-align: center; vertical-align: middle;">5 January 2024 (Friday)<br>5pm</td>
-        </tr>
-        <tr>
             <td style="text-align: center; vertical-align: middle;">2024 Sec 1 Dental Consent Form<br><br><a href="https://tkgs.moe.edu.sg">Click Here</a></td>
             <td style="text-align: center; vertical-align: middle;">XX XXX XXXX</td>
         </tr>
