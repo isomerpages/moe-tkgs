@@ -9,7 +9,7 @@ variant: markdown
 
 <p><strong><u>Overview of Secondary 1 Posting Exercise</u></strong></p>
 <p>The annual Secondary 1 Posting Exercise is conducted by the Ministry of Education (MOE) to post Primary 6 students from mainstream primary schools who have sat for the Primary School Leaving Examination (PSLE) and are eligible for secondary school. The exercise takes into consideration the students’ PSLE results, choices of schools and availability of vacancies. The posting results will be released on <b>20 December 2023</b> via online, SMS and through the primary school.</p>
-<p>Students do not need to report to our school after receiving the S1 Posting Results. Parents/guardian of 2024 Secondary 1 students who are successfully posted to our school will be contacted via Parent Gateway for registration details. For more information, please refer to the <a href="https://www.moe.gov.sg/news/press-releases/20231122-release-of-2023-psle-results#:~:text=The%20S1%20Posting%20Results%20will,applicant%20during%20the%20application%20process">MOE website</a>.&nbsp;</p>
+<p>Students do not need to report to our school after receiving the S1 Posting Results. Parents/guardian of 2024 Secondary 1 students who are successfully posted to our school will be contacted via Parent Gateway for registration details. For more information, please refer to the <a href="https://www.moe.gov.sg/news/press-releases/20231122-release-of-2023-psle-results#:~:text=The%20S1%20Posting%20Results%20will,applicant%20during%20the%20application%20process" target="_blank" rel="noopener">MOE website</a>.&nbsp;</p>
 <br>
 <br>
 <table>
@@ -21,7 +21,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="vertical-align: middle;"><a href="https://drive.google.com/file/d/1wGSJJV8t9qsFgG0B4PFCr3VZJ73I5J5k/view?usp=drive_link" target="_blank" rel="noopener"><strong>Our School Day</strong></a></td>
-<td style="vertical-align: middle;"><a href="https://drive.google.com/file/d/1L-A20LLWcH6BjFctgFQJMJHIttDGHSUB/view?usp=sharing"><img src="/images/sec1.jpg"></a></td>
+<td style="vertical-align: middle;"><a href="https://drive.google.com/file/d/1L-A20LLWcH6BjFctgFQJMJHIttDGHSUB/view?usp=sharing" target="_blank" rel="noopener"><img src="/images/sec1.jpg"></a></td>
 <td style="vertical-align: middle;"><a href="https://drive.google.com/file/d/1g-yZV60K0zSDiAiecFc2oFxygc_aI3QO/view?usp=sharing" target="_blank" rel="noopener"><strong>Personal Bearing</strong></a></td>
 </tr>
 <tr>
