@@ -20,7 +20,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p>To facilitate our consideration for your appeal, please have the following documents in softcopy before submitting this&nbsp;<a href="https://form.gov.sg/61c170c63a2243001392f925" target="_blank" rel="noopener">form</a> at 9 a.m. on 20 December 2023.</p>
+<p>To facilitate our consideration for your appeal, please have the following documents in softcopy before submitting this&nbsp;<a href="https://form.gov.sg/61c170c63a2243001392f925" target="_blank" rel="noopener">form</a> from 9 a.m. on 20 December 2023.</p>
 <ol>
 <li>Birth Certificate&nbsp;</li>
 <li>PSLE Result Slip&nbsp;</li>
