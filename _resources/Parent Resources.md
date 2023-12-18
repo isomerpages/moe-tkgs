@@ -2,6 +2,7 @@
 title: Parent Resources
 permalink: /resources/parent-resources/
 description: ""
+variant: markdown
 ---
 <h4 style="text-align: center;"><strong>Form Teachers &amp; Subject Teachers Contact List</strong></h4>
 <table style="margin-left: auto; margin-right: auto;">
@@ -81,23 +82,23 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr style="vertical-align: center;">
-<td style="width: 33.3333%;"><a href="https://www.moe.gov.sg/"><img src="/images/pr1.png"></a></td>
-<td style="width: 33.3333%;"><br><br><a href="https://www.schoolbag.edu.sg/"><img src="/images/pr2.png"></a></td>
-<td style="width: 33.3333%;"><a href="https://www.hpb.gov.sg/"><img src="/images/pr3.png"></a></td>
+<td style="width: 33.3333%;"><a href="https://www.moe.gov.sg/" target="_blank" rel="noopener"><img src="/images/pr1.png"></a></td>
+<td style="width: 33.3333%;"><br><br><a href="https://www.schoolbag.edu.sg/" target="_blank" rel="noopener"><img src="/images/pr2.png"></a></td>
+<td style="width: 33.3333%;"><a href="https://www.hpb.gov.sg/" target="_blank" rel="noopener"><img src="/images/pr3.png"></a></td>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><br><br><a href="https://www.moe.gov.sg/parentkit"><img src="/images/pr4.png"></a></td>
-<td style="width: 33.3333%;"><br><br><a href="https://sites.google.com/moe.edu.sg/psg-online-repository"><img src="/images/pr5.png"></a></td>
-<td style="width: 33.3333%;"><a href="https://m.healthhub.sg/auth/login?source_app=hh_web&amp;source_module=myhealth&amp;source_source_sub=&amp;target=/childhealth"><img style="width: 65%;" src="/images/pt6.png"></a></td>
+<td style="width: 33.3333%;"><br><br><a href="https://www.moe.gov.sg/parentkit" target="_blank" rel="noopener"><img src="/images/pr4.png"></a></td>
+<td style="width: 33.3333%;"><br><br><a href="https://sites.google.com/moe.edu.sg/psg-online-repository" target="_blank" rel="noopener"><img src="/images/pr5.png"></a></td>
+<td style="width: 33.3333%;"><a href="https://m.healthhub.sg/auth/login?source_app=hh_web&amp;source_module=myhealth&amp;source_source_sub=&amp;target=/childhealth" target="_blank" rel="noopener"><img style="width: 65%;" src="/images/pt6.png"></a></td>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><br><a href="https://www.family.org.sg/"><img style="width: 85%;" src="/images/pr7.png"></a></td>
-<td style="width: 33.3333%; text-align: center;"><br>	<a href="https://campaigns.family.org.sg/every-season-matters/"><img style="width: 85%;" src="/images/pr8.png"></a><a href="https://campaigns.family.org.sg/every-season-matters/"><span style="text-decoration: underline;"><strong>Every Season Matters</strong></span></a></td>
-<td style="width: 33.3333%;"><br><a href="https://drive.google.com/file/d/1pk1dVhntYEZbAzM9cNXioveGATTfD8bY/view"><img style="width: 75%;" src="/images/pr9.png"></a></td>
+<td style="width: 33.3333%;"><br><a href="https://www.family.org.sg/" target="_blank" rel="noopener"><img style="width: 85%;" src="/images/pr7.png"></a></td>
+<td style="width: 33.3333%; text-align: center;"><br>	<a href="https://campaigns.family.org.sg/every-season-matters/" target="_blank" rel="noopener"><img style="width: 85%;" src="/images/pr8.png"></a><a href="https://campaigns.family.org.sg/every-season-matters/" target="_blank" rel="noopener"><span style="text-decoration: underline;"><strong>Every Season Matters</strong></span></a></td>
+<td style="width: 33.3333%;"><br><a href="https://drive.google.com/file/d/1pk1dVhntYEZbAzM9cNXioveGATTfD8bY/view" target="_blank" rel="noopener"><img style="width: 75%;" src="/images/pr9.png"></a></td>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><a href="https://www.morningstar.org.sg/"><img src="/images/pr10.png"></a></td>
-<td colspan="2"><a href="https://drive.google.com/file/d/1-M6rkGXwfXowUf63uMECQ_aGo2oJPZR6/view?usp=share_link"><img src="/images/Resources/Parents/Raising_a_Digitally_Smart_Child.png"></a></td>
+<td style="width: 33.3333%;"><a href="https://www.morningstar.org.sg/" target="_blank" rel="noopener"><img src="/images/pr10.png"></a></td>
+<td colspan="2"><a href="https://drive.google.com/file/d/1-M6rkGXwfXowUf63uMECQ_aGo2oJPZR6/view?usp=share_link" target="_blank" rel="noopener"><img src="/images/Resources/Parents/Raising_a_Digitally_Smart_Child.png"></a></td>
 </tr>
 </tbody>
 </table>
@@ -105,18 +106,18 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><a href="https://www.facebook.com/moesingapore/"><img style="width: 90%;" src="/images/log1.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="https://www.instagram.com/moesingapore/?hl=en"><img style="width: 95%;" src="/images/log2.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="https://twitter.com/moesg?lang=en"><img style="width: 65%;" src="/images/log3.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="https://www.facebook.com/moesingapore/" target="_blank" rel="noopener"><img style="width: 90%;" src="/images/log1.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="https://www.instagram.com/moesingapore/?hl=en" target="_blank" rel="noopener"><img style="width: 95%;" src="/images/log2.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="https://twitter.com/moesg?lang=en" target="_blank" rel="noopener"><img style="width: 65%;" src="/images/log3.jpg"></a></td>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><a href="https://www.tiktok.com/@moesingapore"><img style="width: 90%;" src="/images/log4.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="https://www.tiktok.com/@moesingapore"><img style="width: 95%;" src="/images/log5.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="https://www.instagram.com/parentingwith.moesg/?hl=en"><img style="width: 100%;" src="/images/log6.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="https://www.tiktok.com/@moesingapore" target="_blank" rel="noopener"><img style="width: 90%;" src="/images/log4.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="https://www.tiktok.com/@moesingapore" target="_blank" rel="noopener"><img style="width: 95%;" src="/images/log5.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="https://www.instagram.com/parentingwith.moesg/?hl=en" target="_blank" rel="noopener"><img style="width: 100%;" src="/images/log6.jpg"></a></td>
 </tr>
 <tr>
 <td style="width: 33.3333%;">&nbsp;</td>
-<td style="width: 33.3333%;"><a href="https://t.me/schoolbag_edu_sg"><img style="width: 100%;" src="/images/log7.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="https://t.me/schoolbag_edu_sg" target="_blank" rel="noopener"><img style="width: 100%;" src="/images/log7.jpg"></a></td>
 <td style="width: 33.3333%;">&nbsp;</td>
 </tr>
 </tbody>
@@ -125,9 +126,9 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><a href="/useful-links/booklist-uniform-bus-n-locker"><img src="/images/pr11.png"></a></td>
-<td style="width: 33.3333%;"><br><a href="https://sg-portal.mobileguardian.com/#/login"><img src="/images/pr12.jpg"></a></td>
-<td style="width: 33.3333%;"><br><a href="https://www.facebook.com/TKGSPARENTLINK/"><img src="/images/pr13.png"></a></td>
+<td style="width: 33.3333%;"><a href="/useful-links/booklist-uniform-bus-n-locker" target="_blank" rel="noopener"><img src="/images/pr11.png"></a></td>
+<td style="width: 33.3333%;"><br><a href="https://sg-portal.mobileguardian.com/#/login" target="_blank" rel="noopener"><img src="/images/pr12.jpg"></a></td>
+<td style="width: 33.3333%;"><br><a href="https://www.facebook.com/TKGSPARENTLINK/" target="_blank" rel="noopener"><img src="/images/pr13.png"></a></td>
 </tr>
 </tbody>
 </table>
