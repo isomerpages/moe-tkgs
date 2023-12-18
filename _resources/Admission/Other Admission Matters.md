@@ -16,10 +16,10 @@ variant: markdown
 <td>
 <p>Dear Parents,<br>Please refer to the links below for the 2024 booklist. Thank you.</p>
 <p>
-	<a href="/files/Other_Admission_Matters/Sec_1_Booklist_2024.pdf">Sec 1 Booklist</a><br>
-	<a href="/files/Other_Admission_Matters/Sec_2_Booklist_2024.pdf">Sec 2 Booklist</a><br>
-	<a href="/files/Other_Admission_Matters/Sec_3_Booklist_2024.pdf">Sec 3 Booklist</a><br>
-	<a href="/files/Other_Admission_Matters/Sec_4_Booklist_2024.pdf">Sec 4 Booklist</a></p>
+	<a href="/files/Other_Admission_Matters/Sec_1_Booklist_2024.pdf" target="_blank" rel="noopener">Sec 1 Booklist</a><br>
+	<a href="/files/Other_Admission_Matters/Sec_2_Booklist_2024.pdf" target="_blank" rel="noopener">Sec 2 Booklist</a><br>
+	<a href="/files/Other_Admission_Matters/Sec_3_Booklist_2024.pdf" target="_blank" rel="noopener">Sec 3 Booklist</a><br>
+	<a href="/files/Other_Admission_Matters/Sec_4_Booklist_2024.pdf" target="_blank" rel="noopener">Sec 4 Booklist</a></p>
 </td>
 </tr>
 </tbody>
@@ -93,7 +93,7 @@ variant: markdown
 </tbody>
 </table>
 <p>Parents are strongly encourage to purchase uniforms online&nbsp;via the website (<a href="http://www.intrenduniforms.com/" target="_blank" rel="noopener">www.intrenduniforms.com</a>)&nbsp;and have them delivered to your home. However, if you prefer to self-collect your online orders, you may do so at the retail store for school attire. Please refer to the following attachment for more information.</p>
-<p><a href="/files/Other_Admission_Matters/Information_for_Sale_of_Uniforms_2024_TKGS.pdf">Information for Sale of Uniforms 2024_TKGS</a></p>
+<p><a href="/files/Other_Admission_Matters/Information_for_Sale_of_Uniforms_2024_TKGS.pdf" target="_blank" rel="noopener">Information for Sale of Uniforms 2024_TKGS</a></p>
 </div>
 </div>
 </td>
