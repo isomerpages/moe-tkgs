@@ -55,8 +55,8 @@ at a more Demanding Level </td>
         </tr>
         <tr>
             <td style="text-align: center; vertical-align: middle;">2024 Sec 1 MEP Application Form<br><br><a href="https://drive.google.com/file/d/1FrytKmBauJL87eKeUrbLLTcA1MyirbmC/view?usp=sharing" target="_blank" rel="noopener">Click Here</a></td>
-            <td style="text-align: center; vertical-align: middle;">26 Decemeber 2023 (Tuesday) <br>12 p.m.</td>
-            <td style="text-align: center; vertical-align: middle;">Option Form and Approval Letter will be sent to eligible students via Parents Gateway.<br><br>Click <a href="https://drive.google.com/file/d/1E18sXcCS3yV65NojxYiN3XJlj5u-YqFy/view?usp=sharing" target="_blank" rel="noopener">here</a> for more information on our MEP.</td>
+            <td style="text-align: center; vertical-align: middle;">26 December 2023 (Tuesday) <br>12 p.m.</td>
+            <td style="text-align: center; vertical-align: middle;">Click <a href="https://drive.google.com/file/d/1E18sXcCS3yV65NojxYiN3XJlj5u-YqFy/view?usp=sharing" target="_blank" rel="noopener">here</a> for more information on our MEP.</td>
         </tr>
     </tbody>
 </table>
