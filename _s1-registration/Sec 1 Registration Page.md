@@ -36,11 +36,10 @@ at a more Demanding Level </td>
         </tr>
         <tr>
             <td style="text-align: center; vertical-align: middle;">2024 Sec 1 Higher Mother Tongue Option Form</td>
-					<td style="text-align: center; vertical-align: middle;">22 December 2023 (Friday)<br>12 p.m.</td>
+					<td rowspan="2" style="text-align: center; vertical-align: middle;">As stated in form</td>
 			</tr>
 			<tr>
             <td style="text-align: center; vertical-align: middle;"> 2024 Sec 1 Third Language Approval Letter</td>
-				<td style="text-align: center; vertical-align: middle;">As stated in form</td>
         </tr>
     </tbody>
 </table>
