@@ -14,7 +14,7 @@ description: ""
         </tr>
         <tr>
             <td style="text-align: center; vertical-align: middle;">2024 Sec 1 Registration Form<br><br><a href="https://form.gov.sg/651e44370441430012b6fb6f" target="_blank" rel="noopener">Click Here</a></td>
-            <td style="text-align: center; vertical-align: middle;">21 December 2023 (Thursday)<br>12 p.m.</td>
+            <td style="text-align: center; vertical-align: middle;">22 December 2023 (Friday)<br>12 p.m.</td>
             <td rowspan="3" style="text-align: center; vertical-align: middle;">Parents are reminded to complete and submit the form by the stipulated deadline.</td>
         </tr>
     </tbody>
