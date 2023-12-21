@@ -128,11 +128,10 @@ variant: markdown
 </tr>
 <tr>
 <td>
-<p><a href="/files/2023%20School%20Locker%20Rental.pdf" target="_blank" rel="noopener">Information on School Locker Rental 2024</a></p>
 <p>Email:&nbsp;<a href="mailto:rent@lockerandlock.com" target="">rent@lockerandlock.com</a></p>
 </td>
-</tr>
-<tr>
+	</tr>
+	<tr>
 <td>
 <p>Application can be filled here:</p>
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeisolK3flJHuHebdSK2kFlvzFlzeXmoubTjBSpnylG-NlllA/viewform?pli=1" target="_blank" rel="noopener">e-Application Form</a></p>
