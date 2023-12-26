@@ -3,6 +3,7 @@ title: Dance (Modern)
 permalink: /cca/visual-n-performing-arts/dance-modern/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 <style>
 table {
@@ -31,14 +32,14 @@ tr:hover {background-color: #F5F5DC;}
 	<td rowspan="1">Mdm Nur Ashikin Binte Sapri </td>
  <td><a target="" href="mailto:nur_ashikin_sapri@moe.edu.sg">nur_ashikin_sapri@moe.edu.sg</a></td>
 	 	</tr>
-<tr>
+		<tr>
+	<td rowspan="1">Mdm Hu Bishi</td>
+ <td><a target="" href="mailto:hu_bishi@moe.edu.sg">hu_bishi@moe.edu.sg</a></td>
+	</tr>
+		<tr>
 	<td rowspan="1">Ms Yeo Ling Seem</td>
  <td><a target="" href="mailto:yeo_ling_seem@moe.edu.sg">yeo_ling_seem@moe.edu.sg</a></td>
 	 	</tr>
-		<tr>
-	<td rowspan="1">Mdm Alena Puhari</td>
- <td><a target="" href="mailto:alena_puhari@moe.edu.sg">alena_puhari@moe.edu.sg</a></td>
-	</tr>
 	</tbody>
 	</table>
 <table>
