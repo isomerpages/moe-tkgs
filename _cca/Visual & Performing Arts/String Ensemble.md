@@ -3,6 +3,7 @@ title: String Ensemble
 permalink: /cca/visual-n-performing-arts/string-ensemble/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 <style>
 table {
@@ -34,8 +35,8 @@ tr:hover {background-color: #F5F5DC;}
 			<td><a target="" href="mailto:lee_wei_xun@moe.edu.sg">lee_wei_xun@moe.edu.sg</a></td>
 		</tr>
 		<tr>
-			<td rowspan="1">Ms Hu Bishi</td>
-			<td><a target="" href="mailto:hu_bishi@moe.edu.sg">hu_bishi@moe.edu.sg</a></td>
+			<td rowspan="1">Ms Chong Su Yee</td>
+			<td><a target="" href="mailto:chong_su_yee@moe.edu.sg">chong_su_yee@moe.edu.sg</a></td>
 		</tr>
 		<tr>
 			<td rowspan="1">Ms Yeo Ling Seem</td>
