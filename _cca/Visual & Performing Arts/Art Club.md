@@ -3,6 +3,7 @@ title: Art Club
 permalink: /cca/visual-n-performing-arts/art-club/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 <style>
 table {
@@ -36,9 +37,9 @@ tr:hover {background-color: #F5F5DC;}
 	 <a target="" href="mailto:yante_yahya@moe.edu.sg">yante_yahya@moe.edu.sg</a></td>
 	 	</tr>
 <tr>
-	<td rowspan="1">Ms Ili Sofia Binti Shahrin</td>
+	<td rowspan="1">Ms Kavitha D/O Palachandran </td>
  <td>
-	 <a target="" href="mailto:ili_sofia_shahrin@moe.edu.sg">ili_sofia_shahrin@moe.edu.sg</a>
+	 <a target="" href="mailto:kavitha_palachandran@moe.edu.sg">kavitha_palachandran@moe.edu.sg</a>
 	</td>
 	 	</tr>
 	</tbody>
