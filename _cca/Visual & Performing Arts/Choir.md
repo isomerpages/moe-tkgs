@@ -3,6 +3,7 @@ title: Choir
 permalink: /cca/visual-n-performing-arts/choir/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 <style>
 table {
@@ -35,14 +36,9 @@ tr:hover {background-color: #F5F5DC;}
 			<td><a target="" href="mailto:tong_siok_theng@moe.edu.sg">tong_siok_theng@moe.edu.sg</a></td>
 		</tr>
 		<tr>
-			<td rowspan="1">Mrs Chan Pin Hong</td>
-			<td><a target="" href="mailto:chew_pin_hong@moe.edu.sg">chew_pin_hong@moe.edu.sg</a></td>
-		</tr>
-		<tr>
-			<td rowspan="1">Mdm Chong Su Yee </td>
-			<td><a target="" href="mailto:chong_su_yee@moe.edu.sg">chong_su_yee@moe.edu.sg</a></td>
-		</tr>
-	</tbody>
+			<td rowspan="1">Mdm Li Liping</td>
+			<td><a target="" href="mailto:li_li_ping@moe.edu.sg">li_li_ping@moe.edu.sg</a></td>
+	</tr></tbody>
 </table>
 <table>
 	<tbody>
