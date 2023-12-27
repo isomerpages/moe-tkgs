@@ -6,7 +6,7 @@ variant: markdown
 ---
 <h3><strong>School Management Committee</strong></h3>
 
-<img src="/images/StaffPhoto/SMC2023.png"><br>
+<img src="/images/About_us/Key_personnel/SMC_2024.png"><br>
 <table>
 <tbody>
 <tr>
@@ -150,7 +150,7 @@ variant: markdown
 </tbody>
 </table>
 <p></p>
-<img src="/images/StaffPhoto/2023teacher_leader.png">
+<img src="/images/About_us/Key_personnel/Teacher_Leader_2024.png">
 <h3><strong>Teacher Leaders</strong></h3>
 <table>
 <tbody>
