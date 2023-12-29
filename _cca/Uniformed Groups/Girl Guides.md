@@ -3,6 +3,7 @@ title: Girl Guides
 permalink: /cca/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 <style>
 table {
@@ -33,12 +34,11 @@ tr:hover {background-color: #F5F5DC;}
  <td><a target="" href="mailto:kamaliah_othman@moe.edu.sg">kamaliah_othman@moe.edu.sg</a></td>
 	</tr>
 		<tr>
-		<td rowspan="1">Ms Esther Foo</td>
- <td><a target="" href="mailto:foo_wenxin@moe.edu.sg">foo_wenxin@moe.edu.sg</a></td>
-	 	</tr>
-		<tr>
-	<td rowspan="1">Ms Anne Yong Mong Li</td>
+		<td rowspan="1">Ms Anne Yong Mong Li</td>
  <td><a target="" href="mailto:yong_mong_li@moe.edu.sg">yong_mong_li@moe.edu.sg</a></td>
+		</tr><tr>
+	<td rowspan="1">Mdm Serena Lee</td>
+ <td><a target="" href="mailto:lee_yee_na_serena@moe.edu.sg">lee_yee_na_serena@moe.edu.sg</a></td>
 	</tr>
 	</tbody>
 </table>

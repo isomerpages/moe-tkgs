@@ -3,6 +3,7 @@ title: Bowling
 permalink: /cca/sports-n-games/bowling/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <style>
 table {
@@ -35,8 +36,8 @@ tr:hover {background-color: #F5F5DC;}
  <td><a target="" href="mailto:wong_woei_ling@moe.edu.sg">wong_woei_ling@moe.edu.sg</a></td>
 	 	</tr>
 <tr>
-	<td rowspan="1">Mdm Alena Puhari</td>
- <td><a target="" href="mailto:alena_puhari@moe.edu.sg">alena_puhari@moe.edu.sg</a></td>
+	<td rowspan="1">Ms Tan Siew Hoon</td>
+ <td><a target="" href="mailto:tan_siew_hoon_a@moe.edu.sg">tan_siew_hoon_a@moe.edu.sg</a></td>
 	</tr>
 </tbody>
 </table>

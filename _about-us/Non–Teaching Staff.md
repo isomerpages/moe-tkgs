@@ -2,6 +2,7 @@
 title: Non–Teaching Staff
 permalink: /about-us/non-teaching-staff/
 description: ""
+variant: markdown
 ---
 <img style="width: 90%;" src="/images/nts.jpg"><br>
 <p style="text-align: center;"><em>To contact the Non-Teaching Staff via email, please send to:&nbsp;<a href="mailto:tkgs@moe.edu.sg"><strong>tkgs@moe.edu.sg</strong></a></em></p>
@@ -33,10 +34,6 @@ description: ""
 <tr>
 <td>Mdm Siti Rohana Binte Mohd Ali</td>
 <td>Corporate Support Officer</td>
-</tr>
-<tr>
-<td>Mdm Wong Yau Chene, Joann</td>
-<td>Administration Support Officer</td>
 </tr>
 <tr>
 <td>Mdm Sharifah Hasnah Binte Syed Hamid</td>
@@ -123,16 +120,21 @@ description: ""
 <td>Librarian</td>
 </tr>
 <tr><td style="text-align: center;" colspan="2"><strong>AED Consellors</strong></td>
-</tr><tr>
+</tr>
+<tr>
 	<td> Ms Tang Yuin Kay</td>
 	<td> Senior School Counsellor</td>
+	</tr>
+<tr>
+	<td> Ms Vivian Choo</td>
+	<td> School Counsellor</td>
 	</tr>
 <tr>
 	<td> Ms Shaikhah Bte Rubangin </td>
 	<td> Allied Educator (Learning &amp; Behavioral Support)</td>
 	</tr>
 <tr>
-	<td> Ms Kate Choo </td>
+	<td> Ms Elina Tan </td>
 	<td> Education and Career Guidance (ECG) Counsellor </td>
 </tr>
 </tbody>

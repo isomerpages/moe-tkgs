@@ -3,6 +3,7 @@ title: National Police Cadet Corps
 permalink: /cca/uniformed-groups/national-police-cadet-corps/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 <style>
 table {
@@ -30,10 +31,6 @@ tr:hover {background-color: #F5F5DC;}
 		<tr>
 			<th colspan="1">Teacher-in-Charge</th>
 </tr>
-		<tr>
-	<td rowspan="1">Mr Koh Meng Hong</td>
- <td><a target="" href="mailto:koh_meng_hong@moe.edu.sg">koh_meng_hong@moe.edu.sg</a></td>
-	 	</tr>
 		<tr><td rowspan="1">Mrs Boey-Seah Hui Loo</td>
  <td><a target="" href="mailto:seah_hui_loo@moe.edu.sg">seah_hui_loo@moe.edu.sg</a></td>
 	 	</tr>
@@ -41,7 +38,10 @@ tr:hover {background-color: #F5F5DC;}
 	<td rowspan="1">Mdm Siti Raudha Mustafa Kamal</td>
  <td><a target="" href="mailto:siti_raudha_mustafa_kamal@moe.edu.sg">siti_raudha_mustafa_kamal@moe.edu.sg</a></td>
 	 	</tr>
-	</tbody>
+<tr>
+	<td rowspan="1">Mr Azaac Tan Wei En</td>
+ <td><a target="" href="mailto:azaac_tan_wei_en@moe.edu.sg">azaac_tan_wei_en@moe.edu.sg</a></td>
+	</tr></tbody>
 	</table>
 <table>
 	<tbody>

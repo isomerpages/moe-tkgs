@@ -3,6 +3,7 @@ title: Tennis
 permalink: /cca/sports-n-games/tennis/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <style>
 table {
@@ -30,17 +31,13 @@ tr:hover {background-color: #F5F5DC;}
 		<tr>
 			<th colspan="1">Teacher-in-Charge</th>
 </tr>
-<tr>
-	<td rowspan="1">Ms Koo Ching Ching</td>
- <td><a target="" href="mailto:koo_ching_ching@moe.edu.sg">koo_ching_ching@moe.edu.sg</a></td>
-	</tr>
+			<tr>
+	<td rowspan="1">Ms Tong Liying</td>
+ <td><a target="" href="mailto:tong_liying@moe.edu.sg">tong_liying@moe.edu.sg</a></td>
+	 	</tr>
 <tr>
 	<td rowspan="1">Ms Siti Ainun Mardhiah Binte Mohsin </td>
  <td><a target="" href="mailto:siti_ainun_mardhiah_mohsin@moe.edu.sg">siti_ainun_mardhiah_mohsin@moe.edu.sg</a></td>
-	 	</tr>
-		<tr>
-	<td rowspan="1">Ms Tong Liying</td>
- <td><a target="" href="mailto:tong_liying@moe.edu.sg">tong_liying@moe.edu.sg</a></td>
 	 	</tr>
 </tbody>
 </table>

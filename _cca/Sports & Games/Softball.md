@@ -3,6 +3,7 @@ title: Softball
 permalink: /cca/sports-n-games/softball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <style>
 table {
@@ -37,10 +38,6 @@ tr:hover {background-color: #F5F5DC;}
 	<td rowspan="1">Mdm Yante Yahya</td>
  <td><a target="" href="mailto:yante_yahya@moe.edu.sg">yante_yahya@moe.edu.sg</a></td>
 	</tr>
-<tr>
-	<td rowspan="1">Ms Nurliana Abdullah</td>
- <td><a target="" href="mailto:nurliana_abdullah@moe.edu.sg">nurliana_abdullah@moe.edu.sg</a></td>
-	 	</tr>
 </tbody>
 </table>
 <table>

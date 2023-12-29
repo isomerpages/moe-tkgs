@@ -2,10 +2,11 @@
 title: Key Personnel
 permalink: /about-us/key-personnel/
 description: ""
+variant: markdown
 ---
 <h3><strong>School Management Committee</strong></h3>
 
-<img src="/images/StaffPhoto/SMC2023.png"><br>
+<img src="/images/About_us/Key_personnel/SMC_2024.png"><br>
 <table>
 <tbody>
 <tr>
@@ -37,14 +38,19 @@ description: ""
 <th style="text-align: center;" width="33%">Email</th>
 </tr>
 <tr>
+<td>Mr Owen Tan</td>
+<td>HOD / English</td>
+<td><a href="mailto:tan_gan_en_owen@moe.edu.sg" target="">tan_gan_en_owen@moe.edu.sg</a></td>
+</tr>
+<tr>
 <td>Mrs Hilary Pang</td>
 <td>HOD / Mathematics</td>
 <td><a href="mailto:cheong_chui_chui_hilary@moe.edu.sg" target="">cheong_chui_chui_hilary@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Mrs Tracy Koh</td>
+<td>Ms Patricia Goh</td>
 <td>HOD / Science</td>
-<td><a href="mailto:ho_chui_yee_tracy@moe.edu.sg" target="">ho_chui_yee_tracy@moe.edu.sg</a></td>
+<td><a href="mailto:goh_poh_hong_patricia@moe.edu.sg" target="">goh_poh_hong_patricia@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td>Ms Joyce Tang Jia Hui</td>
@@ -72,9 +78,9 @@ description: ""
 <td><a href="mailto:wong_ching_yi_chesed@moe.edu.sg" target="">wong_ching_yi_chesed@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Ms Sultana Rahman</td>
+<td>Mrs Tracy Koh</td>
 <td>School Staff Developer</td>
-<td><a href="mailto:sultana_rahman@moe.edu.sg" target="">sultana_rahman@moe.edu.sg</a></td>
+<td><a href="mailto:ho_chui_yee_tracy@moe.edu.sg" target="">ho_chui_yee_tracy@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td>Ms Ong Lay Kheng</td>
@@ -117,7 +123,7 @@ description: ""
 <td><a href="mailto:lim_boo_poh_mui@moe.edu.sg" target="">lim_boo_poh_mui@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Ms Du Tong Tong</td>
+<td>Ms Du Tongtong</td>
 <td>Subject Head / Social Studies</td>
 <td><a href="mailto:du_tongtong@moe.edu.sg" target="">du_tongtong@moe.edu.sg </a></td>
 </tr>
@@ -136,10 +142,15 @@ description: ""
 <td>Level Head / Mathematics</td>
 <td><a href="mailto:tan_hui_lan@moe.edu.sg" target="">tan_hui_lan@moe.edu.sg</a></td>
 </tr>
+<tr>
+<td>Mr Yeo Guang Hui, Timothy</td>
+<td>Level Head / Science</td>
+<td><a href="mailto:yeo_guang_hui_timothy@moe.edu.sg" target="">yeo_guang_hui_timothy@moe.edu.sg</a></td>
+</tr>
 </tbody>
 </table>
 <p></p>
-<img src="/images/StaffPhoto/2023teacher_leader.png">
+<img src="/images/About_us/Key_personnel/Teacher_Leader_2024.png">
 <h3><strong>Teacher Leaders</strong></h3>
 <table>
 <tbody>
@@ -147,6 +158,11 @@ description: ""
 <th style="text-align: center;" width="33%">Name</th>
 <th style="text-align: center;" width="33%">Position</th>
 <th style="text-align: center;" width="33%">Email</th>
+</tr>
+<tr>
+<td>Ms Sultana Rahman</td>
+<td>Lead Teacher</td>
+<td><a href="mailto:sultana_rahman@moe.edu.sg" target="">sultana_rahman@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td>Mdm Adela Chee</td>
