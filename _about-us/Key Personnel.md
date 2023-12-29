@@ -123,7 +123,7 @@ variant: markdown
 <td><a href="mailto:lim_boo_poh_mui@moe.edu.sg" target="">lim_boo_poh_mui@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Ms Du Tong Tong</td>
+<td>Ms Du Tongtong</td>
 <td>Subject Head / Social Studies</td>
 <td><a href="mailto:du_tongtong@moe.edu.sg" target="">du_tongtong@moe.edu.sg </a></td>
 </tr>
