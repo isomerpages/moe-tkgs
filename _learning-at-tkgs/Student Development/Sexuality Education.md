@@ -115,7 +115,7 @@ Students will also learn about the definitions of biological sex, gender identit
 </tr>
 </tbody>
 </table>
-		<p style="text-align: center;"><strong><u>Secondary 3</u></strong></p>
+<p style="text-align: center;"><strong><u>Secondary 3</u></strong></p>
 <table>
 <tbody>
 	<tr>
