@@ -221,8 +221,7 @@ Lesson 4<br>(60 mins)</td>
 		<tr>
 			<td style="text-align: center;"><strong>Topics/Lessons</strong></td>
 			<td style="text-align: center;"><strong>Programme Learning Objectives</strong></td>	
-			<td style="text-align: center;"><strong>Time Period<br>
-(e.g. Term 3 Week 9)</strong></td>
+			<td style="text-align: center;"><strong>Time Period<br></strong></td>
 </tr>
 		<tr>
 		<td>Mass Talk by HPB appointed vendor</td>
