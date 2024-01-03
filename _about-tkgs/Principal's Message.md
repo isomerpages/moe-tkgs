@@ -19,7 +19,7 @@ variant: markdown
 
 <p>This, to me, is like a harvest of our fruits of labour over the past 5 years. Here is my year-end reflection which I shared with the staff, as we concluded 2023. </p>
 
-<a href="/images/About_tkgs/P_message/harvest.png">
+<a href="/images/About_tkgs/P_message/harvest.png" target="_blank" rel="noopener">
   <img alt="Harvest Image" style="max-width: 400px; max-height: 200px;" src="/images/About_tkgs/P_message/harvest.png">
 </a>
 
@@ -32,7 +32,7 @@ variant: markdown
 <p>It is a TKGS tradition to welcome the new school year with a Year Theme jointly conceptualised by the Prefectorial Board Executive Committee and the School Principal.</p>
 <p>I am proud to present the Year Theme for 2024: </p>
 
-<a href="/images/About_tkgs/P_message/2024yt.png">
+<a href="/images/About_tkgs/P_message/2024yt.png" target="_blank" rel="noopener">
   <img alt="Harvest Image" style="max-width: 400px; max-height: 400px;" src="/images/About_tkgs/P_message/2024yt.png">
 </a>
 
