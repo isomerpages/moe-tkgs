@@ -120,7 +120,8 @@ Students will also learn about the definitions of biological sex, gender identit
 </tbody>
 </table>
 	<center>
-	<u><h3>Secondary 3</h3></u></center>
+	<u><h3>Secondary 3</h3></u>
+</center>
 <table>
 <tbody>
 	<tr>
@@ -163,7 +164,8 @@ Students will also learn about the definitions of biological sex, gender identit
 	</tbody>
 	</table>
 <center>
-	<u><h3>Secondary 4</h3></u></center>
+	<u><h3>Secondary 4</h3></u>
+</center>
 	<table>
 <tbody>
 	<tr>
