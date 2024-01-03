@@ -18,11 +18,17 @@ variant: markdown
 </table>
 
 <p>This, to me, is like a harvest of our fruits of labour over the past 5 years. Here is my year-end reflection which I shared with the staff, as we concluded 2023. </p>
-<a href="/images/About_tkgs/P_message/harvest.png">
-  <img height="150" width="200" src="/images/About_tkgs/P_message/harvest.png">
-</a>
 
-	
+<table>
+  <tbody><tr>
+    <td>
+      <a href="/images/About_tkgs/P_message/harvest.png">
+        <img height="100" width="150" src="/images/About_tkgs/P_message/harvest.png">
+      </a>
+    </td>
+  </tr>
+</tbody></table>
+
 <p>It is with the same heart of thankfulness that we welcome 2024. </p>
 
 <p>This year TKGS continues to have a very encouraging Sec 1 enrolment with a high 89.9% of the 2024 Sec 1 cohort choosing TKGS as their top 3 choices. Good news indeed! We are very thankful for each and every girl who has made TKGS her choice school and her second home. </p>
