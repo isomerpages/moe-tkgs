@@ -73,9 +73,7 @@ You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education">here</a>&
 		</tr>
 	</tbody>
 	</table>
-	<center>
-	<u><h3>Secondary 2</h3></u>
-</center>
+	<center><u><h3>Secondary 2</h3></u></center>
 <table>
 	<tbody>
 		<tr>
