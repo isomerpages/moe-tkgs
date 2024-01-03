@@ -85,7 +85,7 @@ You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education">here</a>&
 			<td style="vertical-align: middle;" rowspan="0">Respectful 
 			<br>Relationships &amp; Safety</td>
 <td style="vertical-align: middle;">A Role for Everyone<br>Lesson 1<br>(60 mins)</td>
-<td style="text-align:center;">This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.<br><br>
+<td style="text-align: left;">This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.<br><br>
 Students learn to focus on their personal strengths to pursue their interests and build their self- confidence. <br><br>
 Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.
 </td>
@@ -98,7 +98,7 @@ Students will also learn about the definitions of biological sex, gender identit
 	<tr>
 	<td style="vertical-align: middle;">Online Safety Challenge<br>Lesson 2A<br>
 (60 mins)</td>
-<td style="text-align:center;">This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety. <br><br>
+<td style="text-align: left;">This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety. <br><br>
 <i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i>
 </td>
 <td style="text-align: left;">• recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
@@ -150,7 +150,7 @@ Students will also learn about the definitions of biological sex, gender identit
 <tr>
 	<td style="vertical-align: middle;">When Respect Takes Centre Stage<br>Lesson 2<br>(60 mins)</td>
 <td style="text-align: left;">This lesson aims to help students think critically and make informed decisions in the contexts of sexting and voyeurism, and encourages students to exert a positive influence as a respectful online user. It will also deepen students’ convictions about making moral decisions by taking into consideration the impact of their decisions and actions on their well-being and safety, their loved ones, and the community. Students learn that they have a right and responsibility to be safe and protect their personal space and body. They also learn that sexting, voyeurism and other related sexual offences are never justifiable and they can seek help in times of need.</td>
-<td style="text-align:center;">• recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them <br><br>
+<td style="text-align: left;">• recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them <br><br>
 • understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs 
 </td>
 <td style="vertical-align: middle;">Term 3 Week 8</td>
@@ -182,7 +182,7 @@ Students will also learn about the definitions of biological sex, gender identit
 		<tr>
 			<td style="vertical-align: middle;">When Love Hurts<br>
 Lesson 2<br>(60 mins)</td>
-			<td style="text-align:center;">This lesson aims to help students recognise unhealthy relationships and build their help-seeking skills. Students will learn to identify potential signs of an unhealthy relationship and recognise the different forms of dating violence. They will get to understand why dating violence occurs, why victims often feel “trapped” in such unhealthy relationships, and how one can get out of such a relationship safely. Students will learn when, where and how to seek help from trusted adults (e.g. family, teachers, school counsellors) in the supportive environment that they have if they or their friends are involved in an unhealthy relationship.</td>
+			<td style="text-align: left;">This lesson aims to help students recognise unhealthy relationships and build their help-seeking skills. Students will learn to identify potential signs of an unhealthy relationship and recognise the different forms of dating violence. They will get to understand why dating violence occurs, why victims often feel “trapped” in such unhealthy relationships, and how one can get out of such a relationship safely. Students will learn when, where and how to seek help from trusted adults (e.g. family, teachers, school counsellors) in the supportive environment that they have if they or their friends are involved in an unhealthy relationship.</td>
 			<td style="text-align: left;">• recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims <br><br>
 • understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being<br><br>
 • understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship
@@ -192,7 +192,7 @@ Lesson 2<br>(60 mins)</td>
 		<tr>
 			<td style="vertical-align: middle;">For Better or For Worse<br>Lesson 3<br>
 (60 mins)</td>
-			<td style="text-align:center;">This lesson focuses on building a positive relationship with one’s partner in a marriage. Students will understand that while a marriage, defined in Singapore as a union between a man and a woman, requires mutual commitment and effort like the other relationships in their lives, what sets a marriage apart is its lifelong commitment. Students will learn that what really matters to sustain and maintain a long-term romantic relationship leading to marriage is understanding the other person’s perspective and effectively communicating with each other. </td>
+			<td style="text-align: left;">This lesson focuses on building a positive relationship with one’s partner in a marriage. Students will understand that while a marriage, defined in Singapore as a union between a man and a woman, requires mutual commitment and effort like the other relationships in their lives, what sets a marriage apart is its lifelong commitment. Students will learn that what really matters to sustain and maintain a long-term romantic relationship leading to marriage is understanding the other person’s perspective and effectively communicating with each other. </td>
 			<td style="text-align: left;">·• know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions <br><br>
 ·• know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort <br><br>
 ·• understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage 
@@ -202,7 +202,7 @@ Lesson 2<br>(60 mins)</td>
 		<tr>
 			<td style="vertical-align: middle;">There’s Always More to a Story<br>
 Lesson 4<br>(60 mins)</td>
-			<td style="text-align:center;">In this lesson, students will revisit the impact of pornography and deepen their understanding on its impact on relationships. Students will also learn about revenge pornography, including its definition and legal provisions. They will also learn that they can turn to trusted adults for help in setting boundaries and overcoming difficulties in making sound decisions, to prevent themselves from encountering danger. </td>
+			<td style="text-align: left;">In this lesson, students will revisit the impact of pornography and deepen their understanding on its impact on relationships. Students will also learn about revenge pornography, including its definition and legal provisions. They will also learn that they can turn to trusted adults for help in setting boundaries and overcoming difficulties in making sound decisions, to prevent themselves from encountering danger. </td>
 			<td style="text-align: left;">• understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</td>
 			<td style="vertical-align: middle;">Term 3 Week 5</td>
 		</tr>
