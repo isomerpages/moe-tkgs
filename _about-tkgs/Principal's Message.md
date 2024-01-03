@@ -31,7 +31,11 @@ variant: markdown
 	
 <p>It is a TKGS tradition to welcome the new school year with a Year Theme jointly conceptualised by the Prefectorial Board Executive Committee and the School Principal.</p>
 <p>I am proud to present the Year Theme for 2024: </p>
-<img src="/images/About_tkgs/P_message/2024yt.png"><br>
+
+<a href="/images/About_tkgs/P_message/2024yt.png">
+  <img alt="Harvest Image" style="max-width: 400px; max-height: 400px;" src="/images/About_tkgs/P_message/2024yt.png">
+</a>
+
 Here, I would like to share the thinking behind the Year Theme so that you may be encouraged by the depth of thought the Prefectorial Board EXCO led by Head Prefect,<br><br>
 Loi Si Ling, put in to conceptualise the Year Theme. 
 
