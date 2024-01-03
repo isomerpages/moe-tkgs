@@ -54,7 +54,7 @@ You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education">here</a>&
 <tr>
 	<td style="vertical-align: middle;">Being Aware, Being Safe
 <br>Lesson 2<br>(60 mins)</td>
-	<td style="text-align:center;">This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self.</td>
+	<td style="text-align: left;">This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self.</td>
 	<td style="text-align: left;">• understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
 	<td style="vertical-align: middle;">Term 3 Week 6</td>
 		</tr>
