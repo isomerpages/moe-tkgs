@@ -51,7 +51,6 @@ You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education">here</a>&
     • recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>
     • understand what dating is, and recognise that the readiness and interest in dating vary among individuals 
 </td>
-
 <td style="vertical-align: middle;">Term 3 Week 4/<br>Term 3 Week 5</td>
 		</tr>
 <tr>
