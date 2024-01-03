@@ -107,7 +107,7 @@ Students will also learn about the definitions of biological sex, gender identit
 		<tr>
 	<td style="vertical-align: middle;">Do I or Don’t I<br>Lesson 2B<br>
 (60 mins)</td>
-<td style="text-align:center;">This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.</td>
+<td style="text-align: left;">This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.</td>
 <td style="text-align: left;">• recognise the importance of self-respect and respect for others in relating to members of the opposite sex<br><br>
 • recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online
 </td>
@@ -130,7 +130,7 @@ Students will also learn about the definitions of biological sex, gender identit
 			<br>Relationships &amp; Safety</td>
 <td style="vertical-align: middle;">Love Yourself, Love Others<br>Lesson 1A<br>
 (60 mins)</td>
-<td style="text-align:center;">This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship.</td>
+<td style="text-align: left;">This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship.</td>
 <td style="text-align: left;">• know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline <br><br>
 •	understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours<br><br>
 • recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship
@@ -139,7 +139,7 @@ Students will also learn about the definitions of biological sex, gender identit
 </tr>
 <tr>
 	<td style="vertical-align: middle;">Mending a Broken Heart Lesson 1B<br>(60 mins)</td>
-<td style="text-align:center;">Students will learn how to manage their emotions if they were to face a breakup and know that relationship building involves person emotions and vulnerabilities, and changes and challenges. Students will also learn that a decision to end a relationship will have consequences on oneself and others, and that grief and loss due to rejections and broken relationships is normal and that one can recover from the experience. They will learn that there are healthy ways of coping with breakdowns in relationships and that family and friends are important pillars of support.</td>
+<td style="text-align: left;">Students will learn how to manage their emotions if they were to face a breakup and know that relationship building involves person emotions and vulnerabilities, and changes and challenges. Students will also learn that a decision to end a relationship will have consequences on oneself and others, and that grief and loss due to rejections and broken relationships is normal and that one can recover from the experience. They will learn that there are healthy ways of coping with breakdowns in relationships and that family and friends are important pillars of support.</td>
 <td style="text-align: left;">• know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges <br><br>
 • know that a decision to end a relationship will have consequences on oneself and others<br><br>
 • know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience<br><br>
@@ -173,7 +173,7 @@ Students will also learn about the definitions of biological sex, gender identit
 			<br>Relationships &amp; Safety</td>
 			<td style="vertical-align: middle;">Levelling the Ground<br> Lesson 1<br>
 (60 mins)</td>
-			<td style="text-align:center;">This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.</td>
+			<td style="text-align: left;">This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.</td>
 			<td style="text-align: left;">• understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations<br><br>
 • know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided 
 			</td>
