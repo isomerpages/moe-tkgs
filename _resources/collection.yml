@@ -1,0 +1,14 @@
+collections:
+  resources:
+    output: true
+    order:
+      - test.md
+      - Student Resources.md
+      - Staff Resources.md
+      - Parent Resources.md
+      - Admission/.keep
+      - Admission/Sec 1 Admission.md
+      - Admission/Appeal Process for Sec 1 Admission.md
+      - Admission/Direct School Admission.md
+      - Admission/Other Admission Matters.md
+      - Yearbook.md

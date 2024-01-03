@@ -1,0 +1,6 @@
+collections:
+  admin:
+    output: true
+    order:
+      - Announcements.md
+      - Contact Information.md

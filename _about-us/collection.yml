@@ -1,0 +1,11 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Key Personnel.md
+      - School Advisory Committee.md
+      - Teaching Staff.md
+      - Non–Teaching Staff.md
+      - Our Partners/.keep
+      - Our Partners/Alumni.md
+      - Our Partners/ParentLink.md

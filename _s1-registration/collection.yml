@@ -1,0 +1,5 @@
+collections:
+  s1-registration:
+    output: true
+    order:
+      - Sec 1 Registration Page.md

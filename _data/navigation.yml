@@ -1,0 +1,16 @@
+logo: /images/logo1.png
+links:
+  - title: About TKGS
+    collection: about-tkgs
+  - title: About Us
+    collection: about-us
+  - title: CCA
+    collection: cca
+  - title: Learning @ TKGS
+    collection: learning-at-tkgs
+  - title: TKGS Sparkling Moments
+    collection: tkgs-sparkling-moments
+  - title: Resources
+    collection: resources
+  - title: Connect with us
+    collection: connect-with-us
