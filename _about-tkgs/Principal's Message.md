@@ -18,7 +18,10 @@ variant: markdown
 </table>
 
 <p>This, to me, is like a harvest of our fruits of labour over the past 5 years. Here is my year-end reflection which I shared with the staff, as we concluded 2023. </p>
-<a href="/images/About_tkgs/P_message/harvest.png"><img src="/images/About_tkgs/P_message/Harvest_sm.png"></a>
+<a href="/images/About_tkgs/P_message/harvest.png">
+  <img height="150" width="200" src="/images/About_tkgs/P_message/harvest.png">
+</a>
+
 	
 <p>It is with the same heart of thankfulness that we welcome 2024. </p>
 
