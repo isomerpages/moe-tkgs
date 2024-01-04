@@ -3,6 +3,7 @@ title: Library Board
 permalink: /cca/clubs-n-service-boards/library-board/
 description: ""
 third_nav_title: Clubs and Service Boards
+variant: markdown
 ---
 <style>
 table {
@@ -51,8 +52,8 @@ tr:hover {background-color: #F5F5DC;}
 </tr>
 		<tr>
 	<td rowspan="1"> Training Day / Time</td>
-<td>Tuesday<br>
-	3:15pm to 5:00pm
+<td>Thursday<br>
+	3:15pm to 5:00pm<br><br>* Duty days may be on other days during the week as well
 		</td>
 	 	</tr>
 <tr>
