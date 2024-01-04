@@ -27,7 +27,7 @@ variant: markdown
 
 <p>This year TKGS continues to have a very encouraging Sec 1 enrolment with a high 89.9% of the 2024 Sec 1 cohort choosing TKGS as their top 3 choices. Good news indeed! We are very thankful for each and every girl who has made TKGS her choice school and her second home. </p>
 
-<p>2024 marks a significant milestone in the history of TKGS as we embark on Full Subject-based Banding and welcome our first batch of G2 students. In the spirit of embracing all learners as espoused in the school song, we consider it a privileged opportunity to extend the TKGS brand of education to a wider and more diverse group of learners. </p>
+<p>2024 marks a significant milestone in the history of TKGS as we embark on Full Subject-based Banding and welcome our first batch of G3 and G2 students. In the spirit of embracing all learners as espoused in the school song, we consider it a privileged opportunity to extend the TKGS brand of education to a wider and more diverse group of learners. </p>
 	
 <p>It is a TKGS tradition to welcome the new school year with a Year Theme jointly conceptualised by the Prefectorial Board Executive Committee and the School Principal.</p>
 <p>I am proud to present the Year Theme for 2024: </p>
