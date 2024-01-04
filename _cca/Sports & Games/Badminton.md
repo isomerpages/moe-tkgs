@@ -58,8 +58,8 @@ as a team.</p>
 </tr>
 		<tr>
 	<td rowspan="1"> Training Day / Time</td>
-<td>Monday, Wednesday &amp; Friday<br>
-	3:15pm to 6:15pm</td>
+<td>Monday, Wednesday &amp; Thursday<br>
+	3:15pm to 6:00pm</td>
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
