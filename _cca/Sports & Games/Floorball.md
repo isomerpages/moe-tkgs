@@ -3,6 +3,7 @@ title: Floorball
 permalink: /cca/sports-n-games/floorball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <style>
 table {
@@ -37,7 +38,7 @@ tr:hover {background-color: #F5F5DC;}
 	 	</tr>
 <tr>
 	<td rowspan="1">Ms Siti Aisha Abdul Aziz</td>
- <td><a target="" href="mailtositi_aisha_abdul_aziz@moe.edu.sg">siti_aisha_abdul_aziz@moe.edu.sg</a></td>
+ <td><a target="" href="mailto:siti_aisha_abdul_aziz@moe.edu.sg">siti_aisha_abdul_aziz@moe.edu.sg</a></td>
 	</tr>
 </tbody>
 </table>
@@ -48,8 +49,8 @@ tr:hover {background-color: #F5F5DC;}
 </tr>
 		<tr>
 	<td rowspan="1"> Training Day / Time</td>
-<td>Tuesday &amp; Friday<br>
-	3:15pm to 6:15pm</td>
+<td>Tuesday &amp; Thursday<br>
+	3:15pm to 6:00pm</td>
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
