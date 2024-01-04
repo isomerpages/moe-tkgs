@@ -57,8 +57,10 @@ tr:hover {background-color: #F5F5DC;}
 </tr>
 		<tr>
 	<td rowspan="1"> Training Day / Time</td>
-<td>Tuesday, Wednesday &amp; Friday<br>
-	3:15pm to 6:00pm<br>
+<td>Monday, Wednesday &amp; Thursday<br>
+	3:15pm to 6:00pm
+	<br>
+	<br> Selected Saturdays when necessary for school events and other preparations
 		</td>
 	 	</tr>
 <tr>
