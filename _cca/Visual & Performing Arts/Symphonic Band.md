@@ -60,7 +60,7 @@ tr:hover {background-color: #F5F5DC;}
 <td>Monday, Wednesday &amp; Thursday<br>
 	3:15pm to 6:00pm
 	<br>
-	<br> Selected Saturdays when necessary for school events and other preparations
+	<br>* Selected Saturdays when necessary for school events and other preparations
 		</td>
 	 	</tr>
 <tr>
