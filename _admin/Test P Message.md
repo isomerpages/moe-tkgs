@@ -19,7 +19,13 @@ description: ""
     max-width: 100%;
     height: auto;
   }
+
+  /* Add this CSS to align text content within table cells */
+  td {
+    vertical-align: top; /* You can use "top", "middle", or "bottom" */
+  }
 </style>
+
 
 
 <table>
