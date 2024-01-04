@@ -11,10 +11,10 @@ description: ""
 
 <table style="width: 100%;">
   <tbody><tr>
-    <td style="width: 40%; vertical-align: top;">
+    <td style="width: 65%; vertical-align: top;">
       <img src="/images/About_tkgs/P_message/P_message2024.png">
     </td>
-    <td style="width: 60%; vertical-align: top;">
+    <td style="width: 35%; vertical-align: top;">
       <p>A heart filled with thankfulness!</p>
       <p>This is how we concluded 2023 and welcome 2024.</p>
       <p>In 2023, we received a very strong affirmation from the students through the Quality of School Experience survey conducted by MOE. Across the key student processes such as Learning and Social Processes, as well as Cognitive and Social Well-being, students responded positively. More specifically, in the areas of Holistic Student Development, Engagement of Learning, Growth Mindset, Teacher-Student Relationship and Peer Relationship, the school has improved compared to 2021 and did better than the national cohort. We are greatly heartened to see a high 91% of students attesting to the sense of belonging to the school.</p>
