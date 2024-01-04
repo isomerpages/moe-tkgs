@@ -2,5 +2,6 @@ collections:
   admin:
     output: true
     order:
+      - Test P Message.md
       - Announcements.md
       - Contact Information.md
