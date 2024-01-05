@@ -3,6 +3,7 @@ title: Netball
 permalink: /cca/sports-n-games/netball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <style>
 table {
@@ -49,18 +50,9 @@ tr:hover {background-color: #F5F5DC;}
 			<th colspan="1">CCA Schedule</th>
 </tr>
 		<tr>
-		<td rowspan="1"> Training Day / Time for <strong>B Div</strong></td>
-<td>Monday &amp; Fridays<br>
-	3:15pm to 6:00pm<br><br>
-		Tuesday<br>
-		3:15pm - 4:30pm</td>
-	 	</tr>
-<tr>
-		<td rowspan="1"> Training Day / Time for <strong>C Div</strong></td>
-<td> Monday<br>
-	3:15pm to 4:30pm<br><br>
-		Tuesday &amp; Friday<br>
-		3:15pm - 6:00pm</td>
+		<td rowspan="1"> Training Day / Time</td>
+<td>Monday, Tuesday &amp; Thursday<br>
+	3:15pm to 6:00pm</td>
 	 	</tr>
 		<tr>
 	<td rowspan="1">Training Venue</td>
