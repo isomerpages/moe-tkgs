@@ -48,12 +48,12 @@ tr:hover {background-color: #F5F5DC;}
 </tr>
 		<tr>
 	<td rowspan="1"> Training Day / Time</td>
-<td>Tuesday &amp; Friday<br>
+<td>Tuesday &amp; Thursdays<br>
 	4:00pm to 6:00pm</td>
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
- <td rowspan="1"> Singapore Swimming Club</td>
+ <td rowspan="1"> SAFRA Tampines</td>
 	</tr>
 </tbody>
 </table>

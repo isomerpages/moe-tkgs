@@ -3,6 +3,7 @@ title: English Drama
 permalink: /cca/visual-n-performing-arts/english-drama/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 <style>
 table {
@@ -49,13 +50,16 @@ tr:hover {background-color: #F5F5DC;}
 	<tbody><tr><th colspan="1">CCA Schedule</th>
 </tr><tr>
 	<td rowspan="1"> Training Day / Time</td>
-<td>Tuesday &amp; Friday<br>
+<td>Tuesday &amp; Wednesday (Sem 1)<br>
+	3:15pm to 5:45pm
+	<br>
+	<br>Tuesday &amp; Thursday  (Sem 2)<br>
 	3:15pm to 5:45pm
 		</td>
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
- <td rowspan="1">Performing Arts Studio</td>
+ <td rowspan="1">Performing Arts Studio &amp; Special Rooms</td>
 	</tr>
 </tbody>
 </table>

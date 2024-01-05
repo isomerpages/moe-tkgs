@@ -3,6 +3,7 @@ title: Basketball
 permalink: /cca/sports-n-games/basketball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <style>
 table {
@@ -46,8 +47,8 @@ tr:hover {background-color: beige;}
 	 <tr>
 	<td rowspan="1"> Training Day / Time</td>
 <td>Monday &amp; Wednesday<br>
-	3:15pm to 5:15pm<br><br>
-		 *Additional Friday training during NSG period (3.15pm - 5.15pm) 
+	3:15pm to 5:45pm<br><br>
+		 *Additional Thursday training during NSG period (3.15pm - 5.45pm) 
 		 </td>
 	 	</tr>
 <tr>

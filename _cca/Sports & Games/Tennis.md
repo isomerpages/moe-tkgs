@@ -47,13 +47,12 @@ tr:hover {background-color: #F5F5DC;}
 			<th colspan="1">CCA Schedule</th>
 </tr>
 		<tr>
-	<td rowspan="1"> Training Day / Time</td>
-<td>Monday, Wednesday &amp; Friday<br>
-	3:30pm to 5:30pm</td>
+	<td rowspan="1"> Training Day </td>
+			<td>Monday &amp; Thursday <br></td>
 	 	</tr>
 <tr>
-	<td rowspan="1">Training Venue</td>
- <td rowspan="1"> School Parade Square or Sports SG Tennis Centre</td>
+	<td rowspan="1">Training Venue / Time</td>
+ <td rowspan="1"> School Parade Square - 3:30pm to 5:30pm<br>Sports SG Tennis Centre - 4:00pm to 6:00pm</td>
 	</tr>
 </tbody>
 </table>

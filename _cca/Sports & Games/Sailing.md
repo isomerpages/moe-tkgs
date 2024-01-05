@@ -3,6 +3,7 @@ title: Sailing
 permalink: /cca/sports-n-games/sailing/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <style>
 table {
@@ -48,14 +49,11 @@ tr:hover {background-color: #F5F5DC;}
 	<td rowspan="1"> Training Day / Time</td>
 <td>Monday &amp; Wednesday<br>
 	3:15pm to 6:00pm<br><br>
-	* Additional Friday training during NSG period (3.15pm - 4.45pm)
 			</td>
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
- <td rowspan="1"> Monday &amp; Wednesday - National Sailing Centre (ECP)<br>
-	 Friday - School Gym &amp; Classroom Block
-	</td>
+ <td rowspan="1"> National Sailing Centre (ECP) or School Gym</td>
 	</tr>
 </tbody>
 </table>

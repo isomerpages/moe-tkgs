@@ -41,7 +41,8 @@ tr:hover {background-color: #F5F5DC;}
 <tr>
 	<td rowspan="1">Mr Azaac Tan Wei En</td>
  <td><a target="" href="mailto:azaac_tan_wei_en@moe.edu.sg">azaac_tan_wei_en@moe.edu.sg</a></td>
-	</tr></tbody>
+	</tr>
+	</tbody>
 	</table>
 <table>
 	<tbody>
@@ -50,16 +51,16 @@ tr:hover {background-color: #F5F5DC;}
 </tr>
 		<tr>
 	<td rowspan="1"> Training Day / Time</td>
-<td>Wednesday<br>
+<td>Monday<br>
 	3:15pm to 5:00pm<br>
 	<br>
-	Friday<br>
+	Wednesday<br>
 	3:15pm to 6:00pm
 		</td>
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
- <td rowspan="1">Circular Block, Classroom Block &amp; Parade Square</td>
+ <td rowspan="1">Circular Block Grass Patch, Classroom Block &amp; Parade Square</td>
 	</tr>
 </tbody>
 </table>
