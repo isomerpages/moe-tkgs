@@ -6,7 +6,7 @@ description: ""
 ---
 <img src="/images/Admin/Annoucement/congrats.png"> 
 
-<strong><h2>Arrangements for the Release of 2023 GCE O-Level Results</h2></strong>
+<h2>Arrangements for the Release of 2023 GCE O-Level Results</h2>
 
 The 2023 Secondary 4 batch of students are to,
 <ol>
