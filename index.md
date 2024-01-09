@@ -12,6 +12,9 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/
+        - title: 2023 GCE O-Level Release
+          description: Click here for more infomation
+          url: /announcements/olevel/
   - resources:
       title: TKGS Sparkling Moments
       button: More
