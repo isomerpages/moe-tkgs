@@ -27,7 +27,7 @@ description: ""
     <a href="https://go.gov.sg/2023olvl-parent" target="_blank" rel="noopener">
       <img style="width: 200px; height: 160px;" src="/images/Annoucement/O_level/tkgs_parentsreg.png">
     </a>
-    <p style="text-align: center; margin-top: 10px;">Registration Link</p>
+    <p style="text-align: center; margin-top: 10px;">Registration Link for Parents</p>
   </div>
   <div style="display: inline-block; text-align: center;">
     <a href="https://go.gov.sg/tkgs-infoforparents" target="_blank" rel="noopener">
