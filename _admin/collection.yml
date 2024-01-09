@@ -2,7 +2,6 @@ collections:
   admin:
     output: true
     order:
-      - O Level.md
       - School Canteen Advertisement.md
       - Teaching Staff.md
       - Test P Message.md
