@@ -12,7 +12,7 @@ description: ""
 	<li>All students must be in proper school uniform with proper shoes.</li>
 	<li>Proper appearance: Standard school rules apply (i.e. no coloured hair, accessories)</li>
 	<li>Students who do not meet the expected appearance and attire may be turned away. </li>
-	<li><b>Parents accompanying students are required to register before the event. Please scan or clicking the QR code.</b></li>
+	<li><b>Parents accompanying students are required to register before the event. Please scan or click the QR code.</b></li>
 </ol>
 <div style="text-align: center;">
   <a href="https://go.gov.sg/tkgs-parentsreg" target="_blank" rel="noopener">
