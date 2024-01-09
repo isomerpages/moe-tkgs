@@ -16,7 +16,7 @@ The 2023 Secondary 4 batch of students are to,
 	<li>Students who do not meet the expected appearance and attire may be turned away. </li>
 </ol>
 <div style="text-align: center;">
-  <a href="https://www.moe.gov.sg/parentkit" target="_blank" rel="noopener">
+  <a href="https://go.gov.sg/tkgs-infoforstud" target="_blank" rel="noopener">
     <img style="width: 200px; height: 160px;" src="/images/Annoucement/O_level/tkgs_infoforstud.png">
   </a>
   <p style="text-align: center; margin-top: 10px;">Additional Information for Students</p>
@@ -26,7 +26,7 @@ The 2023 Secondary 4 batch of students are to,
 Parents accompanying students are required to register before the event. Please scan or clicking the QR code.
 <div style="text-align: center;">
   <div style="display: inline-block; text-align: center; margin-right: 20px;">
-    <a href="https://go.gov.sg/tkgs-infoforstud" target="_blank" rel="noopener">
+    <a href="https://go.gov.sg/2023olvl-parent" target="_blank" rel="noopener">
       <img style="width: 200px; height: 160px;" src="/images/Annoucement/O_level/tkgs_parentsreg.png">
     </a>
     <p style="text-align: center; margin-top: 10px;">Registration Link</p>
