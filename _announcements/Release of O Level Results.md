@@ -29,7 +29,7 @@ Parents accompanying students are required to register before the event. Please 
     <a href="https://go.gov.sg/2023olvl-parent" target="_blank" rel="noopener">
       <img style="width: 200px; height: 160px;" src="/images/Annoucement/O_level/tkgs_parentsreg.png">
     </a>
-    <p style="text-align: center; margin-top: 10px;">Registration Link</p>
+    <p style="text-align: center; margin-top: 10px;">Registration Link for Parents</p>
   </div>
   <div style="display: inline-block; text-align: center;">
     <a href="https://go.gov.sg/tkgs-infoforparents" target="_blank" rel="noopener">
@@ -38,4 +38,3 @@ Parents accompanying students are required to register before the event. Please 
     <p style="text-align: center; margin-top: 10px;">Additional Information for Parents</p>
   </div>
 </div>
-
