@@ -15,18 +15,17 @@ description: ""
 	<li><b>Parents accompanying students are required to register before the event. Please scan or clicking the QR code.</b></li>
 </ol>
 <div style="text-align: center;">
-  <a href="https://go.gov.sg/tkgs-infoforstud" target="_blank" rel="noopener">
-    <img style="width: 200px; height: 160px;" src="/images/Annoucement/O_level/tkgs_infoforstud.png">
+  <a href="https://go.gov.sg/tkgs-parentsreg" target="_blank" rel="noopener">
+    <img style="width: 200px; height: 160px;" src="/images/Annoucement/O_level/tkgs_parentsreg.png">
   </a>
-  <p style="text-align: center; margin-top: 10px;">Additional Information for Students</p>
+  <p style="text-align: center; margin-top: 10px;">Registration Link for Parents</p>
 </div>
-<br>
 <div style="text-align: center;">
   <div style="display: inline-block; text-align: center; margin-right: 20px;">
-    <a href="https://go.gov.sg/2023olvl-parent" target="_blank" rel="noopener">
-      <img style="width: 200px; height: 160px;" src="/images/Annoucement/O_level/tkgs_parentsreg.png">
+    <a href="https://go.gov.sg/tkgs-infoforstud" target="_blank" rel="noopener">
+      <img style="width: 200px; height: 160px;" src="/images/Annoucement/O_level/tkgs_infoforstud.png">
     </a>
-    <p style="text-align: center; margin-top: 10px;">Registration Link for Parents</p>
+    <p style="text-align: center; margin-top: 10px;">Additional Information for Students</p>
   </div>
   <div style="display: inline-block; text-align: center;">
     <a href="https://go.gov.sg/tkgs-infoforparents" target="_blank" rel="noopener">
