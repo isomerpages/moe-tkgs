@@ -6,14 +6,13 @@ description: ""
 ---
 <img src="/images/Annoucement/O_level/congrats.png"> 
 
-<h2>Instructions for Students</h2>
-
-The 2023 Secondary 4 batch of students are to,
+<h2>Instructions for Students/Parents</h2>
 <ol>
-	<li>Report to the <b>School Hall</b> between <b>1.30pm and 1.50pm</b>.</li>
+	<li>The 2023 Secondary 4 batch of students are to report to the <b>School Hall</b> between <b>1.30pm and 1.50pm</b>.</li>
 	<li>All students must be in proper school uniform with proper shoes.</li>
 	<li>Proper appearance: Standard school rules apply (i.e. no coloured hair, accessories)</li>
 	<li>Students who do not meet the expected appearance and attire may be turned away. </li>
+	<li><b>Parents accompanying students are required to register before the event. Please scan or clicking the QR code.</b></li>
 </ol>
 <div style="text-align: center;">
   <a href="https://go.gov.sg/tkgs-infoforstud" target="_blank" rel="noopener">
@@ -21,9 +20,7 @@ The 2023 Secondary 4 batch of students are to,
   </a>
   <p style="text-align: center; margin-top: 10px;">Additional Information for Students</p>
 </div>
-
-<h2>Instructions for Parent/Visitors</h2>
-Parents accompanying students are required to register before the event. Please scan or clicking the QR code.
+<br>
 <div style="text-align: center;">
   <div style="display: inline-block; text-align: center; margin-right: 20px;">
     <a href="https://go.gov.sg/2023olvl-parent" target="_blank" rel="noopener">
