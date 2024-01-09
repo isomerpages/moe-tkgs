@@ -4,9 +4,9 @@ permalink: /announcements/olevel/
 variant: markdown
 description: ""
 ---
-<img src="/images/Admin/Annoucement/congrats.png"> 
+<img src="/images/Annoucement/O_level/congrats.png"> 
 
-<h2>Arrangements for the Release of 2023 GCE O-Level Results</h2>
+<h2>Instructions for Students</h2>
 
 The 2023 Secondary 4 batch of students are to,
 <ol>
@@ -14,23 +14,28 @@ The 2023 Secondary 4 batch of students are to,
 	<li>All students must be in proper school uniform with proper shoes.</li>
 	<li>Proper appearance: Standard school rules apply (i.e. no coloured hair, accessories)</li>
 	<li>Students who do not meet the expected appearance and attire may be turned away. </li>
-	<li>Students who are unable to collect their results in person and would like to appoint a proxy should complete the proxy form beforehand.  
-</li></ol>
-<a href="https://go.gov.sg/tkgs-infoforstud">Additional Information for Students</a><br>
-<a href="https://go.gov.sg/tkgs-infoforstud">Proxy Form</a>
+</ol>
+<div style="text-align: center;">
+  <a href="https://www.moe.gov.sg/parentkit" target="_blank" rel="noopener">
+    <img style="width: 200px; height: 160px;" src="/images/Annoucement/O_level/tkgs_infoforstud.png">
+  </a>
+  <p style="text-align: center; margin-top: 10px;">Additional Information for Students</p>
+</div>
 
-Instructions for Parent/Visitors
-<ol>
-	<li>Registration is required before accompanying students to the school.</li>
-	<li>Parents/Visitor are not allowed to park in school.</li>
-	</ol>
-<a href="https://go.gov.sg/tkgs-sed-opt-out-2024">Registration Link</a><br>
-<a href="https://go.gov.sg/tkgs-infoforparents">Additional Information for Parents</a>
+<h2>Instructions for Parent/Visitors</h2>
+Parents accompanying students are required to register before the event. Please scan or clicking the QR code.
+<div style="text-align: center;">
+  <div style="display: inline-block; text-align: center; margin-right: 20px;">
+    <a href="https://go.gov.sg/tkgs-infoforstud" target="_blank" rel="noopener">
+      <img style="width: 200px; height: 160px;" src="/images/Annoucement/O_level/tkgs_parentsreg.png">
+    </a>
+    <p style="text-align: center; margin-top: 10px;">Registration Link</p>
+  </div>
+  <div style="display: inline-block; text-align: center;">
+    <a href="https://go.gov.sg/tkgs-infoforparents" target="_blank" rel="noopener">
+      <img style="width: 200px; height: 160px;" src="/images/Annoucement/O_level/tkgs_infoforparents.png">
+    </a>
+    <p style="text-align: center; margin-top: 10px;">Additional Information for Parents</p>
+  </div>
+</div>
 
-Addtional Resources for Parents and Students
-<ol>
-	<li><a href="https://www.moe.gov.sg/news/press-releases/20240104-release-of-2023-singapore-cambridge-gce-o-level-examination-results-and-2024-joint-admissions-exercise">MOE Press Release </a></li>
-		<li><a href="https://www.moe.gov.sg/post-secondary/admissions/jae">Joint Admissions Exercise (JAE) </a></li>
-	<li><a href="http://www.moe.gov.sg/jaeworksheet">JAE Worksheet </a></li>
-	<li><a href="https://www.moe.gov.sg/coursefinder">MOE's CourseFinder  </a></li>
-	</ol>
