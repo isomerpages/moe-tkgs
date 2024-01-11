@@ -1,4 +1,5 @@
 collections:
   archive-pages:
     output: true
-    order: []
+    order:
+      - Sparkling Moments/.keep
