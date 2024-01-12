@@ -19,10 +19,16 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 33.3333%;"><a href="https://iexams.seab.gov.sg/sso/login?service=https%3A%2F%2Fiexams.seab.gov.sg%2Fsso%2Foauth2.0%2FcallbackAuthorize%3Fclient_id%3Diexams2-prod%26redirect_uri%3Dhttps%253A%252F%252Fiexams.seab.gov.sg%252Fiexams2%252Flogin%252Foauth2%252Fcode%252Fiexams2-prod%26response_type%3Dcode%26client_name%3DCasOAuthClient" target="_blank" rel="noopener"><img src="/images/sr7.png"></a></td>
-<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;"><a href="https://go.gov.sg/#/login" target="_blank" rel="noopener"><img src="/images/Resources/Staff/Go_Gov.png"></a></td>
 <td style="width: 33.3333%;"><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fresponse_type%3Dcode%26client_id%3DOpal2WebApp%26state%3DI2IY2-HAyiU0K9pcUbBcm7iFitmCznlY4DD0zWqE_rCbd%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fapp%252Findex.html%26scope%3Droles%2520profile%2520cxprofile%2520openid%2520cxDomainInternalApi%26code_challenge%3D-BlUvPonZ6ZUNLLvYyyAhmyKJYai-gz3qwFVjOCu8bE%26code_challenge_method%3DS256%26nonce%3DI2IY2-HAyiU0K9pcUbBcm7iFitmCznlY4DD0zWqE_rCbd#" target="_blank" rel="noopener"><img src="/images/sr8.png"></a></td>
 </tr>
-</tbody>
+	<tr>
+		<td style="width: 33.3333%;"><a href="https://form.gov.sg/#!/signin" target="_blank" rel="noopener"><img src="/images/Resources/Staff/FormSG.png"></a></td>
+		<td style="width: 33.3333%;">&nbsp;</td>
+		<td style="width: 33.3333%;"><a href="https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&amp;redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&amp;response_type=code%20id_token&amp;scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&amp;response_mode=form_post&amp;nonce=638406194291056507.MzcwMDg2MWEtMDg0ZS00ZDhhLWE4NmEtZWYxZjFmYzA4NmY2YmI2OGRjYTAtYzE3Zi00NDA5LThkZjgtMWFhZDdhZDY0NmI5&amp;ui_locales=en-US&amp;mkt=en-US&amp;client-request-id=41567527-9706-4414-8655-3b690ec4bad7&amp;state=8zVC1wFRO5dLc8Pe5_IgLqyuYqmGFQXJduO4NVEQ5PrKEjmU4LrKzJpP0rtpdNMAfhTLFCeGAm7rk9u5eu2K4jbrW3tmfrAkJz1TfkwC8nhKLE4hrbt1md7P4_ldETBxMRehj8qHRs1IrAdNCCTKtni4RPW-_e8qAIhp7pKyMPNO0uWPOLXX_ub0Is54HV4rHL9UirjBep5OyUKuYWEnRt9sIguUsTST2g1-LHRbtTbNBGzOTuMOqAW52LhgglYStfhqkiStIylVFl1t7b7N2ucNzE0fQbbkO7JvTinG7tU&amp;x-client-SKU=ID_NET6_0&amp;x-client-ver=6.34.0.0" target="_blank" rel="noopener"><img src="/images/Resources/Staff/m365.jpg"></a></td>
+</tr>
+		<tr><td>
+</td></tr></tbody>
 </table>
 <p style="text-align: center;"><strong><u>T&amp;L Related</u></strong></p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
