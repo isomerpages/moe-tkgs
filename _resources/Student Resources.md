@@ -13,9 +13,10 @@ variant: markdown
 <td style="width: 33.3333%;"><a href="http://www.myskillsfuture.sg/secondary" target="_blank" rel="noopener"><img src="/images/srr3.jpg"></a></td>
 </tr>
 	<tr>
-		<td style="text-align: center;" colspan="2">
+		<td style="width: 33.3333%;"><a href="https://forms.moe.edu.sg/" target="_blank" rel="noopener"><img style="width: 80%;" src="/images/srr1.png"></a></td>
+		<td style="width: 33.3333%;">
 			<a href="https://schoolibrary.moe.edu.sg/tanjongkatonggirls/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_blank" rel="noopener"><img style="width: 30%;" src="/images/Resources/Student/liblogo.png"></a></td>
-			<td><a href="https://www.schoolbag.edu.sg/" target="_blank" rel="noopener"><img src="/images/pr2.png"></a></td>
+			<td style="width: 33.3333%;"><a href="https://www.schoolbag.edu.sg/" target="_blank" rel="noopener"><img src="/images/pr2.png"></a></td>
 </tr>
 	</tbody>
 </table>
