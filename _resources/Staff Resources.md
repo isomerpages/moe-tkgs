@@ -24,7 +24,7 @@ variant: markdown
 </tr>
 	<tr>
 		<td style="width: 33.3333%;"><a href="https://form.gov.sg/#!/signin" target="_blank" rel="noopener"><img src="/images/Resources/Staff/FormSG.png"></a></td>
-		<td style="width: 33.3333%;">&nbsp;</td>
+		<td style="width: 33.3333%;"><a href="https://forms.moe.edu.sg/" target="_blank" rel="noopener"><img src="/images/Resources/Student/allears.png"></a></td>
 		<td style="width: 33.3333%;"><a href="https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&amp;redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&amp;response_type=code%20id_token&amp;scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&amp;response_mode=form_post&amp;nonce=638406194291056507.MzcwMDg2MWEtMDg0ZS00ZDhhLWE4NmEtZWYxZjFmYzA4NmY2YmI2OGRjYTAtYzE3Zi00NDA5LThkZjgtMWFhZDdhZDY0NmI5&amp;ui_locales=en-US&amp;mkt=en-US&amp;client-request-id=41567527-9706-4414-8655-3b690ec4bad7&amp;state=8zVC1wFRO5dLc8Pe5_IgLqyuYqmGFQXJduO4NVEQ5PrKEjmU4LrKzJpP0rtpdNMAfhTLFCeGAm7rk9u5eu2K4jbrW3tmfrAkJz1TfkwC8nhKLE4hrbt1md7P4_ldETBxMRehj8qHRs1IrAdNCCTKtni4RPW-_e8qAIhp7pKyMPNO0uWPOLXX_ub0Is54HV4rHL9UirjBep5OyUKuYWEnRt9sIguUsTST2g1-LHRbtTbNBGzOTuMOqAW52LhgglYStfhqkiStIylVFl1t7b7N2ucNzE0fQbbkO7JvTinG7tU&amp;x-client-SKU=ID_NET6_0&amp;x-client-ver=6.34.0.0" target="_blank" rel="noopener"><img src="/images/Resources/Staff/m365.jpg"></a></td>
 </tr>
 		<tr><td>
