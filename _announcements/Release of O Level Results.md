@@ -8,7 +8,7 @@ description: ""
 
 It is with immense pride and joy that we come together to celebrate the Class of 2023 Sec 4 students. Today marks a significant milestone in their educational journey as they collect their O-Level results.
 
-To our exceptional students, congratulations on your remarkable achievements! Your dedication, hard work, and unwavering commitment have brought you to this moment of success. We have witnessed your growth, resilience, and determination, and we are confident that you will continue to shine brightly in all your future endeavors.
+To our exceptional students, congratulations on reaching this milestone! Your dedication, hard work, and unwavering commitment have brought you to this moment of success. We have witnessed your growth, resilience, and determination, and we are confident that you will continue to shine brightly in all your future endeavors.
 
 We would also like to extend our heartfelt gratitude to the parents, guardians, and friends who have supported our students throughout their educational journey. Your unwavering encouragement and guidance have played a crucial role in their success. Thank you for joining us in celebrating this special day.
 
