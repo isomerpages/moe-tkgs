@@ -13,7 +13,7 @@ variant: markdown
 		</tr>
 	<tr>
 			<td>Asia Cuisine (Non-Halal Japanese/Korean etc)</td>
-			<td>31 Dec 2023</td>
+			<td>31 Jan 2024</td>
 		</tr>
 			</tbody>
 </table>
