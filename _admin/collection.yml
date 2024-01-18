@@ -2,7 +2,6 @@ collections:
   admin:
     output: true
     order:
-      - 2024.md
       - Teaching Staff.md
       - Test P Message.md
       - Announcements.md
