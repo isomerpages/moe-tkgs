@@ -2,4 +2,5 @@ collections:
   archive-pages:
     output: true
     order:
+      - Sparkling Moments/2021.md
       - Sparkling Moments/.keep

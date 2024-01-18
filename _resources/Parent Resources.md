@@ -12,11 +12,11 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1MddTF6kFMZDGSTuwUmab9wNOI7e3m3Z-/view?usp=sharing" target="_blank" rel="noopener">1 Resilience (1R1)</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1VDLhw7oTGlQsSqZMdRosmo1oKp10ivsv/view?usp=sharing" target="_blank" rel="noopener">1 Intergrity (1I2)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1VDLhw7oTGlQsSqZMdRosmo1oKp10ivsv/view?usp=sharing" target="_blank" rel="noopener">1 Integrity (1I2)</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/18dPD3q3B-e61EAaNrppLSQhmlNwacaOv/view?usp=sharing" target="_blank" rel="noopener">1 Compassion (1C3)</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1EPess1p0mujp2OcM0wu77aRNFl1-6UYS/view?usp=sharing" target="_blank" rel="noopener">1 Humility (1H4)</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1TcYPj4LAioPTayRs6tiF_PIU5Gypy7CD/view?usp=sharing" target="_blank" rel="noopener">1 Sincerity (1S5)</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1nM1uYmmLU6IQmiPXrVI_N_h6pR6LDFqs/view?usp=sharing" target="_blank" rel="noopener">1 Respect (1R6)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1WRqxu5nd_uwmwCqqZeFtBUVQUtvqsdrv/view?usp=sharing" target="_blank" rel="noopener">1 Respect (1R6)</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1bTqIsW4qusOBrKfn1o52Vv7WW0zqCsso/view?usp=sharing" target="_blank" rel="noopener">1 Gratitude (1G7)</a></td>
 </tr>
 </tbody>
@@ -28,7 +28,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/11DZI9jdT2gAAMoJyjKyRpZtrJaLBosM_/view?usp=sharing" target="_blank" rel="noopener">2 Resilience (2R1)</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1wDhSqwJWBT-ziCIJciokKT2SUblwalym/view?usp=sharing" target="_blank" rel="noopener">2 Intergrity (2I2)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1wDhSqwJWBT-ziCIJciokKT2SUblwalym/view?usp=sharing" target="_blank" rel="noopener">2 Integrity (2I2)</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1sVUlQDBGKobWMW12MCi1PALxuMViinl5/view?usp=sharing" target="_blank" rel="noopener">2 Compassion (2C3)</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1tKoIR7l33heiLfHdI_sTXbLzwf3gJE1M/view?usp=sharing" target="_blank" rel="noopener">2 Humility (2H4)</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/19ABMbJ43I7mi5Lw76FZPYv3i8OPdFOMH/view?usp=sharing" target="_blank" rel="noopener">2 Sincerity (2S5)</a></td>
@@ -43,7 +43,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1TkzsDBBY4aTcBhi40qHSkY1ZziiKcy26/view?usp=sharing" target="_blank" rel="noopener">3 Resilience (3R1)</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/13tB6_7mHov1E2oqhlfrr55lXcCLmGuVg/view?usp=sharing" target="_blank" rel="noopener">3 Intergrity (3I2)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/13tB6_7mHov1E2oqhlfrr55lXcCLmGuVg/view?usp=sharing" target="_blank" rel="noopener">3 Integrity (3I2)</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1EHr9sZa6F11vIJsuPDtVyCKSpa1eXVA5/view?usp=sharing" target="_blank" rel="noopener">3 Compassion (3C3)</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/13RG8npfP9R8a3-GHxHbGdO1qIy13wPbr/view?usp=sharing" target="_blank" rel="noopener">3 Humility (3H4)</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1tJaGftUFv0JJzzkK-3BbmrrDrBwvAyEC/view?usp=sharing" target="_blank" rel="noopener">3 Sincerity (3S5)</a></td>
@@ -58,7 +58,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1y3CYueKcUHViVoGfkc8Un6GcfdwWZJBq/view?usp=sharing" target="_blank" rel="noopener">4 Resilience (4R1)</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1_ro04wqG8T-P6UmpDJX3FaeTbJGFNltv/view?usp=sharing" target="_blank" rel="noopener">4 Intergrity (4I2)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1_ro04wqG8T-P6UmpDJX3FaeTbJGFNltv/view?usp=sharing" target="_blank" rel="noopener">4 Integrity (4I2)</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1AbzGixrieZjxlp5890GDPVM220ubW79j/view?usp=sharing" target="_blank" rel="noopener">4 Compassion (4C3)</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/15fcbcDw4W1zTzqIlxLZdmJq3lwKjXtEB/view?usp=sharing" target="_blank" rel="noopener">4 Humility (4H4)</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1i4oM8CBOhD2Q4VltL9bIPtN9cGabTlml/view?usp=sharing" target="_blank" rel="noopener">4 Sincerity (4S5)</a></td>
@@ -72,10 +72,10 @@ variant: markdown
 <tbody>
 <tr>
 <td style="text-align: center;">
-<p><strong><a href="/announcements/fas/" target="">Financial Assistance Scheme</a></strong></p>
+<p><strong><a href="/announcements/fas/" target="_blank" rel="noopener">Financial Assistance Scheme</a></strong></p>
 	</td>
 	<td style="text-align: center;">
-	<p><strong><a href="http://go.gov.sg/tkgs-car-decal" target="">Application for Car Decal</a></strong></p>
+	<p><strong><a href="http://go.gov.sg/tkgs-car-decal" target="_blank" rel="noopener">Application for Car Decal</a></strong></p>
 	</td>
 	</tr>
 </tbody>
