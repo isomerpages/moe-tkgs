@@ -98,7 +98,7 @@ variant: markdown
 </tr>
 <tr>
 <td>Mr Ryan Law Nan Jun</td>
-<td>ICT Associate</td>
+<td>ICT Manager</td>
 </tr>
 <tr>
 <td>Mr Muhammad Fazuli Bin Abdul Samad</td>
