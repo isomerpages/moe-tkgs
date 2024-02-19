@@ -3,9 +3,10 @@ title: Uniformed Groups
 permalink: /cca/uniformed-groups/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 <p>TKGS Uniformed Groups embody discipline, determination and teamwork! Our girls have performed well in the National Awards.</p>
-<h3>Year 2023</h3><table>
+<h3>Year 2022</h3><table>
 <tbody>
 	<tr>
 	<th style="text-align: center;">CCA</th>
