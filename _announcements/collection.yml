@@ -2,4 +2,5 @@ collections:
   announcements:
     output: true
     order:
+      - School Canteen Advertisement.md
       - Financial Assistance Scheme (FAS).md
