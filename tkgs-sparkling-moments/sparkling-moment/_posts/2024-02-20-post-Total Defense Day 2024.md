@@ -22,8 +22,8 @@ Besides the Food Resilience Experience, our students and staff also learned more
 <table>
 	<tbody>
 	<tr>
-		<td style="text-align: center;"><a href="/images/Sparkling_Moment/2024/TDD_cover_pic_big.jpg"><img src="/images/Sparkling_Moment/2024/TDD_cover_pic_big.jpg"></a></td>
-		<td style="text-align: center;"><a href="/images/Sparkling_Moment/2024/TDD_cover_pic_big.jpg"><img src="/images/Sparkling_Moment/2024/TDD_cover_pic_big.jpg"></a></td>
+		<td style="text-align: center;"><a href="/images/Sparkling_Moment/2024/TDD_firemen.jpg"><img src="/images/Sparkling_Moment/2024/firemen_sm.jpg"></a><b>Firemen demonstrating how to use the fire hose to staff and students</b></td>
+		<td style="text-align: center;"><a href="/images/Sparkling_Moment/2024/TDD_police.jpg"><img src="/images/Sparkling_Moment/2024/TDD_police_sm.jpg"></a></td>
 		</tr>
 	</tbody>
 	</table>
