@@ -12,15 +12,15 @@ variant: markdown
 			<td><b>Closing Date</b></td>
 		</tr>
 	<tr>
-			<td>Asia Cuisine (Non-Halal Japanese/Korean etc)</td>
-			<td>31 Jan 2024</td>
+			<td>Chinese Cuisine (Noodle/Rice)</td>
+			<td>8 Mar 2024</td>
 		</tr>
 			</tbody>
 </table>
 
 <p><b>Background</b>
 <br>
-We are a single session secondary school with student enrolment and staff strength of 1,100. We have 5 food stalls and 2 drinks stalls in our school.</p>
+We are a single session secondary school with student enrolment and staff strength of 1,100. We have 6 food stalls and 2 drinks stalls in our school.</p>
 
 <p><b>Application Procedure</b>
 </p>
