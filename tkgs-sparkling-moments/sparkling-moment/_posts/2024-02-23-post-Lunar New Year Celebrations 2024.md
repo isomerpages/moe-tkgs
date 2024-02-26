@@ -7,12 +7,14 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Sparkling_Moment/2024/CNY_S1_s.png">
+</div>
+<p></p>
 <p>TKGS hosted a Chinese New Year celebration to usher in the year of the
 Dragon. We invited parents as well as senior residents from Mountbatten
 to join in the festivities.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" src="/images/Sparkling_Moment/2024/CNY_S1s.png">
-</div>
 <p>To kick start the celebrations, our students unleashed their creativity
 with dragon themed decor for their classrooms. They also put together hampers
 for our invited guests. Next, was a reunion class breakfast to enjoy delicious
