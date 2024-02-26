@@ -24,4 +24,4 @@ TKGS alumnus - Loh Xuan Yan, Carys of class 2023 who treated us to a medley
 of Chinese New Year songs.<br><br>
 The celebration ended on a high note, with the gifting of oranges, representing
 prosperity and happiness, to our staff, seniors, and parents. It was an
-unforgettable event filled with meaninging conversations and gratitude.
+unforgettable event filled with meaningful conversations and gratitude.
