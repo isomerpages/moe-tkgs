@@ -8,7 +8,6 @@ image: ""
 variant: markdown
 ---
 <center><img src="/images/Sparkling_Moment/2024/cny_s1.jpg"></center>
-
 TKGS hosted a Chinese New Year celebration to usher in the year of the
 Dragon. We invited parents as well as senior residents from Mountbatten
 to join in the festivities.<br><br>
