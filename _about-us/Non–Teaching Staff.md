@@ -24,10 +24,6 @@ variant: markdown
 <td>Administration Manager</td>
 </tr>
 <tr>
-<td>Mr Tan Kok Hon&nbsp;</td>
-<td>Administration Executive</td>
-</tr>
-<tr>
 <td>Ms Florence Choon&nbsp;</td>
 <td>Administration Executive</td>
 </tr><tr>
