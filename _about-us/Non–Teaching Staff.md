@@ -34,7 +34,13 @@ variant: markdown
 <td>Mdm Siti Rohana Binte Mohd Ali</td>
 <td>Corporate Support Officer</td>
 </tr>
-<tr>
+	<tr>
+<td>Mdm Kamariah Bte Osman</td>
+<td>
+<div>Operations Support Officer</div>
+</td>
+</tr>
+	<tr>
 <td>Mdm Sharifah Hasnah Binte Syed Hamid</td>
 <td>Operations Support Officer (Reception)</td>
 </tr>
@@ -55,12 +61,6 @@ variant: markdown
 <td>Mr Yap Pao Ming</td>
 <td>
 <div>Technical Support Officer (School Lab Technician)</div>
-</td>
-</tr>
-<tr>
-<td>Mdm Kamariah Bte Osman</td>
-<td>
-<div>Operations Support Officer (School Lab)</div>
 </td>
 </tr>
 <tr>
@@ -106,10 +106,6 @@ variant: markdown
 <tr>
 <td>Ms Jayamohan Jaishe</td>
 <td>Desktop Engineer (NCS DE)</td>
-</tr>
-<tr>
-<td>Mr Mohammad Syamil Ridhwan Bin Ismail</td>
-<td>AV Specialist</td>
 </tr>
 <tr>
 <td style="text-align: center;" colspan="2"><strong>Librarian</strong></td>
