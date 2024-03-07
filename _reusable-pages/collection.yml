@@ -1,5 +1,4 @@
 collections:
   reusable-pages:
     output: true
-    order:
-      - Release of O Level Results.md
+    order: []
