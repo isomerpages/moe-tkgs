@@ -89,7 +89,7 @@ variant: markdown
 <td>Operations Support Officer</td>
 </tr>
 <tr>
-<td style="text-align: center;" colspan="2"><strong>ICT/Audio Visual/Data Staff</strong></td>
+<td style="text-align: center;" colspan="2"><strong>ICT Staff</strong></td>
 </tr>
 <tr>
 <td>Mr Tan Jie Ming, Ray</td>
