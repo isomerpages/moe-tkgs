@@ -1,7 +1,0 @@
-collections:
-  reusable-pages:
-    output: true
-    order:
-      - Release of O Level Results.md
-      - Student Leadership.md
-      - Student Well–being Framework.md
