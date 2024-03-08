@@ -7,9 +7,6 @@ description: ""
 image: ""
 variant: markdown
 ---
-<img src="/images/Sparkling_Moment/sparkling_intro.png">
-
-<h3><strong>Highlights from Term 1</strong></h3>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 	<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/oP0icu1DNlE?si=s5fAkCizCTpy-ajR">
 	</iframe>
