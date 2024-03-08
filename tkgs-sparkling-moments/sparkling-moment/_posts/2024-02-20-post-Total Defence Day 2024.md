@@ -7,8 +7,6 @@ description: ""
 image: ""
 variant: markdown
 ---
-<img src="/images/Sparkling_Moment/sparkling_intro.png">
-
 <center><a href="/images/Sparkling_Moment/2024/TDD_cover_pic.jpg"><img src="/images/Sparkling_Moment/2024/TDD_cover_pic_big.jpg"></a></center>
 Our school participated in Singapore’s inaugural Total Defence Exercise. TKGS was one of forty schools selected for the Food Resilience Experience. To simulate food disruption, all canteen stalls were closed on Total Defence Day. Students and staff were only able to eat food packs prepared by Singapore Food Agency for lunch. This experience emphasised the importance of food security, being adaptable and resilient.
 
