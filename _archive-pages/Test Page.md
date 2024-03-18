@@ -18,4 +18,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sparkling_Moment/Sparkling_Intro_2024_f.png">
 </div>
+<p>New (Biggest)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sparkling_Moment/Sparkling_Intro_2024_B.png">
+</div>
 <p></p>
