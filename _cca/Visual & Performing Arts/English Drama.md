@@ -37,7 +37,7 @@ tr:hover {background-color: #F5F5DC;}
 <table>
 	<tbody><tr><th colspan="1">Teacher-in-Charge</th>
 </tr><tr>
-	<td rowspan="1">Mdm Meenatchi d/o Shanmugam</td>
+	<td rowspan="1">Dr Meenatchi d/o Shanmugam</td>
  <td><a target="" href="mailto:meenatchi_shanmugam@moe.edu.sg">meenatchi_shanmugam@moe.edu.sg</a></td>
 	 	</tr>
 <tr>
