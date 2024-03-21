@@ -9,7 +9,7 @@ variant: markdown
 ---
 Our Secondary 3 cohort embarked on a significant part of their secondary school education experience in Term One. They participated in the MOE-OBS Camp with students from 3 other schools.
 <center><img src="/images/Sparkling_Moment/2024/obs1.png"></center>
-Basking under the sun, our TKGians had the valuable opportunity to get close to sand and sea during the 5D4N camp. Various activities helped them get to know students from different schools as they took on the challenge of both land and sea expeditions. The high elements and team building activities imbued a stronger self-belief and the tenacity and adaptability to face ambiguou situations. <br><br>
+Basking under the sun, our TKGians had the valuable opportunity to get close to sand and sea during the 5D4N camp. Various activities helped them get to know students from different schools as they took on the challenge of both land and sea expeditions. The high elements and team building activities imbued a stronger self-belief and the tenacity and adaptability to face ambiguous situations. <br><br>
 Our girls came back with many exciting stories to share!  
 <center><img src="/images/Sparkling_Moment/2024/obs_teachstu.jpg"></center>
 “OBS gave me the opportunity to establish new friendships with people of different backgrounds, connect with nature, and allowed me to learn and apply values like perseverance and teamwork. I learnt to be grateful for everything I have,” says Victoria Ng (3C3), second from right. 
