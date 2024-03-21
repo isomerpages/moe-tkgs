@@ -6,7 +6,8 @@ third_nav_title: Signature Programmes
 variant: markdown
 ---
 <iframe width="726" height="408" src="https://www.youtube.com/embed/DzRCKUi1UTg" title="What is TKGlow?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<p>To promote student mental well-being and student advocacy, the school introduced TKGLOW!. GLOW! stands for:&nbsp;</p>
+<p>To promote student mental well-being and student advocacy, the school introduced TKGLOW! </p>
+<p>GLOW! stands for:</p>	
 <ul>
 <li>Grow by sharing your interest or passion</li>
 <li>Learn something new</li>
