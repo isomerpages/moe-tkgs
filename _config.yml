@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dbib5om10sev8.amplifyapp.com
 prod: https://master.dbib5om10sev8.amplifyapp.com
-shareicon: /images/logo.png
+shareicon: /images/Hompage/2024_School_Logo_with_namev2.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
