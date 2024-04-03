@@ -2,7 +2,7 @@
 layout: homepage
 title: Tanjong Katong Girls' School
 description: Brief site description here
-image: /images/logo.png
+image: /images/Hompage/2024_School_Logo_with_namev2.png
 permalink: /
 notification: ""
 sections:
