@@ -53,18 +53,18 @@ variant: markdown
 </tr>
 <tr>
 <td>Mr Ibrahim Bin Jupri</td>
-<td>Technical Support Officer (Edu Workshop Instructor)</td>
+<td>STEM Instructor (Workshop)</td>
 </tr>
 <tr>
 <td>Mr Abdul Malik Sulaiman</td>
 <td>
-<div>Technical Support Officer (School Lab Technician)</div>
+<div>STEM Instructor (Laboratory)</div>
 </td>
 </tr>
 	<tr>
 <td>Mr Yap Pao Ming</td>
 <td>
-<div>Technical Support Officer (School Lab Technician)</div>
+<div>STEM Instructor (Laboratory)</div>
 </td>
 </tr>
 <tr>
