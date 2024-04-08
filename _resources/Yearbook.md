@@ -2,7 +2,12 @@
 title: Yearbook
 permalink: /tkgs-sparkling-moments/yearbook/
 description: ""
+variant: markdown
 ---
+<a href="https://online.fliphtml5.com/ymnnh/cbdb/#p=1"><img style="width: 80%;" src="/images/Resources/Yearbook/2024YBcover.png"></a>
+<p style="text-align: center;"><strong>Yearbook 2023</strong><br>Click&nbsp;<a href="https://online.fliphtml5.com/ymnnh/cbdb/#p=1" target="_blank" rel="noopener">here</a>&nbsp;to view</p>
+<br>
+
 <a href="https://issuu.com/sandesignz/docs/tanjong_katong_girls_school_yb2022?fr=sMzRlYjQ0NTk0Nzk"><img style="width: 80%;" src="/images/Resources/Yearbook/yearbook2022_coverpage.png"></a>
 <p style="text-align: center;"><strong>Yearbook 2022</strong><br>Click&nbsp;<a href="https://issuu.com/sandesignz/docs/tanjong_katong_girls_school_yb2022?fr=sMzRlYjQ0NTk0Nzk" target="_blank" rel="noopener">here</a>&nbsp;to view</p>
 <br>
