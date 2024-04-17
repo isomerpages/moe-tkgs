@@ -107,10 +107,14 @@ variant: markdown
 <td>Mr Muhammad Fazuli Bin Abdul Samad</td>
 <td>Desktop Engineer (NCS DE)</td>
 </tr>
-<tr>
-<td>Ms Jayamohan Jaishe</td>
-<td>Desktop Engineer (NCS DE)</td>
-</tr>
+		<tr>
+		<td>Ms Jayamohan Jaishe</td>
+		<td>Desktop Engineer (NCS DE)</td>
+	</tr>
+	<tr>
+		<td>Mr Mulyadi B Kamis</td>
+		<td>AV Specialist</td>
+	</tr>
 <tr>
 <td style="text-align: center;" colspan="2"><strong>Librarian</strong></td>
 </tr>
