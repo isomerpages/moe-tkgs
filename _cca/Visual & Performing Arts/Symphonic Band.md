@@ -22,10 +22,8 @@ tr:hover {background-color: #F5F5DC;}
 
 <img src="/images/CCA/Band/symband.gif">
 
-<p>Under the baton of Ms Sia Swee Suan, the TKGS Symphonic Band has a track record of excellence in music. At the Singapore Youth Festival Arts Presentation, the Band has clinched the Distinction Awards. The Band has also been a participant of the National Band Competition since 2006, consistently being award Gold (First Division) at this biennial competition. It has been invited to perform at numerous platforms, including the Istana Open House, Band Fiesta and Limelight which feature top school bands in Singapore. Internationally, the Band clinched the second position at the 2nd Asian Symphonic Band Competition in 2000, held in Bangkok, Thailand. 
-
-Over the years, the Symphonic Band has been enriched through cross-cultural exchanges with musicians from the United States and Japan. In 2013 and 2017, the Band had exchange programmes and joint concerts with Edina High School Band from Minnesota. The partnership served to strengthen the international ties of friendship. The band members also come under the tutelage of local professional musicians from orchestras and bands to sharpen their skills all year rou</p>
-
+<p>Under the baton of Ms Sia Swee Suan, the TKGS Symphonic Band has a track record of excellence in music. At the Singapore Youth Festival Arts Presentation, the Band has clinched the Distinction Awards. The Band has also been a participant of the National Band Competition since 2006, consistently being award Gold (First Division) at this biennial competition. It has been invited to perform at numerous platforms, including the Istana Open House, Band Fiesta and Limelight which feature top school bands in Singapore. Internationally, the Band clinched the second position at the 2nd Asian Symphonic Band Competition in 2000, held in Bangkok, Thailand. </p>
+<p>Over the years, the Symphonic Band has been enriched through cross-cultural exchanges with musicians from the United States and Japan. In 2013 and 2017, the Band had exchange programmes and joint concerts with Edina High School Band from Minnesota. The partnership served to strengthen the international ties of friendship. The band members also come under the tutelage of local professional musicians from orchestras and bands to sharpen their skills all year rou</p>
 <table>
 	<tbody>
 		<tr>
