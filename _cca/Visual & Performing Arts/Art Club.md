@@ -21,10 +21,7 @@ tr:hover {background-color: #F5F5DC;}
 </style>
 <img src="/images/CCA/Art_club/art_combine.gif">
 
-<p>As a member of our art club, you can expect to engage in a variety of hands-on activities and workshops that allow you to explore different art mediums and techniques. Our workshops cover everything from resin art to digital art, mixed media, and more.</p>
-<p>During our resin art workshop, members had the opportunity to experiment with different types of pigment, colours, and additives to create works of art with clarity, luminosity, brilliance, and depth. We also had a chance to try out the UV ray machine to help dry our coasters and keychains.</p>
-<p>Our digital art workshops allowed members to explore the use of iPads and different apps to create individual characters and short comics based on various themes. We also had mixed media workshops where we combined different mediums to create cohesive works of art.</p>
-<p>As a member, you'll have the freedom to make your own artistic choices and hone your skills using your aesthetic senses. With support from our instructors, you'll learn new techniques and expand your ideas of what art can be.
+<p>Art Club is a vibrant space for the artists of TKGS to unleash their creativity. Our passionate members gather weekly to sketch, paint, sculpt and experiment with countless different mediums. With our differing art styles, we inspire and learn from each other, nurturing a supportive and collaborative community. Through watercolor painting and pressed flower workshops, we delve into the diverse and unique forms of art. Art Club not only focuses on honing our artistic skills, but also encourages members to showcase their talents, fostering a sense of pride and accomplishment. Our CCA not only provides a sanctuary where students cultivate lifelong passions, but it is also a place where enduring friendships are forged, united by a shared love for art. 
 </p>
 <table>
 	<tbody>
@@ -32,15 +29,15 @@ tr:hover {background-color: #F5F5DC;}
 			<th colspan="1">Teacher-in-Charge</th>
 </tr>
 		<tr>
-	<td rowspan="1">Mdm Yante Yahya</td>
- <td>
-	 <a target="" href="mailto:yante_yahya@moe.edu.sg">yante_yahya@moe.edu.sg</a></td>
-	 	</tr>
-<tr>
 	<td rowspan="1">Ms Kavitha D/O Palachandran </td>
  <td>
 	 <a target="" href="mailto:kavitha_palachandran@moe.edu.sg">kavitha_palachandran@moe.edu.sg</a>
 	</td>
+	 	</tr>
+		<tr>
+	<td rowspan="1">Mdm Yante Yahya</td>
+ <td>
+	 <a target="" href="mailto:yante_yahya@moe.edu.sg">yante_yahya@moe.edu.sg</a></td>
 	 	</tr>
 	</tbody>
 	</table>
@@ -53,12 +50,11 @@ tr:hover {background-color: #F5F5DC;}
 	<td rowspan="1"> Training Day / Time</td>
 <td>Monday &amp; Tuesday<br>
 	3:15pm to 6:00pm<br><br>
-	* Selected Tuesdays &amp; Thursday for special school events and other preparations
-			</td>
+				</td>
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
- <td rowspan="1">Art Room 1</td>
+ <td rowspan="1">Art Room 1, Level 1</td>
 	</tr>
 </tbody>
 		</table>
