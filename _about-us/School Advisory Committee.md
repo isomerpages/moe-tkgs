@@ -2,6 +2,7 @@
 title: School Advisory Committee
 permalink: /about-us/school-advisory-committee/
 description: ""
+variant: markdown
 ---
 <table>
 <tbody>
@@ -17,10 +18,18 @@ description: ""
 <td>Mr Alan Yeo</td>
 <td>Member</td>
 </tr>
+	<tr>
+<td>Ms Carol Loi</td>
+<td>Member</td>
+	</tr>
 <tr>
 <td>Mr Christopher Lim</td>
 <td>Member</td>
 </tr>
+		<tr>
+<td>Ms Juliana Choo</td>
+<td>Member</td>
+	</tr>
 <tr>
 <td>Ms Sally Low</td>
 <td>Member</td>
