@@ -22,10 +22,8 @@ tr:hover {background-color: #F5F5DC;}
 
 <img src="/images/CCA/NPCC/npcclub.gif">
 
-<p>2021 is another fun-filled year for our committed members of TKGS NPCC. The cadets continue to earn their proficiency badges for the past months and participated in many activities. The cadets were quick to adapt to the new norms that came about due to the COVID-19 outbreak and displayed a high level of resilience while rising up to the challenge in their continuous show of commitment to the CCA.</p>
-<p>With COVID-19 safe management measures in mind, our Sec 4 organized a 1.5-day of non-residential Unit Bonding Camp on 16th Mar 2021 to build a greater sense of belonging in the cadets. There were various activities to bond the cadets and they got to know one another better. They also used technology to enable the ex-cadet leaders to join in the campfire virtually. For the e-CCA sessions, the squad leaders managed to keep the cadets engaged throughout all sessions.</p>
-<p>This year, we were honoured to have two cadet leaders awarded the rank of Station Inspector (SI), the highest rank a cadet can achieve for their four years in NPCC. Our Sec 4 cadet leader from 2021 SI (NPCC), Murugesan Bavithraa, was also awarded the prestigious SPF-NPCC badge which recognizes outstanding cadets with outstanding leadership qualities.</p>
-<p style="text-align: right;"><strong>Mr Koh Meng Hong</strong></p>
+<p>2023 is another fun-filled year for our committed members of TKGS NPCC. Our cadets continue to earn their proficiency badges for the past months and participated in many activities.  For 2024, our Sec 4 cadets organized a 1.5-day of non-residential Unit Bonding Camp on 11 March 2024 to build a greater sense of belonging in the cadets.  The camp featured various activities designed to strengthen bonds and help the cadets get to know each other better. We also ventured out further to Rifle Range Park for the annual Unit Hike.  In addition, we also organised outreach programme with our Sec 2 and 3 cadets sharing scam prevention tips via a card game with the school community and our Annual Area Games Day. This year brought special recognition to our cadet leaders. Three of our cadet leaders were awarded the prestigious SPF-NPCC badge which recognizes outstanding cadets with outstanding leadership qualities.  Our Sec 4 cadet leader from 2024 SI (NPCC), Audrey Lee and SI(NPCC) Simran Alexander, were also awarded the rank of Station Inspector (SI), the highest rank a cadet can achieve in their four years in NPCC. </p>
+
 <table>
 	<tbody>
 		<tr>
