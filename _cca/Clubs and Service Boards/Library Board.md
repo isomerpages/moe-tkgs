@@ -22,15 +22,11 @@ tr:hover {background-color: #F5F5DC;}
 
 <img src="/images/CCA/Library_Board/library.gif">
 
-<p dir="ltr">The Library Board is committed to promoting a strong reading culture and supporting the teaching and learning needs of the school.  
-
-All student librarians are encouraged to be avid readers themselves and contribute actively to the library’s resource acquisition by researching on newly published books and sending in reviews and book recommendations. 
- 
-In addition to promoting reading, student librarians develop other essential skills. They hone their public speaking skills in reaching out to the school community on reading, and gain ICT skills on Canva, PowerPoint and video making, in producing publicity materials on books and writers. They also participate in workshops organized by the National Library Board (NLB) e.g., storytelling, which helps them develop effective storytelling skills in outreach programmes such as the kidsREAD ViA.   
-
-Futhermore, our student librarians embody our school’s vision of a servant leader through their participation in the kidsREAD ViA program. Partnering with a primary school through the National Library Board (NLB), our student librarians conduct planned reading activities for lower primary school students from less privileged backgrounds.  
-
-Through participation in external competitions such as the NLB Prove It! Contest and NLB Historical Scene Investigation (H.S.I.) Challenge, student librarians acquire skills such as research, information literacy, report writing and video making. We are honoured to receive Silver for NLB Prove It! Contest 2023; and Silver for H.S.I. Challenge 2023.</p>
+<p dir="ltr">The Library Board is committed to promoting a strong reading culture and supporting the teaching and learning needs of the school.</p>
+<p>All student librarians are encouraged to be avid readers themselves and contribute actively to the library’s resource acquisition by researching on newly published books and sending in reviews and book recommendations.</p> 
+<p>In addition to promoting reading, student librarians develop other essential skills. They hone their public speaking skills in reaching out to the school community on reading, and gain ICT skills on Canva, PowerPoint and video making, in producing publicity materials on books and writers. They also participate in workshops organized by the National Library Board (NLB) e.g., storytelling, which helps them develop effective storytelling skills in outreach programmes such as the kidsREAD ViA.</p>
+<p>Futhermore, our student librarians embody our school’s vision of a servant leader through their participation in the kidsREAD ViA program. Partnering with a primary school through the National Library Board (NLB), our student librarians conduct planned reading activities for lower primary school students from less privileged backgrounds.</p>
+<p>Through participation in external competitions such as the NLB Prove It! Contest and NLB Historical Scene Investigation (H.S.I.) Challenge, student librarians acquire skills such as research, information literacy, report writing and video making. We are honoured to receive Silver for NLB Prove It! Contest 2023; and Silver for H.S.I. Challenge 2023.</p>
 
 <table>
 	<tbody>
