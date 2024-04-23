@@ -22,12 +22,9 @@ tr:hover {background-color: #F5F5DC;}
 
 <img src="/images/CCA/Band/symband.gif">
 
-<p>The year kicked off with hectic preparations for the Singapore Youth Festival Arts Presentation (SYFAP). To adhere to Safe Management Measures (SMM) and the cap of less than 30 people per band, we had to regroup and form two bands - Band A and Band B; where Band A comprised mainly the seniors while Band B the junior members. The bands presented “Triumphal March” from Aida and “Nabucco”, both by Giuseppe Verdi.&nbsp;</p>
-<p>In the months leading up to the SYFAP, the band had in-person practices albeit with some restrictions. This was a crucial factor as it allowed us to not just listen to ourselves but to one another. Through these practices, the band members not only worked on individual parts but also blended our sounds together so the whole band sounded harmonious.</p>
-<p>At the same time, the newly recruited Sec 1s were also learning the ropes from the seniors. While it was a stressful time preparing for the SYFAP under difficult circumstances and guiding the Sec 1s at the same time, everyone adapted quickly and worked hard together to make the school proud with the Certificates of “Distinction” and “Achievement” for Bands A and B respectively. All these were not possible without the dedication of our conductors, teachers and members.&nbsp;</p>
-<p>Amidst all the hard work, the band also enjoyed ourselves at the online bonding sessions. During these zoom sessions, the band played games as a whole and also with their respective sections in the breakout rooms where juniors and seniors interacted.&nbsp;</p>
-<p>Currently, eCCA continued as a default mode as in-person mask-off playing was still not permitted. Weekly zoom sessions with the conductor and offline assignments were a major part of eCCA. In addition, other learning tools such as Youtube videos and online feedback allowed us to improve on our technical skills consistently and make much progress despite the rut of e-CCA.</p>
-<p style="text-align: right;"><strong>Tabitha Sarah Lee (3E2)&nbsp;<br></strong><strong>Danielle Chan (3E5)</strong></p>
+<p>Under the baton of Ms Sia Swee Suan, the TKGS Symphonic Band has a track record of excellence in music. At the Singapore Youth Festival Arts Presentation, the Band has clinched the Distinction Awards. The Band has also been a participant of the National Band Competition since 2006, consistently being award Gold (First Division) at this biennial competition. It has been invited to perform at numerous platforms, including the Istana Open House, Band Fiesta and Limelight which feature top school bands in Singapore. Internationally, the Band clinched the second position at the 2nd Asian Symphonic Band Competition in 2000, held in Bangkok, Thailand. 
+
+Over the years, the Symphonic Band has been enriched through cross-cultural exchanges with musicians from the United States and Japan. In 2013 and 2017, the Band had exchange programmes and joint concerts with Edina High School Band from Minnesota. The partnership served to strengthen the international ties of friendship. The band members also come under the tutelage of local professional musicians from orchestras and bands to sharpen their skills all year rou</p>
 
 <table>
 	<tbody>
@@ -57,10 +54,11 @@ tr:hover {background-color: #F5F5DC;}
 </tr>
 		<tr>
 	<td rowspan="1"> Training Day / Time</td>
-<td>Monday, Wednesday &amp; Thursday<br>
+<td>Tuesday &amp; Thursday<br>
 	3:15pm to 6:00pm
-	<br>
-	<br>* Selected Saturdays when necessary for school events and other preparations
+	<br><br>
+	Wednesday<br>
+	3:15pm to 5:30pm
 		</td>
 	 	</tr>
 <tr>
