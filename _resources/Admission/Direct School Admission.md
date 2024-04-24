@@ -31,4 +31,4 @@ The Direct School Admission (DSA) Exercise allows schools to offer places to sui
 
 <p><b>For more details, please refer to MOE website - <a href="http://www.moe.gov.sg/dsa-sec" target="_blank" rel="noopener">http://www.moe.gov.sg/dsa-sec</a>.</b><br>
 
-<strong><u>Further inquiries</u></strong> <br>Please contact Mr. Ng We Keat (DSA Coordinator) at tel. no. 63441593 or email <a href="mailto:ng_we_keat@moe.edu.sg">ng_we_keat@moe.edu.sg</a> if you need further clarifications. Thank you.</p>
+</p><p><strong><u>Further inquiries</u></strong> <br>Please contact Mr. Ng We Keat (DSA Coordinator) at tel. no. 63441593 or email <a href="mailto:ng_we_keat@moe.edu.sg">ng_we_keat@moe.edu.sg</a> if you need further clarifications. Thank you.</p>
