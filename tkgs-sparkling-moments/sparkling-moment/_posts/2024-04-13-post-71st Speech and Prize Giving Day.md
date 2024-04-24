@@ -41,8 +41,8 @@ In the same vein, our Valedictorian, Belinda Koh, spoke about the leap of faith 
 <table>
   <tbody><tr>
     <td style="width: 50%;"><img style="width: 100%; height: auto;" src="/images/Sparkling_Moment/2024/71speechday_12_r.jpg"></td>
-    <td style="width: 50%;"><img style="width: 100%; height: auto;" src="/images/Sparkling_Moment/2024/71speechday_10_r.jpg"></td>
+    <td style="width: 50%;"><img style="width: 100%; height: auto;" src="/images/Sparkling_Moment/2024/71speechday_11_r.jpg"></td>
   </tr>
 </tbody></table>
 <p>In a true act of collective support, the event was graced by staff, students, alumni as well as friends of the school. Our Dance, String Ensemble and Choir also put up wonderful performances which added sparks to the memorable and heartwarming occasion. As a meaningful conclusion to the event, student leaders engaged in a conversation with Mr Joseph See at the reception to learn more from his wealth of experience. </p>
-<center><img src="/images/Sparkling_Moment/2024/71speechday_11_r.jpg"></center>
+<center><img src="/images/Sparkling_Moment/2024/71speechday_10_r.jpg"></center>
