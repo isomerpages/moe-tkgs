@@ -27,7 +27,7 @@ Signature TKGS experiences<br>
 <ol class="s">
 	<li>Customised Leadership Training</li>
 	<li>Leaders' Investiture</li>
-	<li>Student.Leadership.Conference</li>
+	<li>Student Leadership Conference</li>
 	<li>TK Townhall</li>
 	<li>Leaders’ Forum</li>
 	</ol>
