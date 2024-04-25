@@ -11,12 +11,12 @@ variant: markdown
 <table>
   <tbody><tr>
     <td style="width: 50%;"><img style="width: 100%; height: auto;" src="/images/Sparkling_Moment/2024/71speechday_1_r.jpg"></td>
-    <td style="width: 50%;"><img style="width: 100%; height: auto;" src="/images/Sparkling_Moment/2024/71speechday_2_r.jpg"></td>
+    <td style="width: 50%;"><img style="width: 100%; height: auto;" src="/images/Sparkling_Moment/2024/71speechday_3_r.jpg"></td>
   </tr>
 </tbody></table>
 <table>
   <tbody><tr>
-    <td style="width: 50%;"><img style="width: 100%; height: auto;" src="/images/Sparkling_Moment/2024/71speechday_3_r.jpg"></td>
+    <td style="width: 50%;"><img style="width: 100%; height: auto;" src="/images/Sparkling_Moment/2024/71speechday_2_r.jpg"></td>
     <td style="width: 50%;"><img style="width: 100%; height: auto;" src="/images/Sparkling_Moment/2024/71speechday_4_r.jpg"></td>
   </tr>
 </tbody></table>
