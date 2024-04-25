@@ -26,9 +26,9 @@ tr:hover {background-color: #F5F5DC;}
 
 <p>"For World Thinking Day, I had the privilege to be part of the main contingent and marched in front of the whole school. I felt proud to be a guide as the whole school saw us in our uniform <b>as we showcased our</b> contributions to society.”<b> – D Ummekulsum (3S5) </b> </p>
 
-<p>I learnt that I am independent in my overnight stay away from my home during the March camp. It helped that I am comfortable being with all my fellow guides. There were also leadership opportunities for me during the camp as I led the sec 1s in gadget-making. The campfire night and water games were memorable as I was able to bond with my patrol mates. Overall, I really enjoyed the camp and I’m looking forward to the next one already!”<b> – SAMRAH SAMMIL, 2 Resilience</b></p>
+<p>I learnt that I am independent in my overnight stay away from my home during the March camp. It helped that I am comfortable being with all my fellow guides. There were also leadership opportunities for me during the camp as I led the sec 1s in gadget-making. The campfire night and water games were memorable as I was able to bond with my patrol mates. Overall, I really enjoyed the camp and I’m looking forward to the next one already!”<b> – Samrah Sammil (2R1)</b></p>
 
-<p>“Girl Guides provides a supportive environment where we can connect with one another. Such moments bring us immense joy and comfort. I am thankful for the constant support from my fellow guides - my seniors mentor and look after me, my peers encourage me, and my juniors bring laughter to our gatherings.” <b>– SOPHIA ADRIANA TNG BINTE ROHAIZAD, 3 Compassion</b></p>
+<p>“Girl Guides provides a supportive environment where we can connect with one another. Such moments bring us immense joy and comfort. I am thankful for the constant support from my fellow guides - my seniors mentor and look after me, my peers encourage me, and my juniors bring laughter to our gatherings.” <b>– Sophia Rohaizad (3C3)</b></p>
 
 <table>
 	<tbody>
