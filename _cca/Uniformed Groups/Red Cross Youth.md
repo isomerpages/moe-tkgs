@@ -22,9 +22,9 @@ tr:hover {background-color: #F5F5DC;}
 
 <img src="/images/CCA/RCY/redcross.gif">
 
-<p>2021 started like how 2020 ended with COVID-19 continued to dish out many challenges, including having to halt CCA training and losing a lot of valuable time we needed to conduct lessons. Furthermore, we were unable to meet face to face to discuss upcoming events, and coupled with the tight deadlines, it was truly quite a struggle. However, we persevered, not letting these drawbacks hold us down as a unit. We are getting used to conducting lessons and training through zoom and google meet, adapting our lessons to cover as much as possible during each training, as well as using online platforms to discuss and complete projects, we pushed through and overcame them!</p>
-<p>Despite all the challenges, the year was still filled with many fun activities and virtual projects that gave us the opportunities to give back to our community, below are some of these activities:&nbsp;</p>
-<p style="text-align: right;"><strong>Jewel Soh (3/4)</strong></p>
+<p>Red Cross Youth (RCY) is not only a Uniformed Group that instils values such as discipline and responsibility, it is also a Co-Curricular Activity where our cadets acquire essential life-saving skills such as First Aid. Our cadets demonstrate compassion both for humanity and the environment, engaging in Values-in-Action project such as our beach cleanup at Pasir Ris Park in 2023 and 2024.</p>
+<p>While we are serious when learning about the different subjects, we also learn to have fun during welfare sessions. Through our annual CCA camp, we build stronger bonds and lasting memories with our squad mates as well as our unit. We recruit committed members through the year-end and beginning of year Open Houses, which will usually see the heartwarming return of our alumni to offer their support. </p>
+<p>Beyond our internal community, RCY plays a pivotal role in commemorating significant national events. We proudly participate in the Total Defence Day and National Day Parade ceremonies at TKGS, showcasing our commitment to the parade and the values we stand for. </p>
 
 <table>
 	<tbody>

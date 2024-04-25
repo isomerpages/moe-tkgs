@@ -22,20 +22,7 @@ tr:hover {background-color: beige;}
 
 <img src="/images/CCA/Badminton/badminton.gif">
 
-<p>Badminton is a sport that demands good fitness
-and mental strength. A badminton player’s speed,
-stamina, agility, and strength as well mental
-strength is crucial and it is put to the test on court.
-A lot of patience, determination as well as
-perseverance is needed in order to be able to
-master the sport. Training is often strenuous but
-enriching as it allows us to be able to perfect our
-current skills.</p>
-<p>The strenuous training allowed us to bond as a
-team, help each other out to brush up on our
-individual skills and learn the importance of
-teamwork which we can use to achieve our goals
-as a team.</p>
+<p>Badminton is a sport that epitomizes the integration of physical prowess and mental fortitude. The agility, speed, and focus required on the court underscore its demanding nature, requiring not only physical fitness but also unwavering concentration. Achieving mastery in badminton demands patience and relentless dedication. and Our training sessions are designed not only to cultivate these skills, but also serve as important platforms for character development. By embracing discipline, resilience, and sportsmanship, our players foster a deep sense of camaraderie and teamwork. Under the guidance of our esteemed coaches and through meticulously structured training sessions, our team always strives for success in various competitions, empowering them to reali s e their full potential. </p>
 <table>
 	<tbody>
 		<tr>

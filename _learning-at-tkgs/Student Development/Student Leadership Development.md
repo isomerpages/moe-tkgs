@@ -25,14 +25,9 @@ In raising TKGians as leaders, we seek to inculcate in our students the impassio
 <br><br>
 Signature TKGS experiences<br>
 <ol class="s">
-	<li>Customised Leadership Lessons during LEGACY</li>
-	<li>Leaders Investiture</li>
+	<li>Customised Leadership Training</li>
+	<li>Leaders' Investiture</li>
 	<li>Student Leadership Conference</li>
 	<li>TK Townhall</li>
 	<li>Leaders’ Forum</li>
-	<li>Gratitude Boards</li>
-	<li>Sports Carnival</li>
-	<li>Inter House Games</li>
-	<li>Docents for Music Wall and Art Gallery</li>
-	<li>Tiered ViA programme</li>
 	</ol>
