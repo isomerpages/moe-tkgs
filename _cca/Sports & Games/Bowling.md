@@ -22,7 +22,7 @@ tr:hover {background-color: #F5F5DC;}
 
 <img src="/images/CCA/Bowling/bowling.gif">
 
-<p>Tenpin Bowling boasts a rich and memorable history spanning many years. This sport requires physical and mental strength, team spirit, and good sportsmanship, while also playing a crucial role in building confidence. Under the guidance of our experienced coach, we emerged as one of the top 4 schools in the National Schools Games Bowling Championships ‘B’ Division in 2023. The dedication and teamwork displayed by our members not only contribute s to our success in competitions but also enrich es the overall school community. </p>
+<p>Tenpin Bowling boasts a rich and memorable history spanning many years. This sport requires physical and mental strength, team spirit, and good sportsmanship, while also playing a crucial role in building confidence. Under the guidance of our experienced coach, we emerged as one of the top 4 schools in the National Schools Games Bowling Championships ‘B’ Division in 2023. The dedication and teamwork displayed by our members not only contributes to our success in competitions but also enrich es the overall school community. </p>
 <table>
 	<tbody>
 		<tr>
