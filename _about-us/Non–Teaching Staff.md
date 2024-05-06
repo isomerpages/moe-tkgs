@@ -61,12 +61,6 @@ variant: markdown
 <div>STEM Instructor (Laboratory)</div>
 </td>
 </tr>
-	<tr>
-<td>Mr Yap Pao Ming</td>
-<td>
-<div>STEM Instructor (Laboratory)</div>
-</td>
-</tr>
 <tr>
 <td>Mdm Rohayah Bte Sarpin</td>
 <td>
