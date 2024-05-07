@@ -89,10 +89,6 @@ Students will be assessed on:<br><br>
 </td>
 		</tr>
 		<tr>
-			<td style="text-align: center"><u>Additionally for:</u><br>Sailing</td>
-	<td>Applicants should preferably be ranked top 100 in the Optimist Gold Fleet or ILCA4 in Singapore Sailing Federation’s rank list.</td>
-		</tr>
-					<tr>
 						<td>Music</td>
 			<td style="text-align: center">Music Elective Program</td>
 	<td>Students should preferably have relevant experience such as:<br><br>
