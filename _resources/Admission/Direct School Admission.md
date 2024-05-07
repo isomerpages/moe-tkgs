@@ -53,10 +53,8 @@ Students will be assessed on:<br><br>
 Shortlisted students will be assessed on:<br><br>
 •&nbsp;&nbsp;&nbsp;Two contrasting pieces of the student’s choice (Upload one PDF file containing both scores and email the link at least one week before the audition.)<br>
 •&nbsp;&nbsp;&nbsp;Instrumental technique (including scales – Concert Bb, Eb, F major)<br>
-•&nbsp;&nbsp;&nbsp;Musicality &amp; expression<br>
 •&nbsp;&nbsp;&nbsp;Sight-reading (rhythm and pitch)<br>
 •&nbsp;&nbsp;&nbsp;Musicality &amp; expression<br><br>
-*Shortlisted applicants will be notified to send in a PDF of the score at least one week before the audition.
 </td>
 		</tr>
 		<tr>
@@ -71,7 +69,7 @@ Students will be assessed on:<br><br>
 		</tr>
 		<tr>
 			<td style="vertical-align: middle;" rowspan="4">Sports</td>
-			<td style="text-align: center"><b>For Sports CCAs</b> <br>(Badminton, Bowling, Floorball, Netball, Sailing &amp; Softball)</td>
+			<td style="text-align: center"><b>For Sports CCAs</b> <br>(Badminton, Bowling, Floorball, Netball &amp; Softball)</td>
 			<td>Students should preferably have relevant experience such as:<br><br>
 •&nbsp;&nbsp;&nbsp;Being a member of the relevant Sports CCA for at least 1 year, OR <br>
 •&nbsp;&nbsp;&nbsp;Having represented Primary School in the National School Games (Zonal or National) Inter-Primary School Championship, OR<br>
@@ -110,7 +108,7 @@ and any or all of the following items:<br>
 •&nbsp;&nbsp;&nbsp;Sight-reading and Scales<br>
 •&nbsp;&nbsp;&nbsp;Listening &amp; Theory written test which may require simple
 score-reading skills<br><br>
-To help us understand your application, please email an excerpt of your playing in the form of an mp3 audio clip (no longer than 1min) to <a href="mailto:wong_ching_yi_chesed@moe.edu.sg">wong_ching_yi_chesed@moe.edu.sg</a> by 2 June 2023
+To help us understand your application, please email an excerpt of your playing in the form of an mp3 audio clip (no longer than 1min) to <a href="mailto:wong_ching_yi_chesed@moe.edu.sg">wong_ching_yi_chesed@moe.edu.sg</a> by 3 June 2024
 </td>
 	</tr>
 		<tr>
@@ -118,6 +116,9 @@ To help us understand your application, please email an excerpt of your playing 
 			<td>Apart from the Auditions/ Trials, all students will also undergo an interview.</td>
 			</tr></tbody>
 </table>
+<br><b>2.   Academic Performance</b><br>
+Students who have achieved an overall score of 65% or more for the Primary 5 Year-End Examination (2023) result.
+
    <font color="red">* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</font>
 
 Shortlisted students will be notified of the dates of the auditions, trials, or interview via email registered in the DSA portal. Please be informed that parents are not allowed to attend the auditions, trials, and interviews.
