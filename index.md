@@ -13,6 +13,11 @@ sections:
           description: ""
           url: /useful-links/
       variant: center
+  - infobar:
+      title: Direct School Admission 2024
+      id: infobar
+      button: Click here for more info
+      url: /resources/admission/direct-school-admission/
   - resources:
       title: TKGS Sparkling Moments
       button: More
