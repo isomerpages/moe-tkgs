@@ -121,14 +121,16 @@ Students who have achieved an overall score of 65% or more for the Primary 5 Yea
 
    <font color="red">* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</font>
 
+Applicants who do not have prior experience may also apply. The school will access applicants based the selection criteria, which may include assessing the potential of the applicants.
+
 Shortlisted students will be notified of the dates of the auditions, trials, or interview via email registered in the DSA portal. Please be informed that parents are not allowed to attend the auditions, trials, and interviews.
 
-<b>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11 am to 31 May 2023, 3 pm. For more details, please refer to MOE website - <a href="https://www.moe.gov.sg/secondary/dsa" target="_blank" rel="noopener">www.moe.gov.sg/secondary/dsa</a>.</b><br>
+<b>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11 am to 3 June 2024, 3 pm. For more details, please refer to MOE website - <a href="http://www.moe.gov.sg/dsa-sec" target="_blank" rel="noopener">http://www.moe.gov.sg/dsa-sec</a>.</b><br>
 
 <img src="/images/Resources/Admission/DSA/2023_criteria.jpg"><br>
 
 <b>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</b>
 
-<b>Students who are successfully admitted to the school via DSA are expected to honor their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.</b>
+<b>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.</b>
 
 <strong><u>Further inquiries</u></strong> <br>Please contact Mr. Ng We Keat (DSA Coordinator) at tel. no. 63441593 or email <a href="mailto:ng_we_keat@moe.edu.sg">ng_we_keat@moe.edu.sg</a> if you need further clarifications. Thank you.
