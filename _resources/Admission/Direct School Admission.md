@@ -5,30 +5,129 @@ description: ""
 third_nav_title: Admission
 variant: markdown
 ---
+<center><img src="/images/Hompage/Infopic/dsa_web_re.png"></center>
+<br>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/NhnBtLytH_M?si=UtUcOZk0E2phldXM" height="315" width="560"></iframe></center>
+
 The Direct School Admission (DSA) Exercise allows schools to offer places to suitable students with outstanding talent areas before the release of their PSLE exam results. TKGS invites Primary 6 students who have the ability and potential to meet our listed criteria below to apply.
 
-<b>Talent Areas Offered under DSA-Sec Exercise 2024</b>
+<h3><u>Criteria</u></h3>
+Applicants should fulfil criteria in <b>2 areas:</b><br>
+
+<b>1.   Talent in Special Areas</b>
 <table>
 	<tbody>
 		<tr>
-			<th style="text-align: center" colspan="2">Talent Areas</th>
+			<th style="text-align: center">Area</th>
+			<th style="text-align: center">CCA</th>
+			<th style="text-align: center">Criteria</th>
 		</tr>
 		<tr>
-			<td style="vertical-align: middle;"><b>Music</b> </td>
-			<td style="vertical-align: middle;">Music Elective Programme</td>						
+			<td style="vertical-align: middle;" rowspan="4">Performing <br>Arts</td>
+			<td style="text-align: center">Choir</td>
+			<td>Students should preferably have relevant experience such as:<br><br>
+•&nbsp;&nbsp;&nbsp;Being an active Choir member in Primary School or having prior experience in choral/solo singing <br><br>
+Students will be assessed on:<br><br>
+•&nbsp;&nbsp;&nbsp;A song of the student’s choice<br>
+•&nbsp;&nbsp;&nbsp;Intonation, musicality and vocal technique<br>
+				•&nbsp;&nbsp;&nbsp;Sight-singing<br>
+				•&nbsp;&nbsp;&nbsp;Aural ability to sing back a short musical passage after it has been played on the piano<br>
+			</td>
 		</tr>
 		<tr>
-			<td style="vertical-align: middle;"><b>Performing Arts CCA </b> </td>
-			<td style="vertical-align: middle;">Band – Symphonic<br>Choir<br>Dance<br>String Ensemble</td>
+			<td style="text-align: center">String Ensemble</td>
+			<td>Students should preferably have relevant experience such as:<br><br>
+•&nbsp;&nbsp;&nbsp;Being an active member of the String Ensemble in Primary School, OR<br>
+•&nbsp;&nbsp;&nbsp;Having at least a year’s experience playing in an orchestra/ensemble<br><br>
+				Students will be assessed on:<br><br>
+•&nbsp;&nbsp;&nbsp;Two contrasting solo pieces of the student’s choice (not more than 5 min each)<br>
+•&nbsp;&nbsp;&nbsp;Two different scales of student’s choice (commensurate to their current level of proficiency)<br>
+•&nbsp;&nbsp;&nbsp;Sight-reading
+			</td>
 		</tr>
 		<tr>
-			<td style="vertical-align: middle;"><b>Sports </b> </td>
-			<td style="vertical-align: middle;">Badminton<br>Bowling<br>Floorball<br>Netball<br>Softball</td>
+			<td style="text-align: center">Symphonic Band</td>
+			<td>Students should preferably have relevant experience such as:<br><br>
+•&nbsp;&nbsp;&nbsp;Being an active member of the Band or any music CCA in Primary School, and / or<br>
+•&nbsp;&nbsp;&nbsp;Any other musical experiences outside school<br><br>
+Shortlisted students will be assessed on:<br><br>
+•&nbsp;&nbsp;&nbsp;Two contrasting pieces of the student’s choice (Upload one PDF file containing both scores and email the link at least one week before the audition.)<br>
+•&nbsp;&nbsp;&nbsp;Instrumental technique (including scales – Concert Bb, Eb, F major)<br>
+•&nbsp;&nbsp;&nbsp;Musicality &amp; expression<br>
+•&nbsp;&nbsp;&nbsp;Sight-reading (rhythm and pitch)<br>
+•&nbsp;&nbsp;&nbsp;Musicality &amp; expression<br><br>
+*Shortlisted applicants will be notified to send in a PDF of the score at least one week before the audition.
+</td>
 		</tr>
-		</tbody>
+		<tr>
+			<td style="text-align: center">Dance</td>
+			<td>Students should preferably have relevant experience such as:<br><br>
+				•&nbsp;&nbsp;&nbsp;Being an active member of a Dance Club in primary school, or<br>
+				•&nbsp;&nbsp;&nbsp;Having performed well in a reputed dance competition (local / overseas)<br><br>
+Students will be assessed on:<br><br>
+•&nbsp;&nbsp;&nbsp;Technical routine test (Test for balance, strength, and sense of rhythm)<br>
+•&nbsp;&nbsp;&nbsp; Short-dance routine test (Choreography will be given for applicants to learn during the audition. Applicants will be given a time-limit will to learn the choreography during the audition.)
+</td>
+		</tr>
+		<tr>
+			<td style="vertical-align: middle;" rowspan="4">Sports</td>
+			<td style="text-align: center"><b>For Sports CCAs</b> <br>(Badminton, Bowling, Floorball, Netball, Sailing &amp; Softball)</td>
+			<td>Students should preferably have relevant experience such as:<br><br>
+•&nbsp;&nbsp;&nbsp;Being a member of the relevant Sports CCA for at least 1 year, OR <br>
+•&nbsp;&nbsp;&nbsp;Having represented Primary School in the National School Games (Zonal or National) Inter-Primary School Championship, OR<br>
+•&nbsp;&nbsp;&nbsp;Having represented National Sports Association or Club in local or overseas competition, OR<br>
+•&nbsp;&nbsp;&nbsp;Having represented Singapore Primary Schools Sports Council in local or overseas competition (Attach copy of the certificate if any), OR<br>
+•&nbsp;&nbsp;&nbsp;Being currently enrolled in MOE’s Junior Sports Academy (JSA) Programme and has completed a sport module similar to the relevant Sports CCA of choice.
+</td>
+		</tr>
+		<tr>
+			<td style="text-align: center"><u>Additionally for:</u><br> Badminton, Floorball, Netball and Softball
+</td>
+			<td>In addition to the criteria mentioned above, applicants for the following Sports CCAs will also be assessed on:<br><br>
+•&nbsp;&nbsp;&nbsp;Sport-specific fitness<br>
+•&nbsp;&nbsp;&nbsp;Sport-specific skills<br>
+•&nbsp;&nbsp;&nbsp;In-game decision-making skills</td>
+		</tr>
+				<tr>
+			<td style="text-align: center"><u>Additionally for:</u><br>Bowling</td>
+	<td>Students will be assessed on: <br><br>
+				•&nbsp;&nbsp;&nbsp;Sport-specific skills (Based on the physical game)
+</td>
+		</tr>
+		<tr>
+			<td style="text-align: center"><u>Additionally for:</u><br>Sailing</td>
+	<td>Applicants should preferably be ranked top 100 in the Optimist Gold Fleet or ILCA4 in Singapore Sailing Federation’s rank list.</td>
+		</tr>
+					<tr>
+						<td>Music</td>
+			<td style="text-align: center">Music Elective Program</td>
+	<td>Students should preferably have relevant experience such as:<br><br>
+•&nbsp;&nbsp;&nbsp;Being actively involved in a school-based or external musical group<br><br>
+Students will be assessed on:<br><br>
+•&nbsp;&nbsp;&nbsp;Performance of two contrasting prepared pieces on an instrument of choice or voice that is 2-5 minutes in duration<br>
+and any or all of the following items:<br>
+•&nbsp;&nbsp;&nbsp;Aural that requires students to imitate and respond to simple rhythmic and/ or melodic phrase by clapping and singing<br>
+•&nbsp;&nbsp;&nbsp;Sight-reading and Scales<br>
+•&nbsp;&nbsp;&nbsp;Listening &amp; Theory written test which may require simple
+score-reading skills<br><br>
+To help us understand your application, please email an excerpt of your playing in the form of an mp3 audio clip (no longer than 1min) to <a href="mailto:wong_ching_yi_chesed@moe.edu.sg">wong_ching_yi_chesed@moe.edu.sg</a> by 2 June 2023
+</td>
+	</tr>
+		<tr>
+			<td style="text-align: center;" colspan="2"><b>For All Talent Areas</b></td>
+			<td>Apart from the Auditions/ Trials, all students will also undergo an interview.</td>
+			</tr></tbody>
 </table>
-<p>More information such as the selection criteria and process for the talent areas will be updated from early-May.</p>
+   <font color="red">* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</font>
 
-<p><b>For more details, please refer to MOE website - <a href="http://www.moe.gov.sg/dsa-sec" target="_blank" rel="noopener">http://www.moe.gov.sg/dsa-sec</a>.</b><br>
+Shortlisted students will be notified of the dates of the auditions, trials, or interview via email registered in the DSA portal. Please be informed that parents are not allowed to attend the auditions, trials, and interviews.
 
-</p><p><strong><u>Further inquiries</u></strong> <br>Please contact Mr. Ng We Keat (DSA Coordinator) at tel. no. 63441593 or email <a href="mailto:ng_we_keat@moe.edu.sg">ng_we_keat@moe.edu.sg</a> if you need further clarifications. Thank you.</p>
+<b>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11 am to 31 May 2023, 3 pm. For more details, please refer to MOE website - <a href="https://www.moe.gov.sg/secondary/dsa" target="_blank" rel="noopener">www.moe.gov.sg/secondary/dsa</a>.</b><br>
+
+<img src="/images/Resources/Admission/DSA/2023_criteria.jpg"><br>
+
+<b>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</b>
+
+<b>Students who are successfully admitted to the school via DSA are expected to honor their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.</b>
+
+<strong><u>Further inquiries</u></strong> <br>Please contact Mr. Ng We Keat (DSA Coordinator) at tel. no. 63441593 or email <a href="mailto:ng_we_keat@moe.edu.sg">ng_we_keat@moe.edu.sg</a> if you need further clarifications. Thank you.
