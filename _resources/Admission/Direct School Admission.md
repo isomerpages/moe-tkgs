@@ -64,7 +64,7 @@ Students will be assessed on:<br><br>
 </td>
 		</tr>
 		<tr>
-			<td style="vertical-align: middle;" rowspan="4">Sports</td>
+			<td style="vertical-align: middle;" rowspan="3">Sports</td>
 			<td style="text-align: center"><b>For Sports CCAs</b> <br>(Badminton, Bowling, Floorball, Netball &amp; Softball)</td>
 			<td>Students should preferably have relevant experience such as:<br><br>
 •&nbsp;&nbsp;&nbsp;Being a member of the relevant Sports CCA for at least 1 year, OR <br>
@@ -89,9 +89,9 @@ Students will be assessed on:<br><br>
 </td>
 		</tr>
 		<tr>
-						<td>Music</td>
+			<td>Music</td>
 			<td style="text-align: center">Music Elective Program</td>
-	<td>Students should preferably have relevant experience such as:<br><br>
+			<td>Students should preferably have relevant experience such as:<br><br>
 •&nbsp;&nbsp;&nbsp;Being actively involved in a school-based or external musical group<br><br>
 Students will be assessed on:<br><br>
 •&nbsp;&nbsp;&nbsp;Performance of two contrasting prepared pieces on an instrument of choice or voice that is 2-5 minutes in duration<br><br>
