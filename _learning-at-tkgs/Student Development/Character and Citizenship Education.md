@@ -3,14 +3,17 @@ title: Character and Citizenship Education
 permalink: /learning-at-tkgs/student-development/character-and-citizenship-education/
 description: ""
 third_nav_title: Student Development
+variant: markdown
 ---
-<p>The TKGS Character and Citizenship Education (CCE) curriculum undergird the school&rsquo;s mission to nurture women who lead from within, confident and capable of living out an impassioned spirit to serve the common good; with a vision on raising Accomplished Women of Character and Grace. These aspirations, in tandem with the school&rsquo;s values of Fortitude, Integrity, Humility and Graciousness, take reference from MOE&rsquo;s CCE2021 curriculum frame, to form the foundation of TKGS&rsquo; CCE curriculum.</p>
+<center><img src="/images/LearningTKGS/Student_development/cce_2024.gif"></center>
+
+<p>The TKGS Character and Citizenship Education (CCE) curriculum undergird the school’s mission to nurture women who lead from within, confident and capable of living out an impassioned spirit to serve the common good; with a vision on raising Accomplished Women of Character and Grace. These aspirations, in tandem with the school’s values of Fortitude, Integrity, Humility and Graciousness, take reference from MOE’s CCE2021 curriculum frame, to form the foundation of TKGS’ CCE curriculum.</p>
 <p>The curriculum content comprises of National Education (NE), Sexuality Education (SEd.), Mental Health (MH), Education and Career Guidance (ECG), Cyber Wellness (CW) and Family Education (FE), and they are premised on the big ideas of Identity, Relationships and Choices. The content delivery are anchored on the teaching of core values and social-emotional competencies to help TKGians build Character, cultivate Graciousness and live Accomplished lives.</p>
-<p><strong>TKGS&rsquo; CCE curriculum is enacted via the following platforms.</strong></p>
+<p><strong>TKGS’ CCE curriculum is enacted via the following platforms.</strong></p>
 <ol type="A">
 <li><strong>LEGACY</strong>&nbsp;(Leading.Empowering.Guiding.Affirming.Challenging.Youths) lessons - structured curriculum time and experiences for TKGians to learn and apply values, knowledge and skills for CCE content areas relevant to their developmental stages.</li>
 </ol>
-<img style="width: 50%;" src="/images/cc1.png" />
+<img style="width: 50%;" src="/images/cc1.png">
 <p style="text-align: center;">Figure 1: Key Components of TKGS LEGACY Curriculum</p>
 <p>The LEGACY lessons adopt a future-oriented focus through the use of life experiences and stories as contexts for learning to prepare TKGians for future responsibilities, and equip them to make well-considered decisions. Appropriate pedagogical principles, approaches, and strategies would be applied to engage TKGians in discussions, sense-making and reflection to deepen their understanding</p>
 <ol start="2" type="B">
@@ -18,7 +21,7 @@ third_nav_title: Student Development
 </ol>
 <p>Purpose of TKGS ViA Programme</p>
 <ul>
-<li>To provide learning experiences that support students&rsquo; development as socially responsible citizens who can contribute meaningfully to the community, through the learning and application of values, knowledge and skills; and</li>
+<li>To provide learning experiences that support students’ development as socially responsible citizens who can contribute meaningfully to the community, through the learning and application of values, knowledge and skills; and</li>
 <li>To instill in our students a sense of empathy, rootedness and responsibility for Singaporeans and global community.</li>
 </ul>
 <p><strong>Student Outcomes</strong></p>
@@ -29,9 +32,9 @@ third_nav_title: Student Development
 <li>Reflect, learn and internalise values from their learning experience; and</li>
 <li>Appreciate their role as concerned citizens and active contributors to local and global issues.</li>
 </ul>
-<img style="width: 65%;" src="/images/cc2.jpg" />
+<img style="width: 65%;" src="/images/cc2.jpg">
 <p><strong>Overview of ViA Themes and Sub-Themes</strong></p>
-<p>To provide authentic learning experiences for TKGians, TKGS considers community issues that are relevant to national interests as the basis for learning in the school&rsquo;s Values-in-Action (ViA) Programme. The community issues are organised in the following three overarching themes and respective sub-themes for the ViA Curriculum:</p>
+<p>To provide authentic learning experiences for TKGians, TKGS considers community issues that are relevant to national interests as the basis for learning in the school’s Values-in-Action (ViA) Programme. The community issues are organised in the following three overarching themes and respective sub-themes for the ViA Curriculum:</p>
 <table>
 <tbody>
 <tr>
@@ -43,7 +46,7 @@ third_nav_title: Student Development
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="2" width="102"><strong>Championing Environment Causes</strong></td>
-<td style="text-align: center;" width="102">Managing Singapore&rsquo;s Water</td>
+<td style="text-align: center;" width="102">Managing Singapore’s Water</td>
 <td style="text-align: center;" width="141">Understanding water as an essential yet scarce resource in Singapore and other parts of the world</td>
 <td style="text-align: center;" width="131">Knowing how water is managed effectively, and raising public awareness on the importance of water conservation and water cleanliness</td>
 <td style="text-align: center;" width="138">Understanding global water issues and raising public awareness on the importance of water conservation cleanliness</td>
@@ -77,19 +80,19 @@ third_nav_title: Student Development
 <td style="text-align: center;"><strong>Preserving Our Heritage</strong></td>
 <td style="text-align: center;">Protecting our Natural Heritage</td>
 <td style="text-align: center;">Connecting with our natural heritage</td>
-<td style="text-align: center;">Identify causes and protecting Singapore&rsquo;s natural heritage</td>
+<td style="text-align: center;">Identify causes and protecting Singapore’s natural heritage</td>
 <td style="text-align: center;">Understanding our global environment</td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">Preserving our Cultural Heritage</td>
-<td style="text-align: center;">Experiencing Singapore&rsquo;s cultural heritage</td>
-<td style="text-align: center;">Identifying with and promoting Singapore&rsquo;s cultural heritage</td>
+<td style="text-align: center;">Experiencing Singapore’s cultural heritage</td>
+<td style="text-align: center;">Identifying with and promoting Singapore’s cultural heritage</td>
 <td style="text-align: center;">Understanding the National identity vs Global identity debate</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Overview of 4 Year Level-based ViA Programme<br /></strong></p>
+<p><strong>Overview of 4 Year Level-based ViA Programme<br></strong></p>
 <table>
 <tbody>
 <tr>
@@ -103,7 +106,7 @@ third_nav_title: Student Development
 <div><strong><em>Stirring Hearts, Opening Eyes</em></strong></div>
 <div>TKGians will:</div>
 <ol>
-<li>Gain knowledge on local community issues across the three themes and the significance of them to Singapore&rsquo;s future;</li>
+<li>Gain knowledge on local community issues across the three themes and the significance of them to Singapore’s future;</li>
 <li>Raise awareness of local community issues amongst peers; and</li>
 <li>Develop empathy for fellow Singaporeans.</li>
 </ol>
@@ -142,7 +145,7 @@ third_nav_title: Student Development
 <div><strong><em>Giving back and Mentoring</em></strong></div>
 <div>TKGians will</div>
 <ol>
-<li>Gain knowledge of school&rsquo;s needs;</li>
+<li>Gain knowledge of school’s needs;</li>
 <li>Appreciate their role as active and concerned students and work proactively and systematically to serve the needs of the school; and</li>
 <li>Appreciate the need to contribute back to society.</li>
 </ol>
@@ -154,12 +157,12 @@ third_nav_title: Student Development
 <ol start="3" type="A">
 <li><strong>Citizenship Education</strong></li>
 </ol>
-<img style="width: 50%;" src="/images/cc3.jpg" />
+<img style="width: 50%;" src="/images/cc3.jpg">
 <p style="text-align: center;">Figure 2: Platforms for Citizenship Education (CE) in TKGS</p>
-<p>Citizenship Education (CE) in TKGS is delivered through a range of platforms, as shown in the above diagram. These include the explicit teaching of Citizenship Education lessons in LEGACY, the infusion of CE in the Instructional Programme, CE Learning Journeys, commemoration of the 4 core NE events and the Assembly Programme. In particular, CE in TKGS is aligned to the school&rsquo;s Values-in-Action programme where learning experiences have been designed for students to deepen their understanding and contribute to community issues that are of national interests.</p>
+<p>Citizenship Education (CE) in TKGS is delivered through a range of platforms, as shown in the above diagram. These include the explicit teaching of Citizenship Education lessons in LEGACY, the infusion of CE in the Instructional Programme, CE Learning Journeys, commemoration of the 4 core NE events and the Assembly Programme. In particular, CE in TKGS is aligned to the school’s Values-in-Action programme where learning experiences have been designed for students to deepen their understanding and contribute to community issues that are of national interests.</p>
 <p><strong>NE Commemorative Days</strong></p>
 <p>TKGS commemorates 4 core NE events which have been identified as defining moments in Singapore's history. The aim is to entrench these events and the images they evoke in the consciousness of each successive generation.</p>
-<img style="width: 60%;" src="/images/cc4.jpg" />
+<img style="width: 60%;" src="/images/cc4.jpg">
 <ol start="4" type="A">
 <li><strong>Cyber Wellness</strong></li>
 </ol>
