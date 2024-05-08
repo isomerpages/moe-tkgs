@@ -20,7 +20,7 @@ th, td {
 tr:hover {background-color: beige;}
 </style>
 
-<img src="/images/CCA/Badminton/badminton.gif">
+<img src="/images/CCA/Badminton/bad_2024.gif">
 
 <p>Badminton is a sport that epitomizes the integration of physical prowess and mental fortitude. The agility, speed, and focus required on the court underscore its demanding nature, requiring not only physical fitness but also unwavering concentration. Achieving mastery in badminton demands patience and relentless dedication. and Our training sessions are designed not only to cultivate these skills, but also serve as important platforms for character development. By embracing discipline, resilience, and sportsmanship, our players foster a deep sense of camaraderie and teamwork. Under the guidance of our esteemed coaches and through meticulously structured training sessions, our team always strives for success in various competitions, empowering them to reali s e their full potential. </p>
 <table>
