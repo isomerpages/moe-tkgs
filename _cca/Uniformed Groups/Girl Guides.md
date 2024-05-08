@@ -20,7 +20,7 @@ th, td {
 tr:hover {background-color: #F5F5DC;}
 </style>
 
-<img src="/images/CCA/Girl_Guides/girlguides.gif">
+<img src="/images/CCA/Girl_Guides/gg_2024.gif">
 
 <p>Girl Guides provides opportunities for our girls to discover and develop their strengths and skills while guiding them to fulfil their fullest potential into becoming responsible citizens of the world. With our motto being "Be Prepared", activities are designed to prepare our girls to handle new or unexpected situations and challenges with a sense of confidence and self-assuredness. Girl Guides also builds and strengthens our girls’ leadership skills by empowering them to take the lead in Company and Patrol activities. From organising educational events and teaching their fellow guides outdoor skills, to participating in national events, our girls gain valuable leadership experience and teamwork skills. Below are testimonials from our guides, illustrating the impact of the Girl Guides program: </p>
 
