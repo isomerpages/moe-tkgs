@@ -3,11 +3,14 @@ title: English & Literature
 permalink: /learning-at-tkgs/academic/english-n-literature/
 description: ""
 third_nav_title: Academic
+variant: markdown
 ---
+<center><img src="/images/LearningTKGS/Academic/el_2024.gif"></center>
+
 <h4><strong>Learning Outcomes</strong></h4>
 <p>The English Language &amp; Literature Programme seeks to develop students to be:</p>
 <ul>
-<li><strong>Empathetic Thinkers &amp; Communicators</strong>&nbsp;who possess the skills and dispositions to appreciate multiple perspectives, empathise with other people&rsquo;s experiences, and communicate ideas effectively with sensitivity</li>
+<li><strong>Empathetic Thinkers &amp; Communicators</strong>&nbsp;who possess the skills and dispositions to appreciate multiple perspectives, empathise with other people’s experiences, and communicate ideas effectively with sensitivity</li>
 <li><strong>Discerning &amp; Critical Readers</strong>&nbsp;who possess broad worldviews by reading widely and staying well-informed, evaluate information with discernment and a questioning mind, and appreciate the nuances of language and the contexts in which literary texts are written and read</li>
 <li><strong>Creative Inquirers &amp; Meaning-Makers</strong>&nbsp;who possess the capacity to explore and navigate multiple perspectives and ambiguities in real world contexts, so as to creatively synthesise information to co-construct knowledge and their interpretations of texts</li>
 </ul>
