@@ -20,7 +20,7 @@ th, td {
 tr:hover {background-color: #F5F5DC;}
 </style>
 
-<img src="/images/CCA/Debate_Club/debate.gif">
+<img src="/images/CCA/Debate_Club/Lib_2024.gif">
 
 <p>At the start of the year, the Literary members warmly welcomed Ms Cherlyn into the CCA, who also like us, share a love for the written word. The Literary members were privileged to have Ms Sheperdson, a young and budding Singaporean poet, teach us the art of writing good poems. We learnt how to make use of our surroundings to write interesting poems. This taught us that no matter where we are, it is always possible to write a poem. Through practicing the different skills she taught us, we were able to develop our interest in poetry.&nbsp;</p>
 <p>Natasha Bisht (3E6) and Faith Lee (2E3) took part in the recent Singapore Writers’ Festival which is a National Literary event organised by the National Arts Council. It is a multilingual literature festival that encourages intercultural dialogue by bringing together writers, thinkers and participants from Singapore and overseas. In addition, some of our members also took part in the Camp Lit workshop that was held virtually. Through this workshop, our members learnt about the art of creative writing.</p>
