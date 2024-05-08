@@ -20,7 +20,7 @@ th, td {
 tr:hover {background-color: #F5F5DC;}
 </style>
 
-<img src="/images/CCA/RCY/redcross.gif">
+<img src="/images/CCA/RCY/RCY_2024.gif">
 
 <p>Red Cross Youth (RCY) is not only a Uniformed Group that instils values such as discipline and responsibility, it is also a Co-Curricular Activity where our cadets acquire essential life-saving skills such as First Aid. Our cadets demonstrate compassion both for humanity and the environment, engaging in Values-in-Action project such as our beach cleanup at Pasir Ris Park in 2023 and 2024.</p>
 <p>While we are serious when learning about the different subjects, we also learn to have fun during welfare sessions. Through our annual CCA camp, we build stronger bonds and lasting memories with our squad mates as well as our unit. We recruit committed members through the year-end and beginning of year Open Houses, which will usually see the heartwarming return of our alumni to offer their support. </p>
