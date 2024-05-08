@@ -20,7 +20,7 @@ th, td {
 tr:hover {background-color: #F5F5DC;}
 </style>
 
-<img src="/images/CCA/Tennis/tennis.gif">
+<img src="/images/CCA/Tennis/tennis_2024.gif">
 
 <p>Playing tennis in school offers a plethora of benefits, from cultivating strong bonds with teammates to enhancing physical and mental agility. Tennis, renowned for its blend of physical and mental challenges, enhances fitness levels, agility, and mental sharpness. Through rigorous training sessions and competitive matches, we develop resilience, discipline, and strategic thinking—skills invaluable both on and off the court. </p>
 <p>Beyond individual growth, tennis fosters camaraderie and teamwork. Whether engaging in singles or doubles matches, we rely on our teammates for support and encouragement. Everyone on the team learns to communicate effectively, coordinate strategies, and celebrate victories together. Moreover, the shared experiences of triumphs and setbacks forge deep bonds among team members, fostering a sense of belonging and unity.</p>
