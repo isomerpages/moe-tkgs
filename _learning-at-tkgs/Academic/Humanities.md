@@ -14,7 +14,7 @@ variant: markdown
 	<li>Communicate effectively, engaging in respectful dialogue and collaboration with peers and stakeholders to address complex  challenges while embodying ethical and responsible citizenship. </li>
 	</ul>
 <h4><strong>Key Programmes</strong></h4>
-<strong>Humanities Day</strong>
+<h5><strong>Humanities Day</strong></h5>
 <p>Humanities Day at TKGS serves as a platform to extend students' learning beyond the confines of the classroom, offering them unique opportunities to engage with real-world contexts and explore the multifaceted dimensions of the humanities field. The overarching purpose of Humanities Day is: </p>
 <p><b>Extension of learning:</b> By organising purposeful activities aligned with specific themes and locations, Humanities Day facilitates enriching learning journeys for students across different levels. These journeys are designed to deepen their understanding of historical events, cultural heritage, and contemporary issues while fostering a sense of curiosity and wonder about the world around them. </p>
 <p><b>Developing self-directed learners:</b> Through hands-on experiences, guided tours, interactive exhibits, and immersive activities, Humanities Day instils a joy of learning in students. By providing them with opportunities to actively engage with the subject matter, the event sparks their curiosity and enthusiasm for the Humanities, making learning a rewarding and enjoyable experience.</p>
