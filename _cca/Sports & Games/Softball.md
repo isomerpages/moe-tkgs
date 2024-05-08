@@ -20,7 +20,7 @@ th, td {
 tr:hover {background-color: #F5F5DC;}
 </style>
 
-<img src="/images/CCA/Softball/softball.gif">
+<img src="/images/CCA/Softball/softball_2024.gif">
 
 <p>TKGS Softball took in its first team of players in the early 1990s. As it is a sport that is both mentally and physically demanding, it has led to challenges during training. However, with the guidance of our coaches and encouragement from our peers, we were able to overcome them. Through our time in TKGS Softball, we hope to cultivate values such as discipline, resilience and respect. The rigorous nature of softball training also hones our time management skills, teaching us to balance our CCA commitments with our academic responsibilities.</p>
 <p>Through the games and training, we are also able to understand the importance of teamwork and sportsmanship. Some of these games that strengthen our team bonding would be our relay races and our annual overnight camp. This allows interaction between all levels, while also allowing us to identify each other’s strengths and weaknesses. Which is a key factor in all team sports.</p>
