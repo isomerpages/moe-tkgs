@@ -20,7 +20,7 @@ th, td {
 tr:hover {background-color: #F5F5DC;}
 </style>
 
-<img src="/images/CCA/Library_Board/library.gif">
+<img src="/images/CCA/Library_Board/Lib_2024.gif">
 
 <p>The Library Board is committed to promoting a strong reading culture and supporting the teaching and learning needs of the school.</p>
 <p>All student librarians are encouraged to be avid readers themselves and contribute actively to the library’s resource acquisition by researching on newly published books and sending in reviews and book recommendations.</p>
