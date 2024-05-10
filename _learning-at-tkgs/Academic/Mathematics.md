@@ -3,8 +3,9 @@ title: Mathematics
 permalink: /learning-at-tkgs/academic/mathematics/
 description: ""
 third_nav_title: Academic
+variant: markdown
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRc9yJZUIJxFWYHK8pcgmwCZo_sEOLl5vQ7d89p4dubdgjuJCKEAHXU3alDxvB9zmV-oknScFnX6fWW/embed?start=false&loop=false&delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true"></iframe>
+<center><img src="/images/LearningTKGS/Academic/Math_2023.gif"></center>
 
 <h4><strong>Learning Outcomes</strong></h4>
 <p>Students should acquire these attributes and abilities:</p>
