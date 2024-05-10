@@ -3,11 +3,12 @@ title: Science
 permalink: /learning-at-tkgs/academic/science/
 description: ""
 third_nav_title: Academic
+variant: markdown
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSUcskXt75bfukACe6Yzos6BuKe5jo8jzfsv1WfhtGjfdvgm7YVFEQS2NJ6rPQqlvg4Vbmx4gBi_lFr/embed?start=false&loop=false&delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true"></iframe>
+<center><img src="/images/LearningTKGS/Academic/Sci_2023.gif"></center>
 
 <h4><strong>Learning Outcomes</strong></h4>
-<p>In the classrooms and laboratories, the main approach to excite and engage young minds is through the inquiry-based learning approach which is aligned to the MOE&rsquo;s Science Curriculum Framework. The efforts of the TKGS Science Department is focused on enacting experiences that enable students to be&nbsp;</p>
+<p>In the classrooms and laboratories, the main approach to excite and engage young minds is through the inquiry-based learning approach which is aligned to the MOE’s Science Curriculum Framework. The efforts of the TKGS Science Department is focused on enacting experiences that enable students to be&nbsp;</p>
 <ul>
 <li>INspired by Science whereby they enjoy learning Science; see the relevance of the discipline in their everyday life and how the way of thinking can be used to solve many global challenges.</li>
 <li>INquire like Scientists whereby they are able to think and act in ways that model after skilled practitioners.&nbsp;</li>
