@@ -3,8 +3,9 @@ title: Physical Education
 permalink: /learning-at-tkgs/academic/physical-education/
 description: ""
 third_nav_title: Academic
+variant: markdown
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTOdBELJJBZMO-7lH_qkwZOamDm2iZF6AmtWucqPNpNpZGMXFDgLMiMkbRSRAEVKBETBpYJV-x-oK3A/embed?start=false&loop=false&delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true"></iframe>
+<center><img src="/images/LearningTKGS/Academic/PE_2023.gif"></center>
 
 <h4><strong>Learning Outcomes</strong></h4>
 <p>The desired outcome of the PE Programme in TKGS is to develop a self-directed TKGS learner who takes ownership of her development in the area of physical health and fitness.</p>
