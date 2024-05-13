@@ -15,12 +15,15 @@ variant: markdown
 			<td>Chinese Cuisine (Noodle/Rice)</td>
 			<td>31 May 2024</td>
 		</tr>
-			</tbody>
+		<tr>
+			<td>Halal Noodle</td>
+			<td>31 May 2024</td>
+			</tr></tbody>
 </table>
 
 <p><b>Background</b>
 <br>
-We are a single session secondary school with student enrolment and staff strength of 1,100. We have 6 food stalls and 2 drinks stalls in our school.</p>
+We are a single session secondary school with student enrolment and staff strength of 1,100.</p>
 
 <p><b>Application Procedure</b>
 </p>
