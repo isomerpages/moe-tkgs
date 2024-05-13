@@ -20,7 +20,7 @@ th, td {
 tr:hover {background-color: #F5F5DC;}
 </style>
 
-<img src="/images/CCA/Floorball/floorball.gif">
+<img src="/images/CCA/Floorball/2024_floorball.gif">
 
 <p>Our school's floorball teams have risen above challenges, turning obstacles into opportunities for growth and success. With the lifting of Covid-19 restrictions, our teams grew closer together, refining their skills and strategies. </p>
 
