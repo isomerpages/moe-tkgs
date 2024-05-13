@@ -20,12 +20,15 @@ th, td {
 tr:hover {background-color: #F5F5DC;}
 </style>
 
-<img src="/images/CCA/Floorball/floorball.gif">
+<img src="/images/CCA/Floorball/2024_floorball.gif">
 
-<p>In 2021, the Floorball CCA welcomed ten Secondary 1 pupils, five of whom were DSA students. Everyone was ecstatic to greet the juniors. Secondary 2 students organized a variety of unforgettable team-bonding activities for the Secondary Ones during their first CCA session. The juniors quickly developed a rapport with their seniors. Throughout the year, even though CCA sessions were not regular due to COVID-19, the Secondary Ones were able to train extensively on their own. The Secondary 2 players, on the other hand, provided continual instruction to their juniors on how to conduct effective self-directed training sessions and also how to maintain self-discipline during self-training sessions.</p>
-<p>Similar to 2020, 2021 was a year that denied us numerous opportunities to participate in various Floorball competitions. Despite that, we managed to maintain a positive attitude throughout the year. We chose to train as hard as we would during Pre-COVID19 times. We also proactively choose to maintain strong team relationships despite the lack of face-to-face interaction by having regular team-bonding sessions with everyone.</p>
-<p>We look forward to 2022, which we are positive will be a more fruitful year for all of us.</p>
-<p style="text-align: right;"><strong>Mr Abdul Mutalib (Teacher-in-Charge)</strong></p>
+<p>Our school's floorball teams have risen above challenges, turning obstacles into opportunities for growth and success. With the lifting of Covid-19 restrictions, our teams grew closer together, refining their skills and strategies. </p>
+
+<p>In 2022, the ‘B’ Division team achieved an impressive feat by placing in the top 8 of the National School Games (NSG), a testament to their hard work and team spirit after a break from competitive play. The ‘C’ Division team also shone, nearly reaching the semi-finals and setting their sights on even higher achievements. </p>
+
+<p>Continuing their upward trajectory in 2023, both teams again ranked in the top 8 at the NSG, underscoring their dedication, teamwork, and resilience. These accomplishments reflect not just the players' skills but their ability to unite towards a common goal, overcoming any challenges thrown their way.</p> 
+
+<p>Looking ahead to 2024, our teams are eager to surpass their previous achievements and continue making our school proud. Their journey is a powerful reminder of what can be achieved with commitment, teamwork, and a never-give-up attitude. Here's to more successes and inspiring moments from our floorball teams in the coming year! </p> 
 
 <table>
 	<tbody>
@@ -50,7 +53,7 @@ tr:hover {background-color: #F5F5DC;}
 		<tr>
 	<td rowspan="1"> Training Day / Time</td>
 <td>Tuesday &amp; Thursday<br>
-	3:15pm to 6:00pm</td>
+	3:00pm to 6:00pm</td>
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
