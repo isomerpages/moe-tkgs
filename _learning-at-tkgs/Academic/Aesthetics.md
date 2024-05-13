@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Academic
 variant: markdown
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRDI9RW_tfrsCcOk2Ggca58lOiETZ1bGAzO4AXmasj1xUPFuOYBmNtsxYg_0StXSQsRB8RH8AX92zsz/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="750" height="500" allowfullscreen="true"></iframe>
+<center><img src="/images/LearningTKGS/Academic/Aes_2023.gif"></center>
 
 <h4><strong>Learning Outcomes</strong></h4>
 <p>The Aesthetics Department aims to cultivate learners who appreciate the aesthetics and discover what they enjoy in their arts learning. They will have the ability for creative expression and communication so as to be able to cultivate a life-long appreciation of the arts. For students pursuing Music and Art at upper secondary levels, the department nurtures them to discover their passions and strengths in their artistic craft. As independent learners with critical and creative thinking in their craft, they acquire the ability to experiment with ideas, media and technology.</p>
