@@ -21,6 +21,13 @@ sections:
       id: infobar
       button: Click here for more info
       url: /resources/admission/direct-school-admission/
+  - infopic:
+      title: Sounds of Iridescence
+      id: infopic
+      button: Click here for more info
+      url: https://ddec1-0-en-ctp.trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2fticketmaster.sg%2factivity%2fdetail%2f24sg%5firidescence&umid=b5fdf1e9-7dad-4dc8-b52d-1cf927dbf9ea&auth=091de001b41a3933babc99b790debe484146d587-382128ea61ab22cc7a92a0e35d9b8db7fd9f8892
+      image: /images/Annoucement/CC2024_Banner.jpg
+      alt: Image alt text
   - resources:
       title: TKGS Sparkling Moments
       button: More
