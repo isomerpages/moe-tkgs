@@ -22,9 +22,9 @@ tr:hover {background-color: #F5F5DC;}
 
 <img src="/images/CCA/Floorball/2024_floorball.gif">
 
-<p>Our school's floorball teams have risen above challenges, turning obstacles into opportunities for growth and success. With the lifting of Covid-19 restrictions, our teams grew closer together, refining their skills and strategies. </p>
+<p>Our school's floorball teams have risen above challenges, turning obstacles into opportunities for growth and success. With the lifting of Covid-19 restrictions, our teams grew closer together, refining their skills and strategies.</p>
 
-<p>In 2022, the ‘B’ Division team achieved an impressive feat by placing in the top 8 of the National School Games (NSG), a testament to their hard work and team spirit after a break from competitive play. The ‘C’ Division team also shone, nearly reaching the semi-finals and setting their sights on even higher achievements. </p>
+<p>In 2022, the ‘B’ Division team achieved an impressive feat by placing in the top 8 of the National School Games (NSG), a testament to their hard work and team spirit after a break from competitive play. The ‘C’ Division team also shone, nearly reaching the semi-finals and setting their sights on even higher achievements.</p>
 
 <p>Continuing their upward trajectory in 2023, both teams again ranked in the top 8 at the NSG, underscoring their dedication, teamwork, and resilience. These accomplishments reflect not just the players' skills but their ability to unite towards a common goal, overcoming any challenges thrown their way.</p> 
 
