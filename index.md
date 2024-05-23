@@ -21,13 +21,6 @@ sections:
       id: infobar
       button: Click here for more info
       url: /resources/admission/direct-school-admission/
-  - infopic:
-      title: Sounds of Iridescence
-      id: infopic
-      button: programme booklet
-      url: https://drive.google.com/file/d/1ccznRvWjStC6p-v5doWIR1rmkuNSpPEb/view
-      image: /images/Annoucement/CC2024_Banner.jpg
-      alt: Image alt text
   - resources:
       title: TKGS Sparkling Moments
       button: More
