@@ -7,7 +7,4 @@ description: ""
 image: ""
 variant: markdown
 ---
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Ie8lMKvruok?si=Sqj7BCLMNaSSmNNm">
-	</iframe>
-	</div>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe title="Highlights from Term 2" style="position:absolute;top:0;left:0;width:100%;height:100%;" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" frameborder="0" src="https://player.vimeo.com/video/950641323?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div>
