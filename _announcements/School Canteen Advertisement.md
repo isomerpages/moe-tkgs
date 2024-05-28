@@ -13,11 +13,11 @@ variant: markdown
 		</tr>
 	<tr>
 			<td>Chinese Cuisine (Noodle/Rice)</td>
-			<td>31 May 2024</td>
+			<td>16 June 2024</td>
 		</tr>
 		<tr>
 			<td>Halal Noodle</td>
-			<td>31 May 2024</td>
+			<td>16 June 2024</td>
 			</tr></tbody>
 </table>
 
