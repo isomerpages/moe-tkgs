@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-<p>On April 26th, our school came together to celebrate Hari Raya and the Tamil New Year. The celebrations kickstarter with a Hari Raya performance by Wira Budaya. The lively skit provided insights into the global celebrations of Ramadan and Hari Raya. It then culminated in a spirited dance performance to the tune of Alamak Raya Lagi, where our students and staff jumped at the chance to join the performers on stage. The atmosphere was electric with shouts of encouragement as they gamely danced to the beat.</p>
+<p>On April 26th, our school came together to celebrate Hari Raya and the Tamil New Year. The celebrations kickstarted with a Hari Raya performance by Wira Budaya. The lively skit provided insights into the global celebrations of Ramadan and Hari Raya. It then culminated in a spirited dance performance to the tune of Alamak Raya Lagi, where our students and staff jumped at the chance to join the performers on stage. The atmosphere was electric with shouts of encouragement as they gamely danced to the beat.</p>
 <img src="/images/Sparkling_Moment/2024/HRTNY_1.png">
 <p>“The skit helped me to better understand what my peers go through during Ramadan and Hari Raya and I gained a new appreciation of Malay food and culture.” says Dayna Maha (3H4).</p>
 <img src="/images/Sparkling_Moment/2024/HRTNY_2.png">
