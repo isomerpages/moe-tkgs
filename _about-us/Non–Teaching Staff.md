@@ -2,137 +2,252 @@
 title: Non–Teaching Staff
 permalink: /about-us/non-teaching-staff/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<img style="width: 90%;" src="/images/nts.jpg"><br>
-<p style="text-align: center;"><em>To contact the Non-Teaching Staff via email, please send to:&nbsp;<a href="mailto:tkgs@moe.edu.sg"><strong>tkgs@moe.edu.sg</strong></a></em></p>
-<table>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" src="/images/nts.jpg">
+</div>
+<p>
+<br>
+</p>
+<p><em>To contact the Non-Teaching Staff via email, please send to:&nbsp;</em><strong><em><a href="mailto:tkgs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tkgs@moe.edu.sg</a></em></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th style="text-align: center;" width="50%"><strong>Name</strong></th>
-<th style="text-align: center;" width="50%"><strong>Position</strong></th>
+<th rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Position</strong>
+</p>
+</th>
 </tr>
 <tr>
-<td style="text-align: center;" colspan="2"><strong>Administrative Staff</strong></td>
-</tr>
-<tr>
-<td>Ms Teo Cheng Lian Iris</td>
-<td>Administration Manager</td>
-</tr>
-<tr>
-<td>Ms Kalyani Khashaba Bhilare</td>
-<td>Administration Manager</td>
-</tr>
-<tr>
-<td>Ms Florence Choon&nbsp;</td>
-<td>Administration Executive</td>
-</tr><tr>
-<td>Mdm Noor Herdawati Rahmat</td>
-<td>Corporate Support Officer</td>
-</tr>
-<tr>
-<td>Mdm Siti Rohana Binte Mohd Ali</td>
-<td>Corporate Support Officer</td>
-</tr>
-<tr>
-<td>Ms Koh Bee Kiow</td>
-<td>Corporate Support Officer</td>
-</tr>
-	<tr>
-<td>Mdm Kamariah Bte Osman</td>
-<td>
-<div>Operations Support Officer</div>
-</td>
-</tr>
-	<tr>
-<td>Mdm Sharifah Hasnah Binte Syed Hamid</td>
-<td>Operations Support Officer (Reception)</td>
-</tr>
-<tr>
-<td style="text-align: center;" colspan="2"><strong>Technical &amp; Lab Staff</strong></td>
-</tr>
-<tr>
-<td>Mr Ibrahim Bin Jupri</td>
-<td>STEM Instructor (Workshop)</td>
-</tr>
-<tr>
-<td>Mr Abdul Malik Sulaiman</td>
-<td>
-<div>STEM Instructor (Laboratory)</div>
+<td rowspan="1" colspan="2">
+<p><strong>Administrative Staff</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td>Mdm Rohayah Bte Sarpin</td>
-<td>
-<div>Operations Support Officer (School Lab)</div>
+<td rowspan="1" colspan="1">
+<p>Ms Teo Cheng Lian Iris</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" colspan="2"><strong>Operations Staff</strong></td>
+<td rowspan="1" colspan="1">
+<p>Ms Kalyani Khashaba Bhilare</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
 </tr>
 <tr>
-<td>Mr Alvin Khan</td>
-<td>Operations Manager</td>
+<td rowspan="1" colspan="1">
+<p>Ms Florence Choon&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Executive</p>
+</td>
 </tr>
 <tr>
-<td>Ms Gandhimathi K</td>
-<td>Operations Support Officer</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Noor Herdawati Rahmat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
 </tr>
 <tr>
-<td>Mr Melik Rahman</td>
-<td>Operations Support Officer</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Rohana Binte Mohd Ali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
 </tr>
 <tr>
-<td>Mr James Yeo</td>
-<td>Operations Support Officer</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Kamariah Bte Osman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center;" colspan="2"><strong>ICT Staff</strong></td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sharifah Hasnah Binte Syed Hamid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer (Reception)</p>
+</td>
 </tr>
 <tr>
-<td>Mr Tan Jie Ming, Ray</td>
-<td>ICT Manager</td>
+<td rowspan="1" colspan="2">
+<p><strong>Technical &amp; Lab Staff</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td>Mr Ryan Law Nan Jun</td>
-<td>ICT Manager</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ibrahim Bin Jupri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor (Workshop)</p>
+</td>
 </tr>
 <tr>
-<td>Mr Muhammad Fazuli Bin Abdul Samad</td>
-<td>Desktop Engineer (NCS DE)</td>
-</tr>
-		<tr>
-		<td>Ms Jayamohan Jaishe</td>
-		<td>Desktop Engineer (NCS DE)</td>
-	</tr>
-	<tr>
-		<td>Mr Mulyadi B Kamis</td>
-		<td>AV Specialist</td>
-	</tr>
-<tr>
-<td style="text-align: center;" colspan="2"><strong>Librarian</strong></td>
+<td rowspan="1" colspan="1">
+<p>Mr Abdul Malik Sulaiman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor (Laboratory)</p>
+</td>
 </tr>
 <tr>
-<td>Ms Jane Lau</td>
-<td>Librarian</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rohayah Bte Sarpin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer (School Lab)</p>
+</td>
 </tr>
-<tr><td style="text-align: center;" colspan="2"><strong>AED Consellors</strong></td>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Operations Staff</strong>
+</p>
+</td>
 </tr>
 <tr>
-	<td> Ms Tang Yuin Kay</td>
-	<td> Senior School Counsellor</td>
-	</tr>
+<td rowspan="1" colspan="1">
+<p>Mr Alvin Khan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+</tr>
 <tr>
-	<td> Ms Vivian Choo</td>
-	<td> School Counsellor</td>
-	</tr>
+<td rowspan="1" colspan="1">
+<p>Ms Gandhimathi K</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
 <tr>
-	<td> Ms Shaikhah Bte Rubangin </td>
-	<td> Allied Educator (Learning &amp; Behavioral Support)</td>
-	</tr>
+<td rowspan="1" colspan="1">
+<p>Mr Melik Rahman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
 <tr>
-	<td> Ms Elina Tan </td>
-	<td> Education and Career Guidance (ECG) Counsellor </td>
+<td rowspan="1" colspan="1">
+<p>Mr James Yeo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>ICT Staff</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Jie Ming, Ray</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ryan Law Nan Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Fazuli Bin Abdul Samad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer (NCS DE)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jayamohan Jaishe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer (NCS DE)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mulyadi B Kamis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AV Specialist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Librarian</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jane Lau</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Librarian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>AED Consellors</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tang Yuin Kay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Shaikhah Bte Rubangin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Allied Educator (Learning &amp; Behavioral Support)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Elina Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Education and Career Guidance (ECG) Counsellor</p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
