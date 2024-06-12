@@ -220,7 +220,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>AED Consellors</strong>
+<p><strong>AED Counsellors</strong>
 </p>
 </td>
 </tr>
