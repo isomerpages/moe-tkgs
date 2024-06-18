@@ -3,6 +3,7 @@ title: Alumni
 permalink: /about-us/our-partners/alumni/
 description: ""
 third_nav_title: Our Partners
+variant: markdown
 ---
 <h4><strong>History</strong></h4>
 <p>The idea of forming an Alumni was brought about by Mrs Huang Chai Lean, a former principal of TKGS.</p>
@@ -13,7 +14,7 @@ third_nav_title: Our Partners
 <table>
 <tbody>
 <tr>
-<th style="text-align: center;" colspan="2">TKGS Alumni 18th Committee</th>
+<th style="text-align: center;" colspan="2">TKGS Alumni 19th Committee (2024-2026)</th>
 </tr>
 	
 <tr>
@@ -30,7 +31,7 @@ third_nav_title: Our Partners
 </tr>
 <tr>
 <td>HON.ASST. SECRETARY</td>
-<td>Dr Kamala Christie</td>
+<td>Ms Geraldine Ng Pheng Yee</td>
 </tr>
 <tr>
 <td>HON. TREASURER</td>
