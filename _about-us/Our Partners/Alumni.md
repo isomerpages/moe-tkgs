@@ -35,7 +35,7 @@ variant: markdown
 </tr>
 <tr>
 <td>HON. TREASURER</td>
-<td>Ms Geraldine Ng Pheng Yee</td>
+<td>Ms Lim Choon Rui</td>
 </tr>
 <tr>
 <td>HON. ASST. TREASURER</td>
