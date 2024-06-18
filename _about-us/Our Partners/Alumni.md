@@ -39,14 +39,15 @@ variant: markdown
 </tr>
 <tr>
 <td>HON. ASST. TREASURER</td>
-<td>Ms Koshu Kaushilya Lulla</td>
+<td>Ms Ang Soo Lang</td>
 </tr>
 <tr>
 <td>COMMITTEE MEMBERS</td>
 <td>
-<div>Ms Surianah Sufarman</div>
-<div>Ms Florence Koh</div>
-<div>Ms Yeo Siew Mei</div>
+	<div>Ms Flora Chio Kuang. Chng</div>
+	<div>Dr Christie Kamala</div>
+	<div>Ms Ong Sin Yen</div>
+	<div>Ms Yeo Siew Mei</div>
 </td>
 </tr>
 </tbody>
