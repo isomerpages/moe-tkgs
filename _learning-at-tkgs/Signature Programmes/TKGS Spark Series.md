@@ -38,13 +38,13 @@ third_nav_title: Signature Programmes
 <br>
 <h3><b>Secondary 3</b></h3>
 <br>
-<b>Subject</b>:
+<b>Subject</b>: English and Mother Tongue
 <br>
-<b>Theme</b>:
+<b>Theme</b>: Local and ethnic culture
 <br>
-<b>Focus</b>:
+<b>Focus</b>: Explore Singapore’s diverse cultural heritage and creatively reinvent what some of them might look like through the languages. 
 <br>
-<b>Created By</b>:
+<b>Created By</b>: Isabel Tan Si Ning
 <br>
 <br>
 <img src="/images/LearningTKGS/Key_school_event/s1_joo_chiat.png">
