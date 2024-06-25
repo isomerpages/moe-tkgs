@@ -8,6 +8,8 @@ third_nav_title: Signature Programmes
 <center><h3>TKGS Acad SPARK</h3></center>
 <p>TKGS Sparks Series is our student-intiated learning programme. It aims to nurture TKGians to be Independent Lifelong Learners who are passionate about learning. Dedicated time and space is set aside to provide students the opportunity to pursue knowledge or their own interests beyond the classroom. The series includes Acad SPARK where students choose what they wish to investigate in their academic subjects and SPARK, where students explore a new topic or interest beyond the formal curriculum.</p>
 
+<p>Below are some recent examples of our students in action.</p>
+
 <h3><b>Secondary 1</b></h3>
 <br>
 <b>Subject</b>: Humanities
