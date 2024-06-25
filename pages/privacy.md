@@ -3,7 +3,6 @@ title: Privacy Statement
 permalink: /privacy/
 variant: markdown
 ---
-<center><b>Tanjong Katong Girls' School PRIVACY STATEMENT</b></center>
 <ol type="A">
 	<li>
 		<p>This is a Tanjong Katong Girls' School website. Thank you for examining our privacy statement.</p>
