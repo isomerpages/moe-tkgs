@@ -10,7 +10,6 @@ third_nav_title: Signature Programmes
 <p>Below are some recent examples of our students in action.</p>
 
 <h3><b>Secondary 1</b></h3>
-<br>
 <b>Subject</b>: Humanities
 <br>
 <b>Theme</b>: Tourist in your own backyard! 
@@ -37,7 +36,6 @@ third_nav_title: Signature Programmes
 <br>
 <br>
 <h3><b>Secondary 3</b></h3>
-<br>
 <b>Subject</b>: English and Mother Tongue
 <br>
 <b>Theme</b>: Local and ethnic culture
