@@ -19,7 +19,7 @@ third_nav_title: Signature Programmes
 <b>Created By</b>: Ng Jing Rui Adelia (1R6)
 <br>
 <br>
-<img src="/images/LearningTKGS/Key_school_event/s1_joo_chiat.png">
+<img style="width: 80%;" src="/images/LearningTKGS/Key_school_event/s1_joo_chiat.png">
 <br>
 <br>
 <h3><b>Secondary 2</b></h3>
@@ -32,7 +32,7 @@ third_nav_title: Signature Programmes
 <b>Created By</b>: Bhambani Adya (2I2)
 <br>
 <br>
-<img src="/images/LearningTKGS/Key_school_event/s2_5_easy_way.png">
+<img style="width: 80%;" src="/images/LearningTKGS/Key_school_event/s2_5_easy_way.png">
 <br>
 <br>
 <h3><b>Secondary 3</b></h3>
@@ -45,4 +45,4 @@ third_nav_title: Signature Programmes
 <b>Created By</b>: Isabel Tan Si Ning (3R6)
 <br>
 <br>
-<img src="/images/LearningTKGS/Key_school_event/3R6_Sweet_Potato.png">
+<img style="width: 80%;" src="/images/LearningTKGS/Key_school_event/3R6_Sweet_Potato.png">
