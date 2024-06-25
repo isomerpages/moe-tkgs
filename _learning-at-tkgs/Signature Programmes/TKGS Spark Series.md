@@ -16,7 +16,7 @@ third_nav_title: Signature Programmes
 <br>
 <b>Focus</b>: Use the concept of "community tourism" as a key pillars to rejuvenate and boost tourism.
 <br>
-<b>Created By</b>: Ng Jing Rui Adelia
+<b>Created By</b>: Ng Jing Rui Adelia (1R6)
 <br>
 <br>
 <img src="/images/LearningTKGS/Key_school_event/s1_joo_chiat.png">
@@ -29,7 +29,7 @@ third_nav_title: Signature Programmes
 <br>
 <b>Focus</b>: Come up with an idea on how to make recycling easier for others.
 <br>
-<b>Created By</b>: Bhambani Adya
+<b>Created By</b>: Bhambani Adya (2I2)
 <br>
 <br>
 <img src="/images/LearningTKGS/Key_school_event/s2_5_easy_way.png">
@@ -42,7 +42,7 @@ third_nav_title: Signature Programmes
 <br>
 <b>Focus</b>: Explore Singapore’s diverse cultural heritage and creatively reinvent what some of them might look like through the languages. 
 <br>
-<b>Created By</b>: Isabel Tan Si Ning
+<b>Created By</b>: Isabel Tan Si Ning (3R6)
 <br>
 <br>
 <img src="/images/LearningTKGS/Key_school_event/s3_sweet_potato.png">
