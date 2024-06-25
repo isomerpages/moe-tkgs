@@ -45,4 +45,4 @@ third_nav_title: Signature Programmes
 <b>Created By</b>: Isabel Tan Si Ning (3R6)
 <br>
 <br>
-<img src="/images/LearningTKGS/Key_school_event/s3_sweet_potato.png">
+<img src="/images/LearningTKGS/Key_school_event/3R6_Sweet_Potato.png">
