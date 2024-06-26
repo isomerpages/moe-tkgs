@@ -7,6 +7,8 @@ description: ""
 image: ""
 variant: markdown
 ---
+<img src="/images/Sparkling_Moment/2024/T2_SW1.png">
+
 <p>Our students ended the semester on a high with TKGS Spirit Week! A signature programme for our school, our students participated in a myriad of activities, creating shared memories with their cohort and classes, as they took learning beyond the classroom.</p>
 <img src="/images/Sparkling_Moment/2024/T2_SW1.png">
 <p>This included a visit to the Bird Paradise for the Secondary One students, learning journeys to various institutions as part of the Secondary Two Career Seminar and a Heritage Trail of the TKGS Neighbourhood for the Secondary Three students.</p>
