@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-<img src="/images/Sparkling_Moment/2024/T2_SW1.png">
+<img src="/images/Sparkling_Moment/2024/TKSW_CP.jpg">
 
 <p>Our students ended the semester on a high with TKGS Spirit Week! A signature programme for our school, our students participated in a myriad of activities, creating shared memories with their cohort and classes, as they took learning beyond the classroom.</p>
 <img src="/images/Sparkling_Moment/2024/T2_SW1.png">
