@@ -40,7 +40,7 @@ variant: markdown
 	</li>
 	<p><b>Links from This Web Site to Other Web Sites</b></p>
 	<li>
-		<p>This Web Site contains hyperlinks to web sites which are not maintained Tanjong Katong Girls School. Tanjong Katong Girls School is not responsible for the contents of those web sites and shall not be liable for any damages or loss arising from access to those web sites. Use of the hyperlinks and access to such web sites are entirely at your own risk.</p>
+		<p>This Web Site contains hyperlinks to web sites which are not maintained by Tanjong Katong Girls School. Tanjong Katong Girls School is not responsible for the contents of those web sites and shall not be liable for any damages or loss arising from access to those web sites. Use of the hyperlinks and access to such web sites are entirely at your own risk.</p>
 	</li>
 	<li>
 		<p>Hyperlinks to other web sites are provided as a convenience. In no circumstances shall Tanjong Katong Girls School be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on web sites to which this Web Site is linked.</p>
