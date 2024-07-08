@@ -20,4 +20,3 @@ variant: markdown
 
 <p>And here is Tanya, Tara and Esther live with “Daisy”.</p>
 <p>Many thanks to the students and staff who supported and encouraged our singer-songwriters in their journey. Special thanks go to Mr Mulyadi for recording both songs for submission and assisting with the soundcheck at The Pod.</p>
-<img src="/images/Sparkling_Moment/2024/YS_bts2.jpg">
