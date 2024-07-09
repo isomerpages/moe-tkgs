@@ -26,4 +26,4 @@ variant: markdown
 	<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/7YWxp8rchNw?si=FNxz3Poow3mq_eKZ">
 	</iframe>
 </div>
-<p>Many thanks to the students and staff who supported and encouraged our singer-songwriters in their journey. Special thanks go to Mr Mulyadi for recording both songs for submission and assisting with the soundcheck at The Pod.</p>
+<p>Many thanks to the students and staff who supported and encouraged our singer-songwriters in their journey. Special thanks also goes to Mr Mulyadi for recording both songs for submission and assisting with the soundcheck at The Pod.</p>
