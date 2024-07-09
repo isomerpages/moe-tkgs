@@ -2,5 +2,6 @@ collections:
   announcements:
     output: true
     order:
+      - Update of Particulars.md
       - School Graduation Certificate.md
       - Financial Assistance Scheme (FAS).md
