@@ -17,6 +17,13 @@ variant: markdown
 “Daisy” by Ni Wayan Tara Shakila Binte Andiyanta, Tanya Sandeep Nair, Esther (all from 2 Integrity)<br></p>
 <p>Both songs were presented at the “Youth Station Live!” SYF Celebration event at The Pod (National Library) over the Youth Day weekend to screams of delight and support from school leaders, teachers, parents and friends.</p>
 <p>Here is Kaylen live with “Hero Too”.</p>
-
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+	<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/xDTi6WJ7zXE?si=Q3xmKv8E6qjCiFwd">
+	</iframe>
+</div>
 <p>And here is Tanya, Tara and Esther live with “Daisy”.</p>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+	<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/7YWxp8rchNw?si=FNxz3Poow3mq_eKZ">
+	</iframe>
+</div>
 <p>Many thanks to the students and staff who supported and encouraged our singer-songwriters in their journey. Special thanks go to Mr Mulyadi for recording both songs for submission and assisting with the soundcheck at The Pod.</p>
