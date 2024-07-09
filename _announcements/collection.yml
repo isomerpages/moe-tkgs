@@ -2,5 +2,6 @@ collections:
   announcements:
     output: true
     order:
+      - Student Details Form.md
       - School Graduation Certificate.md
       - Financial Assistance Scheme (FAS).md
