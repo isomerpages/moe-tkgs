@@ -77,6 +77,9 @@ variant: markdown
 	<td style="text-align: center;">
 	<p><strong><a href="http://go.gov.sg/tkgs-car-decal" target="_blank" rel="noopener">Application for Car Decal</a></strong></p>
 	</td>
+	<td style="text-align: center;">
+	<p><strong><a href="/update-of-particulars/" target="_blank" rel="noopener">Update of Particulars</a></strong></p>
+	</td>
 	</tr>
 </tbody>
 </table>
