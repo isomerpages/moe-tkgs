@@ -19,8 +19,7 @@ description: ""
     <li>Click ‘Submit’ to save changes.</li>
     <li>Close and log out.</li>
 </ol>
-<br>
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%; border-collapse: collapse; font-size: 14px;">
     <tbody>
         <tr>
             <td style="width: 40%; vertical-align: top;">
