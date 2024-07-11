@@ -72,10 +72,13 @@ variant: markdown
 <tbody>
 <tr>
 <td style="text-align: center;">
-<p><strong><a href="/announcements/fas/" target="_blank" rel="noopener">Financial Assistance Scheme</a></strong></p>
+<p><strong><a href="/financial-assistance-scheme-fas/" target="_blank" rel="noopener">Financial Assistance Scheme</a></strong></p>
 	</td>
 	<td style="text-align: center;">
 	<p><strong><a href="http://go.gov.sg/tkgs-car-decal" target="_blank" rel="noopener">Application for Car Decal</a></strong></p>
+	</td>
+	<td style="text-align: center;">
+	<p><strong><a href="/update-of-particulars/" target="_blank" rel="noopener">Update of Particulars</a></strong></p>
 	</td>
 	</tr>
 </tbody>

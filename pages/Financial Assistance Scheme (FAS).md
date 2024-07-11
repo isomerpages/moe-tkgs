@@ -1,6 +1,7 @@
 ---
 title: Financial Assistance Scheme (FAS)
-permalink: /announcements/fas/
+permalink: /financial-assistance-scheme-fas/
+variant: markdown
 description: ""
 ---
 Financial Assistance Scheme (FAS) 2024 is now open. <br>For more information, please click <a href="https://drive.google.com/file/d/1i2NWXWBG_3YvJvb1jNNNbm_lDdxPUp3J/view?usp=sharing" target="_blank" rel="noopener">here</a>.
