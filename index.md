@@ -27,5 +27,5 @@ sections:
       id: infobar
       description: Application for year 2024 is now open.
       button: Click here for more details
-      url: /announcements/fas/
+      url: /financial-assistance-scheme-fas/
 ---
