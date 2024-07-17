@@ -60,6 +60,6 @@ The magnificent Oak Tree symbolises a growing TKGian – strong, firmly anchored
 The 2024 Year Theme therefore empowers everyone to be courageous and go beyond their limits to achieve greater things in 2024 and beyond. We wish everyone a great year ahead, for 2024 will be a year of abundant growth and positivity for all. <br><br>
 Let your light shine and shine for all, Luceat Omnibus!
 
-Yours Sincerely, <br>
+Yours sincerely, <br>
 <u>Ms Chew</u> Ing Lim<br>
 Principal
