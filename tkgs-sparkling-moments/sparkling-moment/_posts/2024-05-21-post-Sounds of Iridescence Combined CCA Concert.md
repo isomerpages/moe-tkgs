@@ -23,10 +23,10 @@ variant: markdown
 <img src="/images/Sparkling_Moment/2024/cc_2.png">
 
 <p>The highlight of the concert was when both CCAs came together at the finale to perform as one orchestra. “It was very eye-opening as we got to experience a whole new set of sounds from instruments some of us had never even seen before.” says </p>
-<p>Certainly, hearing the two CCAs produce an incredibly harmonious and delightful sound made the whole experience even more unique and memorable.</p>
 
 <img src="/images/Sparkling_Moment/2024/cc_3.png">
 
+<p>Certainly, hearing the two CCAs produce an incredibly harmonious and delightful sound made the whole experience even more unique and memorable.</p>
 <p>This concert also brought about a stronger school spirit as both teachers and alumni also took to the stage with our Symphonic Band and String Ensemble. </p>
  <p>“I had never played as a pianist in an orchestra before, so it was an exciting and new experience for me. I also felt a renewed sense of passion for music when I played alongside my students,” shares Mr Yang Hsiu Chen.</p>
 <p>A special shoutout to our talented teachers: Mrs Cherry Goh, Mrs Serena Chen, Mr Lee Wei Xun and Mr Yang Hsiu Chen who participated in the concert together with our Alumni Trudy Chen and Nellie Teow!</p>
