@@ -59,5 +59,15 @@ variant: markdown
 			<td>MOE Humanities Scholarship
 			</td>
 		</tr>
+		<tr>
+			<td>Nadhirah Hanisah Binte Mohamad Redwan
+			</td>
+			<td> 2021
+			</td>
+			<td>Ministry of Education
+			</td>
+			<td>Teaching Scholarship Award
+			</td>
+		</tr>
 	</tbody>
 </table>
