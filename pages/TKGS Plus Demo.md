@@ -105,7 +105,11 @@ The programme includes a learning journey to an organisation to allow students t
 						They design and create prototypes using cardboard models incorporated with a sensing circuit that features heat, light or moisture sensors. Students also learn how to set up a microsite to record their learning and class presentation.
 						<br>
 						This module provides students an opportunity to tinker and work on a project based on their interests and abilities. It also aims to develop students 21st Century Competencies in communication, collaboration, and information skills as well as critical and inventive thinking. 
- 					</p>
+						<br>
+						<br>
+						Click <a href="https://sites.google.com/moe.edu.sg/tkgstinkering/past-projects" target="_blank" rel="noopener">here</a>, to view design our students have put out.
+				</p>
+ 					<p></p>
 				</div>
 			</td>
 		</tr>
