@@ -60,8 +60,8 @@ To connect their classroom learning to the real world, students are sent on lear
 			</td>
 			<td>
 				<div class="prog-item">
-					<input type="checkbox" id="q1">
-					<label for="q1">Code For Fun </label>
+					<input type="checkbox" id="q2">
+					<label for="q2">Code For Fun </label>
 					<p class="prog-answer">The Code for Fun programme aims to strengthen students' understanding of fundamental computational thinking concepts introduced during upper primary education. Through engaging block-based programming lessons, students delve deeper into coding, fostering their creativity through digital making and expanding their knowledge of emerging technologies like Artificial Intelligence. 
 					</p>
 				</div>
