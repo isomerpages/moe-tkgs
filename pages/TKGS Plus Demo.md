@@ -46,21 +46,29 @@ description: ""
 <table>
 	<tbody>
 		<tr>
-			<td><div class="prog-item">
-    <input type="checkbox" id="q1">
-    <label for="q1">Design &amp; Technology </label>
+			<td>
+				<div class="prog-item">
+					<input type="checkbox" id="q1">
+					<label for="q1">Design &amp; Technology 
+					</label>
     <p class="prog-answer">The Design Thinking programme allows students to learn and apply the design thinking framework through engaging and authentic learning experiences. During the sessions, students get to ideate and design prototypes to solve problems related to the school or community.  Students develop deep empathy and understanding of the users’ challenges and needs as well as develop critical and innovative thinking through prototyping and collaborating with others. 
-
-To connect their classroom learning to the real world, students are sent on learning journeys to places such as Marine Barrage and the Red Dot Design Museum.  
-<br></p>
-</div>
+<br>
+To connect their classroom learning to the real world, students are sent on learning journeys to places such as Marine Barrage and the Red Dot Design Museum. 
+			<br>
+				</p>
+				</div>
 			</td>
 			<td>
 				<div class="prog-item">
-    <input type="checkbox" id="q1">
-    <label for="q1">Code For Fun </label>
-    <p class="prog-answer">The Code for Fun programme aims to strengthen students' understanding of fundamental computational thinking concepts introduced during upper primary education. Through engaging block-based programming lessons, students delve deeper into coding, fostering their creativity through digital making and expanding their knowledge of emerging technologies like Artificial Intelligence. </p>
-</div>
+					<input type="checkbox" id="q1">
+					<label for="q1">Code For Fun </label>
+					<p class="prog-answer">The Code for Fun programme aims to strengthen students' understanding of fundamental computational thinking concepts introduced during upper primary education. Through engaging block-based programming lessons, students delve deeper into coding, fostering their creativity through digital making and expanding their knowledge of emerging technologies like Artificial Intelligence. 
+					</p>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 This programme aims to ignite students' enthusiasm for technology, enhance their capacity to innovate and tackle challenges using technology. 
 
@@ -69,4 +77,4 @@ Our students showcased their prototypes at the inaugural TKGS+ Learning Festival
 <p>Secondary Two students are able to extend concepts learnt in the classroom through modules such as Tinkering, Computational Thinking, Animation, Heritage+ and many others. These modules offer opportunities for authentic learning experiences where students engage in hands-on activities and apply skills learnt to real-world situations.</p>
 
 <p>Participation of TKGS+ is interest-based at Secondary Three where students may opt for projects which are extensions of selected Secondary Two modules. Through projects such as ‘TKGS Heritage’ and ‘<a href="https://sites.google.com/moe.edu.sg/tkgs-biodiversity/home" target="_blank" rel="noopener">Greening Schools for Biodiversity</a>’, students learn more advanced content and instructions while working on problems that require a more interdisciplinary approach to innovation and problem-solving.</p>
-<p>In addressing challenges at the school and community level, students exercise stewardship of learning, developing not just 21st century competencies, but also dispositions and values such as resilience and empathy which are necessary for them to be life-long learners and contributors of society.</p></td></tr></tbody></table>
+<p>In addressing challenges at the school and community level, students exercise stewardship of learning, developing not just 21st century competencies, but also dispositions and values such as resilience and empathy which are necessary for them to be life-long learners and contributors of society.</p>
