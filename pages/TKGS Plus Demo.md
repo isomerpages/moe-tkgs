@@ -92,7 +92,7 @@ Our students showcased their prototypes at the inaugural TKGS+ Learning Festival
 The programme includes a learning journey to an organisation to allow students to connect what they have learnt with the real world. 
 			<br>
 			<br>
-			Click <a href="https://sites.google.com/moe.edu.sg/tkgs-biodiversity/home" target="_blank" rel="noopener">here</a>, to view the wonderful plants brought to life by our students.
+			Click <a href="https://sites.google.com/moe.edu.sg/tkgs-biodiversity/home" target="_blank" rel="noopener">here</a> to view the wonderful plants brought to life by our students.
 				</p>
 				</div>
 			</td>
@@ -107,7 +107,7 @@ The programme includes a learning journey to an organisation to allow students t
 						This module provides students an opportunity to tinker and work on a project based on their interests and abilities. It also aims to develop students 21st Century Competencies in communication, collaboration, and information skills as well as critical and inventive thinking. 
 						<br>
 						<br>
-						Click <a href="https://sites.google.com/moe.edu.sg/tkgstinkering/home?authuser=0" target="_blank" rel="noopener">here</a>, catch a glimpse of the programme.
+						Click <a href="https://sites.google.com/moe.edu.sg/tkgstinkering/home?authuser=0" target="_blank" rel="noopener">here</a> catch a glimpse of the programme.
 				</p>
  					<p></p>
 				</div>
