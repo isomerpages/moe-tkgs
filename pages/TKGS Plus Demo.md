@@ -92,7 +92,7 @@ Our students showcased their prototypes at the inaugural TKGS+ Learning Festival
 The programme includes a learning journey to an organisation to allow students to connect what they have learnt with the real world. 
 			<br>
 			<br>
-			Click <a href="https://sites.google.com/moe.edu.sg/tkgs-biodiversity/home" target="_blank" rel="noopener">here</a>, to view the wonderful work our students have brought to life.
+			Click <a href="https://sites.google.com/moe.edu.sg/tkgs-biodiversity/home" target="_blank" rel="noopener">here</a>, to view the wonderful plants brought to life by our students.
 				</p>
 				</div>
 			</td>
