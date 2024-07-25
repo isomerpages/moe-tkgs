@@ -78,5 +78,39 @@ Our students showcased their prototypes at the inaugural TKGS+ Learning Festival
 
 <p>Secondary Two students are able to extend concepts learnt in the classroom through modules such as Tinkering, Computational Thinking, Animation, Heritage+ and many others. These modules offer opportunities for authentic learning experiences where students engage in hands-on activities and apply skills learnt to real-world situations.</p>
 
+<table>
+	<tbody>
+		<tr>
+			<td>
+				<div class="prog-item">
+					<input type="checkbox" id="q3">
+					<label for="q3">Urban Farming
+					</label>
+    <p class="prog-answer">The Urban Farming module provides opportunities for the students to learn more about urban farming, the importance of food security in Singapore and how they can contribute to Singapore Green Plan. The students plant vegetables and herbs such as basil and xiao bai cai at the school rooftop garden. They also learn about the importance of maintaining biodiversity and how it can be improved. 
+			<br>
+			<br>
+The programme includes a learning journey to an organisation to allow students to connect what they have learnt with the real world. 
+			<br>
+			<br>
+			Click <a href="https://sites.google.com/moe.edu.sg/tkgs-biodiversity/home" target="_blank" rel="noopener">here</a>, to view the wonderful work our students have brought to life.
+				</p>
+				</div>
+			</td>
+			<td>
+				<div class="prog-item">
+					<input type="checkbox" id="q4">
+					<label for="q4">Tinkering </label>
+					<p class="prog-answer">In the Tinkering module, students are given the opportunity to explore design situations and propose solutions to improve the situations. 
+						<br>
+						They design and create prototypes using cardboard models incorporated with a sensing circuit that features heat, light or moisture sensors. Students also learn how to set up a microsite to record their learning and class presentation.
+						<br>
+						This module provides students an opportunity to tinker and work on a project based on their interests and abilities. It also aims to develop students 21st Century Competencies in communication, collaboration, and information skills as well as critical and inventive thinking. 
+ 					</p>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 <p>Participation of TKGS+ is interest-based at Secondary Three where students may opt for projects which are extensions of selected Secondary Two modules. Through projects such as ‘TKGS Heritage’ and ‘<a href="https://sites.google.com/moe.edu.sg/tkgs-biodiversity/home" target="_blank" rel="noopener">Greening Schools for Biodiversity</a>’, students learn more advanced content and instructions while working on problems that require a more interdisciplinary approach to innovation and problem-solving.</p>
 <p>In addressing challenges at the school and community level, students exercise stewardship of learning, developing not just 21st century competencies, but also dispositions and values such as resilience and empathy which are necessary for them to be life-long learners and contributors of society.</p>
