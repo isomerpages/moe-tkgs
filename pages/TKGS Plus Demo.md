@@ -23,6 +23,7 @@ description: ""
 
     .prog-answer {
         max-height: 0;
+	text-align: left; /* Center the headline text */
         font-size: 18px;
         overflow: hidden;
         transition: max-height 0.2s ease-out;
