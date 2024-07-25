@@ -18,12 +18,12 @@ description: ""
 
     .prog-item label {
         cursor: pointer;
-        font-size: 18px;
+        font-size: 20px;
     }
 
     .prog-answer {
         max-height: 0;
-        font-size: 15px;
+        font-size: 18px;
         overflow: hidden;
         transition: max-height 0.2s ease-out;
     }
