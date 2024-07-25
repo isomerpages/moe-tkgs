@@ -107,7 +107,7 @@ The programme includes a learning journey to an organisation to allow students t
 						This module provides students an opportunity to tinker and work on a project based on their interests and abilities. It also aims to develop students 21st Century Competencies in communication, collaboration, and information skills as well as critical and inventive thinking. 
 						<br>
 						<br>
-						Click <a href="https://sites.google.com/moe.edu.sg/tkgstinkering/past-projects" target="_blank" rel="noopener">here</a>, to view design our students have put out.
+						Click <a href="https://sites.google.com/moe.edu.sg/tkgstinkering/home?authuser=0" target="_blank" rel="noopener">here</a>, to view design our students have put out.
 				</p>
  					<p></p>
 				</div>
