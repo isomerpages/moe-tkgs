@@ -5,32 +5,33 @@ variant: markdown
 description: ""
 ---
 <style>
-        .prog-item {
-            margin-bottom: 5px;
-        }
+    .prog-item {
+        margin-bottom: 5px;
+        text-align: center; /* Center the headline text */
+    }
 
-        .prog-item input {
-            position: absolute;
-            opacity: 0;
-            z-index: -1;
-        }
+    .prog-item input {
+        position: absolute;
+        opacity: 0;
+        z-index: -1;
+    }
 
-        .prog-item label {
-            cursor: pointer;
-	          font-size: 18px;
-        }
+    .prog-item label {
+        cursor: pointer;
+        font-size: 18px;
+    }
 
-        .prog-answer {
-            max-height: 0;
-	          font-size: 15px;
-            overflow: hidden;
-            transition: max-height 0.2s ease-out;
-	       }
+    .prog-answer {
+        max-height: 0;
+        font-size: 15px;
+        overflow: hidden;
+        transition: max-height 0.2s ease-out;
+    }
 
-        .prog-item input:checked ~ .prog-answer {
-            max-height: 100vh;
-        }
-    </style>
+    .prog-item input:checked ~ .prog-answer {
+        max-height: 100vh;
+    }
+</style>
 		
 <p>The school’s signature programme, TKGS+ (Plus) aims to provide a differentiated curriculum which enables students to pursue interest-based learning. The variety of modules which students may offer over three years provide many opportunities for them to discover their interests and develop their talents.&nbsp;</p>
 <p>TKGS+ has incorporated elements of the Applied Learning Programme (ALP), the Four-Life Learning model, and Treffinger’s Levels of Service in its framework and approach. This has allowed the programme to include larger segments of students in the programme, and ensure the design of purposeful and meaningful learning experiences to develop the future-readiness of students.&nbsp;</p>
