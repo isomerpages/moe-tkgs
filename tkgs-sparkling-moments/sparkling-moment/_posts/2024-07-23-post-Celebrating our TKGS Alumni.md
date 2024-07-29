@@ -72,7 +72,7 @@ variant: markdown
 		<tr>
 			<td>Fatin Nur Syaza Binte Rosli
 			</td>
-			<td>??
+			<td>2017
 			</td>
 			<td>Singapore Polytechnic
 			</td>
@@ -82,7 +82,7 @@ variant: markdown
 		<tr>
 			<td>Drea Lai Jie Ning
 			</td>
-			<td>??
+			<td>2020
 			</td>
 			<td>Singapore Polytechnic
 			</td>
