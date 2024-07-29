@@ -11,8 +11,6 @@ variant: markdown
 
 <p>Please join us in congratulating the following TKGS Alumni on their notable achievements!</p>
 
-<p>Congratulations and well done!</p>
-
 <table style="text-align: center; font-size: 16px;">
 	<tbody>
 		<tr>
