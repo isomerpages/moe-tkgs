@@ -30,6 +30,26 @@ variant: markdown
 		</th>
 		</tr>
 		<tr>
+			<td>Fatin Nur Syaza Binte Rosli
+			</td>
+			<td>2017
+			</td>
+			<td>Singapore Polytechnic
+			</td>
+			<td>2024 Top Graduate - Diploma in Maritime Business
+			</td>
+		</tr>
+		<tr>
+			<td>Drea Lai Jie Ning
+			</td>
+			<td>2020
+			</td>
+			<td>Singapore Polytechnic
+			</td>
+			<td>2024 Top Graduate - Diploma in Architecture
+			</td>
+		</tr>
+		<tr>
 			<td>Song Kai-E
 			</td>
 				<td>2021
@@ -67,26 +87,6 @@ variant: markdown
 			<td>Ministry of Education
 			</td>
 			<td>Teaching Scholarship Award
-			</td>
-		</tr>
-		<tr>
-			<td>Fatin Nur Syaza Binte Rosli
-			</td>
-			<td>2017
-			</td>
-			<td>Singapore Polytechnic
-			</td>
-			<td>2024 Top Graduate - Diploma in Maritime Business
-			</td>
-		</tr>
-		<tr>
-			<td>Drea Lai Jie Ning
-			</td>
-			<td>2020
-			</td>
-			<td>Singapore Polytechnic
-			</td>
-			<td>2024 Top Graduate - Diploma in Architecture
 			</td>
 		</tr>
 		<tr>
