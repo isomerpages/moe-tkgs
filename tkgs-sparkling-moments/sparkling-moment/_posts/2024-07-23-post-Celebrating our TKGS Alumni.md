@@ -13,7 +13,7 @@ variant: markdown
 
 <p>Congratulations and well done!</p>
 
-<table style="text-align: center;">
+<table style="text-align: center; font-size: 16px;">
 	<tbody>
 		<tr>
 			<th style="text-align: center;">
