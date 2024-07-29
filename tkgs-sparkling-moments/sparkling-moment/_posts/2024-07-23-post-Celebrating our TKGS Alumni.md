@@ -30,7 +30,7 @@ variant: markdown
 		</th>
 		</tr>
 		<tr>
-			<td>Fatin Rosli
+			<td>Fatin Nur Syaza Binte Rosli
 			</td>
 			<td>??
 			</td>
@@ -40,7 +40,7 @@ variant: markdown
 			</td>
 		</tr>
 		<tr>
-			<td>Drea Lai
+			<td>Drea Lai Jie Ning
 			</td>
 			<td>??
 			</td>
