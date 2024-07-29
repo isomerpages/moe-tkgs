@@ -30,6 +30,46 @@ variant: markdown
 		</th>
 		</tr>
 		<tr>
+			<td>Song Kai-E
+			</td>
+				<td>2021
+			</td>
+			<td>Anderson Serangoon Junior College 
+			</td>
+			<td>Outstanding A-level Results &amp; Academic Distinction Award 
+			</td>
+		</tr>
+		<tr>
+			<td>Wang Wenxinyan
+			</td>
+				<td>2021
+			</td>
+			<td>Anderson Serangoon Junior College 
+			</td>
+			<td>Outstanding A-level Results &amp; Academic Distinction Award 
+			</td>
+		</tr>
+		<tr>
+			<td>Nicha Jasmine Hodgson
+			</td>
+				<td>2021
+			</td>
+			<td>Anderson Serangoon Junior College 
+			</td>
+			<td>Outstanding A-level Results &amp; Academic Distinction Award 
+			</td>
+		</tr>
+		<tr>
+			<td>Nadhirah Hanisah Binte Mohamad Redwan
+			</td>
+			<td> 2021
+			</td>
+			<td>Ministry of Education
+			</td>
+			<td>Teaching Scholarship Award
+			</td>
+		</tr>
+		<tr>
 			<td>Fatin Nur Syaza Binte Rosli
 			</td>
 			<td>??
@@ -49,7 +89,7 @@ variant: markdown
 			<td>2024 Top Graduate - Diploma in Architecture
 			</td>
 		</tr>
-			<tr>
+		<tr>
 			<td>Belinda Koh Zi Lin
 			</td>
 				<td>2023
@@ -57,16 +97,6 @@ variant: markdown
 			<td>Eunoia Junior College 
 			</td>
 			<td>MOE Humanities Scholarship
-			</td>
-		</tr>
-		<tr>
-			<td>Nadhirah Hanisah Binte Mohamad Redwan
-			</td>
-			<td> 2021
-			</td>
-			<td>Ministry of Education
-			</td>
-			<td>Teaching Scholarship Award
 			</td>
 		</tr>
 	</tbody>
