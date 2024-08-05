@@ -42,7 +42,7 @@ variant: markdown
 <div class="faq-item">
     <input type="checkbox" id="q2">
     <label for="q2">Q2: What does the insurance covers?</label>
-    <p class="faq-answer">The insurance covers theft loss and physical damage to the device. <br></p>
+    <p class="faq-answer">The insurance policy covers losses due to theft and physical damage to the device. However, please note that losses resulting from negligence or improper handling of the device are not covered under the policy.<br></p>
 </div>
 <div class="faq-item">
     <input type="checkbox" id="q3">
