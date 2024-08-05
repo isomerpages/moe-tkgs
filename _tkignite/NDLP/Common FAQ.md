@@ -37,7 +37,7 @@ variant: markdown
 <div class="faq-item">
     <input type="checkbox" id="q1">
     <label for="q1">Q1: What is the warranty period for the iPad, Pencil &amp; Keyboard?</label>
-    <p class="faq-answer">The iPad, Pencil and Keyboards comes with 3 years warranty and insurance.<br></p>
+    <p class="faq-answer">The iPad, Pencil and Keyboards comes with 3 years warranty.<br></p>
 </div>
 <div class="faq-item">
     <input type="checkbox" id="q2">
