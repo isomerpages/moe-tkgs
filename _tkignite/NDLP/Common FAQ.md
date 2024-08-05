@@ -3,6 +3,7 @@ title: Common FAQ
 permalink: /tkignite/ndlp/faq/
 description: ""
 third_nav_title: NDLP
+variant: markdown
 ---
 <style>
         .faq-item {
@@ -41,7 +42,7 @@ third_nav_title: NDLP
 <div class="faq-item">
     <input type="checkbox" id="q2">
     <label for="q2">Q2: What does the insurance covers?</label>
-    <p class="faq-answer">The insurance covers theft loss and physical damage to device and its accessories. <br></p>
+    <p class="faq-answer">The insurance covers theft loss and physical damage to the device. <br></p>
 </div>
 <div class="faq-item">
     <input type="checkbox" id="q3">
