@@ -3,6 +3,7 @@ title: Troubleshooting
 permalink: /tkignite/ndlp/troubleshooting/
 description: ""
 third_nav_title: NDLP
+variant: markdown
 ---
 <style>
         .faq-item {
@@ -45,16 +46,6 @@ third_nav_title: NDLP
     <label for="q2">iPad is laggy/slow.</label>
     <p class="faq-answer">Please check that there is sufficent space left in your iPad. We recommend to have at least 1GB of free storage space in order for iPad to function properly. <br></p>
 </div>
-<div class="faq-item">
-    <input type="checkbox" id="q3">
-    <label for="q3">iPad is always struck on Mobile Guardian page.</label>
-    <p class="faq-answer">Please make sure that your iPad is connected to an active internet connection and with <a href="/tkignite/ndlp/the-dont/" target="_blank" rel="noopener">Low Power Mode</a>&nbsp;switched off.<br></p>
-</div>
-<div class="faq-item">
-    <input type="checkbox" id="q4">
-    <label for="q4">Apps requires updating.</label>
-    <p class="faq-answer">Please launch the Mobile Guardian app to trigger the updating of apps. Click <a href="/tkignite/ndlp/approved-apps/" target="_blank" rel="noopener">here</a>&nbsp;for more information<br></p>
-</div>
 
 <h3>Logitech Rugged Combo 3 Related</h3>
 <div class="faq-item">
@@ -79,12 +70,3 @@ third_nav_title: NDLP
     <label for="q8">Pencil could not be inserted into iPad for charging.</label>
     <p class="faq-answer">Check if the charging port on the iPad is not obstructed.<br></p>
 </div>
-
-<!-- Use the following code to add more -->
-<!--
-<div class="faq-item">
-    <input type="checkbox" id="q<continue with previous number>">
-    <label for="q<continue with previous number>">.</label>
-    <p class="faq-answer"><br></p>
-</div>
--->
