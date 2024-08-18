@@ -2,7 +2,7 @@
 title: Non–Teaching Staff
 permalink: /about-us/non-teaching-staff/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" src="/images/nts.jpg">
@@ -77,6 +77,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Kamariah Bte Osman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs P Parmeswary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
