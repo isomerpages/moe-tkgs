@@ -11,35 +11,35 @@ variant: markdown
 <th style="text-align: center;" width="50%">Position</th>
 </tr>
 <tr>
-<td>Ms Aileen Tan</td>
+<td>Ms Tan Mee Ling Aileen</td>
 <td>Chairman</td>
 </tr>
 <tr>
-<td>Mr Alan Yeo</td>
+<td>Ms Yeo Siew Mei</td>
 <td>Member</td>
 </tr>
 	<tr>
-<td>Ms Carol Loi</td>
+<td>Ms Carol Loi Pui Wan</td>
 <td>Member</td>
 	</tr>
 <tr>
-<td>Mr Christopher Lim</td>
+<td>Ms Charlotte Chiew</td>
 <td>Member</td>
 </tr>
 		<tr>
-<td>Ms Juliana Choo</td>
+<td>Mr Christopher Lim Chong Meng</td>
 <td>Member</td>
 	</tr>
 <tr>
-<td>Ms Sally Low</td>
+<td>Mr Liow Wei Quan</td>
+<td>Member</td>
+</tr>
+<tr>
+<td>Mr See Boon Ping Joseph</td>
 <td>Member</td>
 </tr>
 <tr>
 <td>Ms Sim Bee Hia</td>
-<td>Member</td>
-</tr>
-<tr>
-<td>Ms Yeo Siew Mei</td>
 <td>Member</td>
 </tr>
 </tbody>
