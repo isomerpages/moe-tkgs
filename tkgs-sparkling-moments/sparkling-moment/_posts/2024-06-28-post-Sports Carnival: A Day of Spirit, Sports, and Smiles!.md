@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-<img src="/images/Sparkling_Moment/2024/SC_Hero.png">
+<img src="/images/Sparkling_Moment/2024/SC_hero.png">
 
 <p>The highly anticipated TKGS Sports Carnival 2024 was held on 28 June at the Temasek Polytechnic Stadium. Held on the Friday before Youth Day, this year’s celebration was more than just a day of sports—it was a vibrant celebration of our school spirit and commitment to leading active, healthy lives.</p>
 
@@ -15,7 +15,7 @@ variant: markdown
 
 </p><p>For many, our yearly sports carnival is not just just about the races—it celebrates the incredible sense of community and support.</p>
 
-<img src="/images/Sparkling_Moment/2024/SC_c1.png">
+<img src="/images/Sparkling_Moment/2024/SC_c1r.png">
 
 <p>"The sports carnival this year was extremely fun and eventful, clearly showcasing the TKGS spirit," shares Esther Ebenezer John (2I2). "Seeing the whole school come together in their various Houses to cheer their teammates on encouraged students to put in their best effort to bring glory to their House."&nbsp;</p>
 
@@ -25,7 +25,7 @@ variant: markdown
 
 <p>"To me, what made the sports carnival fun was the events where students could compete with the teachers, especially with the school leaders," says Laurel Siaw Ruo Qi (3C3).&nbsp;</p>
 
-<img src="/images/Sparkling_Moment/2024/SC_c2.png">
+<img src="/images/Sparkling_Moment/2024/SC_c2r.png">
 
 <p>Of course, no TKGS House event is complete without a display of House Spirit! The House Committee led the charge, rallying their members to cheer with all their might. The chants and cheers that filled the stadium weren’t just about winning; they embodied our determination, unity, and pride in everything we do at TKGS.</p>
 
