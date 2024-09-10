@@ -19,7 +19,7 @@ variant: markdown
 <li>need to address some feelings that are bothering you</li>
 <li>encounter challenging situations/relationships</li>
 <li>or someone you know is abused physically / sexually / emotionally</li>
-<li>need guidance in career development (or check out&nbsp;<a href="http://www.myskillsfuture.sg/secondary" target="_blank" rel="noopener">www.myskillsfuture.sg/secondary</a>)</li>
+<li>need guidance in career development (or check out&nbsp;<a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" target="_blank" rel="noopener">My Skills Future (Secondary)</a></li>
 </ul>
 <p><strong>What can your School Counsellor do?:</strong></p>
 <ul>
