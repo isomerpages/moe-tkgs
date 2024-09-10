@@ -11,9 +11,9 @@ variant: markdown
 
 <p>The highly anticipated TKGS Sports Carnival 2024 was held on 28 June at the Temasek Polytechnic Stadium. Held on the Friday before Youth Day, this year’s celebration was more than just a day of sports—it was a vibrant celebration of our school spirit and commitment to leading active, healthy lives.</p>
 
-<p>The very first whistle marked the beginning of loud cheers that demonstrated the TKGS school spirit as students from all Houses sprinted onto the track amidst passionate encouragement from their peers. Runners dashed through the 100m, 4x100m, and the ever-exciting 8x50m relay event that was given an extra layer of excitement as our beloved teachers joined the race, making it a truly memorable moment of teamwork and camaraderie.</p><p>
+<p>The very first whistle marked the beginning of loud cheers that demonstrated the TKGS school spirit as students from all Houses sprinted onto the track amidst passionate encouragement from their peers. Runners dashed through the 100m, 4x100m, and the ever-exciting 8x50m relay event that was given an extra layer of excitement as our beloved teachers joined the race, making it a truly memorable moment of teamwork and camaraderie.</p>
 
-</p><p>For many, our yearly sports carnival is not just just about the races—it celebrates the incredible sense of community and support.</p>
+<p>For many, our yearly sports carnival is not just just about the races—it celebrates the incredible sense of community and support.</p>
 
 <img src="/images/Sparkling_Moment/2024/SC_c1r.png">
 
