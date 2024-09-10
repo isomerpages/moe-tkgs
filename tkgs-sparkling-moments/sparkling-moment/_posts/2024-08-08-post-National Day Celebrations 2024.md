@@ -8,16 +8,15 @@ image: ""
 variant: markdown
 ---
 <img src="/images/Sparkling_Moment/2024/NDP_Heroshot1.jpg">
-<img src="/images/Sparkling_Moment/2024/NDP_Heroshot2.jpg">
 
-<p>Despite the short downpour in the morning, it did not dampen the joyous atmosphere and excitement at TKGS. The celebrations started with the ceremonial National Day Observance Parade and impressive march in and Fire of Joy by the Uniformed Groups in the school hall.</p>
+<p>Despite a brief morning shower, the spirits were high at TKGS as we celebrated Singapore's 59th birthday. The festivities kicked off with a rousing National Day Observance Parade and a dazzling display by our Uniformed Groups.
+In classrooms across the school, students delved into what made Singapore special. Lower secondary and Sec 4 students reflected on their gratitude, while Sec 3 students explored the significance of citizenship during a heartwarming NRIC Presentation Ceremony.
+</p>
 <img src="/images/Sparkling_Moment/2024/NPCCShot_2.jpg">
 
-<p>In their classrooms, lower secondary and Sec 4 students reflected about why they are grateful about Singapore. Meanwhile, the Sec 3 students reflected about the importance of being a citizen in the meaningful NRIC Presentation Ceremony.</p>
+<p>The National Day concert was a highlight, with the house captains setting the stage for a memorable evening. An external music band treated us to a beautiful rendition of National Day songs, followed by a fascinating sharing session by the Sec 3 CCE Subject about their NE Show experiences. A fun-filled National Day Quiz tested our knowledge of Singapore, and the excitement reached a fever pitch when Xi An Gao Xin High School joined in with a song about chasing dreams. The iconic NDP Mascot, August, also made a special appearance, leading us in a lively Dance of Nation and Sing-along session.</p>
+<p>"The best part was the sing-along to nostalgic national day songs," shared Yap Rui Yi, 3C3. "Everyone was so enthusiastic, dancing, singing, and clapping along. It was a truly lively atmosphere."</p>
 <img src="/images/Sparkling_Moment/2024/NDP_c1.png">
-<p>During the National Day concert, the house captains livened up the atmosphere. The first item was a beautiful rendition of National Day Songs by an external music band. The Sec 3 CCE Subject shared about the interesting experiences at the NE Show. Students also learned about fun facts about Singapore in the engaging National Day Quiz. To add to the excitement, Xi An Gao Xin School sang a song about pursuing our dreams and NDP Mascot, August, joined in the Dance of Nation and Sing-along session. Seniors from the Mountbatten community were also invited to join the celebrations. The joint celebration of the staff, students, guests from Xi An and the seniors from Mountbatten exemplified this year’s theme of  “Together, As One United People”.  It reminded us about the importance of coming together and playing our part to shape our future and uplifting those around us.</p>
+
 <img src="/images/Sparkling_Moment/2024/NDP_c2.png">
-<p><b>Quotes:</b><br>
-“The best take-away was the sing-along to nostalgic national day songs. I liked how everyone was so participative as many students danced enthusiastically with friends and sang loudly or clapped along. It was a very lively atmosphere. The 'In Harmony' team's music was really good, very energetic yet soothing.” Yap Rui Yi. 3C3</p>
-<p>“I liked the class activities and the unique NRIC presentation. The atmosphere was very welcoming and hyped up and this cheered all the students and guests up.” -  Karis Koh, 3R6</p>
-<p>“Moving forward as a country takes the effort of everyone, no matter what race, religion, ethnicity or gender. The programme ran very smoothly, and the house committee as well as other students did an amazing job! I enjoyed the sing-a-long session, performances and  August.” - Sophia Adriana Tng Bte Rohaizad, 3C3</p>
+<p>To make the celebration even more meaningful, seniors from the Mountbatten community were invited to join us. This joint celebration, uniting staff, students, guests from Xi An, and the Mountbatten seniors, perfectly embodied the year's theme, "Together, As One United People." It reminded us of the importance of coming together and playing our part to shape a brighter future for ourselves and those around us.</p>
