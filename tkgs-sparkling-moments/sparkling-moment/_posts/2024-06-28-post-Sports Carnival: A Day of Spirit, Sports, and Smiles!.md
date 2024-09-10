@@ -13,7 +13,7 @@ variant: markdown
 
 <p>The very first whistle marked the beginning of loud cheers that demonstrated the TKGS school spirit as students from all Houses sprinted onto the track amidst passionate encouragement from their peers. Runners dashed through the 100m, 4x100m, and the ever-exciting 8x50m relay event that was given an extra layer of excitement as our beloved teachers joined the race, making it a truly memorable moment of teamwork and camaraderie.</p><p>
 
-<img src="/images/Sparkling_Moment/2024/SC_c1r.png">
+<img src="/images/Sparkling_Moment/2024/SC_c1.png">
 	
 </p><p>For many, our yearly sports carnival is not just just about the races—it celebrates the incredible sense of community and support.</p>
 
@@ -29,6 +29,8 @@ variant: markdown
 <img src="/images/Sparkling_Moment/2024/SC_c2r.png">
 
 <p>Of course, no TKGS House event is complete without a display of House Spirit! The House Committee led the charge, rallying their members to cheer with all their might. The chants and cheers that filled the stadium weren’t just about winning; they embodied our determination, unity, and pride in everything we do at TKGS.</p>
+
+<img src="/images/Sparkling_Moment/2024/SC_T1.png">
 
 <p>In the end, it was Teresa House that took home the coveted overall title, but every House left a winner in spirit. A huge thank you to everyone who participated, from the athletes to the organizers, for making the day unforgettable. We can’t wait to see even more thrilling action at next year’s Sports Carnival!</p>
 
