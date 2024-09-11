@@ -19,7 +19,7 @@ variant: markdown
 <li>need to address some feelings that are bothering you</li>
 <li>encounter challenging situations/relationships</li>
 <li>or someone you know is abused physically / sexually / emotionally</li>
-<li>need guidance in career development (or check out&nbsp;<a href="http://www.myskillsfuture.sg/secondary" target="_blank" rel="noopener">www.myskillsfuture.sg/secondary</a>)</li>
+<li>need guidance in career development (or check out&nbsp;<a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" target="_blank" rel="noopener">My Skills Future - Secondary</a>)</li>
 </ul>
 <p><strong>What can your School Counsellor do?:</strong></p>
 <ul>
@@ -108,14 +108,6 @@ variant: markdown
 </td>
 <td>
 <p><a href="http://www.ec2.sg/" target="_blank" rel="noopener">www.ec2.sg</a>&nbsp;(Mon – Fri, 10am – 5pm)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>YGOS e-chat&nbsp;</p>
-</td>
-<td>
-<p><a href="https://www.ygos.sg/heresomeone-echat" target="_blank" rel="noopener">https://www.ygos.sg/heresomeone-echat</a> (Mon – Fri, 9pm -12am)</p>
 </td>
 </tr>
 </tbody>
