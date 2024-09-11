@@ -110,14 +110,6 @@ variant: markdown
 <p><a href="http://www.ec2.sg/" target="_blank" rel="noopener">www.ec2.sg</a>&nbsp;(Mon – Fri, 10am – 5pm)</p>
 </td>
 </tr>
-<tr>
-<td>
-<p>YGOS e-chat&nbsp;</p>
-</td>
-<td>
-<p><a href="https://www.ygos.sg/heresomeone-echat" target="_blank" rel="noopener">https://www.ygos.sg/heresomeone-echat</a> (Mon – Fri, 9pm -12am)</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p style="text-align: center;"><strong><em>“The greatest weapon against stress is our ability to choose one thought over another.”<br></em></strong><em>William James</em></p>
