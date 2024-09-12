@@ -1,7 +1,7 @@
 ---
 title: Celebrating our TKGS Alumni
 permalink: /celebrating-our-tkgs-alumni/
-date: 2024-07-23
+date: 2024-09-12
 layout: post
 description: ""
 image: ""
@@ -38,6 +38,16 @@ variant: markdown
 			</td>
 		</tr>
 		<tr>
+			<td>Chai Moon Teng
+			</td>
+			<td>2020
+			</td>
+			<td>Republic Polytechnic
+			</td>
+			<td>2024 Merit Award - Diploma in Biotechnology
+			</td>
+		</tr>
+		<tr>
 			<td>Drea Lai Jie Ning
 			</td>
 			<td>2020
@@ -45,6 +55,16 @@ variant: markdown
 			<td>Singapore Polytechnic
 			</td>
 			<td>2024 Top Graduate - Diploma in Architecture
+			</td>
+		</tr>
+		<tr>
+			<td>Nur Fa'iqah Putri Azman
+			</td>
+			<td>2020
+			</td>
+			<td>Republic Polytechnic
+			</td>
+			<td>2024 Merit Award - Diploma in Arts &amp; Theatre Management
 			</td>
 		</tr>
 		<tr>

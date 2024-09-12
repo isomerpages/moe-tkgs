@@ -1,5 +1,5 @@
 ---
-title: National Day Celebrations 2024
+title: Together, As One United People
 permalink: /ndp24/
 date: 2024-08-08
 layout: post
