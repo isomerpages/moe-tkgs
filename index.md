@@ -29,6 +29,8 @@ sections:
       url: https://drive.google.com/file/d/1q2AaMwtGA1uxe1J54Mj8Z0jJc6Z0XPtH/view?usp=drive_link
       image: /images/Hompage/Infopic/e_Prospectus.png
       alt: Image alt text
+      description: Discover your future at Tanjong Katong Girls’ School! Find out how
+        we are shape the next generation of remarkable young women.
   - infobar:
       title: Application for Financial Assistance Scheme (FAS)
       id: infobar
