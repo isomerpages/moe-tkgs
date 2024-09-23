@@ -28,4 +28,11 @@ sections:
       description: Application for year 2024 is now open.
       button: Click here for more details
       url: /financial-assistance-scheme-fas/
+  - infopic:
+      title: TKGS e-Prospectus
+      id: infopic
+      button: Click here to read
+      url: https://drive.google.com/file/d/1q2AaMwtGA1uxe1J54Mj8Z0jJc6Z0XPtH/view?usp=drive_link
+      image: /images/Hompage/Infopic/e_Prospectus.png
+      alt: Image alt text
 ---
