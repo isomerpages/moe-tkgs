@@ -17,12 +17,6 @@ sections:
       title: TKGS Sparkling Moments
       button: More
   - infopic:
-      title: TKGS Corporate Video
-      button: Click here to watch
-      url: https://www.youtube.com/watch?v=UWsWh9b3Xvk&embeds_referring_euri=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUWsWh9b3Xvk%26t%3D14s&feature=emb_imp_woyt
-      image: /images/Hompage/Infopic/corporatevideo.png
-      alt: Image alt text
-  - infopic:
       title: TKGS e-Prospectus
       id: infopic
       button: Click here to read
@@ -31,6 +25,12 @@ sections:
       alt: Image alt text
       description: Discover your future at Tanjong Katong Girls’ School! Find out how
         we are shape the next generation of remarkable young women.
+  - infopic:
+      title: TKGS Corporate Video
+      button: Click here to watch
+      url: https://www.youtube.com/watch?v=UWsWh9b3Xvk&embeds_referring_euri=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUWsWh9b3Xvk%26t%3D14s&feature=emb_imp_woyt
+      image: /images/Hompage/Infopic/corporatevideo.png
+      alt: Image alt text
   - infobar:
       title: Application for Financial Assistance Scheme (FAS)
       id: infobar
