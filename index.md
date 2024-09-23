@@ -22,12 +22,6 @@ sections:
       url: https://www.youtube.com/watch?v=UWsWh9b3Xvk&embeds_referring_euri=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUWsWh9b3Xvk%26t%3D14s&feature=emb_imp_woyt
       image: /images/Hompage/Infopic/corporatevideo.png
       alt: Image alt text
-  - infobar:
-      title: Application for Financial Assistance Scheme (FAS)
-      id: infobar
-      description: Application for year 2024 is now open.
-      button: Click here for more details
-      url: /financial-assistance-scheme-fas/
   - infopic:
       title: TKGS e-Prospectus
       id: infopic
@@ -35,4 +29,10 @@ sections:
       url: https://drive.google.com/file/d/1q2AaMwtGA1uxe1J54Mj8Z0jJc6Z0XPtH/view?usp=drive_link
       image: /images/Hompage/Infopic/e_Prospectus.png
       alt: Image alt text
+  - infobar:
+      title: Application for Financial Assistance Scheme (FAS)
+      id: infobar
+      description: Application for year 2024 is now open.
+      button: Click here for more details
+      url: /financial-assistance-scheme-fas/
 ---
