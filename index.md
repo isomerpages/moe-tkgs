@@ -23,7 +23,7 @@ sections:
       image: /images/Hompage/Infopic/corporatevideo.png
       alt: Image alt text
   - infopic:
-      title: TKGS e-Prospectus
+      title: TKGS Prospectus
       id: infopic
       button: Click here to read
       url: https://drive.google.com/file/d/1q2AaMwtGA1uxe1J54Mj8Z0jJc6Z0XPtH/view?usp=drive_link
