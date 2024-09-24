@@ -17,6 +17,15 @@ sections:
       title: TKGS Sparkling Moments
       button: More
   - infopic:
+      title: TKGS e-Prospectus
+      id: infopic
+      button: Click here to read
+      url: https://drive.google.com/file/d/1q2AaMwtGA1uxe1J54Mj8Z0jJc6Z0XPtH/view?usp=drive_link
+      image: /images/Hompage/Infopic/e_Prospectus.png
+      alt: Image alt text
+      description: Discover your future at Tanjong Katong Girls’ School! Find out how
+        we are shaping the next generation of remarkable young women.
+  - infopic:
       title: TKGS Corporate Video
       button: Click here to watch
       url: https://www.youtube.com/watch?v=UWsWh9b3Xvk&embeds_referring_euri=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUWsWh9b3Xvk%26t%3D14s&feature=emb_imp_woyt
