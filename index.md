@@ -24,7 +24,7 @@ sections:
       image: /images/Hompage/Infopic/e_Prospectus.png
       alt: Image alt text
       description: Discover your future at Tanjong Katong Girls’ School! Find out how
-        we are shape the next generation of remarkable young women.
+        we are shaping the next generation of remarkable young women.
   - infopic:
       title: TKGS Corporate Video
       button: Click here to watch
