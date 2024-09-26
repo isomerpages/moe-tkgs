@@ -9,13 +9,13 @@ variant: markdown
 ---
 <img src="/images/Sparkling_Moment/2024/TD24_hero.png">
 
-<p>Teachers' Day at TKGS was a whirlwind of excitement and gratitude as students came together to express their deepest appreciation for the tireless dedication of their teachers. Providing the teachers with a valuable reprieve our students took the lead while teachers sat back and enjoyed a morning of festivities.</p>
+<p>Teachers' Day at TKGS was a whirlwind of excitement and gratitude as students came together to express their deepest appreciation for the tireless dedication of their teachers. Providing the teachers with a valuable reprieve, our students took the lead while teachers sat back and enjoyed a morning of festivities.</p>
 
 <p>The day kicked off with a vibrant morning of classroom parties where students took the reins, showcasing their creativity and leadership skills. From heartfelt tributes to engaging games, the morning was a testament to the students' appreciation for their teachers.</p>
 
 <img src="/images/Sparkling_Moment/2024/TD24_1.png">
 
-<p>As the day progressed, the festivities reached a crescendo with a captivating concert. Teachers, accompanied by their class chairpersons, were greeted with beautifully designed tote bags designed by the Class Committee Exco. The concert that followed after was a showcase of talent, featuring lively games and performances that left everyone entertained and inspired.</p>
+<p>As the day progressed, the festivities continued with a captivating concert in the hall. Teachers, accompanied by their class chairpersons, were greeted with beautifully designed tote bags designed by the Class Committee Exco. The concert that followed after was a showcase of talent, featuring lively games and performances that left everyone entertained and inspired.</p>
 
 <p>“Organising Teacher's Day to express our gratitude to the teachers was an absolute joy for both my board and me. This event was heart-warmingly special to us, and we’d love nothing more than to do it all over again,” says Leo Kit, President, Class Committee Exco.</p>
 
