@@ -20,7 +20,7 @@ variant: markdown
 <p>“I feel a mix of sadness and gratitude. These four years flew by really quickly and I’m really grateful for all my friends and teachers that helped me throughout this journey, making my time in TKGS unforgettable,” reflects Teng Jing Yi (4I2).</p>
 
 <img src="/images/Sparkling_Moment/2024/GDN_3.png"><br>
-<img src="/images/Sparkling_Moment/2024/GDN_2.png">
+<img src="/images/Sparkling_Moment/2024/GDN_2s.png">
 
 <p>One of the highlights of the evening was the inspiring address by our alumni - Jewelle Woo and Shruti Ravindran (Class of 2015). Their return serves as a powerful reminder of the school's legacy and the opportunities that await our graduating class. They shared their personal journeys, offering valuable insights and words of encouragement for our students as they embark on their own adventures.</p>
 
