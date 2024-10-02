@@ -17,7 +17,7 @@ variant: markdown
 
 <p>In the evening, the hall was transformed into a vibrant space to welcome our guests for Grad Nite. Our students came dressed in their finest attire, radiating elegance. Laughter and music filled the air, as friendships were cemented and memories made. From performances by our students and even parents to speeches by the class leaders, the evening clearly showed the strong bonds that had been forged over the years.</p>
 
-<p>“I feel a mix of sadness and gratitude. These four years flew by really quickly and ’m really grateful for all my friends and teachers that helped me throughout this journey, making my time in TKGS unforgettable,” reflects Teng Jing Yi (4I2).</p>
+<p>“I feel a mix of sadness and gratitude. These four years flew by really quickly and I’m really grateful for all my friends and teachers that helped me throughout this journey, making my time in TKGS unforgettable,” reflects Teng Jing Yi (4I2).</p>
 
 <img src="/images/Sparkling_Moment/2024/GDN_3.png"><br>
 <img src="/images/Sparkling_Moment/2024/GDN_2.png">
