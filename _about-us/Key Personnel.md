@@ -14,15 +14,15 @@ variant: markdown
 <th style="text-align: center;" width="50%">Position</th>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Ms Chew Ing Lim</strong></td>
+	<td style="text-align: center;"><strong>Ms <u>Chew</u> Ing Lim</strong></td>
 <td style="text-align: center;"><strong>Principal</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Ms Xu Wanjing&nbsp;</strong></td>
+	<td style="text-align: center;"><strong>Ms <u>Xu</u> Wanjing&nbsp;</strong></td>
 <td style="text-align: center;">&nbsp;<strong>Vice-Principal (Curriculum)</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Mr Chai Chi Yang Moses</strong></td>
+	<td style="text-align: center;"><strong>Mr <u>Chai</u> Chi Yang Moses</strong></td>
 <td style="text-align: center;"><strong>Vice-Principal (Admin)</strong></td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@ variant: markdown
 <th style="text-align: center;" width="33%">Email</th>
 </tr>
 <tr>
-<td>Mr Owen Tan</td>
+	<td>Mr Owen <u>Tan</u></td>
 <td>HOD / English</td>
 <td><a href="mailto:tan_gan_en_owen@moe.edu.sg" target="">tan_gan_en_owen@moe.edu.sg</a></td>
 </tr>
