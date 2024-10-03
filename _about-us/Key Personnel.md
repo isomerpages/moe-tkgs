@@ -143,7 +143,7 @@ variant: markdown
 <td><a href="mailto:tan_hui_lan@moe.edu.sg" target="">tan_hui_lan@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Mr Yeo Guang Hui, Timothy</td>
+<td>Mr Yeo Guang Hui Timothy</td>
 <td>Level Head / Science</td>
 <td><a href="mailto:yeo_guang_hui_timothy@moe.edu.sg" target="">yeo_guang_hui_timothy@moe.edu.sg</a></td>
 </tr>
