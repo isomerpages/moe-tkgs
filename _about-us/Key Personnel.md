@@ -38,7 +38,7 @@ variant: markdown
 <th style="text-align: center;" width="33%">Email</th>
 </tr>
 <tr>
-	<td>Mr Owen <u>Tan</u></td>
+	<td>Mr Owen Tan</td>
 <td>HOD / English</td>
 <td><a href="mailto:tan_gan_en_owen@moe.edu.sg" target="">tan_gan_en_owen@moe.edu.sg</a></td>
 </tr>
