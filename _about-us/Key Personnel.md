@@ -6,7 +6,7 @@ variant: markdown
 ---
 <h3><strong>School Management Committee</strong></h3>
 
-<img src="/images/About_us/Key_personnel/SMC_2024.png"><br>
+<img src="/images/About_us/Key_personnel/SMC_24.jpg"><br>
 <table>
 <tbody>
 <tr>
@@ -14,15 +14,15 @@ variant: markdown
 <th style="text-align: center;" width="50%">Position</th>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Ms Chew Ing Lim</strong></td>
+	<td style="text-align: center;"><strong>Ms <u>Chew</u> Ing Lim</strong></td>
 <td style="text-align: center;"><strong>Principal</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Ms Xu Wanjing&nbsp;</strong></td>
+	<td style="text-align: center;"><strong>Ms <u>Xu</u> Wanjing&nbsp;</strong></td>
 <td style="text-align: center;">&nbsp;<strong>Vice-Principal (Curriculum)</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Mr Chai Chi Yang Moses</strong></td>
+	<td style="text-align: center;"><strong>Mr <u>Chai</u> Chi Yang Moses</strong></td>
 <td style="text-align: center;"><strong>Vice-Principal (Admin)</strong></td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@ variant: markdown
 <th style="text-align: center;" width="33%">Email</th>
 </tr>
 <tr>
-<td>Mr Owen Tan</td>
+	<td>Mr Owen Tan</td>
 <td>HOD / English</td>
 <td><a href="mailto:tan_gan_en_owen@moe.edu.sg" target="">tan_gan_en_owen@moe.edu.sg</a></td>
 </tr>
@@ -143,7 +143,7 @@ variant: markdown
 <td><a href="mailto:tan_hui_lan@moe.edu.sg" target="">tan_hui_lan@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Mr Yeo Guang Hui, Timothy</td>
+<td>Mr Yeo Guang Hui Timothy</td>
 <td>Level Head / Science</td>
 <td><a href="mailto:yeo_guang_hui_timothy@moe.edu.sg" target="">yeo_guang_hui_timothy@moe.edu.sg</a></td>
 </tr>
