@@ -7,12 +7,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hompage/newbannerv1.gif
+      background: /images/Hompage/Banner2024_2025.gif
       key_highlights:
         - title: Useful Links
           description: ""
           url: /useful-links/
-      variant: center
+      variant: image
   - resources:
       title: TKGS Sparkling Moments
       button: More
