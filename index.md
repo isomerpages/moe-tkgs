@@ -12,7 +12,7 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/
-      variant: image
+      variant: center
   - resources:
       title: TKGS Sparkling Moments
       button: More
