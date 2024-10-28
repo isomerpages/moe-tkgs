@@ -23,6 +23,7 @@ sections:
       button: Live chat Registration link
       url: https://go.gov.sg/tkgs-ask-the-leaders
       image: /images/Hompage/For_MOTD_and_screen.jpg
+      alt: Event banner
   - resources:
       title: TKGS Sparkling Moments
       button: More
