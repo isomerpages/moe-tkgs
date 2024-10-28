@@ -27,7 +27,6 @@ tr:hover {background-color: #F5F5DC;}
 <p>In the literary wing, our passion for language comes alive through writing and public speaking. Last year, we sought to spread the passion and love for the English Language to other young children by participating in the National Library Board’s enriching KidsREAD programme. On a regular basis, we work on honing our writing skills by delving into current, and refining our public speaking skills through engaging presentation sessions. The Literary Wing is always buzzing with activity as we strive to develop new ways to express ourselves through both the written and spoken word.</p>
 
 <p>In the debate wing, our emphasis is on articulate and persuasive communication. Each session exposes us to new ideas and issues, expanding our minds as we analyze different viewpoints, proposed solutions, and ethical principles. Our debaters participate in prestigious competitions like the Singapore Secondary School Debating Competition (SSSDC) and the Raffles Institution U14s Debating Competition. Additionally, we engage in friendly debates with other schools, providing valuable opportunities for our members to enhance their language skills and critical thinking abilities through spirited discourse. </p>
-<p style="text-align: right;"><strong>Claire Goh (3E4)</strong><br><strong>Gracia Teo (3E4)</strong><br><strong>Chua Hsui-Ting Erin (3E5)</strong><br><strong>AAdhya Bhatia (3E3)</strong></p>
 
 <table>
 	<tbody>
