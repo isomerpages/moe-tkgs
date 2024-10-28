@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" src="/images/nts.jpg">
+<img src="/images/About_us/Non Teaching Staff/Group_Photo.jpg">
 </div>
 <p>
 <br>
