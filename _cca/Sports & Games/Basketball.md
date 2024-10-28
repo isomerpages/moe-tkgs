@@ -21,11 +21,12 @@ tr:hover {background-color: beige;}
 </style>
 <img src="/images/CCA/Basketball/basketball.gif">
 
-<p>Basketball is a sport that challenges the individual as well as the team. In the face of the ongoing pandemic, the CCA has evolved to suit the needs of the members, shifting between online fitness and skills training and face-to-face game sessions.</p>
-<p>The coaches and teachers also made use of different media to ensure that the aims of the CCA were not altered despite not having as many face-to-face training sessions. Values like sportsmanship, resilience and mental toughness were discussed and coaches and teachers shared their personal experiences on facing adversity.</p>
-<p>The CCA is also still making conscious efforts to maximise the exposure that each member can experience through trainings and hopefully in the near future, tournaments as well. Although at the time of writing CCA sessions are still held online, we believe that the life lessons learnt from being part of the team are valuable and will hold the members in good stead in their future.&nbsp;</p>
-<p style="text-align: right;"><strong>Mr Noor Ghazali (Teacher-in-Charge)</strong></p>
+<p>Basketball is a sport that challenges the individual as well as the team. In the face of the ongoing pandemic, the CCA has evolved to suit the needs of the members, shifting between online fitness and skills training and face-to-face game sessions.
 
+The coaches and teachers also made use of different media to ensure that the aims of the CCA were not altered despite not having as many face-to-face training sessions. Values like sportsmanship, resilience and mental toughness were discussed and coaches and teachers shared their personal experiences on facing adversity.
+
+The CCA is also still making conscious efforts to maximise the exposure that each member can experience through trainings and hopefully in the near future, tournaments as well. Although at the time of writing CCA sessions are still held online, we believe that the life lessons learnt from being part of the team are valuable and will hold the members in good stead in their future. </p>
+<p style="text-align: right;"><strong>Mr Noor Ghazali (Teacher-in-Charge)</strong></p>
 <table>
 	<tbody>
 		<tr>

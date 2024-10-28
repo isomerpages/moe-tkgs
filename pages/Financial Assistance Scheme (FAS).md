@@ -4,10 +4,10 @@ permalink: /financial-assistance-scheme-fas/
 variant: markdown
 description: ""
 ---
-Financial Assistance Scheme (FAS) 2024 is now open. <br>For more information, please click <a href="https://drive.google.com/file/d/1i2NWXWBG_3YvJvb1jNNNbm_lDdxPUp3J/view?usp=sharing" target="_blank" rel="noopener">here</a>.
+<p>Financial Assistance Scheme (FAS) 2025 is now open. For more information, please click <a href="https://drive.google.com/file/d/1rZ98pSP1k3LFHSZ9M0xfeR_8fYpOX-7T/view?usp=sharing" target="_blank" rel="noopener">here</a>.</p>
 
-The eligibility calculator is also available on the MOE website 
-<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank" rel="noopener">(https://www.moe.gov.sg/financial-matters/financial-assistance​)</a>
+You may also use the eligibility calculator that is also available on the MOE website <br>
+<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank" rel="noopener">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
 
 <table>
 	<tbody>
@@ -22,14 +22,14 @@ The eligibility calculator is also available on the MOE website
 		</tr>
 		<tr>
 			<td><center><h4>Hardcopy Form</h4><br>
-				<a href="https://drive.google.com/file/d/1y-BOp_c9-qOxPzBv4rqPew7muIyYraV5/view?usp=sharing" target="_blank" rel="noopener">2024 MOE FAS Application Form</a></center>
+				<a href="https://drive.google.com/file/d/1ea4_Zn3n096JP7ZUP2DNWkng-a0LcPBj/view?usp=sharing" target="_blank" rel="noopener">2025 MOE FAS Application Form</a></center>
 			</td>
 		</tr>
 	</tbody>
 	</table>
 	
 <p>Application strictly via hardcopy form is required for:</p>
-<ol style="list-style-type: lower-alpha;">
+<ol>
 <li> families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)</li>
 <li>family with more than 6 children in government school</li>
 <li>family with more than 5 unmarried children not in government school</li>
@@ -37,7 +37,7 @@ The eligibility calculator is also available on the MOE website
 </ol>
 
 <p>Note:</p>
-<ol style="list-style-type: lower-roman;">
+<ol>
 <li>If your child is a ComCare recipient, you do not need to submit the application form for MOE FAS as MOE FAS will be auto granted to ComCare beneficiaries.</li>
 <li>Please ready all softcopy supporting documents to be prepared in advance for eFAS application.&nbsp;</li>
 <li>Please submit the completed hardcopy FAS forms and supporting documents at the General Office.</li>
