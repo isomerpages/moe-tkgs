@@ -55,7 +55,7 @@ tr:hover {background-color: #F5F5DC;}
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
- <td rowspan="1">Computer Lab 3 &amp; 4</td>
+ <td rowspan="1">Computer Labs</td>
 	</tr>
 </tbody>
 </table>
