@@ -22,9 +22,11 @@ tr:hover {background-color: #F5F5DC;}
 
 <img src="/images/CCA/Dance/tkgsdance.gif">
 
-<p>Dance Club was formed in 2004, consisting of Ballet and Modern dance groups. Members are allowed to learn alongside and from each other during their weekly trainings. Opportunities are also given to explore different dance types and participation in various school and public performances. After four years in TKGS Dance Club, all dancers acquire good psychomotor skills, varying repertoire of dance techniques and a good degree of leadership and organizational skills.&nbsp;</p>
-<p>Since 2009, the TKGS Dancers have consistently outshone other groups in the Singapore Youth Festival with exceptionally high standards of performance and artistry. Besides keeping a busy schedule of regular appearances at the school’s Speech Day and anniversary celebrations, the TKGS Dancers had also been invited to perform in the prestigious 2015 World Schools Debates Championships held in Singapore. The TKGS Dance Club holds regular performances such as Shine! at the University Cultural Centre, a collaboration concert with Drama Club in 2018 (Stage V) at the Victoria Theatre Hall and the most recent one was the public performance at the Library @ Esplanade (Delve into Your Heart) in November 2019.&nbsp;</p>
-<p>For all weekly dance sessions, Ms June Lau, a professional dance instructor, is present to coach all members in the contemporary dance moves. Beyond the school, some dancers had the opportunity to participate in the Dance Talent Development Programme organised by MOE’s Arts Education Branch while another group of dancers had the opportunity to experience internship in the Singapore Dance Theatre and Lasalle (School of the Arts) from 2016 - 2019 to learn and experience dance production and stage management.</p>
+<p>The TKGS Dance Club (Modern), established in 2004, includes both Ballet and Modern dance groups. Members train weekly, learning from and with each other, and have the opportunity to explore various dance styles and participate in numerous school and public performances. After four years in the TKGS Dance Club, dancers develop strong psychomotor skills, a diverse repertoire of dance techniques, and significant leadership and organizational abilities.</p> 
+
+<p>Since 2009, the TKGS Dancers have consistently excelled at the Singapore Youth Festival, showcasing exceptional performance standards and artistry. They maintain a busy schedule with regular performances at the school's Speech Day and anniversary celebrations, and in 2024, they were invited to perform by organizations such as Sengkang General Hospital Community Hearts and Our Tampines Hub.</p>
+
+<p>Additionally, some dancers have participated in the AMPLIFIED!Dancelab22: A Youth Leadership Dance Event, organized by the MOE’s Arts Education Branch in collaboration with Lasalle College of the Arts. This event provides dancers with hands-on experience in dance production and stage management. </p>
 
 <table>
 	<tbody><tr><th colspan="1">Teacher-in-Charge</th>
@@ -36,10 +38,6 @@ tr:hover {background-color: #F5F5DC;}
 	<td rowspan="1">Mdm Hu Bishi</td>
  <td><a target="" href="mailto:hu_bishi@moe.edu.sg">hu_bishi@moe.edu.sg</a></td>
 	</tr>
-		<tr>
-	<td rowspan="1">Ms Yeo Ling Seem</td>
- <td><a target="" href="mailto:yeo_ling_seem@moe.edu.sg">yeo_ling_seem@moe.edu.sg</a></td>
-	 	</tr>
 	</tbody>
 	</table>
 <table>
