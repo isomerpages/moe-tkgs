@@ -21,10 +21,7 @@ tr:hover {background-color: beige;}
 </style>
 <img src="/images/CCA/Basketball/basketball.gif">
 
-<p>Basketball is a sport that challenges the individual as well as the team. In the face of the ongoing pandemic, the CCA has evolved to suit the needs of the members, shifting between online fitness and skills training and face-to-face game sessions.</p>
-<p>The coaches and teachers also made use of different media to ensure that the aims of the CCA were not altered despite not having as many face-to-face training sessions. Values like sportsmanship, resilience and mental toughness were discussed and coaches and teachers shared their personal experiences on facing adversity.</p>
-<p>The CCA is also still making conscious efforts to maximise the exposure that each member can experience through trainings and hopefully in the near future, tournaments as well. Although at the time of writing CCA sessions are still held online, we believe that the life lessons learnt from being part of the team are valuable and will hold the members in good stead in their future.&nbsp;</p>
-<p style="text-align: right;"><strong>Mr Noor Ghazali (Teacher-in-Charge)</strong></p>
+<p>Welcome to the TKGS Netball Team's page, where passion, teamwork, and excellence converge. The TKGS Netball team embodies a community of dedicated and passionate individuals, bound by a common love for the sport and a shared commitment to excellence. Embracing the values of resilience, teamwork, and discipline, we strive to achieve a harmonious balance between academic pursuits and athletic endeavours. Our tight-knit bond extends beyond the court, fostering deep friendships and mutual support among teammates and coaches alike. Throughout the year, we engage in rigorous training sessions and competitions, constantly pushing our limits to improve and grow both individually and as a team. Our journey is marked by unwavering determination and a relentless pursuit of success, with each setback serving as a stepping stone towards greater achievements. As a team, we uphold the spirit of fair play and mutual respect in every game we play. With eyes set on the future, we remain poised to leave an indelible mark on the netball landscape, fueled by our passion and unwavering dedication to the sport we love. </p>
 
 <table>
 	<tbody>
