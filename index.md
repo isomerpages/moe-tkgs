@@ -45,7 +45,7 @@ sections:
   - infobar:
       title: Application for Financial Assistance Scheme (FAS)
       id: infobar
-      description: Application for year 2024 is now open.
+      description: Application for year 2025 is now open.
       button: Click here for more details
       url: /financial-assistance-scheme-fas/
 ---
