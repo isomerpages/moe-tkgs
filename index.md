@@ -13,6 +13,15 @@ sections:
           description: ""
           url: /useful-links/
       variant: center
+  - infopic:
+      title: Experience TKGS
+      id: infopic
+      description: Experience TKGS on 16 Nov at our in-person Open House from 9am to
+        12noon! Hear from our students and staff about our TKGS brand of
+        education.  See you then!
+      button: Click here to register
+      url: https://go.gov.sg/tkgs-ask-the-leaders
+      image: /images/Hompage/For_MOTD_and_screen.jpg
   - resources:
       title: TKGS Sparkling Moments
       button: More
