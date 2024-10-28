@@ -4,7 +4,8 @@ title: Tanjong Katong Girls' School
 description: Brief site description here
 image: /images/Hompage/2024_School_Logo_with_namev2.png
 permalink: /
-notification: ""
+notification: Experience TKGS on 16 Nov at our in-person OPEN HOUSE from 9am to
+  12noon! Scroll down to learn more!
 sections:
   - hero:
       background: /images/Hompage/Banner2024_2025v4.gif
