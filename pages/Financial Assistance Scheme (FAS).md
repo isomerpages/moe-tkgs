@@ -4,10 +4,10 @@ permalink: /financial-assistance-scheme-fas/
 variant: markdown
 description: ""
 ---
-Financial Assistance Scheme (FAS) 2025 is now open. <br>For more information, please click <a href="https://drive.google.com/file/d/1i2NWXWBG_3YvJvb1jNNNbm_lDdxPUp3J/view?usp=sharing" target="_blank" rel="noopener">here</a>.
+<p>Financial Assistance Scheme (FAS) 2025 is now open. For more information, please click <a href="https://drive.google.com/file/d/1rZ98pSP1k3LFHSZ9M0xfeR_8fYpOX-7T/view?usp=sharing" target="_blank" rel="noopener">here</a>.</p>
 
-The eligibility calculator is also available on the MOE website 
-<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank" rel="noopener">(https://www.moe.gov.sg/financial-matters/financial-assistance)</a>
+You may also use the eligibility calculator that is also available on the MOE website <br>
+<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank" rel="noopener">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
 
 <table>
 	<tbody>
@@ -22,7 +22,7 @@ The eligibility calculator is also available on the MOE website
 		</tr>
 		<tr>
 			<td><center><h4>Hardcopy Form</h4><br>
-				<a href="https://drive.google.com/file/d/1y-BOp_c9-qOxPzBv4rqPew7muIyYraV5/view?usp=sharing" target="_blank" rel="noopener">2024 MOE FAS Application Form</a></center>
+				<a href="https://drive.google.com/file/d/1ea4_Zn3n096JP7ZUP2DNWkng-a0LcPBj/view?usp=sharing" target="_blank" rel="noopener">2024 MOE FAS Application Form</a></center>
 			</td>
 		</tr>
 	</tbody>
