@@ -22,10 +22,11 @@ tr:hover {background-color: #F5F5DC;}
 
 <img src="/images/CCA/Floorball/2024_floorball.gif">
 
-<p>Our school's floorball teams have risen above challenges, turning obstacles into opportunities for growth and success. Through dedication, hard work, and a strong sense of teamwork, our teams not only grew closer together but also significantly refined their skills and strategies. This collaborative effort fostered a deeper sense of unity and camaraderie, enabling each member to contribute their best. </p>
-<p>In 2022, the ‘B’ Division team achieved an impressive feat by placing in the top 8 of the National School Games (NSG), a testament to their hard work and team spirit after a break from competitive play. The ‘C’ Division team also shone, nearly reaching the semi-finals and setting their sights on even higher achievements.</p>
-<p>Continuing their upward trajectory in 2023, both teams again ranked in the top 8 at the NSG, underscoring their dedication, teamwork, and resilience. These accomplishments reflect not just the players' skills but their ability to unite towards a common goal, overcoming any challenges thrown their way. </p>
-<p>Looking ahead to 2024, our teams are eager to surpass their previous achievements and continue making our school proud. Their journey is a powerful reminder of what can be achieved with commitment, teamwork, and a never-give-up attitude. Here's to more successes and inspiring moments from our floorball teams in the coming year! </p> 
+<p>United by a shared passion and determination, our 'C' and 'B' Division Floorball teams have excelled in recent years and are ranked among the top teams in the National School Games. This is a testament to their exceptional skills and teamwork.</p>
+
+<p>They have also consistently overcome challenges in the process of achieving remarkable success. Despite facing obstacles, they have used adversity as a catalyst for growth and improvement. </p>
+
+<p>As we look to the future, our teams remain dedicated to surpassing their previous achievements. Their journey is a reflection of the power of perseverance, collaboration, and a never-give-up spirit.</p> 
 
 <table>
 	<tbody>
