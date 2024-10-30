@@ -198,14 +198,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jayamohan Jaishe</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer (NCS DE)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Mulyadi B Kamis</p>
 </td>
 <td rowspan="1" colspan="1">
