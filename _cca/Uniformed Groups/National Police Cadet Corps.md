@@ -22,7 +22,7 @@ tr:hover {background-color: #F5F5DC;}
 
 <img src="/images/CCA/NPCC/npcclub.gif">
 
-<p>In 2023, our TKGS NPCC members continued their journey with enthusiasm and dedication, earning proficiency badges and actively participating in numerous activities organised by NPCC HQ. Looking ahead, our cadet leaders have set ambitious goals to further enhance the camaraderie and unity within our unit.</p>
+<p>Our TKGS NPCC members are full of enthusiasm and dedication, earning proficiency badges and actively participating in numerous activities organised by NPCC HQ. Looking ahead, our cadet leaders have set ambitious goals to further enhance the camaraderie and unity within our unit.</p>
 
 <p>Goal 1: Foster a Strong Sense of Belonging </p>
 
