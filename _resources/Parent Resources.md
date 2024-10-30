@@ -67,7 +67,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<h4 style="text-align: center;"><strong>Applications Forms</strong></h4>
+<h4 style="text-align: center;"><strong>School Related </strong></h4>
 <table style="margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
@@ -79,12 +79,16 @@ variant: markdown
 	</td>
 	<td style="text-align: center;">
 	<p><strong><a href="/update-of-particulars/" target="_blank" rel="noopener">Update of Particulars</a></strong></p>
-	</td>
-	</tr>
+		</td></tr><tr>
+	<td style="text-align: center;">
+		<p><strong><a href="/useful-links/booklist-uniform-bus-n-locker" target="_blank" rel="noopener">Booklist, Bus, Uniform &amp; Locker</a></strong></p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">
+	<p><strong><a href="https://www.facebook.com/TKGSPARENTLINK/" target="_blank" rel="noopener">Parentlink Facebook</a></strong></p></td>
+</tr>
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Useful Links</strong></h4>
-<p style="text-align: center;"><strong><u>MOE HPB-related</u></strong></p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr style="vertical-align: center;">
@@ -125,16 +129,6 @@ variant: markdown
 <td style="width: 33.3333%;">&nbsp;</td>
 <td style="width: 33.3333%;"><a href="https://t.me/schoolbag_edu_sg" target="_blank" rel="noopener"><img style="width: 100%;" src="/images/log7.jpg"></a></td>
 <td style="width: 33.3333%;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<p style="text-align: center;"><strong><u>School-related</u></strong></p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 33.3333%;"><a href="/useful-links/booklist-uniform-bus-n-locker" target="_blank" rel="noopener"><img src="/images/pr11.png"></a></td>
-<td style="width: 33.3333%;"><br><a href="https://sg-portal.mobileguardian.com/#/login" target="_blank" rel="noopener"><img src="/images/pr12.jpg"></a></td>
-<td style="width: 33.3333%;"><br><a href="https://www.facebook.com/TKGSPARENTLINK/" target="_blank" rel="noopener"><img src="/images/pr13.png"></a></td>
 </tr>
 </tbody>
 </table>

@@ -22,9 +22,19 @@ tr:hover {background-color: #F5F5DC;}
 
 <img src="/images/CCA/NPCC/npcclub.gif">
 
-<p>2021 is another fun-filled year for our committed members of TKGS NPCC. The cadets continue to earn their proficiency badges for the past months and participated in many activities. The cadets were quick to adapt to the new norms that came about due to the COVID-19 outbreak and displayed a high level of resilience while rising up to the challenge in their continuous show of commitment to the CCA.</p>
-<p>With COVID-19 safe management measures in mind, our Sec 4 organized a 1.5-day of non-residential Unit Bonding Camp on 16th Mar 2021 to build a greater sense of belonging in the cadets. There were various activities to bond the cadets and they got to know one another better. They also used technology to enable the ex-cadet leaders to join in the campfire virtually. For the e-CCA sessions, the squad leaders managed to keep the cadets engaged throughout all sessions.</p>
-<p>This year, we were honoured to have two cadet leaders awarded the rank of Station Inspector (SI), the highest rank a cadet can achieve for their four years in NPCC. Our Sec 4 cadet leader from 2021 SI (NPCC), Murugesan Bavithraa, was also awarded the prestigious SPF-NPCC badge which recognizes outstanding cadets with outstanding leadership qualities.</p>
+<p>In 2023, our TKGS NPCC members continued their journey with enthusiasm and dedication, earning proficiency badges and actively participating in numerous activities organised by NPCC HQ. Looking ahead, our cadet leaders have set ambitious goals to further enhance the camaraderie and unity within our unit.</p>
+
+<p>Goal 1: Foster a Strong Sense of Belonging </p>
+
+<p>Through organising a 1.5-day non-residential Unit Bonding Camp on 11 March 2024, the cadets immersed themselves in a variety of camp activities that promoted teamwork, communication, and mutual support. By fostering a greater sense of belonging, cadets will feel more connected to the unit, leading to increased morale, teamwork, and commitment.</p>
+
+<p>Goal 2: Enhance Leadership Skills</p>
+
+<p>In recognising and celebrating outstanding leadership qualities, three of our cadet leaders were awarded the prestigious SPF-NPCC Badge. Additionally, two of our cadet leaders - SI (NPCC) Audrey Lee and SI (NPCC) Simran Alexander were also deservedly awarded the rank of Station Inspector (SI), the highest rank a cadet can achieve in their four years in NPCC. Recognising and rewarding exemplary leadership not only motivates cadet leaders but also inspires other members to strive for excellence in their roles.</p>
+
+<p>The cadets also participated in various outreach programs such as sharing scam prevention tips through interactive card games with the school community. Also, they successfully organised the Annual Area Games Day to promote teamwork and friendly competition among cadets from various units. Engaging with the community not only raises awareness about important issues but also demonstrates the positive impact NPCC can have beyond the school gates, fostering goodwill and building positive relationships.</p>
+
+<p>Through these initiatives, we strive to cultivate a supportive and dynamic environment where every member can thrive and contribute to the success of our unit</p>
 
 <table>
 	<tbody>

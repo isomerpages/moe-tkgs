@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" src="/images/nts.jpg">
+<img src="/images/About_us/Non Teaching Staff/Group_Photo.jpg">
 </div>
 <p>
 <br>
@@ -191,14 +191,6 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Fazuli Bin Abdul Samad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer (NCS DE)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Jayamohan Jaishe</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer (NCS DE)</p>
