@@ -26,7 +26,6 @@ tr:hover {background-color: beige;}
 The coaches and teachers also made use of different media to ensure that the aims of the CCA were not altered despite not having as many face-to-face training sessions. Values like sportsmanship, resilience and mental toughness were discussed and coaches and teachers shared their personal experiences on facing adversity.
 
 The CCA is also still making conscious efforts to maximise the exposure that each member can experience through trainings and hopefully in the near future, tournaments as well. Although at the time of writing CCA sessions are still held online, we believe that the life lessons learnt from being part of the team are valuable and will hold the members in good stead in their future. </p>
-<p style="text-align: right;"><strong>Mr Noor Ghazali (Teacher-in-Charge)</strong></p>
 <table>
 	<tbody>
 		<tr>
