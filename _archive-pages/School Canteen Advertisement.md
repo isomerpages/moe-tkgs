@@ -11,13 +11,9 @@ variant: markdown
 			<td><b>Type of Stall</b></td>
 			<td><b>Closing Date</b></td>
 		</tr>
-	<tr>
-			<td>Chinese Cuisine (Noodle/Rice)</td>
-			<td>16 June 2024</td>
-		</tr>
 		<tr>
-			<td>Halal Noodle</td>
-			<td>16 June 2024</td>
+			<td>Halal Rice</td>
+			<td>12 Nov 2024</td>
 			</tr></tbody>
 </table>
 
