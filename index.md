@@ -48,4 +48,9 @@ sections:
       description: Application for year 2025 is now open.
       button: Click here for more details
       url: /financial-assistance-scheme-fas/
+  - infobar:
+      title: School Canteen Advertisement
+      id: infobar
+      button: Click here for more details
+      url: /announcements/canteen/
 ---
