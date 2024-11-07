@@ -91,7 +91,7 @@ Closed on Sunday and Public Holidays
 </tbody>
 </table>
 <p>Parents are strongly encourage to purchase uniforms online&nbsp;via the website (<a href="http://www.jeepsinguniform.com.sg" target="_blank" rel="noopener">http://www.jeepsinguniform.com.sg</a>)&nbsp;and have them delivered to your home. However, if you prefer to self-collect your online orders, you may do so at the retail store for school attire. Please refer to the following attachment for more information.</p>
-<p><a href="https://drive.google.com/file/d/1aYR1dzQ9HjDKtDpfXCzHbpw7iJjWbNg2/view?usp=sharing">Information on Sale of Uniforms</a></p>
+<p><a href="https://drive.google.com/file/d/1aYR1dzQ9HjDKtDpfXCzHbpw7iJjWbNg2/view?usp=sharing" target="_blank" rel="noopener">Information on Sale of Uniforms</a></p>
 </div>
 </div>
 </td>
