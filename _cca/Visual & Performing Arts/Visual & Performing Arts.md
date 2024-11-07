@@ -19,31 +19,7 @@ variant: markdown
 <td style="vertical-align: middle;" rowspan="3">Art Club</td>
 <td style="vertical-align: middle; text-align: center;">Tanjong Katong MRT Station Mural</td>
 	</tr>
-	<tr>
-<td style="vertical-align: middle; text-align: center;">Sengkang General Hospital Outpatient Ward Artwork</td>
-	</tr>
-	<tr>
-<td style="vertical-align: middle; text-align: center;">Live On Festival Design Competition<br> <b>Winner</b></td>
-</tr>
-<tr>
-<td style="vertical-align: middle;">Infocomm Technology (Media Production)</td>
-<td style="vertical-align: middle; text-align: center;">School Digital Media Award <br> Comic Category <br><b>Winner</b></td>
-</tr>
-<tr>
-<td style="vertical-align: middle;" rowspan="2">Literary &amp; Debating Society</td>
-<td style="vertical-align: middle; text-align: center;">Singapore Secondary School Debate Championship 2024 <br>Semifinals round<br>
-	<b>12th and 17th Overall Best Speaker</b></td>
-</tr>
-	<tr>
-<td style="vertical-align: middle; text-align: center;">Raffles Under-14 Debate Competition <br><b>1st, 2nd and 6th Overall Best Speaker</b></td>		
-	</tr>
-<tr>
-<td style="vertical-align: middle;" rowspan="2">Library Board</td>
-	<td style="vertical-align: middle; text-align: center;">NLB Prove It! Contest <br><b>Silver</b></td>
-</tr>
-	<tr>
-		<td style="vertical-align: middle; text-align: center;">NLB Historical Scene Investigation (H.S.I.) Challenge<br><b>Silver</b></td>
-	</tr>
+
 </tbody>
 </table>
 <h3>Singapore Youth Festival Arts Presentation 2023</h3>
