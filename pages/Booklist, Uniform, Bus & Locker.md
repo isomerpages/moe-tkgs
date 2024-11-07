@@ -8,13 +8,12 @@ variant: markdown
 <tbody>
 <tr>
 <td>
-<p style="text-align: center;"><strong><u>TKGS Booklist for 2023</u></strong></p>
+<p style="text-align: center;"><strong><u>TKGS Booklist for 2025</u></strong></p>
 </td>
 </tr>
 <tr>
 <td>
-
-<p><a href="/files/Sec%201%20Booklist%202023.pdf">Sec 1 Booklist 2023.pdf</a><br><a href="/files/Sec%202%20Booklist%202023.pdf">Sec 2 Booklist 2023.pdf</a><br><a href="/files/Sec%203%20Booklist%202023.pdf">Sec 3 Booklist 2023.pdf</a><br><a href="/files/Sec%204%20Booklist%202023.pdf">Sec 4 Booklist 2023.pdf</a></p>
+Coming soon
 </td>
 </tr>
 </tbody>
