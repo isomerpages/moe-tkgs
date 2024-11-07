@@ -19,7 +19,12 @@ variant: markdown
 <td style="vertical-align: middle;" rowspan="3">Art Club</td>
 <td style="vertical-align: middle; text-align: center;">Tanjong Katong MRT Station Mural</td>
 	</tr>
-
+	<tr>
+<td style="vertical-align: middle; text-align: center;">Sengkang General Hospital Outpatient Ward Artwork</td>
+	</tr>
+	<tr>
+<td style="vertical-align: middle; text-align: center;">Live On Festival Design Competition<br> <b>Winner</b></td>
+</tr>
 </tbody>
 </table>
 <h3>Singapore Youth Festival Arts Presentation 2023</h3>
