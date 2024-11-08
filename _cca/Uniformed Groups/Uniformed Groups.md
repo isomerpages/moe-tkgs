@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-<p>TKGS Uniformed Groups embody discipline, determination and teamwork! Our girls have performed well in the National Awards.</p>
+<p>TKGS Uniformed Groups embody discipline, determination, and teamwork. Our students develop crucial life skills including leadership, resilience and strategic thinking. Through rigorous training and learning experiences, they cultivate a strong sense of civic responsibility, character and values.</p>
 <h3>Year 2023</h3><table>
 <tbody>
 	<tr>
