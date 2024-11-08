@@ -16,7 +16,7 @@ variant: markdown
 <td style="text-align: center;"><strong>Achievements</strong></td>
 </tr>
 <tr>
-<td style="vertical-align: middle;" rowspan="3">Art Club</td>
+<td style="vertical-align: middle; text-align: center;" rowspan="3">Art Club</td>
 <td style="vertical-align: middle; text-align: center;">Tanjong Katong MRT Station Mural</td>
 	</tr>
 	<tr>
@@ -35,23 +35,23 @@ variant: markdown
 <td style="vertical-align: middle; text-align: center;"><strong>Achievements</strong></td>
 </tr>
 <tr>
-<td style="vertical-align: middle;">Choir</td>
+<td style="vertical-align: middle; text-align: center;">Choir</td>
 <td style="vertical-align: middle; text-align: center;">Certificate of Distinction</td>
 </tr>
 <tr>
-<td style="vertical-align: middle;">Dance (Modern)</td>
+<td style="vertical-align: middle; text-align: center;">Dance (Modern)</td>
 <td style="vertical-align: middle; text-align: center;">Certificate of Distinction</td>
 </tr>
 <tr>
-<td style="vertical-align: middle;">Drama</td>
+<td style="vertical-align: middle; text-align: center;">Drama</td>
 <td style="vertical-align: middle; text-align: center;">Certificate of Distinction</td>
 </tr>
 <tr>
-<td style="vertical-align: middle;">String Ensemble</td>
+<td style="vertical-align: middle; text-align: center;">String Ensemble</td>
 <td style="vertical-align: middle; text-align: center;">Certificate of Distinction</td>
 </tr>
 <tr>
-<td style="vertical-align: middle;">Symphonic Band</td>
+<td style="vertical-align: middle; text-align: center;">Symphonic Band</td>
 <td style="vertical-align: middle; text-align: center;">Certificate of Accomplishment</td>
 </tr>
 </tbody>
@@ -64,23 +64,23 @@ variant: markdown
 <td style="text-align: center;"><strong>Achievements</strong></td>
 </tr>
 <tr>
-<td style="vertical-align: middle;">Choir</td>
+<td style="vertical-align: middle; text-align: center;">Choir</td>
 <td style="vertical-align: middle; text-align: center;">Not benchmarked for SYF certification</td>
 </tr>
 <tr>
-<td style="vertical-align: middle;">Dance (Modern)</td>
+<td style="vertical-align: middle; text-align: center;">Dance (Modern)</td>
 <td style="vertical-align: middle; text-align: center;">Certificate of Distinction</td>
 </tr>
 <tr>
-<td style="vertical-align: middle;">Drama</td>
+<td style="vertical-align: middle; text-align: center;">Drama</td>
 <td style="vertical-align: middle; text-align: center;">Certificate of Distinction</td>
 </tr>
 <tr>
-<td style="vertical-align: middle;">String Ensemble</td>
+<td style="vertical-align: middle; text-align: center;">String Ensemble</td>
 <td style="vertical-align: middle; text-align: center;">Certificate of Distinction</td>
 </tr>
 <tr>
-<td style="vertical-align: middle;">Symphonic Band</td>
+<td style="vertical-align: middle; text-align: center;">Symphonic Band</td>
 <td style="vertical-align: middle; text-align: center;">Certificate of Distinction</td>
 </tr>
 </tbody>
