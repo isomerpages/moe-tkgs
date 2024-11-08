@@ -5,9 +5,7 @@ description: ""
 third_nav_title: Visual & Performing Arts
 variant: markdown
 ---
-<p>The Visual and Performing Arts CCAs aim to cultivate students' passion and interest in the Arts. Through the VPA CCAs, students not only hone and develop their artistic skills and abilities to a high standard, but also gain a deeper appreciation and understanding for the Arts.</p>
-<p>Students from the VPA CCAs participate and perform at many public concerts and events to engage with different audiences, broaden their exposure and deepen their performance skills. These include performances at some of Singapore's premiere performing arts centres.</p>
-<p>Apart from these public concerts and events, the VPA CCAs have also participated at the Singapore Youth Festival Arts Presentation and have done the school proud, each having achieved the Certificate of Distinction over the past few years.</p>
+<p>TKGS Visual and Performing Arts CCAs nurture students' artistic passion, skills, and appreciation of the arts. Through public performances at premier venues and participation in the Singapore Youth Festival Arts Presentation, our students engage diverse audiences, broaden their exposure and consistently showcase their talent and dedication to the arts.</p>
 <h3>Year 2024</h3>
 <table>
 <tbody>
