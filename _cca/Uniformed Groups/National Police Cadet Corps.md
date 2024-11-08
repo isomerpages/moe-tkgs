@@ -20,7 +20,7 @@ th, td {
 tr:hover {background-color: #F5F5DC;}
 </style>
 
-<img src="/images/CCA/NPCC/npcclub.gif">
+<img src="/images/CCA/NPCC/NPCC24.gif">
 
 <p>Our TKGS NPCC members are full of enthusiasm and dedication, earning proficiency badges and actively participating in numerous activities organised by NPCC HQ. Looking ahead, our cadet leaders have set ambitious goals to further enhance the camaraderie and unity within our unit.</p>
 
