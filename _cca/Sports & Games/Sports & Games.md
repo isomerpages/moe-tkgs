@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports & Games
 variant: markdown
 ---
-<p>Sports in TKGS imbues important values such as determination in our student-players. Our Badminton, Netball, Bowling and Softball teams have outdone themselves on many occasions at the annual National School Games.</p>
+<p>TKGS cultivates determination and excellence in our student-athletes. Our diverse teams consistently shine at the National School Games, showcasing remarkable skill and sportsmanship. Through rigorous training and competition, we nurture both athletic prowess and character, preparing our students for success on and off the field.</p>
 <h3>Year 2024</h3>
 <table>
 <tbody>
