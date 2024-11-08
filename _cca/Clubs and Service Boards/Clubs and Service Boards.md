@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Clubs and Service Boards
 ---
-Our Clubs and Service Boards CCA group cultivates diverse skills, from digital technology to community service, debate, and literacy promotion. We foster creativity, critical thinking, leadership, and social responsibility. Through varied activities, we develop well-rounded individuals prepared for future challenges whilst contributing meaningfully to our school and community.
+<p>Our Clubs and Service Boards CCA group cultivates diverse skills, from digital technology to community service, debate, and literacy promotion. We foster creativity, critical thinking, leadership, and social responsibility. Through varied activities, we develop well-rounded individuals prepared for future challenges whilst contributing meaningfully to our school and community.</p>
 
 <h3>Year 2024</h3>
 <table>
