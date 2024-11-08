@@ -90,8 +90,8 @@ Closed on Sunday and Public Holidays
 </tr>
 </tbody>
 </table>
-<p>Parents are strongly encourage to purchase uniforms online&nbsp;via the website (<a href="http://www.intrenduniforms.com/" target="_blank" rel="noopener">www.intrenduniforms.com</a>)&nbsp;and have them delivered to your home. However, if you prefer to self-collect your online orders, you may do so at the retail store for school attire. Please refer to the following attachment for more information.</p>
-<p><a href="/files/Information%20for%20Sale%20of%20Uniforms%202023_TKGS.pdf">Information for Sale of Uniforms 2023_TKGS.pdf</a></p>
+<p>Parents are strongly encourage to purchase uniforms online&nbsp;via the website (<a href="http://www.jeepsinguniform.com.sg" target="_blank" rel="noopener">http://www.jeepsinguniform.com.sg</a>)&nbsp;and have them delivered to your home. However, if you prefer to self-collect your online orders, you may do so at the retail store for school attire. Please refer to the following attachment for more information.</p>
+<p><a href="https://drive.google.com/file/d/1aYR1dzQ9HjDKtDpfXCzHbpw7iJjWbNg2/view?usp=sharing" target="_blank" rel="noopener">Information on Sale of Uniforms</a></p>
 </div>
 </div>
 </td>
