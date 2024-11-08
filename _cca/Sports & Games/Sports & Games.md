@@ -15,46 +15,46 @@ variant: markdown
 	<th style="text-align: center;">Result</th>
 		</tr>
 			<tr>
-			<td style="vertical-align: middle;">Basketball</td>
-			<td style="vertical-align: middle;">National 'C' Division School Games<br>(League 3)</td>
-			<td style="vertical-align: middle;">2nd Position</td>
+			<td style="vertical-align: middle; text-align: center;">Basketball</td>
+			<td style="vertical-align: middle; text-align: center;">National 'C' Division School Games<br>(League 3)</td>
+			<td style="vertical-align: middle; text-align: center;">2nd Position</td>
 	</tr>
 	<tr>
-			<td style="vertical-align: middle;" rowspan="2">Bowling</td>
-			<td style="vertical-align: middle;">National ‘B’ Division School Games</td>
-			<td style="vertical-align: middle;">3rd Position</td>
+			<td style="vertical-align: middle; text-align: center;" rowspan="2">Bowling</td>
+			<td style="vertical-align: middle; text-align: center;">National ‘B’ Division School Games</td>
+			<td style="vertical-align: middle; text-align: center;">3rd Position</td>
 	</tr>
 		<tr>
-			<td style="vertical-align: middle;">National ‘C’ Division School Games</td>
-			<td style="vertical-align: middle;">2nd Position</td>
+			<td style="vertical-align: middle; text-align: center;">National ‘C’ Division School Games</td>
+			<td style="vertical-align: middle; text-align: center;">2nd Position</td>
 	</tr>
 	<tr>
-			<td style="vertical-align: middle;">Floorball</td>
-			<td style="vertical-align: middle;">National School Games<br>(League 1)</td>
-			<td style="vertical-align: middle;">Champion</td>
+			<td style="vertical-align: middle; text-align: center;">Floorball</td>
+			<td style="vertical-align: middle; text-align: center;">National School Games<br>(League 1)</td>
+			<td style="vertical-align: middle; text-align: center;">Champion</td>
 	</tr>
 	<tr>
-			<td style="vertical-align: middle;" rowspan="2">Netball</td>
-			<td style="vertical-align: middle;">East Zone 'B' Division School Games</td>
-			<td style="vertical-align: middle;">2nd Position</td>
+			<td style="vertical-align: middle; text-align: center;" rowspan="2">Netball</td>
+			<td style="vertical-align: middle; text-align: center;">East Zone 'B' Division School Games</td>
+			<td style="vertical-align: middle; text-align: center;">2nd Position</td>
 	</tr>
 	<tr>
-			<td style="vertical-align: middle;">National ‘B’ Division School Games</td>
-			<td style="vertical-align: middle;">Top 8</td>
+			<td style="vertical-align: middle; text-align: center;">National ‘B’ Division School Games</td>
+			<td style="vertical-align: middle; text-align: center;">Top 8</td>
 	</tr>
 	<tr>
-			<td style="vertical-align: middle;" rowspan="2">Sailing</td>
-			<td style="vertical-align: middle;">National ‘B' Division School Games<br></td>
-			<td style="vertical-align: middle;">Champion</td>
+			<td style="vertical-align: middle; text-align: center;" rowspan="2">Sailing</td>
+			<td style="vertical-align: middle; text-align: center;">National ‘B' Division School Games<br></td>
+			<td style="vertical-align: middle; text-align: center;">Champion</td>
 	</tr>
 	<tr>
-			<td style="vertical-align: middle;">National ‘C’ Division School Games<br></td>
-			<td style="vertical-align: middle;">2nd Position</td>
+			<td style="vertical-align: middle; text-align: center;">National ‘C’ Division School Games<br></td>
+			<td style="vertical-align: middle; text-align: center;">2nd Position</td>
 	</tr>
 	<tr>
-			<td style="vertical-align: middle;">Softball</td>
-			<td style="vertical-align: middle;">National ‘C’ Division School Games<br>(League 1)</td>
-			<td style="vertical-align: middle;">4th Position</td>
+			<td style="vertical-align: middle; text-align: center;">Softball</td>
+			<td style="vertical-align: middle; text-align: center;">National ‘C’ Division School Games<br>(League 1)</td>
+			<td style="vertical-align: middle; text-align: center;">4th Position</td>
 	</tr>
 </tbody>
 </table>
@@ -62,44 +62,44 @@ variant: markdown
 <table>
 <tbody>
 <tr>
-			<td style="vertical-align: middle;">Badminton</td>
-			<td style="vertical-align: middle;">East Zone 'C' Division School Games</td>
-			<td style="vertical-align: middle;">4th Position</td>
+			<td style="vertical-align: middle; text-align: center;">Badminton</td>
+			<td style="vertical-align: middle; text-align: center;">East Zone 'C' Division School Games</td>
+			<td style="vertical-align: middle; text-align: center;">4th Position</td>
 	</tr>
 	<tr>
-			<td style="vertical-align: middle;" rowspan="2">Bowling</td>
-			<td style="vertical-align: middle;">National ‘B’ Division School Games</td>
-			<td style="vertical-align: middle;">3rd Position</td>
+			<td style="vertical-align: middle; text-align: center;" rowspan="2">Bowling</td>
+			<td style="vertical-align: middle; text-align: center;">National ‘B’ Division School Games</td>
+			<td style="vertical-align: middle; text-align: center;">3rd Position</td>
 	</tr><tr>
-			<td style="vertical-align: middle;">National ‘C’ Division School Games</td>
-			<td style="vertical-align: middle;">2nd Position</td>
+			<td style="vertical-align: middle; text-align: center;">National ‘C’ Division School Games</td>
+			<td style="vertical-align: middle; text-align: center;">2nd Position</td>
 	</tr>
 	<tr>
 			<td style="vertical-align: middle;" rowspan="4">Netball</td>
-			<td style="vertical-align: middle;">East Zone 'B' Division School Games</td>
-			<td style="vertical-align: middle;">Champion</td>
+			<td style="vertical-align: middle; text-align: center;">East Zone 'B' Division School Games</td>
+			<td style="vertical-align: middle; text-align: center;">Champion</td>
 	</tr>
 	<tr>
-			<td style="vertical-align: middle;">East Zone 'C' Division School Games</td>
-			<td style="vertical-align: middle;">4th Position</td>
+			<td style="vertical-align: middle; text-align: center;">East Zone 'C' Division School Games</td>
+			<td style="vertical-align: middle; text-align: center;">4th Position</td>
 	</tr>
 	<tr>
-			<td style="vertical-align: middle;">National ‘B’ Division School Games</td>
-			<td style="vertical-align: middle;">3rd Position</td>
+			<td style="vertical-align: middle; text-align: center;">National ‘B’ Division School Games</td>
+			<td style="vertical-align: middle; text-align: center;">3rd Position</td>
 	</tr>
 	<tr>
-			<td style="vertical-align: middle;">National ‘C’ Division School Games</td>
-			<td style="vertical-align: middle;">3rd Position</td>
+			<td style="vertical-align: middle; text-align: center;">National ‘C’ Division School Games</td>
+			<td style="vertical-align: middle; text-align: center;">3rd Position</td>
 	</tr>
 	<tr>
-			<td style="vertical-align: middle;">Sailing</td>
-			<td style="vertical-align: middle;">National ‘C’ Division School Games<br>(Optimist)</td>
-			<td style="vertical-align: middle;">2nd Position</td>
+			<td style="vertical-align: middle; text-align: center;">Sailing</td>
+			<td style="vertical-align: middle; text-align: center;">National ‘C’ Division School Games<br>(Optimist)</td>
+			<td style="vertical-align: middle; text-align: center;">2nd Position</td>
 	</tr>
 	<tr>
-			<td style="vertical-align: middle;">Softball</td>
-			<td style="vertical-align: middle;">National ‘B’ Division School Games</td>
-			<td style="vertical-align: middle;">3rd Position</td>
+			<td style="vertical-align: middle; text-align: center;">Softball</td>
+			<td style="vertical-align: middle; text-align: center;">National ‘B’ Division School Games</td>
+			<td style="vertical-align: middle; text-align: center;">3rd Position</td>
 	</tr>
 	</tbody>
 </table>
@@ -111,28 +111,28 @@ variant: markdown
 	<th style="text-align: center;">Result</th>
 		</tr>
 		<tr>
-			<td style="vertical-align: middle;"> Badminton</td>
-			<td style="vertical-align: middle;">East Zone 'B' Division School Games</td>
-			<td style="vertical-align: middle;">3rd Position</td>
+			<td style="vertical-align: middle; text-align: center;"> Badminton</td>
+			<td style="vertical-align: middle; text-align: center;">East Zone 'B' Division School Games</td>
+			<td style="vertical-align: middle; text-align: center;">3rd Position</td>
 	</tr>
 		<tr>
-			<td style="vertical-align: middle;"> Netball</td>
-			<td style="vertical-align: middle;">East Zone 'C' Division School Games</td>
-			<td style="vertical-align: middle;">Champion</td>
+			<td style="vertical-align: middle; text-align: center;">Netball</td>
+			<td style="vertical-align: middle; text-align: center;">East Zone 'C' Division School Games</td>
+			<td style="vertical-align: middle; text-align: center;">Champion</td>
 	</tr>
 	<tr>
-			<td style="vertical-align: middle;"> Softball</td>
-			<td style="vertical-align: middle;">National ‘B’ Division School Games</td>
-			<td style="text-align: middle;">4th Position</td>
+			<td style="vertical-align: middle; text-align: center;">Softball</td>
+			<td style="vertical-align: middle; text-align: center;">National ‘B’ Division School Games</td>
+			<td style="vertical-align: middle; text-align: center;">4th Position</td>
 	</tr>
 	<tr>
-			<td style="vertical-align: middle;" rowspan="2">Bowling</td>
-			<td style="vertical-align: middle;">National ‘B’ Division School Games</td>
-			<td style="vertical-align: middle;">3rd Position</td>
+			<td style="vertical-align: middle; text-align: center;" rowspan="2">Bowling</td>
+			<td style="vertical-align: middle; text-align: center;">National ‘B’ Division School Games</td>
+			<td style="vertical-align: middle; text-align: center;">3rd Position</td>
 	</tr>
 	<tr>
-		<td style="vertical-align: middle;">National ‘C’ Division School Games</td>
-			<td style="vertical-align: middle;">2nd Position</td>
+		<td style="vertical-align: middle; text-align: center;">National ‘C’ Division School Games</td>
+			<td style="vertical-align: middle; text-align: center;">2nd Position</td>
 	</tr>
 	</tbody>
 </table>
