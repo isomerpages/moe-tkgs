@@ -20,7 +20,7 @@ th, td {
 tr:hover {background-color: #F5F5DC;}
 </style>
 
-<img src="/images/CCA/Strings/strings.gif">
+<img src="/images/CCA/Strings/Strings_Nov24.gif">
 
 <p>Established in 1998 by Ms. Chua Siew Ling, the String Ensemble has grown steadily, from a very modest 10-member team to the current 40-strong ensemble.</p>
 
