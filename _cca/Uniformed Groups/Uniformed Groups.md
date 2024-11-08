@@ -14,18 +14,18 @@ variant: markdown
 	<th style="text-align: center;">Result</th>
 		</tr>
 		<tr>
-			<td style="vertical-align: middle;">Girl Guides</td>
-			<td style="vertical-align: middle;">Puan Noor Aisha Award</td>
-			<td style="vertical-align: middle;">Gold</td>
+			<td style="vertical-align: middle; text-align: center;">Girl Guides</td>
+			<td style="vertical-align: middle; text-align: center;">Puan Noor Aisha Award</td>
+			<td style="vertical-align: middle; text-align: center;">Gold</td>
 	</tr><tr>
-			<td style="vertical-align: middle;">National Police Cadet Corp</td>
-			<td style="vertical-align: middle;">Unit Overall Proficiency Award</td>
-			<td style="vertical-align: middle;">Distinction</td>
+			<td style="vertical-align: middle; text-align: center;">National Police Cadet Corp</td>
+			<td style="vertical-align: middle; text-align: center;">Unit Overall Proficiency Award</td>
+			<td style="vertical-align: middle; text-align: center;">Distinction</td>
 	</tr>
 	<tr>
-			<td style="vertical-align: middle;">Red Cross Youth</td>
-			<td style="vertical-align: middle;">Excellent Unit Award</td>
-			<td style="vertical-align: middle;">Gold</td>
+			<td style="vertical-align: middle; text-align: center;">Red Cross Youth</td>
+			<td style="vertical-align: middle; text-align: center;">Excellent Unit Award</td>
+			<td style="vertical-align: middle; text-align: center;">Gold</td>
 	</tr>
 	</tbody>
 </table>
@@ -37,18 +37,18 @@ variant: markdown
 	<th style="text-align: center;">Result</th>
 		</tr>
 		<tr>
-			<td style="vertical-align: middle;">Girl Guides</td>
-			<td style="vertical-align: middle;">Puan Noor Aisha Award</td>
-			<td style="vertical-align: middle;">Gold</td>
+			<td style="vertical-align: middle; text-align: center;">Girl Guides</td>
+			<td style="vertical-align: middle; text-align: center;">Puan Noor Aisha Award</td>
+			<td style="vertical-align: middle; text-align: center;">Gold</td>
 	</tr><tr>
-			<td>National Police Cadet Corp</td>
+			<td style="vertical-align: middle; text-align: center;">National Police Cadet Corp</td>
 			<td style="vertical-align: middle;">Unit Overall Proficiency Award</td>
-			<td style="vertical-align: middle;">Distinction</td>
+			<td style="vertical-align: middle; text-align: center;">Distinction</td>
 	</tr>
 	<tr>
-			<td style="vertical-align: middle;">Red Cross Youth</td>
-			<td style="vertical-align: middle;">Excellent Unit Award</td>
-			<td style="vertical-align: middle;">Gold</td>
+			<td style="vertical-align: middle; text-align: center;">Red Cross Youth</td>
+			<td style="vertical-align: middle; text-align: center;">Excellent Unit Award</td>
+			<td style="vertical-align: middle; text-align: center;">Gold</td>
 	</tr>
 	</tbody>
 </table>
@@ -60,18 +60,18 @@ variant: markdown
 	<th style="text-align: center;">Result</th>
 		</tr>
 		<tr>
-			<td style="vertical-align: middle;">Girl Guides</td>
-			<td style="vertical-align: middle;">Puan Noor Aisha Award</td>
-			<td style="vertical-align: middle;">Gold</td>
+			<td style="vertical-align: middle; text-align: center;">Girl Guides</td>
+			<td style="vertical-align: middle; text-align: center;">Puan Noor Aisha Award</td>
+			<td style="vertical-align: middle; text-align: center;">Gold</td>
 	</tr><tr>
-			<td style="vertical-align: middle;">National Police Cadet Corp</td>
-			<td style="vertical-align: middle;">Unit Overall Proficiency Award</td>
-			<td style="vertical-align: middle;">Gold</td>
+			<td style="vertical-align: middle; text-align: center;">National Police Cadet Corp</td>
+			<td style="vertical-align: middle; text-align: center;">Unit Overall Proficiency Award</td>
+			<td style="vertical-align: middle; text-align: center;">Gold</td>
 	</tr>
 	<tr>
-			<td style="vertical-align: middle;">Red Cross Youth</td>
-			<td style="vertical-align: middle;">Excellent Unit Award</td>
-			<td style="vertical-align: middle;">Sliver</td>
+			<td style="vertical-align: middle; text-align: center;">Red Cross Youth</td>
+			<td style="vertical-align: middle; text-align: center;">Excellent Unit Award</td>
+			<td style="vertical-align: middle; text-align: center;">Sliver</td>
 	</tr>
 	</tbody>
 </table>
