@@ -75,7 +75,7 @@ variant: markdown
 			<td style="vertical-align: middle; text-align: center;">2nd Position</td>
 	</tr>
 	<tr>
-			<td style="vertical-align: middle;" rowspan="4">Netball</td>
+			<td style="vertical-align: middle; text-align: center;" rowspan="4">Netball</td>
 			<td style="vertical-align: middle; text-align: center;">East Zone 'B' Division School Games</td>
 			<td style="vertical-align: middle; text-align: center;">Champion</td>
 	</tr>
@@ -90,11 +90,6 @@ variant: markdown
 	<tr>
 			<td style="vertical-align: middle; text-align: center;">National ‘C’ Division School Games</td>
 			<td style="vertical-align: middle; text-align: center;">3rd Position</td>
-	</tr>
-	<tr>
-			<td style="vertical-align: middle; text-align: center;">Sailing</td>
-			<td style="vertical-align: middle; text-align: center;">National ‘C’ Division School Games<br>(Optimist)</td>
-			<td style="vertical-align: middle; text-align: center;">2nd Position</td>
 	</tr>
 	<tr>
 			<td style="vertical-align: middle; text-align: center;">Softball</td>
