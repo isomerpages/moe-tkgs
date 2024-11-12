@@ -43,15 +43,6 @@ variant: markdown
 			<td style="vertical-align: middle; text-align: center;">Top 8</td>
 	</tr>
 	<tr>
-			<td style="vertical-align: middle; text-align: center;" rowspan="2">Sailing</td>
-			<td style="vertical-align: middle; text-align: center;">National ‘B' Division School Games<br></td>
-			<td style="vertical-align: middle; text-align: center;">Champion</td>
-	</tr>
-	<tr>
-			<td style="vertical-align: middle; text-align: center;">National ‘C’ Division School Games<br></td>
-			<td style="vertical-align: middle; text-align: center;">2nd Position</td>
-	</tr>
-	<tr>
 			<td style="vertical-align: middle; text-align: center;">Softball</td>
 			<td style="vertical-align: middle; text-align: center;">National ‘C’ Division School Games<br>(League 1)</td>
 			<td style="vertical-align: middle; text-align: center;">4th Position</td>
