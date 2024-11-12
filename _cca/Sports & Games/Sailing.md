@@ -20,7 +20,7 @@ th, td {
 tr:hover {background-color: #F5F5DC;}
 </style>
 
-<img src="/images/CCA/Sailing/sailing.gif">
+<img src="/images/CCA/Sailing/Sailing_Nov24.gif">
 
 <p>Sailing fosters a wide range of physical and mental abilities such as physical fitness, self confidence, alertness and focus. Trainings and participation in regattas have helped us to also develop our agility, concentration and communication skills. A sailor faces challenges in every training and regatta, be it rigging up our boats into and out of the sea, or improving our sailing techniques under the scorching sun. However, these challenges enable us to constantly improve our physical and mental attributes.</p>
 
