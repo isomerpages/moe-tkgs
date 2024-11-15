@@ -15,7 +15,7 @@ variant: markdown
 
 <img src="/images/Sparkling_Moment/2024/EOY_SW2.png">
 
-<p>For the Secondary Three students, some highlights included a dialect workshop so as to serve the community better. Classes also took a trip th Sentosa for a spot of class bonding as they built sandcastles together.</p>
+<p>For the Secondary Three students, some highlights included a dialect workshop so as to serve the community better and a class trip to Sentosa for a spot of class bonding as they built sandcastles together.</p>
 
 <img src="/images/Sparkling_Moment/2024/EOY_SW3.png">
 
