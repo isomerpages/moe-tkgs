@@ -15,7 +15,7 @@ variant: markdown
 
 <img src="/images/Sparkling_Moment/2024/EOY_SW2.png">
 
-<p>For the secondary three students, the focus was on personal growth and community service. They participated in transformative programs like the Do You MIND program and the Dialect Workshop, while also enjoying the physical and mental benefits of Tchoukball. And who could forget the iconic sandcastle-building adventure at Sentosa, where Mr. Ang Wee Jin once again claimed the title of "Mer-man"!</p>
+<p>For the Secondary Three students, the focus was on personal growth and community service. They participated in transformative programs like the Do You MIND program and the Dialect Workshop, while also enjoying the physical and mental benefits of Tchoukball. And who could forget the iconic sandcastle-building adventure at Sentosa, where Mr. Ang Wee Jin once again claimed the title of "Mer-man"!</p>
 
 <img src="/images/Sparkling_Moment/2024/EOY_SW3.png">
 
