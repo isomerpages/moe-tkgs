@@ -28,7 +28,7 @@ third_nav_title: Clubs and Service Boards
 	</tr>
 <tr>
 <td style="vertical-align: middle; text-align: center;" rowspan="2">Library Board</td>
-	<td style="vertical-align: middle; text-align: center;">NLB Prove It! Contest <br><b>Silver</b></td>
+	<td style="vertical-align: middle; text-align: center;">NLB Prove It! Contest <br><b>Gold</b></td>
 </tr>
 	<tr>
 		<td style="vertical-align: middle; text-align: center;">NLB Historical Scene Investigation (H.S.I.) Challenge<br><b>Silver</b></td>
