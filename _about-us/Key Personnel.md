@@ -113,11 +113,6 @@ variant: markdown
 <td><a href="mailto:chung_tai_wei_david@moe.edu.sg" target="">chung_tai_wei_david@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Mr Mohamed Firdaus</td>
-<td>Subject Head / English Literature</td>
-<td><a href="mailto:mohamed_firdaus@moe.edu.sg" target="">mohamed_firdaus@moe.edu.sg</a></td>
-</tr>
-<tr>
 <td>Mdm Jenny Lim</td>
 <td>Subject Head / Discipline</td>
 <td><a href="mailto:lim_boo_poh_mui@moe.edu.sg" target="">lim_boo_poh_mui@moe.edu.sg</a></td>
@@ -150,7 +145,6 @@ variant: markdown
 </tbody>
 </table>
 <p></p>
-<img src="/images/About_us/Key_personnel/Teacher_Leader_2024.png">
 <h3><strong>Teacher Leaders</strong></h3>
 <table>
 <tbody>
@@ -163,6 +157,11 @@ variant: markdown
 <td>Ms Sultana Rahman</td>
 <td>Lead Teacher</td>
 <td><a href="mailto:sultana_rahman@moe.edu.sg" target="">sultana_rahman@moe.edu.sg</a></td>
+</tr>
+	<tr>
+		<td>Mr Mohamed Firdaus</td>
+		<td>Lead Teacher / Literature</td>
+		<td><a href="mailto:mohamed_firdaus@moe.edu.sg" target="">mohamed_firdaus@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td>Mdm Adela Chee</td>
