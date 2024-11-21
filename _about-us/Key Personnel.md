@@ -154,12 +154,12 @@ variant: markdown
 		<td><a href="mailto:siti_munira_haidad_ali@moe.edu.sg" target="">siti_munira_haidad_ali@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Mdm Adela Chee</td>
+<td>Ms Chee Kwek Khue, Adela</td>
 <td>Senior Teacher / Chinese Language</td>
 <td><a href="mailto:chee_kwek_khuen_adela@moe.edu.sg" target="">chee_kwek_khuen_adela@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Mdm Nur Ashikin Sapri</td>
+<td>Mdm Nur Ashikin Binte Sapri</td>
 <td>Senior Teacher / Malay Language</td>
 <td><a href="mailto:nur_ashikin_sapri@moe.edu.sg" target="">nur_ashikin_sapri@moe.edu.sg</a></td>
 </tr>
