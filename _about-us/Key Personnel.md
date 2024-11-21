@@ -122,15 +122,15 @@ variant: markdown
 <td>Subject Head / CCE</td>
 <td><a href="mailto:neo_xuanpei@moe.edu.sg" target="">neo_xuanpei@moe.edu.sg</a></td>
 </tr>
+		<tr>
+<td>Mr Lim Kian Long, Kaleb</td>
+<td>Subject Head / Geography</td>
+<td><a href="mailto:lim_kian_long@moe.edu.sg" target="">lim_kian_long@moe.edu.sg</a></td>
+</tr>
 <tr>
 <td>Ms Du Tongtong</td>
 <td>Subject Head / Social Studies</td>
 <td><a href="mailto:du_tongtong@moe.edu.sg" target="">du_tongtong@moe.edu.sg</a></td>
-</tr>
-	<tr>
-<td>Mr Lim Kian Long, Kaleb</td>
-<td>Subject Head / Geography</td>
-<td><a href="mailto:lim_kian_long@moe.edu.sg" target="">lim_kian_long@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td>Ms Tan Hui Lan</td>
