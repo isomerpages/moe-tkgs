@@ -53,7 +53,7 @@ variant: markdown
 <td><a href="mailto:goh_poh_hong_patricia@moe.edu.sg" target="">goh_poh_hong_patricia@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Ms Joyce Tang Jia Hui</td>
+<td>Ms Tang Jia Hui, Joyce</td>
 <td>HOD / Mother Tongue</td>
 <td><a href="mailto:tang_jia_hui_joyce@moe.edu.sg" target="">tang_jia_hui_joyce@moe.edu.sg</a></td>
 </tr>
