@@ -113,7 +113,7 @@ variant: markdown
 <td><a href="mailto:chung_tai_wei_david@moe.edu.sg" target="">chung_tai_wei_david@moe.edu.sg</a></td>
 </tr>
 	<tr>
-<td>Mr Mohamed Firdaus</td>
+<td>Mr Mohamed Firdaus Bin Mohamed Sukor</td>
 <td>Subject Head / English Literature</td>
 <td><a href="mailto:mohamed_firdaus@moe.edu.sg" target="">mohamed_firdaus@moe.edu.sg</a></td>
 </tr>
