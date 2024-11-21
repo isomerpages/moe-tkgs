@@ -20,7 +20,7 @@ th, td {
 tr:hover {background-color: #F5F5DC;}
 </style>
 
-<img src="/images/CCA/Library_Board/Lib_2024.gif">
+<img src="/images/CCA/Library_Board/Lib_Nov24.gif">
 
 <p>The Library Board is committed to promoting a strong reading culture and supporting the teaching and learning needs of the school.</p>
  
