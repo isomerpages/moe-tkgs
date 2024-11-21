@@ -123,11 +123,6 @@ variant: markdown
 <td><a href="mailto:neo_xuanpei@moe.edu.sg" target="">neo_xuanpei@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Mr Chung Tai Wei, David</td>
-<td>Subject Head / Partnerships</td>
-<td><a href="mailto:chung_tai_wei_david@moe.edu.sg" target="">chung_tai_wei_david@moe.edu.sg</a></td>
-</tr>
-<tr>
 <td>Ms Du Tongtong</td>
 <td>Subject Head / Social Studies</td>
 <td><a href="mailto:du_tongtong@moe.edu.sg" target="">du_tongtong@moe.edu.sg</a></td>
