@@ -62,6 +62,11 @@ variant: markdown
 <td>HOD / PE &amp; CCA</td>
 <td><a href="mailto:Ng_We_Keat@moe.edu.sg" target="">ng_we_keat@moe.edu.sg</a></td>
 </tr>
+	<tr>
+<td>Mr Goh Khoon Song, Aloysius</td>
+<td>HOD / ICT</td>
+<td><a href="mailto:goh_khoon_song@moe.edu.sg" target="">goh_khoon_song@moe.edu.sg</a></td>
+</tr>
 <tr>
 <td>Mr Lim Chee Kung, Zachary</td>
 <td>HOD / CCE</td>
@@ -103,16 +108,21 @@ variant: markdown
 <td><a href="mailto:angie_ang_pheck_san@moe.edu.sg" target="">angie_ang_pheck_san@moe.edu.sg</a></td>
 </tr>
 	<tr>
+<td>Mr Chung Tai Wei, David</td>
+<td>Assistant Year Head</td>
+<td><a href="mailto:chung_tai_wei_david@moe.edu.sg" target="">chung_tai_wei_david@moe.edu.sg</a></td>
+</tr>
+	<tr>
+<td>Mr Mohamed Firdaus</td>
+<td>Subject Head / English Literature</td>
+<td><a href="mailto:mohamed_firdaus@moe.edu.sg" target="">mohamed_firdaus@moe.edu.sg</a></td>
+</tr>
+	<tr>
 <td>Ms Neo Xuanpei, Madeline</td>
 <td>Subject Head / CCE</td>
 <td><a href="mailto:neo_xuanpei@moe.edu.sg" target="">neo_xuanpei@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Mr Lim Kian Long, Kaleb</td>
-<td>Subject Head / Educational Technology (Edutech)</td>
-<td><a href="mailto:lim_kian_long@moe.edu.sg" target="">	lim_kian_long@moe.edu.sg </a></td>
-</tr>
-	<tr>
 <td>Mr Chung Tai Wei, David</td>
 <td>Subject Head / Partnerships</td>
 <td><a href="mailto:chung_tai_wei_david@moe.edu.sg" target="">chung_tai_wei_david@moe.edu.sg</a></td>
@@ -120,7 +130,12 @@ variant: markdown
 <tr>
 <td>Ms Du Tongtong</td>
 <td>Subject Head / Social Studies</td>
-<td><a href="mailto:du_tongtong@moe.edu.sg" target="">du_tongtong@moe.edu.sg </a></td>
+<td><a href="mailto:du_tongtong@moe.edu.sg" target="">du_tongtong@moe.edu.sg</a></td>
+</tr>
+	<tr>
+<td>Mr Lim Kian Long, Kaleb</td>
+<td>Subject Head / Geography</td>
+<td><a href="mailto:lim_kian_long@moe.edu.sg" target="">lim_kian_long@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td>Ms Tan Hui Lan</td>
@@ -149,11 +164,6 @@ variant: markdown
 <td><a href="mailto:sultana_rahman@moe.edu.sg" target="">sultana_rahman@moe.edu.sg</a></td>
 </tr>
 	<tr>
-		<td>Dr Siti Munira Bte Haidad Ali</td>
-		<td>Senior Teacher / Chemistry</td>
-		<td><a href="mailto:siti_munira_haidad_ali@moe.edu.sg" target="">siti_munira_haidad_ali@moe.edu.sg</a></td>
-</tr>
-<tr>
 <td>Ms Chee Kwek Khue, Adela</td>
 <td>Senior Teacher / Chinese Language</td>
 <td><a href="mailto:chee_kwek_khuen_adela@moe.edu.sg" target="">chee_kwek_khuen_adela@moe.edu.sg</a></td>
