@@ -113,19 +113,14 @@ variant: markdown
 <td><a href="mailto:chung_tai_wei_david@moe.edu.sg" target="">chung_tai_wei_david@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Mdm Jenny Lim</td>
-<td>Subject Head / Discipline</td>
-<td><a href="mailto:lim_boo_poh_mui@moe.edu.sg" target="">lim_boo_poh_mui@moe.edu.sg</a></td>
+<td>Mr Kaleb Lim Kian Long</td>
+<td>Subject Head / Educational Technology (Edutech)</td>
+<td><a href="mailto:lim_kian_long@moe.edu.sg" target="">	lim_kian_long@moe.edu.sg </a></td>
 </tr>
 <tr>
 <td>Ms Du Tongtong</td>
 <td>Subject Head / Social Studies</td>
 <td><a href="mailto:du_tongtong@moe.edu.sg" target="">du_tongtong@moe.edu.sg </a></td>
-</tr>
-<tr>
-<td>Mr Kaleb Lim Kian Long</td>
-<td>Subject Head / Geography</td>
-<td><a href="mailto:	lim_kian_long@moe.edu.sg" target="">	lim_kian_long@moe.edu.sg </a></td>
 </tr>
 <tr>
 <td>Ms Neo Xuanpei Madeline</td>
@@ -155,22 +150,22 @@ variant: markdown
 </tr>
 <tr>
 <td>Ms Sultana Rahman</td>
-<td>Lead Teacher</td>
+<td>Lead Teacher / Physics</td>
 <td><a href="mailto:sultana_rahman@moe.edu.sg" target="">sultana_rahman@moe.edu.sg</a></td>
 </tr>
 	<tr>
-		<td>Mr Mohamed Firdaus</td>
-		<td>Lead Teacher / Literature</td>
-		<td><a href="mailto:mohamed_firdaus@moe.edu.sg" target="">mohamed_firdaus@moe.edu.sg</a></td>
+		<td>Dr Siti Munira Bte Haidad Ali</td>
+		<td>Senior Teacher / Chemistry</td>
+		<td><a href="mailto:siti_munira_haidad_ali@moe.edu.sg" target="">siti_munira_haidad_ali@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td>Mdm Adela Chee</td>
-<td>Senior Teacher</td>
+<td>Senior Teacher / Chinese Language</td>
 <td><a href="mailto:chee_kwek_khuen_adela@moe.edu.sg" target="">chee_kwek_khuen_adela@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td>Mdm Nur Ashikin Sapri</td>
-<td>Senior Teacher</td>
+<td>Senior Teacher / Malay Language</td>
 <td><a href="mailto:nur_ashikin_sapri@moe.edu.sg" target="">nur_ashikin_sapri@moe.edu.sg</a></td>
 </tr>
 </tbody>
