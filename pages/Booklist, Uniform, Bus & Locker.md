@@ -207,7 +207,7 @@ Singapore 569628</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Locker Service Provider and Information</p>
+	<h3>Locker Service Provider and Information</h3>
 </th>
 </tr>
 <tr>
