@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h3>Booklist 2025</h3>
-<p>Select your academic level to download the booklist.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Secondary 1</p>
