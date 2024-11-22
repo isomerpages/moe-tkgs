@@ -184,7 +184,7 @@ Singapore 569628</p>
 <p>Email Address:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tkbschua@singnet.com.sg</a>
+<p><a href="mailto:tkbschua@singnet.com.sg" target="">tkbschua@singnet.com.sg</a>
 </p>
 </td>
 </tr>
@@ -223,7 +223,7 @@ Singapore 569628</p>
 <p>Email Address:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">rent@lockerandlock.com</a>
+<p><a href="mailto:rent@lockerandlock.com" target="">rent@lockerandlock.com</a>
 </p>
 </td>
 </tr>
