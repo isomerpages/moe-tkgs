@@ -146,7 +146,7 @@ Singapore 569628</p>
 <p>Attachment from Supplier</p>
 </td>
 <td rowspan="1" colspan="1">
-	<a href="https://drive.google.com/file/d/1-K5IK4MpTwxhtJMT2gxFQSlHet7IOIr0/view?usp=sharing" target="_blank" rel="noopener"></a><a href="https://drive.google.com/file/d/1-K5IK4MpTwxhtJMT2gxFQSlHet7IOIr0/view?usp=sharing" target="_blank" rel="noopener">Information on Sale of Uniform 2025</a>
+	<a href="https://drive.google.com/file/d/1-K5IK4MpTwxhtJMT2gxFQSlHet7IOIr0/view?usp=sharing" target="_blank" rel="noopener">Information on Sale of Uniform 2025</a>
 </td>
 </tr>
 </tbody>
@@ -193,7 +193,7 @@ Singapore 569628</p>
 <p>Application Form:</p>
 </td>
 <td rowspan="1" colspan="1">
-<a href="https://drive.google.com/file/d/1-K5IK4MpTwxhtJMT2gxFQSlHet7IOIr0/view?usp=sharing" target="_blank" rel="noopener">TKGS School Bus Form 2025</a>
+<a href="https://drive.google.com/file/d/1-K5IK4MpTwxhtJMT2gxFQSlHet7IOIr0/view?usp=drive_link" target="_blank" rel="noopener">TKGS School Bus Form 2025</a>
 </td>
 </tr>
 </tbody>
