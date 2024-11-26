@@ -12,8 +12,8 @@ variant: markdown
 			<td><b>Closing Date</b></td>
 		</tr>
 		<tr>
-			<td>Halal Rice</td>
-			<td>12 Nov 2024</td>
+			<td>Chinese Cuisine (Noodle/Rice)</td>
+			<td>13 Dec 2024</td>
 			</tr></tbody>
 </table>
 
