@@ -51,16 +51,17 @@ Day.</p>
 </li>
 </ol>
 <ol start="7" data-tight="true" class="tight">
-<li>
-<p>To facilitate our consideration of your appeal, please have the following
-documents in softcopy before submitting this&nbsp;<a href="https://form.gov.sg/66d68e60485ca1de71526691" rel="noopener noreferrer nofollow" target="_blank">form</a>&nbsp;</p>
-</li>
+    <li>
+        <p>To facilitate our consideration of your appeal, please have the following
+        documents in softcopy before submitting this <a href="https://form.gov.sg/66d68e60485ca1de71526691" rel="noopener noreferrer nofollow" target="_blank">form</a>:</p>
+        <ol type="a" start="a">
+            <li>PSLE Result Slip</li>
+            <li>Copies of P5 and P6 result slips from Primary School</li>
+            <li>Copies of CCA Records</li>
+            <li>Other relevant documents</li>
+        </ol>
+    </li>
 </ol>
-<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PSLE Result Slip</p>
-<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Copies of P5 and P6 result slips from
-Primary School</p>
-<p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Copies of CCA Records</p>
-<p>d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Other relevant documents</p>
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p>More information on admission matters can be found&nbsp;<a href="https://www.moe.gov.sg/faq?categoryid=C547D6C3F9584A80B5634874DBD4423B" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
