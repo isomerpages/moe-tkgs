@@ -7,8 +7,8 @@ variant: markdown
 ---
 <p><strong><u>APPEAL FOR ADMISSION TO TKGS – SEC 1 2025</u></strong>
 </p>
-<p><strong>Please read the following instructions carefully before submitting an
-appeal application:</strong></p>
+<p>Please read the following instructions carefully before submitting an
+appeal application:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>The appeal for admission to TKGS opens on XX Dec 2024 and closes on XX
