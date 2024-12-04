@@ -3,7 +3,7 @@ title: Appeal Process for Sec 1 Admission
 permalink: /resources/admission/appeal-process-for-sec-1-admission/
 description: ""
 third_nav_title: Admission
-variant: markdown
+variant: tiptap
 ---
 <p><strong><u>APPEAL FOR ADMISSION TO TKGS – SEC 1 2025</u></strong>
 </p>
@@ -16,7 +16,6 @@ Dec 2024 at 5 p.m. Please note that late or incomplete applications will
 not be considered.</p>
 </li>
 </ol>
-
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>Students appealing for admission to TKGS after the release of the Secondary
@@ -57,12 +56,11 @@ Day.</p>
 documents in softcopy before submitting this&nbsp;<a href="https://form.gov.sg/66d68e60485ca1de71526691" rel="noopener noreferrer nofollow" target="_blank">form</a>&nbsp;</p>
 </li>
 </ol>
-<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PSLE Result Slip
-</p><p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Copies of P5 and P6 result slips from
+<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PSLE Result Slip</p>
+<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Copies of P5 and P6 result slips from
 Primary School</p>
 <p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Copies of CCA Records</p>
 <p>d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Other relevant documents</p>
-
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p>More information on admission matters can be found&nbsp;<a href="https://www.moe.gov.sg/faq?categoryid=C547D6C3F9584A80B5634874DBD4423B" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
