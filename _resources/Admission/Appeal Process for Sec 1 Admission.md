@@ -54,12 +54,12 @@ Day.</p>
     <li>
         <p>To facilitate our consideration of your appeal, please have the following
         documents in softcopy before submitting this <a href="https://form.gov.sg/66d68e60485ca1de71526691" rel="noopener noreferrer nofollow" target="_blank">form</a>:</p>
-        <ol type="a">
+        <ul>
             <li>PSLE Result Slip</li>
             <li>Copies of P5 and P6 result slips from Primary School</li>
             <li>Copies of CCA Records</li>
             <li>Other relevant documents</li>
-        </ol>
+        </ul>
     </li>
 </ol>
 <ol start="8" data-tight="true" class="tight">
