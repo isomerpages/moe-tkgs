@@ -11,7 +11,7 @@ variant: markdown
 appeal application:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>The appeal for admission to TKGS opens on XX Dec 2024 and closes on XX
+<p>The appeal for admission to TKGS opens on 18 Dec 2024 and closes on 20
 Dec 2024 at 5 p.m. Please note that late or incomplete applications will
 not be considered.</p>
 </li>
