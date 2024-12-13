@@ -13,6 +13,13 @@ sections:
           description: ""
           url: /useful-links/
       variant: center
+  - infobar:
+      title: Secondary 1 Posting Exercise
+      id: infobar
+      description: The Sec 1 posting results will be released on 18 December 2024 via
+        online, SMS and through the primary school.
+      button: Click here for more information
+      url: /resources/admission/sec-1-admission/
   - resources:
       title: TKGS Sparkling Moments
       button: More
