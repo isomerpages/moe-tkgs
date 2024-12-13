@@ -63,16 +63,17 @@ at a more Demanding Level </td>
 </table>
 <h4>Information for Sec 1 TKGS Students </h4>
     <table border="1" style="border-collapse: collapse; width: 100%; border: 2px solid black;">
-        <tbody><tr>
+        <tbody>
+				<tr>
             <td>Your teachers: </td>
-            <td>FTs, SD Team, SMC
-        </td></tr>
+            <td>FTs, SD Team, SMC </td>
+				</tr>
         <tr>
             <td>What to expect at TKGS: </td>
             <td>Our School Day, Tone &amp; Expectations, Booklist, uniform etc </td>
         </tr>
         <tr>
-            <td>FAQs &amp; Contact Information:  </td>
+            <td>FAQs &amp; Contact Information: </td>
             <td>FAQs, Contact Information </td>
         </tr>
     </tbody></table>
