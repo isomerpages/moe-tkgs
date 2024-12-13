@@ -70,9 +70,9 @@ at a more Demanding Level </td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1TmPwa5mDSrZs_1GR2NtftPvZAOgPOlAe/view?usp=sharing" target="_blank" rel="noopener"><strong>2025 TKGS Student Development Team</strong></a></td>
 </tr>
 <tr>
-<td style="vertical-align: middle;"><a href="https://drive.google.com/file/d/1wGSJJV8t9qsFgG0B4PFCr3VZJ73I5J5k/view?usp=drive_link" target="_blank" rel="noopener"><strong>Our School Day</strong></a></td>
-<td style="vertical-align: middle;"><a href="https://drive.google.com/file/d/1zavr-oNUcbLYTMBWJ3DOApw4xIvvbByR/view?usp=sharing" target="_blank" rel="noopener"><img src="/images/sec1.jpg"></a></td>
-<td style="vertical-align: middle;"><a href="https://drive.google.com/file/d/1nlZD4cDrYWnrPmmCdUXEmMZCXkkcNPu7/view?usp=sharing" target="_blank" rel="noopener"><strong>Tone and Expectations</strong></a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1wGSJJV8t9qsFgG0B4PFCr3VZJ73I5J5k/view?usp=drive_link" target="_blank" rel="noopener"><strong>Our School Day</strong></a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1zavr-oNUcbLYTMBWJ3DOApw4xIvvbByR/view?usp=sharing" target="_blank" rel="noopener"><img src="/images/sec1.jpg"></a></td>
+<td style="text-align: center;;"><a href="https://drive.google.com/file/d/1nlZD4cDrYWnrPmmCdUXEmMZCXkkcNPu7/view?usp=sharing" target="_blank" rel="noopener"><strong>Tone and Expectations</strong></a></td>
 </tr>
 <tr>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1hSla0notNjtOO2N50KXDo4HOBftFzoCj/view?usp=sharing" target="_blank" rel="noopener"><strong>FAQs</strong></a></td>
