@@ -70,7 +70,7 @@ at a more Demanding Level </td>
 		</tr>
 		<tr>
 			<td>What to expect at TKGS: </td>
-			<td>Our School Day, Tone &amp; Expectations, Booklist, uniform etc </td>
+			<td>Our School Day, Tone and Expectations, Booklist, uniform etc </td>
 		</tr>
 		<tr>
 			<td>FAQs &amp; Contact Information: </td>
