@@ -4,6 +4,8 @@ permalink: /s1-registration/registration/
 variant: markdown
 description: ""
 ---
+Welcome to our TKGS Family! Please find below the required forms that you will need to fill out. We have also prepared some general information on what going to school at TKGS is like. We look forward to meeting you online on 20 Dec for our registration briefing!
+
 <h4>Compulsory Forms to be Completed</h4>
 <table border="1" style="border-collapse: collapse; width: 100%; border: 2px solid black;">
     <tbody>
@@ -58,4 +60,21 @@ at a more Demanding Level </td>
             <td style="text-align: center; vertical-align: middle;">Click <a href="https://drive.google.com/file/d/1lrWj9SGaqvXPSLrDTGxhvn8lwWgBr5-u/view?usp=sharing" target="_blank" rel="noopener">here</a> for more information on our MEP.</td>
         </tr>
     </tbody>
+</table>
+<h4>Information for Sec 1 TKGS Students </h4>
+<table border="1" style="border-collapse: collapse; width: 100%; border: 2px solid black;">
+	<tbody>
+		<tr>
+			<td>Your teachers: </td>
+			<td><a href="https://drive.google.com/file/d/10PpkMgBXvNrYXh06X4EJEg65bxCiIffc/view?usp=sharing" target="_blank" rel="noopener">Sec One Form Teachers</a>, <a href="https://drive.google.com/file/d/1TmPwa5mDSrZs_1GR2NtftPvZAOgPOlAe/view?usp=sharing" target="_blank" rel="noopener">Student Development Team</a>, <a href="https://drive.google.com/file/d/1a9BS3cHTObu_yzPJuF81_y_a4aBPjgUu/view?usp=sharing" target="_blank" rel="noopener">School Management Committee</a> </td>
+		</tr>
+		<tr>
+			<td>What to expect at TKGS: </td>
+			<td><a href="https://drive.google.com/file/d/1zavr-oNUcbLYTMBWJ3DOApw4xIvvbByR/view?usp=sharing" target="_blank" rel="noopener">A Message to Our Sec One TKGians</a>, <a href="https://drive.google.com/file/d/1wGSJJV8t9qsFgG0B4PFCr3VZJ73I5J5k/view?usp=drive_link" target="_blank" rel="noopener">Our School Day</a>, <a href="https://drive.google.com/file/d/1nlZD4cDrYWnrPmmCdUXEmMZCXkkcNPu7/view?usp=sharing" target="_blank" rel="noopener">Tone and Expectations</a>, <a href="/useful-links/booklist-uniform-bus-n-locker/" target="_blank" rel="noopener">Booklist, Uniform, Bus and Locker</a></td>
+		</tr>
+		<tr>
+			<td>FAQs &amp; Contact Information: </td>
+			<td><a href="https://drive.google.com/file/d/1hSla0notNjtOO2N50KXDo4HOBftFzoCj/view?usp=sharing" target="_blank" rel="noopener">FAQs</a>, <a href="/useful-links/contact-information" target="_blank" rel="noopener">Contact Information</a></td>
+		</tr>
+	</tbody>
 </table>
