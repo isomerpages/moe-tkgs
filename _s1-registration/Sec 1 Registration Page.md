@@ -66,9 +66,7 @@ at a more Demanding Level </td>
         <tbody><tr>
             <td>Your teachers: </td>
             <td>
-							<a target="_blank" href="https://drive.google.com/file/d/10PpkMgBXvNrYXh06X4EJEg65bxCiIffc/view?usp=sharing">FTs</a>,
-							<a target="_blank" href="https://drive.google.com/file/d/1TmPwa5mDSrZs_1GR2NtftPvZAOgPOlAe/view?usp=sharing">SD Team</a>,
-							<a target="_blank" href="https://drive.google.com/file/d/1TmPwa5mDSrZs_1GR2NtftPvZAOgPOlAe/view?usp=sharing">SMC</a>
+							<a target="_blank" href="https://drive.google.com/file/d/10PpkMgBXvNrYXh06X4EJEg65bxCiIffc/view?usp=sharing">FTs</a>, <a target="_blank" href="https://drive.google.com/file/d/1TmPwa5mDSrZs_1GR2NtftPvZAOgPOlAe/view?usp=sharing">SD Team</a>, <a target="_blank" href="https://drive.google.com/file/d/1TmPwa5mDSrZs_1GR2NtftPvZAOgPOlAe/view?usp=sharing">SMC</a>
         </td></tr>
         <tr>
             <td>What to expect at TKGS: </td>
