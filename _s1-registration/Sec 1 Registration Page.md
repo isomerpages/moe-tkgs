@@ -66,7 +66,7 @@ at a more Demanding Level </td>
 	<tbody>
 		<tr>
 			<td>Your teachers: </td>
-			<td>FTs, SD Team, SMC </td>
+			<td><a href="https://drive.google.com/file/d/10PpkMgBXvNrYXh06X4EJEg65bxCiIffc/view?usp=sharing" target="_blank" rel="noopener">FTs</a>, <a href="https://drive.google.com/file/d/1TmPwa5mDSrZs_1GR2NtftPvZAOgPOlAe/view?usp=sharing" target="_blank" rel="noopener">SD Team</a>, SMC </td>
 		</tr>
 		<tr>
 			<td>What to expect at TKGS: </td>
