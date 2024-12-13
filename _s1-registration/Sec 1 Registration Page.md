@@ -76,7 +76,8 @@ at a more Demanding Level </td>
             <td>FAQs &amp; Contact Information: </td>
             <td>FAQs, Contact Information </td>
         </tr>
-    </tbody></table>
+    </tbody>
+</table>
 
 <table>
 <tbody>
