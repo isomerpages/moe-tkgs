@@ -65,8 +65,7 @@ at a more Demanding Level </td>
     <table border="1" style="border-collapse: collapse; width: 100%; border: 2px solid black;">
         <tbody><tr>
             <td>Your teachers: </td>
-            <td>
-							<a target="_blank" href="https://drive.google.com/file/d/10PpkMgBXvNrYXh06X4EJEg65bxCiIffc/view?usp=sharing">FTs</a>, <a target="_blank" href="https://drive.google.com/file/d/1TmPwa5mDSrZs_1GR2NtftPvZAOgPOlAe/view?usp=sharing">SD Team</a>, <a target="_blank" href="https://drive.google.com/file/d/1TmPwa5mDSrZs_1GR2NtftPvZAOgPOlAe/view?usp=sharing">SMC</a>
+            <td>FTs, SD Team, SMC
         </td></tr>
         <tr>
             <td>What to expect at TKGS: </td>
