@@ -66,11 +66,11 @@ at a more Demanding Level </td>
 	<tbody>
 		<tr>
 			<td>Your teachers: </td>
-			<td><a href="https://drive.google.com/file/d/10PpkMgBXvNrYXh06X4EJEg65bxCiIffc/view?usp=sharing" target="_blank" rel="noopener">FTs</a>, <a href="https://drive.google.com/file/d/1TmPwa5mDSrZs_1GR2NtftPvZAOgPOlAe/view?usp=sharing" target="_blank" rel="noopener">SD Team</a>, SMC </td>
+			<td><a href="https://drive.google.com/file/d/10PpkMgBXvNrYXh06X4EJEg65bxCiIffc/view?usp=sharing" target="_blank" rel="noopener">FTs</a>, <a href="https://drive.google.com/file/d/1TmPwa5mDSrZs_1GR2NtftPvZAOgPOlAe/view?usp=sharing" target="_blank" rel="noopener">SD Team</a>, <a href="https://drive.google.com/file/d/1a9BS3cHTObu_yzPJuF81_y_a4aBPjgUu/view?usp=sharing" target="_blank" rel="noopener">SMC</a> </td>
 		</tr>
 		<tr>
 			<td>What to expect at TKGS: </td>
-			<td>Our School Day, Tone and Expectations, Booklist, uniform etc </td>
+			<td><a href="https://drive.google.com/file/d/1zavr-oNUcbLYTMBWJ3DOApw4xIvvbByR/view?usp=sharing" target="_blank" rel="noopener">A Message to Our Sec One TKGians</a>, <a href="https://drive.google.com/file/d/1wGSJJV8t9qsFgG0B4PFCr3VZJ73I5J5k/view?usp=drive_link" target="_blank" rel="noopener">Our School Day</a>, <a href="https://drive.google.com/file/d/1nlZD4cDrYWnrPmmCdUXEmMZCXkkcNPu7/view?usp=sharing" target="_blank" rel="noopener">Tone and Expectations</a>, <a href="/useful-links/booklist-uniform-bus-n-locker/" target="_blank" rel="noopener">Booklist, Uniform, Bus and Locker</a></td>
 		</tr>
 		<tr>
 			<td>FAQs &amp; Contact Information: </td>
