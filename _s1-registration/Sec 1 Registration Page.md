@@ -74,7 +74,7 @@ at a more Demanding Level </td>
 		</tr>
 		<tr>
 			<td>FAQs &amp; Contact Information: </td>
-			<td>FAQs, Contact Information </td>
+			<td><a href="https://drive.google.com/file/d/1hSla0notNjtOO2N50KXDo4HOBftFzoCj/view?usp=sharing" target="_blank" rel="noopener">FAQs</a>, <a href="/useful-links/contact-information" target="_blank" rel="noopener">Contact Information</a></td>
 		</tr>
 	</tbody>
 </table>
