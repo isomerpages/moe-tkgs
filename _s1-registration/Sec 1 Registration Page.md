@@ -4,7 +4,7 @@ permalink: /s1-registration/registration/
 variant: markdown
 description: ""
 ---
-Welcome to our TKGS Family! Please find below the required forms that you will need to fill out. We have also prepared some general information on going to school at TKGS is like. We look forward to meeting you online on the 20 Dec for our registration briefing. 
+Welcome to our TKGS Family! Please find below the required forms that you will need to fill out. We have also prepared some general information on what going to school at TKGS is like. We look forward to meeting you online on 20 Dec for our registration briefing!
 
 <h4>Compulsory Forms to be Completed</h4>
 <table border="1" style="border-collapse: collapse; width: 100%; border: 2px solid black;">
@@ -70,9 +70,9 @@ at a more Demanding Level </td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1TmPwa5mDSrZs_1GR2NtftPvZAOgPOlAe/view?usp=sharing" target="_blank" rel="noopener"><strong>2025 TKGS Student Development Team</strong></a></td>
 </tr>
 <tr>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1wGSJJV8t9qsFgG0B4PFCr3VZJ73I5J5k/view?usp=drive_link" target="_blank" rel="noopener"><strong>Our School Day</strong></a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1zavr-oNUcbLYTMBWJ3DOApw4xIvvbByR/view?usp=sharing" target="_blank" rel="noopener"><img src="/images/sec1.jpg"></a></td>
-<td style="text-align: center;;"><a href="https://drive.google.com/file/d/1nlZD4cDrYWnrPmmCdUXEmMZCXkkcNPu7/view?usp=sharing" target="_blank" rel="noopener"><strong>Tone and Expectations</strong></a></td>
+<td style="vertical-align: middle;"><a href="https://drive.google.com/file/d/1wGSJJV8t9qsFgG0B4PFCr3VZJ73I5J5k/view?usp=drive_link" target="_blank" rel="noopener"><strong>Our School Day</strong></a></td>
+<td style="vertical-align: middle;"><a href="https://drive.google.com/file/d/1zavr-oNUcbLYTMBWJ3DOApw4xIvvbByR/view?usp=sharing" target="_blank" rel="noopener"><img src="/images/sec1.jpg"></a></td>
+<td style="vertical-align: middle;"><a href="https://drive.google.com/file/d/1nlZD4cDrYWnrPmmCdUXEmMZCXkkcNPu7/view?usp=sharing" target="_blank" rel="noopener"><strong>Tone and Expectations</strong></a></td>
 </tr>
 <tr>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1hSla0notNjtOO2N50KXDo4HOBftFzoCj/view?usp=sharing" target="_blank" rel="noopener"><strong>FAQs</strong></a></td>
