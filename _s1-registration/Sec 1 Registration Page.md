@@ -61,8 +61,7 @@ at a more Demanding Level </td>
         </tr>
     </tbody>
 </table>
-<br>
-<br>
+<h4>Information for Sec 1 TKGS Students </h4>
 <table>
 <tbody>
 <tr>
