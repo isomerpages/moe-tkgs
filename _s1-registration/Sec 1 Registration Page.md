@@ -4,7 +4,7 @@ permalink: /s1-registration/registration/
 variant: markdown
 description: ""
 ---
-Welcome to our TKGS Family! Please find below the required forms that you will need to fill out. We have also prepared some general information on what going to school at TKGS is like. We look forward to meeting you online on 20 Dec for our registration briefing!
+Welcome to our TKGS Family! Please find below the required forms that you will need to fill out. We have also prepared some general information on what going to school at TKGS is like. We look forward to meeting you online on 20 December  for our registration briefing!
 
 <h4>Compulsory Forms to be Completed</h4>
 <table border="1" style="border-collapse: collapse; width: 100%; border: 2px solid black;">
