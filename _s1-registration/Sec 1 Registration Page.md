@@ -15,7 +15,7 @@ Welcome to our TKGS Family! Please find below the required forms that you will n
             <td style="font-weight: bold; text-align: center;">Remarks</td>
         </tr>
         <tr>
-            <td style="text-align: center; vertical-align: middle;">2025 Sec 1 Registration Form<br><br><a href="https://form.gov.sg/651e44370441430012b6fb6f" target="_blank" rel="noopener">Click Here</a></td>
+            <td style="text-align: center; vertical-align: middle;">2025 Sec 1 Registration Form<br><br><a href="https://form.gov.sg/66f3567a3f815c0206eabf67" target="_blank" rel="noopener">Click Here</a></td>
             <td style="text-align: center; vertical-align: middle;">20 December 2024 (Friday)<br>12 p.m.</td>
             <td rowspan="3" style="text-align: center; vertical-align: middle;">Parents are reminded to complete and submit the form by the stipulated deadline.</td>
         </tr>
