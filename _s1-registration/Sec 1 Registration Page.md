@@ -16,7 +16,7 @@ Welcome to our TKGS Family! Please find below the required forms that you will n
         </tr>
         <tr>
             <td style="text-align: center; vertical-align: middle;">2025 Sec 1 Registration Form<br><br><a href="https://form.gov.sg/651e44370441430012b6fb6f" target="_blank" rel="noopener">Click Here</a></td>
-            <td style="text-align: center; vertical-align: middle;">22 December 2023 (Friday)<br>12 p.m.</td>
+            <td style="text-align: center; vertical-align: middle;">20 December 2024 (Friday)<br>12 p.m.</td>
             <td rowspan="3" style="text-align: center; vertical-align: middle;">Parents are reminded to complete and submit the form by the stipulated deadline.</td>
         </tr>
     </tbody>
@@ -33,7 +33,7 @@ Welcome to our TKGS Family! Please find below the required forms that you will n
         <tr>
             <td style="text-align: center; vertical-align: middle;">2025 Letter of Offer to take Subject(s) 
 at a more Demanding Level </td>
-            <td style="text-align: center; vertical-align: middle;">26 December 2023 (Tuesday)<br>12 p.m.</td>
+            <td style="text-align: center; vertical-align: middle;">23 December 2024 (Monday)<br>12 p.m.</td>
             <td rowspan="3" style="text-align: center; vertical-align: middle;">Option Form and Approval Letter will be sent to eligible students via Parents Gateway.<br><br>Click <a href="https://drive.google.com/file/d/1lPdDZiv9tV-ymluZv2Xjv4op2V3yHzY_/view?usp=sharing" target="_blank" rel="noopener">here</a> for more information on our Mother Tongue Languages.</td>
         </tr>
         <tr>
