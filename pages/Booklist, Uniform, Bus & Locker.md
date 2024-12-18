@@ -232,7 +232,7 @@ Singapore 569628</p>
 <p>Application Form:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://docs.google.com/forms/d/e/1FAIpQLSeisolK3flJHuHebdSK2kFlvzFlzeXmoubTjBSpnylG-NlllA/viewform?pli=1</a>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeisolK3flJHuHebdSK2kFlvzFlzeXmoubTjBSpnylG-NlllA/viewform?pli=1" rel="noopener noreferrer nofollow" target="_blank">Locker Application Form</a>
 </p>
 </td>
 </tr>
