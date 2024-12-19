@@ -103,7 +103,7 @@ variant: markdown
 <td><a href="mailto:yap_hui_zhen@moe.edu.sg" target="">yap_hui_zhen@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Mrs Lee-Ang Peck San, Angie</td>
+<td>Mrs Lee-Ang Pheck San, Angie</td>
 <td>Assistant Year Head</td>
 <td><a href="mailto:angie_ang_pheck_san@moe.edu.sg" target="">angie_ang_pheck_san@moe.edu.sg</a></td>
 </tr>
