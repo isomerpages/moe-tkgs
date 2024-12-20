@@ -108,6 +108,21 @@ variant: markdown
 <td><a href="mailto:angie_ang_pheck_san@moe.edu.sg" target="">angie_ang_pheck_san@moe.edu.sg</a></td>
 </tr>
 	<tr>
+<td>Ms Du Tongtong</td>
+<td>Subject Head / Social Studies</td>
+<td><a href="mailto:du_tongtong@moe.edu.sg" target="">du_tongtong@moe.edu.sg</a></td>
+</tr>
+	<tr>
+<td>Ms Nur Liyana Binte Noordin</td>
+<td>Subject Head / CCA &amp; Student Leadership</td>
+<td><a href="mailto:nur_liyana_noordin@moe.edu.sg" target="">nur_liyana_noordin@moe.edu.sg</a></td>
+</tr>
+	<tr>
+<td>Ms Siti Aisha Binte Adbul Aziz</td>
+<td>Subject Head / Discipline</td>
+<td><a href="mailto:siti_aisha_abdul_aziz@moe.edu.sg" target="">siti_aisha_abdul_aziz@moe.edu.sg</a></td>
+</tr>
+	<tr>
 <td>Mr Chung Tai Wei, David</td>
 <td>Subject Head / Partnership</td>
 <td><a href="mailto:chung_tai_wei_david@moe.edu.sg" target="">chung_tai_wei_david@moe.edu.sg</a></td>
@@ -123,14 +138,10 @@ variant: markdown
 <td><a href="mailto:lim_kian_long@moe.edu.sg" target="">lim_kian_long@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Ms Du Tongtong</td>
-<td>Subject Head / Social Studies</td>
-<td><a href="mailto:du_tongtong@moe.edu.sg" target="">du_tongtong@moe.edu.sg</a></td>
-</tr>
-		<tr>
-<td>Ms Siti Aisha Binte Adbul Aziz</td>
-<td>Subject Head / Discipline</td>
-<td><a href="mailto:siti_aisha_abdul_aziz@moe.edu.sg" target="">siti_aisha_abdul_aziz@moe.edu.sg</a></td>
+<td>Ms Song Xiufen Sharizah Dianah</td>
+<td>Level Head / English Language</td>
+<td><a href="mailto:song_xiufen_sharizah_dianah_ismail@moe.edu.sg" target="">song_xiufen_sharizah_dianah_ismail@moe.edu.sg</a>
+		</td>
 </tr>
 <tr>
 <td>Ms Tan Hui Lan</td>
