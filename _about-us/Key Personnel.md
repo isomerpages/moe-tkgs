@@ -63,11 +63,6 @@ variant: markdown
 <td><a href="mailto:Ng_We_Keat@moe.edu.sg" target="">ng_we_keat@moe.edu.sg</a></td>
 </tr>
 	<tr>
-<td>Mr Goh Khoon Song, Aloysius</td>
-<td>HOD / ICT</td>
-<td><a href="mailto:goh_khoon_song@moe.edu.sg" target="">goh_khoon_song@moe.edu.sg</a></td>
-</tr>
-<tr>
 <td>Mr Lim Chee Kung, Zachary</td>
 <td>HOD / CCE</td>
 <td><a href="mailto:zachary_lim@moe.edu.sg" target="">zachary_lim@moe.edu.sg</a></td>
@@ -97,6 +92,11 @@ variant: markdown
 <td>Assistant Year Head</td>
 <td><a href="mailto:foo_wenxin@moe.edu.sg" target="">foo_wenxin@moe.edu.sg</a></td>
 </tr>
+	<tr>
+<td>Ms Hu Bishi</td>
+<td>Assistant Year Head</td>
+<td><a href="mailto:hu_bishi@moe.edu.sg" target="">hu_bishi@moe.edu.sg</a></td>
+</tr>
 <tr>
 <td>Mrs Sew-Yap Hui Zhen, Angie</td>
 <td>Assistant Year Head</td>
@@ -108,14 +108,24 @@ variant: markdown
 <td><a href="mailto:angie_ang_pheck_san@moe.edu.sg" target="">angie_ang_pheck_san@moe.edu.sg</a></td>
 </tr>
 	<tr>
-<td>Mr Chung Tai Wei, David</td>
-<td>Assistant Year Head</td>
-<td><a href="mailto:chung_tai_wei_david@moe.edu.sg" target="">chung_tai_wei_david@moe.edu.sg</a></td>
+<td>Ms Du Tongtong</td>
+<td>Subject Head / Social Studies</td>
+<td><a href="mailto:du_tongtong@moe.edu.sg" target="">du_tongtong@moe.edu.sg</a></td>
 </tr>
 	<tr>
-<td>Mr Mohamed Firdaus Bin Mohamed Sukor</td>
-<td>Subject Head / English Literature</td>
-<td><a href="mailto:mohamed_firdaus@moe.edu.sg" target="">mohamed_firdaus@moe.edu.sg</a></td>
+<td>Ms Nur Liyana Binte Noordin</td>
+<td>Subject Head / CCA &amp; Student Leadership</td>
+<td><a href="mailto:nur_liyana_noordin@moe.edu.sg" target="">nur_liyana_noordin@moe.edu.sg</a></td>
+</tr>
+	<tr>
+<td>Ms Siti Aisha Binte Adbul Aziz</td>
+<td>Subject Head / Discipline</td>
+<td><a href="mailto:siti_aisha_abdul_aziz@moe.edu.sg" target="">siti_aisha_abdul_aziz@moe.edu.sg</a></td>
+</tr>
+	<tr>
+<td>Mr Chung Tai Wei, David</td>
+<td>Subject Head / Partnership</td>
+<td><a href="mailto:chung_tai_wei_david@moe.edu.sg" target="">chung_tai_wei_david@moe.edu.sg</a></td>
 </tr>
 	<tr>
 <td>Ms Neo Xuanpei, Madeline</td>
@@ -124,13 +134,14 @@ variant: markdown
 </tr>
 		<tr>
 <td>Mr Lim Kian Long, Kaleb</td>
-<td>Subject Head / Geography</td>
+<td>Subject Head / Educational Technology</td>
 <td><a href="mailto:lim_kian_long@moe.edu.sg" target="">lim_kian_long@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Ms Du Tongtong</td>
-<td>Subject Head / Social Studies</td>
-<td><a href="mailto:du_tongtong@moe.edu.sg" target="">du_tongtong@moe.edu.sg</a></td>
+<td>Ms Song Xiufen Sharizah Dianah</td>
+<td>Level Head / English Language</td>
+<td><a href="mailto:song_xiufen_sharizah_dianah_ismail@moe.edu.sg" target="">song_xiufen_sharizah_dianah_ismail@moe.edu.sg</a>
+		</td>
 </tr>
 <tr>
 <td>Ms Tan Hui Lan</td>
@@ -153,6 +164,11 @@ variant: markdown
 <th style="text-align: center;" width="33%">Position</th>
 <th style="text-align: center;" width="33%">Email</th>
 </tr>
+	<tr>
+<td>Mr Mohamed Firdaus Bin Mohamed Sukor</td>
+<td>Lead Teacher / English Literature</td>
+<td><a href="mailto:mohamed_firdaus@moe.edu.sg" target="">mohamed_firdaus@moe.edu.sg</a></td>
+</tr>
 <tr>
 <td>Ms Sultana Rahman</td>
 <td>Lead Teacher / Physics</td>
@@ -167,6 +183,11 @@ variant: markdown
 <td>Mdm Nur Ashikin Binte Sapri</td>
 <td>Senior Teacher / Malay Language</td>
 <td><a href="mailto:nur_ashikin_sapri@moe.edu.sg" target="">nur_ashikin_sapri@moe.edu.sg</a></td>
+</tr>
+	<tr>
+<td>Dr Siti Munira Haidad Ali</td>
+<td>Senior Teacher / Chemistry</td>
+<td><a href="mailto:siti_munira_haidad_ali@moe.edu.sg" target="">siti_munira_haidad_ali@moe.edu.sg</a></td>
 </tr>
 </tbody>
 </table>
