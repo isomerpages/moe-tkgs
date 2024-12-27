@@ -4,21 +4,12 @@ permalink: /tkgs-plus-demo/
 variant: markdown
 description: ""
 ---
-<table border="0" style="border-collapse: collapse; width: 100%;">
-<tbody>
-<tr>
-<td style="width: 30%;"><img src="/images/About_tkgs/P_message/P_message2024.png"></td>
-<td style="width: 45%;">
+<img src="/images/About_tkgs/P_message/2025_P_Message_v2.jpg">
+<br>
+<img src="/images/About_tkgs/P_message/2025_P_Message_v1.jpg">
 <p>A heart filled with thankfulness!</p>
 <p>This is how we concluded 2023 and welcome 2024.</p>
 <p>In 2023, we received a very strong affirmation from the students through the Quality of School Experience survey conducted by MOE. Across the key student processes such as Learning and Social Processes, as well as Cognitive and Social Well-being, students responded positively. More specifically, in the areas of Holistic Student Development, Engagement of Learning, Growth Mindset, Teacher-Student Relationship and Peer Relationship, the school has improved compared to 2021 and did better than the national cohort. We are greatly heartened to see a high 91% of students attesting to the sense of belonging to the school.</p>
-	</td>
-	</tr>
-	</tbody>
-</table>
-
-<p>This, to me, is like a harvest of our fruits of labour over the past 5 years. Here is my year-end reflection which I shared with the staff, as we concluded 2023. </p>
-
 <a href="/images/About_tkgs/P_message/harvest.png" target="_blank" rel="noopener">
   <img alt="Harvest Image" style="max-width: 400px; max-height: 200px;" src="/images/About_tkgs/P_message/harvest.png">
 </a>
