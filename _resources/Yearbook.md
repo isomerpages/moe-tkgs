@@ -4,7 +4,7 @@ permalink: /tkgs-sparkling-moments/yearbook/
 description: ""
 variant: markdown
 ---
-<a href="https://online.fliphtml5.com/imxpa/llbw/#p=1"><img style="width: 80%;" src="/images/Resources/Yearbook/2024YBcover.png"></a>
+<a href="https://online.fliphtml5.com/imxpa/llbw/#p=1"><img style="width: 80%;" src="/images/Resources/Yearbook/2025YB.png"></a>
 <p style="text-align: center;"><strong>Yearbook 2024</strong><br>Click&nbsp;<a href="https://online.fliphtml5.com/imxpa/llbw/#p=1" target="_blank" rel="noopener">here</a>&nbsp;to view</p>
 <br>
 
