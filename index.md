@@ -49,4 +49,14 @@ sections:
       id: infobar
       button: Click here for more details
       url: /announcements/canteen/
+  - infopic:
+      title: Yearbook 2024
+      id: infopic
+      description: Our Yearbook 2024 is hot off the press! As 2024 comes to a close,
+        relive the treasured memories and sparkling moments that made this year
+        so special for us.
+      button: Click here to read
+      url: https://online.fliphtml5.com/imxpa/llbw/#p=1
+      image: /images/Resources/Yearbook/2025YB.png
+      alt: Yearbook2024
 ---
