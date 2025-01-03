@@ -13,6 +13,12 @@ sections:
           description: ""
           url: /useful-links/
       variant: center
+  - infobar:
+      title: Release of 2024 GCE O-Level Results
+      id: infobar
+      description: 2024 GCE O-Level results will be released on 10 January 2025 at 2.30pm.
+      button: Click here for more details
+      url: /2024-o-level-announcement/
   - resources:
       title: TKGS Sparkling Moments
       button: More
@@ -52,10 +58,4 @@ sections:
       id: infobar
       button: Click here for more details
       url: /announcements/canteen/
-  - infobar:
-      title: Release of 2024 GCE O-Level Results
-      id: infobar
-      description: 2024 GCE O-Level results will be released on 10 January 2025 at 2.30pm.
-      button: Click here for more details
-      url: https://online.fliphtml5.com/imxpa/llbw/#p=1
 ---
