@@ -13,6 +13,9 @@ sections:
           description: ""
           url: /useful-links/
       variant: center
+  - resources:
+      title: TKGS Sparkling Moments
+      button: More
   - infopic:
       title: Yearbook 2024
       id: infopic
@@ -23,9 +26,6 @@ sections:
       url: https://online.fliphtml5.com/imxpa/llbw/#p=1
       image: /images/Resources/Yearbook/2025YB.png
       alt: Yearbook2024
-  - resources:
-      title: TKGS Sparkling Moments
-      button: More
   - infopic:
       title: TKGS e-Prospectus
       id: infopic
@@ -52,4 +52,10 @@ sections:
       id: infobar
       button: Click here for more details
       url: /announcements/canteen/
+  - infobar:
+      title: Release of 2024 GCE O-Level Results
+      id: infobar
+      description: 2024 GCE O-Level results will be released on 10 January 2025 at 2.30pm.
+      button: Click here for more details
+      url: https://online.fliphtml5.com/imxpa/llbw/#p=1
 ---
