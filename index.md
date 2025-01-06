@@ -16,7 +16,7 @@ sections:
   - infobar:
       title: Release of 2024 GCE O-Level Results
       id: infobar
-      description: 2024 GCE O-Level results will be released on 10 January 2025 at 2.30pm.
+      description: 2024 GCE O-Level results will be released on 10 January 2025
       button: Click here for more details
       url: /2024-o-level-announcement/
   - resources:
