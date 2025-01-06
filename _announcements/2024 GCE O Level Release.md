@@ -19,16 +19,17 @@ description: ""
   <p style="text-align: center; margin-top: 10px;">Registration Link for Parents</p>
 </div>
 	</center>
+	<ol start="6">
+	<li>We see your understanding to park at the Public Carpark located behind the school, beside the petrol station.</li>
+	</ol>
 	<table>
 	<tbody>
 		<tr>
-			<td>Students</td>
+			<td style="vertical-align: middle;">Students</td>
 			<td><a href="https://go.gov.sg/tkgs-infoforstud" target="_blank" rel="noopener">
       <img style="width: 200px; height: 160px;" src="/images/Annoucement/O_level/tkgs_infoforstud.png"></a>
 			</td>
-		</tr>
-		<tr>
-			<td>Parents</td>
+			<td style="vertical-align: middle;">Parents</td>
 			<td> <a href="https://go.gov.sg/tkgs-infoforparents" target="_blank" rel="noopener">
       <img style="width: 200px; height: 160px;" src="/images/Annoucement/O_level/tkgs_infoforparents.png">
     </a>
