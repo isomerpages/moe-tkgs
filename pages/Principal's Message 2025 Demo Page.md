@@ -6,11 +6,11 @@ description: ""
 ---
 <img src="/images/About_tkgs/P_message/2025_PMessage.jpg">
 
-<p>2024 was a bright sparkling year for us as it was a season of courageous endeavours and a season of great harvests. (Note: when the 2024 school yearbook is ready, please add this as a footnote: You may access this link to the 2024 School Yearbook to read my reflection for 2024)</p>
+<p>2024 was a bright sparkling year for us as it was a season of courageous endeavours and a season of great harvests. We invite you to delve into the pages of our <a href="https://online.fliphtml5.com/imxpa/llbw/#p=1" target="_blank" rel="noopener">2024 Yearbook</a> to find out more about why this year was so special for us. </p>
 
 <p>Hearts filled with thankfulness, we therefore welcome 2025 with a renewed sense of hope and optimism!</p>
 
-<p>Starting the year on a high is the very encouraging Sec 1 enrolment with an impressive 99% of the 2025 Sec 1 cohort choosing TKGS as their top 3 choices. The school’s cut-off points have also improved. Good news indeed! The TKGS brand of education remains strong. We are very thankful for each and every girl who has made TKGS her choice school and her second home. (Note: Shall we also add a footnote to link to the e-prospectus?)</p>
+<p>Starting the year on a high is the very encouraging Sec 1 enrolment with an impressive 99% of the 2025 Sec 1 cohort choosing TKGS as their top 3 choices. The school’s cut-off points have also improved. Good news indeed! The <a href="https://go.gov.sg/tkgs-eprospectus" target="_blank" rel="noopener">TKGS brand of education</a> remains strong. We are very thankful for each and every girl who has made TKGS her choice school and her second home.</p>
 
 <p>As we take the leap of faith into 2025, we shall have a clear sense of who we are as a school and stay purpose-driven, mission-focused. Strengthening our core, we will continue to foster quality relationships at all levels to create a strong sense of community and make TKGS an inviting place for students and staff. The positive, caring and vibrant school culture is distinctive, well-anchored on values, sisterhood and a big heart to embrace all learners. In 2025, as we seek to build on and build up, we will also challenge ourselves to be bold and imaginative so that TKGS will grow from strength to strength, yielding harvests after harvests.</p>
 
