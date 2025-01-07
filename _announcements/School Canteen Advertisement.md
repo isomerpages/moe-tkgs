@@ -5,15 +5,19 @@ description: ""
 variant: markdown
 ---
 <h4 style="text-align: center;"><strong>Stall Vacancies</strong></h4>
+<b>(Individual stallholders and business entities are invited to apply for the stall below at Tanjong Katong Girls’ School)</b>
+
 <table>
 	<tbody>
 		<tr>
 			<td><b>Type of Stall</b></td>
 			<td><b>Closing Date</b></td>
+			<td><b>Requirement</b></td>
 		</tr>
 		<tr>
 			<td>Chinese Cuisine (Noodle/Rice)</td>
-			<td>10 January 2025</td>
+			<td>15 January 2025</td>
+			<td>-</td>
 			</tr></tbody>
 </table>
 
