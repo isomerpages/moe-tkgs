@@ -10,45 +10,8 @@ description: ""
 	<li>All students must be in proper school uniform with proper shoes and seated in the hall by <b>2.00pm.</b></li>
 	<li>Proper appearance: Standard school rules apply (i.e. no coloured hair, accessories)</li>
 	<li>Students who do not meet the expected appearance and attire may be turned away. </li>
-	<li><b>Parents accompanying students are required to register before the event. Please scan or click the QR code.</b></li>
-</ol>
-<center><div style="text-align: center;">
-  <a href="https://go.gov.sg/tkgs-parentsreg" target="_blank" rel="noopener">
-    <img style="width: 200px; height: 160px;" src="/images/Annoucement/O_level/tkgs_parentsreg.png">
-  </a>
-  <p style="text-align: center; margin-top: 10px;">Registration Link for Parents</p>
-</div>
-	</center>
-	<ol start="6">
-	<li>We see your understanding to park at the Public Carpark located behind the school, beside the petrol station.</li>
+	<li><b>Parents accompanying students are required to register before the event. Please click <a href="https://go.gov.sg/tkgs-parentsreg" target="_blank" rel="noopener">here</a> to register.</b>
+	</li><li>We see your understanding to park at the Public Carpark located behind the school, beside the petrol station.</li>
 	</ol>
-	<table>
-	<tbody>
-		<tr>
-			<td style="vertical-align: middle;">Students</td>
-			<td><a href="https://go.gov.sg/tkgs-infoforstud" target="_blank" rel="noopener">
-      <img style="width: 200px; height: 160px;" src="/images/Annoucement/O_level/tkgs_infoforstud.png"></a>
-			</td>
-			<td style="vertical-align: middle;">Parents</td>
-			<td> <a href="https://go.gov.sg/tkgs-infoforparents" target="_blank" rel="noopener">
-      <img style="width: 200px; height: 160px;" src="/images/Annoucement/O_level/tkgs_infoforparents.png">
-    </a>
-			</td>
-		</tr>
-	</tbody>
-	</table>
-	
-<div style="text-align: center;">
-  <div style="display: inline-block; text-align: center; margin-right: 20px;">
-    <a href="https://go.gov.sg/tkgs-infoforstud" target="_blank" rel="noopener">
-      <img style="width: 200px; height: 160px;" src="/images/Annoucement/O_level/tkgs_infoforstud.png">
-    </a>
-    <p style="text-align: center; margin-top: 10px;">Additional Information for Students</p>
-  </div>
-  <div style="display: inline-block; text-align: center;">
-    <a href="https://go.gov.sg/tkgs-infoforparents" target="_blank" rel="noopener">
-      <img style="width: 200px; height: 160px;" src="/images/Annoucement/O_level/tkgs_infoforparents.png">
-    </a>
-    <p style="text-align: center; margin-top: 10px;">Additional Information for Parents</p>
-  </div>
-</div>
+		 <p><a href="https://go.gov.sg/tkgs-infoforstud" target="_blank" rel="noopener">Additional Information for Students</a></p>
+     <p><a href="https://go.gov.sg/tkgs-infoforparents" target="_blank" rel="noopener">Additional Information for Parents</a></p>
