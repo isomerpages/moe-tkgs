@@ -19,4 +19,8 @@ description: ""
 			<td>
 		 <b><a href="https://go.gov.sg/tkgs-infoforstud" target="_blank" rel="noopener">Additional Information for Students</a></b><b></b></td>
 				<td>
-     <b><a href="https://go.gov.sg/tkgs-infoforparents" target="_blank" rel="noopener">Additional Information for Parents</a></b></td></tr></tbody></table>
+     <b><a href="https://go.gov.sg/tkgs-infoforparents" target="_blank" rel="noopener">Additional Information for Parents</a></b>
+			</td>
+		</tr>
+	</tbody>
+</table>
