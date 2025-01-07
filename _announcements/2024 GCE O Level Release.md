@@ -13,5 +13,10 @@ description: ""
 	<li><b>Parents accompanying students are required to register before the event. Please click <a href="https://go.gov.sg/tkgs-parentsreg" target="_blank" rel="noopener">here</a> to register.</b>
 	</li><li>We see your understanding to park at the Public Carpark located behind the school, beside the petrol station.</li>
 	</ol>
-		 <p><b><a href="https://go.gov.sg/tkgs-infoforstud" target="_blank" rel="noopener">Additional Information for Students</a></b></p><b>
-     <p><a href="https://go.gov.sg/tkgs-infoforparents" target="_blank" rel="noopener">Additional Information for Parents</a></p></b>
+	<table>
+	<tbody>
+		<tr>
+			<td>
+		 <b><a href="https://go.gov.sg/tkgs-infoforstud" target="_blank" rel="noopener">Additional Information for Students</a></b><b></b></td>
+				<td>
+     <b><a href="https://go.gov.sg/tkgs-infoforparents" target="_blank" rel="noopener">Additional Information for Parents</a></b></td></tr></tbody></table>
