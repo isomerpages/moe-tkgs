@@ -11,7 +11,7 @@ description: ""
 	<li>Proper appearance: Standard school rules apply (i.e. no coloured hair, accessories)</li>
 	<li>Students who do not meet the expected appearance and attire may be turned away. </li>
 	<li>We request that only <b>two</b> parents/guardians accompany your daughter/ward to collect their results.</li>
-		<li>We see your understanding to park at the Public Carpark located behind the school, beside the petrol station.</li>
+		<li>We seek your understanding to park at the Public Carpark located behind the school, beside the petrol station.</li>
 	</ol>
 	
 <table>
