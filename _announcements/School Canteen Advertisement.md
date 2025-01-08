@@ -128,7 +128,7 @@ School’s General Office by the closing date.</p>
 <p>Contact No: 6344 1593</p>
 </li>
 <li>
-<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">tkgs@moe.edu.sg</a>
+<p>Email: <a href="mailto:tkgs@moe.edu.sg" target="">tkgs@moe.edu.sg</a>
 </p>
 </li>
 <li>
