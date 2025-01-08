@@ -21,19 +21,33 @@ variant: markdown
 			</tr></tbody>
 </table>
 
-<p><b>Background</b>
-<br>
-We are a single session secondary school with student enrolment and staff strength of 1,100.</p>
-
 <p><b>Application Procedure</b>
 </p>
 <ol>
-  <li>Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
+  <li>Download and complete the Application Form (click on the link below). You may also request for a hardcopy of the Application Form from the School’s General Office.</li>
+	</ol>
+	<li>Application Form for individual stallholder</li>
+	<li>Application Form for Business </li>
+	<ol start="2">
+	<li>Attached the following documents together with the Application Form:</li>
+	</ol>
+	<table>
+	<tbody>
+		<tr>
+			<td>For Individuals</td>
+			<td>For Business</td>
+			</tr>
+		<tr>
+			<td><li>Photocopy of the NRIC (front and back)</li></td>
+			<td><li>List of proposed menu and pricing for all items</li></td>
+					<td><li>Photocopy of relevant certificates such as Food Safety Course Level 1, etc</li>
+•	
+
 		<br>
 		<br>
 <a href="https://drive.google.com/file/d/1FA04r8hWn2XHAKI6eKk70BNlVT064G4S/view?usp=sharing">Application Form</a>
 <br>
-	</li>
+	
   <li>Attached the following documents together with the application form:
     <ul>
       <li>Photocopy of the NRIC (front and back)</li>
@@ -43,7 +57,7 @@ We are a single session secondary school with student enrolment and staff streng
   </li>
   <li>Submit the completed application form and documents by closing date via email OR to the <a href="/useful-links/contact-information/">School General Office </a>.
 	</li>
-</ol>
+
 
 <p><b>Interest applicants must meet the following criteria:</b></p>
 <ul>
@@ -73,4 +87,4 @@ We are a single session secondary school with student enrolment and staff streng
 <p>
 	<i>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.
 	</i>
-</p>
+</p></td></tr></tbody></table>
