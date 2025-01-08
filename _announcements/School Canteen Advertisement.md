@@ -53,10 +53,10 @@ General Office.</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>Application Form for individual stallholder</p>
+<p><a href="https://drive.google.com/file/d/1vbu0Qh4MVNsEJCFgjf2O1n1cm-wo4xiE/view?usp=drive_link" target="_blank" rel="noopener">Application Form for individual stallholder</a></p>
 </li>
 <li>
-<p>Application Form for Business</p>
+<p><a href="https://drive.google.com/file/d/1PEOGxMbexytteAmBle5RUhYVJphOBNy1/view?usp=drive_link" target="_blank" rel="noopener">Application Form for Business</a></p>
 <p></p>
 </li>
 </ul>
