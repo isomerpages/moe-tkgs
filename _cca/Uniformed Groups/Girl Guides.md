@@ -35,11 +35,7 @@ tr:hover {background-color: #F5F5DC;}
 		<tr>
 			<th colspan="1">Teacher-in-Charge</th>
 </tr>
-<tr>
-	<td rowspan="1">Ms Kamaliah Bte Othman</td>
- <td><a target="" href="mailto:kamaliah_othman@moe.edu.sg">kamaliah_othman@moe.edu.sg</a></td>
-	</tr>
-		<tr>
+	<tr>
 		<td rowspan="1">Ms Anne Yong Mong Li</td>
  <td><a target="" href="mailto:yong_mong_li@moe.edu.sg">yong_mong_li@moe.edu.sg</a></td>
 		</tr>
