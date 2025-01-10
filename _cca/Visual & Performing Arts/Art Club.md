@@ -35,9 +35,9 @@ tr:hover {background-color: #F5F5DC;}
 	</td>
 	 	</tr>
 		<tr>
-	<td rowspan="1">Mdm Yante Yahya</td>
+	<td rowspan="1">Mdm Li Liping</td>
  <td>
-	 <a target="" href="mailto:yante_yahya@moe.edu.sg">yante_yahya@moe.edu.sg</a></td>
+	 <a target="" href="mailto:li_liping@moe.edu.sg">li_liping@moe.edu.sg</a></td>
 	 	</tr>
 	</tbody>
 	</table>
@@ -48,7 +48,7 @@ tr:hover {background-color: #F5F5DC;}
 </tr>
 		<tr>
 	<td rowspan="1"> Training Day / Time</td>
-<td>Monday &amp; Tuesday<br>
+<td>Monday<br>
 	3:15pm to 6:00pm<br><br>
 				</td>
 	 	</tr>
