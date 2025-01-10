@@ -47,9 +47,9 @@ tr:hover {background-color: #F5F5DC;}
 <td>Tuesday &amp; Wednesday (Sem 1)<br>
 	3:15pm to 5:45pm
 	<br>
-	<br>Tuesday &amp; Thursday  (Sem 2)<br>
-	3:15pm to 5:45pm
-		</td>
+	<br>
+	*Additional Wednesday session during SYF period.
+			</td>
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
