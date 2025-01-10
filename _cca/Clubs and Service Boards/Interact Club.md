@@ -37,11 +37,7 @@ tr:hover {background-color: #F5F5DC;}
 	<td rowspan="1">Mr Ganesh Issardas Udasi</td>
  <td><a target="" href="mailto:ganesh_issardas_udasi@moe.edu.sg">ganesh_issardas_udasi@moe.edu.sg</a></td>
 	 	</tr>
-		<tr>
-	<td rowspan="1">Ms Ili Sofia Binti Shahrin</td>
- <td><a target="" href="mailto:ili_sofia_shahrin@moe.edu.sg">ili_sofia_shahrin@moe.edu.sg</a></td>
-	 	</tr>
-</tbody>
+	</tbody>
 </table>
 <table>
 	<tbody>
