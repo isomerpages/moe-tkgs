@@ -44,7 +44,7 @@ tr:hover {background-color: #F5F5DC;}
 	<tbody><tr><th colspan="1">CCA Schedule</th>
 </tr><tr>
 	<td rowspan="1"> Training Day / Time</td>
-<td>Tuesday &amp; Wednesday (Sem 1)<br>
+<td>Tuesday &amp; Wednesday<br>
 	3:15pm to 5:45pm
 	<br>
 	<br>
