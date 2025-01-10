@@ -37,7 +37,7 @@ tr:hover {background-color: #F5F5DC;}
 		<tr>
 	<td rowspan="1">Mdm Li Liping</td>
  <td>
-	 <a target="" href="mailto:li_liping@moe.edu.sg">li_liping@moe.edu.sg</a></td>
+	 <a target="" href="mailto:li_li_ping@moe.edu.sg">li_li_ping@moe.edu.sg</a></td>
 	 	</tr>
 	</tbody>
 	</table>
