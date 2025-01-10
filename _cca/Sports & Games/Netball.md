@@ -28,11 +28,7 @@ tr:hover {background-color: #F5F5DC;}
 		<tr>
 			<th colspan="1">Teacher-in-Charge</th>
 </tr>
-		<tr>
-	<td rowspan="1">Ms Nur Liyana Noordin</td>
- <td><a target="" href="mailto:nur_liyana_noordin@moe.edu.sg">nur_liyana_noordin@moe.edu.sg</a></td>
-	 	</tr>
-		<tr>
+			<tr>
 	<td rowspan="1">Mdm Murniati Zainuldin</td>
  <td><a target="" href="mailto:murniati_mohd_zainuldin@moe.edu.sg">murniati_mohd_zainuldin@moe.edu.sg</a></td>
 	</tr>
