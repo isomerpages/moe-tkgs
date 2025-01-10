@@ -4,7 +4,7 @@ permalink: /about-tkgs/principal-message/
 description: ""
 variant: markdown
 ---
-<img src="/images/About_tkgs/P_message/2025_PMessage.jpg">
+<img src="/images/About_tkgs/P_message/PMessage25.jpg">
 
 <p>2024 was a bright sparkling year for us as it was a season of courageous endeavours and a season of great harvests. We invite you to delve into the pages of our <a href="https://online.fliphtml5.com/imxpa/llbw/#p=1" target="_blank" rel="noopener">2024 Yearbook</a> to find out more about why this year was so special for us. </p>
 

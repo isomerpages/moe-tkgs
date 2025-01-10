@@ -49,9 +49,7 @@ tr:hover {background-color: #F5F5DC;}
 	<td rowspan="1"> Training Day / Time</td>
 <td>Tuesday &amp; Wednesday<br> 
 	3:30pm to 6:00pm<br>
-		<br>
-	*Selected Saturdays when necessary for school events and other preparations
-			</td>
+				</td>
 		</tr>
 		<tr>
 			<td rowspan="1">Training Venue</td>

@@ -33,7 +33,7 @@ variant: markdown
 <p>Chinese Cuisine (Noodle/Rice)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17 January 2025</p>
+<p>20 January 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
