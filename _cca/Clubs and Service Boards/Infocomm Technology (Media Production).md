@@ -35,13 +35,13 @@ tr:hover {background-color: #F5F5DC;}
 		<tr>
 			<th colspan="1">Teacher-in-Charge</th>
 </tr>
-		<tr>
-	<td rowspan="1">Mr Poh Hou Shun</td>
- <td><a target="" href="mailto:poh_hou_shun@moe.edu.sg">poh_hou_shun@moe.edu.sg</a></td>
-	 	</tr>
-<tr>
+	<tr>
 	<td rowspan="1">Ms Vina Ng Bei Ling</td>
  <td><a target="" href="mailto:ng_bei_ling_vina@moe.edu.sg">ng_bei_ling_vina@moe.edu.sg</a></td>
+	 	</tr>
+			<tr>
+	<td rowspan="1">Mr Tan Boon Cheong, Marc</td>
+ <td><a target="" href="mailto:tan_boon_cheong_marc@moe.edu.sg">tan_boon_cheong_marc@moe.edu.sg</a></td>
 	 	</tr>
 	</tbody>
 	</table>
@@ -53,14 +53,12 @@ tr:hover {background-color: #F5F5DC;}
 		<tr>
 	<td rowspan="1"> Training Day / Time</td>
 <td>Monday<br>
-	3:30pm to 6:00pm<br><br>
-	Wednesday <b>(Project-Based students only)</b><br>
 	3:30pm to 5:30pm
-		</td>
+			</td>
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
- <td rowspan="1">Computer Lab 1</td>
+ <td rowspan="1">VR Lab 1 &amp; 2</td>
 	</tr>
 </tbody>
 </table>
