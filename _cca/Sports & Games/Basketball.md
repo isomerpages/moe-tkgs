@@ -48,7 +48,7 @@ The CCA is also still making conscious efforts to maximise the exposure that eac
 	<td rowspan="1"> Training Day / Time</td>
 <td>Monday &amp; Wednesday<br>
 	3:15pm to 5:45pm<br><br>
-		 *Additional Thursday training during NSG period (3.15pm - 5.45pm) 
+		 *Additional Thursday training during NSG period (3:15pm - 5:45pm) 
 		 </td>
 	 	</tr>
 <tr>
