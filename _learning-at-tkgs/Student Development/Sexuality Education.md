@@ -237,7 +237,7 @@ b)&nbsp;&nbsp; Managing relationships and risky situations in a healthy way.
 		</tr>
 		<tr>
 		<td>Classroom-based Lesson</td>
-		<td> * Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making </td>
+		<td><li>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making </li></td>
 	<td>Term 3 Week 3</td>
 		</tr>
 	</tbody>
