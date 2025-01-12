@@ -145,21 +145,21 @@ Students will also learn about the definitions of biological sex, gender identit
 </tr>
 <tr>
 	<td style="vertical-align: middle;">Mending a Broken Heart Lesson 1B<br>(60 mins)</td>
-<td style="vertical-align: middle;">Students will learn how to manage their emotions if they were to face a breakup and know that relationship building involves person emotions and vulnerabilities, and changes and challenges. Students will also learn that a decision to end a relationship will have consequences on oneself and others, and that grief and loss due to rejections and broken relationships is normal and that one can recover from the experience. They will learn that there are healthy ways of coping with breakdowns in relationships and that family and friends are important pillars of support.</td>
-<td style="text-align: left;">• know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges <br><br>
-• know that a decision to end a relationship will have consequences on oneself and others<br><br>
-• know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience<br><br>
-•	know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support 
+<td style="vertical-align: middle;">Students will learn how to manage their emotions if they were to face a breakup and know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges. Students will also learn that a decision to end a relationship will have consequences on oneself and others, and that grief and loss due to rejections and broken relationships is normal and that one can recover from the experience. They will learn that there are healthy ways of coping with breakdowns in relationships and that family and friends are important pillars of support.</td>
+<td style="text-align: left;"><li>know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges</li>
+	<li>know that a decision to end a relationship will have consequences on oneself and others</li>
+<li>know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience</li>
+<li>know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support  </li>
 </td>
-<td style="vertical-align: middle;">Term 3 Week 6</td>
+<td style="vertical-align: middle;">Term 3 Week 8</td>
 </tr>
 <tr>
 	<td style="vertical-align: middle;">When Respect Takes Centre Stage<br>Lesson 2<br>(60 mins)</td>
 <td style="vertical-align: middle;">This lesson aims to help students think critically and make informed decisions in the contexts of sexting and voyeurism, and encourages students to exert a positive influence as a respectful online user. It will also deepen students’ convictions about making moral decisions by taking into consideration the impact of their decisions and actions on their well-being and safety, their loved ones, and the community. Students learn that they have a right and responsibility to be safe and protect their personal space and body. They also learn that sexting, voyeurism and other related sexual offences are never justifiable and they can seek help in times of need.</td>
-<td style="text-align: left;">• recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them <br><br>
-• understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs 
+<td style="text-align: left;"><li>recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them </li>
+<li>understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs </li>
 </td>
-<td style="vertical-align: middle;">Term 3 Week 8</td>
+<td style="vertical-align: middle;">Term 3 Week 9</td>
 	</tr>
 	</tbody>
 </table>
@@ -180,44 +180,46 @@ Students will also learn about the definitions of biological sex, gender identit
 			<td style="vertical-align: middle;">Levelling the Ground<br> Lesson 1<br>
 (60 mins)</td>
 			<td style="vertical-align: middle;">This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.</td>
-			<td style="text-align: left;">• understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations<br><br>
-• know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided 
-			</td>
-			<td style="vertical-align: middle;">Term 2 Week 6</td>
+			<td style="text-align: left;"><li>understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations</li>
+	<li>know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided</li></td>
+			<td style="vertical-align: middle;">Term 3 Week 4</td>
 		</tr>
 		<tr>
 			<td style="vertical-align: middle;">When Love Hurts<br>
 Lesson 2<br>(60 mins)</td>
 			<td style="vertical-align: middle;">This lesson aims to help students recognise unhealthy relationships and build their help-seeking skills. Students will learn to identify potential signs of an unhealthy relationship and recognise the different forms of dating violence. They will get to understand why dating violence occurs, why victims often feel “trapped” in such unhealthy relationships, and how one can get out of such a relationship safely. Students will learn when, where and how to seek help from trusted adults (e.g. family, teachers, school counsellors) in the supportive environment that they have if they or their friends are involved in an unhealthy relationship.</td>
-			<td style="text-align: left;">• recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims <br><br>
-• understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being<br><br>
-• understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship
+			<td style="text-align: left;"><li>know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support</li>
+<li>recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims </li>
+<li>understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being</li>
+<li>understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship</li>
 			</td>
-			<td style="vertical-align: middle;">Term 2 Week 6</td>
+			<td style="vertical-align: middle;">Term 3 Week 5</td>
 		</tr>
 		<tr>
 			<td style="vertical-align: middle;">For Better or For Worse<br>Lesson 3<br>
 (60 mins)</td>
-			<td style="vertical-align: middle;">This lesson focuses on building a positive relationship with one’s partner in a marriage. Students will understand that while a marriage, defined in Singapore as a union between a man and a woman, requires mutual commitment and effort like the other relationships in their lives, what sets a marriage apart is its lifelong commitment. Students will learn that what really matters to sustain and maintain a long-term romantic relationship leading to marriage is understanding the other person’s perspective and effectively communicating with each other. </td>
-			<td style="text-align: left;">·• know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions <br><br>
-·• know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort <br><br>
-·• understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage 
+			<td style="vertical-align: middle;">This lesson focuses on building a positive relationship with one’s partner in a marriage. Students will understand that while a marriage, defined in Singapore as a union between a man and a woman, requires mutual commitment and effort like the other relationships in their lives, what sets a marriage apart is its lifelong commitment.
+<br><br>Students will learn that what really matters in  sustaining and maintaining a long-term romantic relationship that leads to marriage, is understanding the other person’s perspective and effectively communicating with each other. </td>
+			<td style="text-align: left;"><li>know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions </li>
+<li>know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort </li>
+<li>understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage</li>
 			</td>
-			<td style="vertical-align: middle;">Term 3 Week 3</td>
+			<td style="vertical-align: middle;">Term 3 Week 6</td>
 		</tr>
 		<tr>
 			<td style="vertical-align: middle;">There’s Always More to a Story<br>
 Lesson 4<br>(60 mins)</td>
-			<td style="vertical-align: middle;">In this lesson, students will revisit the impact of pornography and deepen their understanding on its impact on relationships. Students will also learn about revenge pornography, including its definition and legal provisions. They will also learn that they can turn to trusted adults for help in setting boundaries and overcoming difficulties in making sound decisions, to prevent themselves from encountering danger. </td>
-			<td style="text-align: left;">• understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</td>
-			<td style="vertical-align: middle;">Term 3 Week 5</td>
+			<td style="vertical-align: middle;">In this lesson, students will revisit the impact of pornography and deepen their understanding on its impact on relationships. Students will also learn about revenge pornography, including its definition and legal provisions. They will also learn that they can turn to trusted adults for help in setting boundaries and overcoming difficulties in making sound decisions, to prevent themselves from encountering danger.</td>
+			<td style="text-align: left;"><li>understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</li></td>
+			<td style="vertical-align: middle;">Term 3 Week 10</td>
 		</tr>
 	</tbody>
 </table>
 <h4><strong>eTeens Programme:</strong></h4>
-<p>8.&nbsp;&nbsp;<i>eTeens</i> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. <i>eTeens</i> is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the <i>eTeens</i> programme is that students are empowered to make wise, informed and sensible decisions.</p>
-<p>9.&nbsp;&nbsp;Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.</p>
-<h4><strong>At Tanjong Katong Girls’ School, the eTeens programme will be implemented as follows in 2024:</strong></h4>
+<ol start="8">
+<p></p><li><i>eTeens</i> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. <i>eTeens</i> is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the <i>eTeens</i> programme is that students are empowered to make wise, informed and sensible decisions.<p></p></li>
+<p></p><li>Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.<p></p></li>
+<h4><strong>At Tanjong Katong Girls’ School, the eTeens programme will be implemented as follows in 2025:</strong></h4>
 <table>
 	<tbody>
 		<tr>
@@ -226,7 +228,7 @@ Lesson 4<br>(60 mins)</td>
 			<td style="text-align: center;"><strong>Time Period<br></strong></td>
 		</tr>
 		<tr>
-			<td>Mass Talk by HPB appointed vendor</td>
+			<td>Mass Talk delivered through a pre-recorded video</td>
 			<td>• Raise awareness and provide knowledge on:<br><br>
 a)&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use).<br><br>
 b)&nbsp;&nbsp; Managing relationships and risky situations in a healthy way.
@@ -242,6 +244,6 @@ b)&nbsp;&nbsp; Managing relationships and risky situations in a healthy way.
 </table>
 <h4><strong>Information for Parents</strong></h4><p></p>
 <p>10. &nbsp;&nbsp;Parents may opt their children out of the <b>Sexuality Education lessons</b>, <i>eTeens</i> and/or supplementary sexuality education programmes by MOE-approved external providers. </p>
-<p>11. &nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form, via <a href="https://go.gov.sg/tkgs-sed-opt-out-2024">https://go.gov.sg/tkgs-sed-opt-out-2024</a>. The completed form is to be submitted by 26/01/2024.</p>
-<p>12. &nbsp;&nbsp; Parents who wish to opt their children out of the <i>eTeens</i> programme need to complete an opt-out form, via <a href="https://go.gov.sg/tkgs-eteens-opt-out-2024">https://go.gov.sg/tkgs-eteens-opt-out-2024</a>. The completed form is to be submitted by 26/01/2024.</p>
-<p>13. &nbsp;&nbsp;Parents can contact the school at Tel: + 65 6344 1593 or <a href="mailto:tkgs@moe.edu.sg">tkgs@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
+<p>11. &nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form, via <a href="https://go.gov.sg/tkgs-sed-opt-out-2025">https://go.gov.sg/tkgs-sed-opt-out-2025</a>. The completed form is to be submitted by 26/01/2024.</p>
+<p>12. &nbsp;&nbsp; Parents who wish to opt their children out of the <i>eTeens</i> programme need to complete an opt-out form, via <a href="https://go.gov.sg/tkgs-eteens-opt-out-2025">https://go.gov.sg/tkgs-eteens-opt-out-2025</a>. The completed form is to be submitted by 31/01/2025.</p>
+<p>13. &nbsp;&nbsp;Parents can contact the school at Tel: + 65 6344 1593 or <a href="mailto:tkgs@moe.edu.sg">tkgs@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education programme.</p></ol>
