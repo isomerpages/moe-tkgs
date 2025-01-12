@@ -91,12 +91,14 @@ You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education">here</a>&
 			<br>Relationships &amp; Safety</td>
 <td style="vertical-align: middle;">A Role for Everyone<br>Lesson 1<br>(60 mins)</td>
 <td style="vertical-align: middle;">This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.<br><br>
-Students learn to focus on their personal strengths to pursue their interests and build their self- confidence. <br><br>
+
+Students learn to focus on their personal strengths to pursue their interests and build their self- confidence. 
+<br><br>
 Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.
 </td>
-<td style="vertical-align: middle;">• know that one’s understanding of gender roles should not be limited by gender stereotypes<br><br>
-• develop an appreciation of one’s own unique qualities and characteristics as a male or female<br><br>
-•	understand what sexual orientation entails
+<td style="vertical-align: middle;"><li>know that one’s understanding of gender roles should not be limited by gender stereotypes</li><br><br>
+<li>develop an appreciation of one’s own unique qualities and characteristics as a male or female<br><br></li>
+	<li>understand what sexual orientation entails</li>
 </td>
 <td style="vertical-align: middle;">Term 3 Week 2</td>
 	</tr>
@@ -106,16 +108,15 @@ Students will also learn about the definitions of biological sex, gender identit
 <td style="vertical-align: middle;">This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety. <br><br>
 <i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i>
 </td>
-<td style="vertical-align: middle;">• recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
-<td style="vertical-align: middle;">Term 3 Week 2/Term 3 Week 3<br></td>
+		<td style="vertical-align: middle;"><li>recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</li></td>
+<td style="vertical-align: middle;">Term 3 Week 3<br></td>
 	</tr>
 		<tr>
 	<td style="vertical-align: middle;">Do I or Don’t I<br>Lesson 2B<br>
 (60 mins)</td>
-<td style="vertical-align: middle;">This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.</td>
-<td style="vertical-align: middle;">• recognise the importance of self-respect and respect for others in relating to members of the opposite sex<br><br>
-• recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online
-</td>
+<td style="vertical-align: middle;">This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies. </td>
+<td style="vertical-align: middle;"><li>recognise the importance of self-respect and respect for others in relating to members of the opposite sex</li><br><br>
+<li>recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</li></td>
 			<td style="vertical-align: middle;">Term 3 Week 4<br></td>
 </tr>
 </tbody>
@@ -136,11 +137,11 @@ Students will also learn about the definitions of biological sex, gender identit
 <td style="vertical-align: middle;">Love Yourself, Love Others<br>Lesson 1A<br>
 (60 mins)</td>
 <td style="vertical-align: middle;">This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship.</td>
-<td style="text-align: left;">• know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline <br><br>
-•	understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours<br><br>
-• recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship
+<td style="text-align: left;"><li>know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline </li>
+<li>understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours</li>
+<li>recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship</li>
 </td>
-<td style="vertical-align: middle;">Term 3 Week 6</td>
+<td style="vertical-align: middle;">Term 3 Week 5</td>
 </tr>
 <tr>
 	<td style="vertical-align: middle;">Mending a Broken Heart Lesson 1B<br>(60 mins)</td>
