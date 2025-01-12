@@ -218,7 +218,7 @@ Lesson 4<br>(60 mins)</td>
 <h4><strong>eTeens Programme:</strong></h4>
 <ol start="8">
 <p></p><li><i>eTeens</i> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. <i>eTeens</i> is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the <i>eTeens</i> programme is that students are empowered to make wise, informed and sensible decisions.<p></p></li>
-<p></p><li>Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.<p></p></li>
+<p></p><li>Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.<p></p></li></ol>
 <h4><strong>At Tanjong Katong Girls’ School, the eTeens programme will be implemented as follows in 2025:</strong></h4>
 <table>
 	<tbody>
@@ -229,9 +229,9 @@ Lesson 4<br>(60 mins)</td>
 		</tr>
 		<tr>
 			<td>Mass Talk delivered through a pre-recorded video</td>
-			<td>• Raise awareness and provide knowledge on:<br><br>
+			<td><li>Raise awareness and provide knowledge on:<br><br>
 a)&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use).<br><br>
-b)&nbsp;&nbsp; Managing relationships and risky situations in a healthy way.
+				b)&nbsp;&nbsp; Managing relationships and risky situations in a healthy way.</li>
 			</td>
 		<td>Term 3 Week 2</td>
 		</tr>
@@ -246,4 +246,4 @@ b)&nbsp;&nbsp; Managing relationships and risky situations in a healthy way.
 <p>10. &nbsp;&nbsp;Parents may opt their children out of the <b>Sexuality Education lessons</b>, <i>eTeens</i> and/or supplementary sexuality education programmes by MOE-approved external providers. </p>
 <p>11. &nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form, via <a href="https://go.gov.sg/tkgs-sed-opt-out-2025">https://go.gov.sg/tkgs-sed-opt-out-2025</a>. The completed form is to be submitted by 31/01/2025.</p>
 <p>12. &nbsp;&nbsp; Parents who wish to opt their children out of the <i>eTeens</i> programme need to complete an opt-out form, via <a href="https://go.gov.sg/tkgs-eteens-opt-out-2025">https://go.gov.sg/tkgs-eteens-opt-out-2025</a>. The completed form is to be submitted by 31/01/2025.</p>
-<p>13. &nbsp;&nbsp;Parents can contact the school at Tel: + 65 6344 1593 or <a href="mailto:tkgs@moe.edu.sg">tkgs@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education programme.</p></ol>
+<p>13. &nbsp;&nbsp;Parents can contact the school at Tel: + 65 6344 1593 or <a href="mailto:tkgs@moe.edu.sg">tkgs@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
