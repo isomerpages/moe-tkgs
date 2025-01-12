@@ -58,7 +58,7 @@ You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education">here</a>&
 <br>Lesson 2<br>(60 mins)</td>
 	<td style="vertical-align: middle;">This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self. <br><br>
 
-<b>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</b>
+<b><i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i></b>
 </td>
 	<td style="text-align: left;"><li>understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</li></td>
 	<td style="vertical-align: middle;">Term 3 Week 6</td>
