@@ -244,6 +244,6 @@ b)&nbsp;&nbsp; Managing relationships and risky situations in a healthy way.
 </table>
 <h4><strong>Information for Parents</strong></h4><p></p>
 <p>10. &nbsp;&nbsp;Parents may opt their children out of the <b>Sexuality Education lessons</b>, <i>eTeens</i> and/or supplementary sexuality education programmes by MOE-approved external providers. </p>
-<p>11. &nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form, via <a href="https://go.gov.sg/tkgs-sed-opt-out-2025">https://go.gov.sg/tkgs-sed-opt-out-2025</a>. The completed form is to be submitted by 26/01/2024.</p>
+<p>11. &nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form, via <a href="https://go.gov.sg/tkgs-sed-opt-out-2025">https://go.gov.sg/tkgs-sed-opt-out-2025</a>. The completed form is to be submitted by 31/01/2025.</p>
 <p>12. &nbsp;&nbsp; Parents who wish to opt their children out of the <i>eTeens</i> programme need to complete an opt-out form, via <a href="https://go.gov.sg/tkgs-eteens-opt-out-2025">https://go.gov.sg/tkgs-eteens-opt-out-2025</a>. The completed form is to be submitted by 31/01/2025.</p>
 <p>13. &nbsp;&nbsp;Parents can contact the school at Tel: + 65 6344 1593 or <a href="mailto:tkgs@moe.edu.sg">tkgs@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education programme.</p></ol>
