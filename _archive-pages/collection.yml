@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - 2024 GCE O Level Release.md
+      - Sparkling Moments/2022.md
       - Sparkling Moments/2021.md
       - Sparkling Moments/.keep
