@@ -28,6 +28,6 @@ variant: markdown
 
 <p>‘Leading the Sec 1s during Cohort experience as an Orientation Group Leader (OGL) was very fulfilling as I was able to help the lovely Sec one juniors experience the TKGS culture within those few days. The experience taught me how to lead a team and care for both my juniors and my fellow OGLs. It was heartwarming to see the Secondary Ones opening up and interacting with their other classmates after the icebreakers and to see the smiles on their faces after campfire night!’ shares Joycelyn Tan (4H4). </p>
 
-<img src="/images/Sparkling_Moment/2025/CC_Hero.png">
+<img src="/images/Sparkling_Moment/2025/CC_3.png">
 
 <p>Particularly for the Secondary One students, the highlight of their experience was the electrifying campfire night. Under the starry sky (or the twinkling lights, thanks to the unexpected rain!), students showcased their talents with dazzling class performances. The hard work during rehearsals culminated in a symphony of laughter, music, and shared joy, a true testament to the teamwork and camaraderie forged during the unforgettable Cohort Experience.</p>
