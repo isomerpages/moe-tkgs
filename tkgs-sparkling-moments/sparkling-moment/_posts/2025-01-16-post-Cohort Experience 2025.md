@@ -7,8 +7,10 @@ description: ""
 image: ""
 variant: markdown
 ---
+<img src="/images/Sparkling_Moment/2025/CC_Hero.png">
 <p>Roars of excitement echoed through the halls of Tanjong Katong Girls' School as our Secondary One to Four students plunged headfirst into their Cohort Experience, kickstarting a brand new year. This vibrant celebration of school spirit wasn't just about fun and games; it was also a testament to TKGS's commitment to nurturing a sisterhood of care and support for our TKGians.</p>
 
+<img src="/images/Sparkling_Moment/2025/CC_1.png">
 
 <p>From adrenaline-pumping dragon boat races to the serenity of cycling along the East Coast Park, these various activities provided many opportunities for our TKGians to connect with their peers and teachers, all while learning more about the school’s values and culture.</p>
 
@@ -19,6 +21,8 @@ variant: markdown
 <p>‘I got to know classmates that I previously did not know that well, strengthening our class spirit as we had fun together,’ shares Aafsheen Ibrahim. </p>
 
 <p>‘The cohort experience was truly one-of-a-kind! The exciting cycling expedition pushed me beyond my comfort zone, allowing me to challenge myself and reach new heights as I embarked on an incredible adventure with my new class,’ reflects Karis Sing (3R6).</p>
+
+<img src="/images/Sparkling_Moment/2025/CC_2.png">
 
 <p>‘Activities such as dragon boating and bouldering gave me a rare opportunity to step out of school to spend time having fun with my friends. The ECG workshops and learning journeys to Lifelong Learning Institute and Ngee Ann Polytechnic also helped me discover my strengths and interests and explore post-Secondary options,’ shares Jernice Lee (4I2). </p>
 
