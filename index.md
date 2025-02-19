@@ -13,6 +13,15 @@ sections:
           description: ""
           url: /useful-links/
       variant: center
+  - infopic:
+      title: Limelight 2025
+      id: infopic
+      description: Join our TKGS Choir for an enchanting evening as they take to the
+        Esplanade stage on 12 March 2025!
+      button: Click here for more information
+      url: https://www.esplanade.com/whats-on/festivals-and-series/series/limelight/2025/tanjong-katong-girls-school-choir
+      alt: Image alt text
+      image: /images/Hompage/Infopic/Limelight_2025.jpg
   - resources:
       title: TKGS Sparkling Moments
       button: More
