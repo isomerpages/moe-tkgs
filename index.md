@@ -24,6 +24,7 @@ sections:
       button: Click here for more information
       url: https://www.esplanade.com/whats-on/festivals-and-series/series/limelight/2025/tanjong-katong-girls-school-choir
       alt: Image alt text
+      image: /images/Hompage/Infopic/Limelight_2025.jpg
   - infopic:
       title: Yearbook 2024
       id: infopic
