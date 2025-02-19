@@ -47,4 +47,12 @@ sections:
       description: Application for year 2025 is now open.
       button: Click here for more details
       url: /financial-assistance-scheme-fas/
+  - infopic:
+      title: Limelight 2025
+      id: infopic
+      description: Join the Tanjong Katong Girls’ School Choir (TKGS Choir) for an
+        enchanting evening filled with a captivating blend of music.
+      button: Click here for more information
+      url: https://www.esplanade.com/whats-on/festivals-and-series/series/limelight/2025/tanjong-katong-girls-school-choir
+      alt: Image alt text
 ---
