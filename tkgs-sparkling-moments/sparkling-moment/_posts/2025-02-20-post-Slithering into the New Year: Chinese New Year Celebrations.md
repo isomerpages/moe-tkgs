@@ -17,7 +17,7 @@ variant: markdown
 <img src="/images/Sparkling_Moment/2025/CNY_2.png">
 <p>The performances continued to captivate, with the thunderous beats of the Festive Drums that reverberated throughout the hall, energizing the audience with their rhythmic precision. Our Dance Club then took to the stage, delivering a mesmerising performance that blended elegance and power, leaving the audience in awe of their skill and coordination. The celebration reached its peak when our teachers and schoolmates delighted us with their own rendition of several classic Chinese New Year songs.</p>
 
-<p>Our celebration concluded memorably with the gifting of oranges, a symbol of prosperity and happiness, to our staff, seniors, parents, and our invited quests from Mountbatten. </p>
+<p>Our celebration concluded memorably with the gifting of oranges, a symbol of prosperity and happiness, to our staff, seniors, parents, and our invited guests from Mountbatten. </p>
 
 <p>“It was a day of togetherness, laughter, and cultural appreciation that would be remembered for years to come.” Emily Prajogo (4R6) shared, capturing the pride and excitement that filled the air.</p>
 
