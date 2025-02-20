@@ -21,4 +21,4 @@ variant: markdown
 
 <p>“It was a day of togetherness, laughter, and cultural appreciation that would be remembered for years to come.” Emily Prajogo (4R6) shared, capturing the pride and excitement that filled the air.</p>
 
-<i>Story contributed by Huang Ruiyi Elaine (4R6) </i>
+<p align="right"><i>Story contributed by Huang Ruiyi Elaine (4R6) </i> </p>
