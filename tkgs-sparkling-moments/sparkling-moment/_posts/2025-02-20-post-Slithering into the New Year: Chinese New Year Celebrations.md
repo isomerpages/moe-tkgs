@@ -19,6 +19,6 @@ variant: markdown
 
 <p>Our celebration concluded memorably with the gifting of oranges, a symbol of prosperity and happiness, to our staff, seniors, parents, and our invited quests from Mountbatten. </p>
 
-<p>“It was a day of togetherness, laughter, and cultural appreciation that would be remembered for years to come.” <br>Emily Prajogo (4R6) shared, capturing the pride and excitement that filled the air.</p>
+<p>“It was a day of togetherness, laughter, and cultural appreciation that would be remembered for years to come.” Emily Prajogo (4R6) shared, capturing the pride and excitement that filled the air.</p>
 
 <p align="right"><i>Story contributed by Huang Ruiyi Elaine (4R6) </i> </p>
