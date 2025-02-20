@@ -7,7 +7,10 @@ description: ""
 image: ""
 variant: markdown
 ---
-Slithering into the New Year: Chinese New Year Celebrations
+<img src="/images/Sparkling_Moment/2025/CC_Hero.png">
+
+
+
 
 <p>On January 28, 2025, Tanjong Katong Girls’ School came alive with festive cheer as students celebrated the Year of the Snake with a day brimming with culture and camaraderie.</p>
 
