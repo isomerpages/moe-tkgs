@@ -36,7 +36,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Cheng Lian Iris</p>
+<p>Ms Teo Cheng Lian, Iris</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager</p>
@@ -114,14 +114,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Abdul Malik Sulaiman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>STEM Instructor (Laboratory)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Rohayah Bte Sarpin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -136,7 +128,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Alvin Khan</p>
+<p>Mr Khan Kai Sun, Alvin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
@@ -160,7 +152,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr James Yeo</p>
+<p>Mr Yeo Joo Quee, James</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -182,7 +174,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ryan Law Nan Jun</p>
+<p>Mr Law Nan Jun, Ryan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Manager</p>
@@ -191,6 +183,14 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Fazuli Bin Abdul Samad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer (NCS DE)</p>
+</td>
+</tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamed Ismail Bin Mohd Amin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer (NCS DE)</p>
@@ -212,7 +212,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jane Lau</p>
+<p>Ms Lau Bee Hoon, Jane</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Librarian</p>
@@ -242,7 +242,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Elina Tan</p>
+<p>Ms Tan Ping Ping, Elina</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Education and Career Guidance (ECG) Counsellor</p>
