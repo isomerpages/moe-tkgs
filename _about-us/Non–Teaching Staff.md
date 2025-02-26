@@ -158,6 +158,14 @@ variant: markdown
 <p>Operations Support Officer</p>
 </td>
 </tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Redzuan Bin Hussain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p><strong>ICT Staff</strong>
