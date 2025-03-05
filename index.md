@@ -35,6 +35,11 @@ sections:
       url: https://online.fliphtml5.com/imxpa/llbw/#p=1
       image: /images/Resources/Yearbook/2025YB.png
       alt: Yearbook2024
+  - infobar:
+      title: Collection of School Graduation Certificates
+      id: infobar
+      button: Click here for more details
+      url: /announcements/graduation-certificates/
   - infopic:
       title: TKGS e-Prospectus
       id: infopic
