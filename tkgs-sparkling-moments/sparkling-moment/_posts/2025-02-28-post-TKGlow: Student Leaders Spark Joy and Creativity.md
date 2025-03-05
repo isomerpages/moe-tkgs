@@ -15,3 +15,5 @@ variant: markdown
 <p>On the athletic front, classes also took part in various sports. Despite the activities’ competitive nature, students unwaveringly supported each other, cheering their peers' names and sharing high-fives. 
 </p>
 <p>Guided by our student leaders, TKGlow was indeed a day of discovery, revealing hidden interests and building vibrant friendships through shared activities and laughter.</p>
+
+<p align="right"><i>Story contributed by Sophia Adriana (4C3) </i> </p>
