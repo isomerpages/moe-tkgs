@@ -22,6 +22,11 @@ sections:
       url: https://www.esplanade.com/whats-on/festivals-and-series/series/limelight/2025/tanjong-katong-girls-school-choir
       alt: Image alt text
       image: /images/Hompage/Infopic/Limelight_2025.jpg
+  - infobar:
+      title: Collection of School Graduation Certificates
+      id: infobar
+      button: Click here for more details
+      url: /announcements/graduation-certificates/
   - resources:
       title: TKGS Sparkling Moments
       button: More
