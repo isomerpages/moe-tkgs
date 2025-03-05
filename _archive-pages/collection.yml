@@ -2,7 +2,6 @@ collections:
   archive-pages:
     output: true
     order:
-      - Graduation Certificates.md
       - Sparkling Moments/2022.md
       - Sparkling Moments/2021.md
       - Sparkling Moments/.keep
