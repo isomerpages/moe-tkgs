@@ -2,4 +2,5 @@ collections:
   announcements:
     output: true
     order:
+      - Graduation Certificates.md
       - 2024 GCE O Level Release.md
