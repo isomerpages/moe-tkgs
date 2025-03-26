@@ -23,4 +23,4 @@ variant: markdown
 
 <p>TKGians are certainly artists too - we gave them paintbrushes, and they traced vibrant strokes of innovation to create meaning!</p>
 
-<p align="right"><i>Story contributed by Kit Leo (4I2) </i> </p>
+<p align="right"><i>Story contributed by Kit Leo (Class Exco President)</i> </p>
