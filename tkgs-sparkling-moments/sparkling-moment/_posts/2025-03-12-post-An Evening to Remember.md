@@ -12,3 +12,5 @@ variant: markdown
 <p>This journey taught us the power of perseverance, the beauty of music, and the strength found in trust and collaboration. Choir is not just about individual talent but about blending voices to create something greater than ourselves. As the last note faded and applause filled the hall, we knew that every challenge had been worth it.  In the words of Yuna (3R1), we are ‘grateful for this opportunity to perform together with such amazing fellow choristers’.</p>
 
 <p>We extend our heartfelt gratitude to the Esplanade for hosting us, our dedicated teachers-in-charge, Ms Tong and Mdm Li, and our inspiring conductors, Ms Lim and Ms Chai. Your unwavering support and guidance, as well as the encouraging audience, made this evening memorable. </p>
+
+<p align="right"><i>Story contributed by Huang Ruiyi Elaine (4R6) </i> </p>
