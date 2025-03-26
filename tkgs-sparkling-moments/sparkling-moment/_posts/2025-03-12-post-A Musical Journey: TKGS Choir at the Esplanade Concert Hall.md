@@ -9,7 +9,7 @@ variant: markdown
 ---
 <img src="/images/Sparkling_Moment/2025/CNY_Hero.png">
 
-<p>On 21 March, our TKGS Choir took to the Esplanade Concert Hall stage for Limelight, presenting an enchanting evening filled with a captivating blend of music. We masterfully navigated Elgar's classics, then seamlessly shifted to the delicate nuances of Asian folk songs and even iconic hits, proving their versatility as they captivated the audience.</p>
+<p>On 12 March, our TKGS Choir took to the Esplanade Concert Hall stage for Limelight, presenting an enchanting evening filled with a captivating blend of music. We masterfully navigated Elgar's classics, then seamlessly shifted to the delicate nuances of Asian folk songs and even iconic hits, proving their versatility as they captivated the audience.</p>
 	
 <p>From the first rehearsal to the final bow, Limelight was more than just a concert—it was a testament to our dedication, resilience, and teamwork. Every note we sang carried the weight of months of intense rehearsals, late-night self practices, and moments of self-doubt. Yet, through every challenge, we grew—not just as singers, but as a united choir.</p>
 
