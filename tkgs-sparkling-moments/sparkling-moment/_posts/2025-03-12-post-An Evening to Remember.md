@@ -18,4 +18,4 @@ variant: markdown
 
 <p>We extend our heartfelt gratitude to the Esplanade for hosting us, our dedicated teachers-in-charge, Ms Tong and Mdm Li, and our inspiring conductors, Ms Lim and Ms Chai. Your unwavering support and guidance, as well as the encouraging audience, made this evening memorable. </p>
 
-<p align="right"><i>Story contributed by Huang Ruiyi Elaine (4R6) </i> </p>
+<p align="right"><i>Story contributed by Tessa Tan Shane (4H4) </i> </p>
