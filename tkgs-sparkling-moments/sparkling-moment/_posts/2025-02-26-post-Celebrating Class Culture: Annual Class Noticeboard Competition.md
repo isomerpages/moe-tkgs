@@ -21,3 +21,5 @@ variant: markdown
 <p>Proudly organised by our student leaders from the Class Committee Exco, this event not only brought out our students’ creativity but also fostered teamwork, pride, and a sense of belonging within their classes, setting the tone for the year ahead. </p>
 
 <p>TKGians are certainly artists too - we gave them paintbrushes, and they traced vibrant strokes of innovation.</p>
+
+<p align="right"><i>Story contributed by Kit Leo (4I2) </i> </p>
