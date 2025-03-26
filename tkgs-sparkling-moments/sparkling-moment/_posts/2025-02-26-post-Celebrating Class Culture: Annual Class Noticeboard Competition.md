@@ -7,8 +7,6 @@ description: ""
 image: ""
 variant: markdown
 ---
-
-
 <p>A cherished annual tradition at Tanjong Katong Girls' School, the Class Noticeboard Competition fosters strong sisterhood and vibrant class culture. This enriching activity gives our students complete freedom to decorate their class noticeboards as creatively as they wish - the only limit is their imagination. </p>
 
 <p>Students collaborate to design their noticeboards, with the lower secondary classes also designing door wraps, and banners, visually representing their class values. This creative process strengthened bonds and showcased each class's unique identity.</p>
