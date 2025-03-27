@@ -9,11 +9,12 @@ variant: markdown
 ---
 <img src="/images/Sparkling_Moment/2025/NOB_Hero.png">
 
-<p>A cherished annual tradition at Tanjong Katong Girls' School, the Class Noticeboard Competition fosters strong sisterhood and colourful class culture. This enriching activity gives our students complete freedom to decorate their class noticeboards as creatively as they wish - the only limit is their imagination. </p>
+<p>A cherished annual tradition at Tanjong Katong Girls' School, the Class Noticeboard Competition was an enriching activity that gave our students complete freedom to decorate their class notice boards as creatively as they wished - the only limit is their imagination. </p>
 
 <img src="/images/Sparkling_Moment/2025/NOB_1.png">
 
-<p>Students collaborate to design their noticeboards, visually representing their class values. The lower secondary classes even had a chance to design door wraps, and banners to complement their noticeboards.  This creative process strengthened bonds and showcased each class's unique identity.</p>
+<p>Students collaborated to design their noticeboards, visually representing their class values. The lower secondary classes even had a chance to design door wraps, and banners to complement their noticeboards.  This creative process strengthened bonds and showcased each class's unique identity.
+</p>
 
 <img src="/images/Sparkling_Moment/2025/NOB_2.png">
 
@@ -21,6 +22,6 @@ variant: markdown
 
 <p>Proudly organised by our student leaders from the Class Committee Exco, this event not only brought out our students’ creativity but also fostered teamwork, pride, and a sense of belonging within their classes, setting the tone for the year ahead.</p>
 
-<p>TKGians are certainly artists too - we gave them paintbrushes, and they traced vibrant strokes of innovation to create meaning!</p>
+<p>TKGians are certainly artists too - we gave them paintbrushes, and they traced vibrant strokes of resonance.</p>
 
 <p align="right"><i>Story contributed by Kit Leo (Class Exco President)</i> </p>
