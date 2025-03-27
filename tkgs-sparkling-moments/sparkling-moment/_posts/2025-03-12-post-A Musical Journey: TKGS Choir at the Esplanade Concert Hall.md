@@ -15,7 +15,7 @@ variant: markdown
 
 <img src="/images/Sparkling_Moment/2025/LL_1.png">
 
-<p>This journey taught us the power of perseverance, the beauty of music, and the strength found in trust and collaboration. Choir is not just about individual talent but about blending voices to create something greater than ourselves. As the last note faded and applause filled the hall, we knew that every challenge had been worth it.  In the words of Kim Yuna (3R1), we are grateful for this opportunity to perform together with such amazing fellow choristers.</p>
+<p>This journey taught us the power of perseverance, the beauty of music, and the strength found in trust and collaboration. Choir is not just about individual talent but about blending voices to create something greater than ourselves. As the last note faded and applause filled the hall, we knew that every challenge had been worth it.  In the words of Kim Yuna (3R1), we are 'grateful for this opportunity to perform together with such amazing fellow choristers'.</p>
 
 <img src="/images/Sparkling_Moment/2025/LL_2.png">
 
