@@ -11,7 +11,7 @@ variant: markdown
 
 <p>Please join us in congratulating the following TKGS Alumni on their notable achievements!</p>
 
-<table style="text-align: center; font-size: 16px;">
+<table>
 	<tbody>
 		<tr>
 			<th style="text-align: center;">
@@ -27,15 +27,47 @@ variant: markdown
 			Achievements
 		</th>
 		</tr>
-		<tr>
-			<td>Faith Tan Wen Hui
-			</td>
-			<td>2022
-			</td>
-			<td>St Andrew's Junior College
-			</td>
-			<td>Outstanding Performance in GCE A-Level Examinations and <br>Holistic Development
-			</td>
-		</tr>
-		</tbody>
+	<tr>
+<td>
+Faith Tan Wen Hui
+</td>
+<td>
+	2022
+</td>
+<td>
+St Andrew's Junior College
+</td>
+<td>
+Outstanding Performance in GCE A-Level Examinations and Holistic Development
+</td>
+</tr>
+<tr>
+<td>
+Ramesh Kanikha
+</td>
+<td>
+	2023
+</td>
+<td>
+Temasek Polytechnic
+</td>
+<td>
+School of Engineering Scholarship
+</td>
+</tr>
+<tr>
+<td>
+Shanelle Cheok En Qi
+</td>
+<td>
+	2023
+</td>
+<td>
+Temasek Polytechnic
+</td>
+<td>
+School of Engineering Scholarship
+</td>
+</tr>
+</tbody>
 </table>
