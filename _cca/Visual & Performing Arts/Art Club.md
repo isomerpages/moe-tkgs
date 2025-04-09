@@ -19,7 +19,7 @@ th, td {
 
 tr:hover {background-color: #F5F5DC;}
 </style>
-<img src="/images/CCA/Art_club/art_combine.gif">
+<img src="/images/CCA/Art_club/art_club_2025.gif">
 
 <p>Art Club is a vibrant space for the artists of TKGS to unleash their creativity. Our passionate members gather weekly to sketch, paint, sculpt and experiment with countless different mediums. With our differing art styles, we inspire and learn from each other, nurturing a supportive and collaborative community. Through watercolor painting and pressed flower workshops, we delve into the diverse and unique forms of art.</p>
 <p>We not only focus on honing our artistic skills, but also encourage each other to showcase our talents, fostering a sense of pride and accomplishment. Our CCA provides a sanctuary where students cultivate lifelong passions and is a place where enduring friendships are forged, united by a shared love for Art.</p>
