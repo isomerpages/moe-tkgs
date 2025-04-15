@@ -27,6 +27,20 @@ variant: markdown
 			Achievements
 		</th>
 		</tr>
+		<tr>
+<td>
+Evelyn Chew Hui Xin
+</td>
+<td>
+	2021
+</td>
+<td>
+Ngee Ann Polytechnic,<br> School of Engineering
+</td>
+<td>
+Diploma with Merit, Smitech Asia Silver Medal &amp; Prize and Equip Medical Prize
+</td>
+</tr>
 	<tr>
 <td>
 Faith Tan Wen Hui
@@ -49,10 +63,10 @@ Ramesh Kanikha
 	2023
 </td>
 <td>
-Temasek Polytechnic
+Temasek Polytechnic, School of Engineering
 </td>
 <td>
-School of Engineering Scholarship
+Scholarship
 </td>
 </tr>
 <tr>
@@ -63,10 +77,10 @@ Shanelle Cheok En Qi
 	2023
 </td>
 <td>
-Temasek Polytechnic
+Temasek Polytechnic, School of Engineering
 </td>
 <td>
-School of Engineering Scholarship
+Scholarship
 </td>
 </tr>
 </tbody>
