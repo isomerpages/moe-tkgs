@@ -66,7 +66,7 @@ Ramesh Kanikha
 Temasek Polytechnic, School of Engineering
 </td>
 <td>
-Scholarship
+School of Engineering Scholarship
 </td>
 </tr>
 <tr>
@@ -80,7 +80,7 @@ Shanelle Cheok En Qi
 Temasek Polytechnic, School of Engineering
 </td>
 <td>
-Scholarship
+School of Engineering Scholarship
 </td>
 </tr>
 </tbody>
