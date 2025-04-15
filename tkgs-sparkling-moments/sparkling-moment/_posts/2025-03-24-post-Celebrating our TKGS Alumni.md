@@ -35,10 +35,10 @@ Evelyn Chew Hui Xin
 	2021
 </td>
 <td>
-Ngee Ann Polytechnic
+Ngee Ann Polytechnic,<br> School of Engineering
 </td>
 <td>
-School of Engineering Scholarship
+Diploma with Merit, Smitech Asia Silver Medal &amp; Prize and Equip Medical Prize
 </td>
 </tr>
 	<tr>
@@ -63,10 +63,10 @@ Ramesh Kanikha
 	2023
 </td>
 <td>
-Temasek Polytechnic
+Temasek Polytechnic, School of Engineering
 </td>
 <td>
-School of Engineering Scholarship
+Scholarship
 </td>
 </tr>
 <tr>
@@ -77,10 +77,10 @@ Shanelle Cheok En Qi
 	2023
 </td>
 <td>
-Temasek Polytechnic
+Temasek Polytechnic, School of Engineering
 </td>
 <td>
-School of Engineering Scholarship
+Scholarship
 </td>
 </tr>
 </tbody>
