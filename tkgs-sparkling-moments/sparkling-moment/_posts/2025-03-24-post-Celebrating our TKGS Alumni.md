@@ -27,6 +27,20 @@ variant: markdown
 			Achievements
 		</th>
 		</tr>
+		<tr>
+<td>
+Evelyn Chew Hui Xin
+</td>
+<td>
+	2021
+</td>
+<td>
+Ngee Ann Polytechnic
+</td>
+<td>
+School of Engineering Scholarship
+</td>
+</tr>
 	<tr>
 <td>
 Faith Tan Wen Hui
