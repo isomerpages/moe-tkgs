@@ -128,6 +128,11 @@ variant: markdown
 			<td style="vertical-align: middle; text-align: center;">3rd Position</td>
 	</tr>
 	<tr>
+			<td style="vertical-align: middle; text-align: center;">Sailing</td>
+			<td style="vertical-align: middle; text-align: center;">National ‘C’ Division <br>Optimist</td>
+			<td style="vertical-align: middle; text-align: center;">2nd Position</td>
+	</tr>
+	<tr>
 			<td style="vertical-align: middle; text-align: center;">Softball</td>
 			<td style="vertical-align: middle; text-align: center;">National ‘B’ Division</td>
 			<td style="vertical-align: middle; text-align: center;">3rd Position</td>
