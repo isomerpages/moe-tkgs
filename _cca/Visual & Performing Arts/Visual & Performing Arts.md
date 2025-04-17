@@ -25,7 +25,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<h3>Singapore Youth Festival Arts Presentation 2023</h3>
+<h3>Year 2023</h3>
 <table>
 <tbody>
 <tr>
@@ -34,27 +34,27 @@ variant: markdown
 </tr>
 <tr>
 <td style="vertical-align: middle; text-align: center;">Choir</td>
-<td style="vertical-align: middle; text-align: center;">Certificate of Distinction</td>
+<td style="vertical-align: middle; text-align: center;">SYF Certificate of Distinction</td>
 </tr>
 <tr>
 <td style="vertical-align: middle; text-align: center;">Dance (Modern)</td>
-<td style="vertical-align: middle; text-align: center;">Certificate of Distinction</td>
+<td style="vertical-align: middle; text-align: center;">SYF Certificate of Distinction</td>
 </tr>
 <tr>
 <td style="vertical-align: middle; text-align: center;">Drama</td>
-<td style="vertical-align: middle; text-align: center;">Certificate of Distinction</td>
+<td style="vertical-align: middle; text-align: center;">SYF Certificate of Distinction</td>
 </tr>
 <tr>
 <td style="vertical-align: middle; text-align: center;">String Ensemble</td>
-<td style="vertical-align: middle; text-align: center;">Certificate of Distinction</td>
+<td style="vertical-align: middle; text-align: center;">SYF Certificate of Distinction</td>
 </tr>
 <tr>
 <td style="vertical-align: middle; text-align: center;">Symphonic Band</td>
-<td style="vertical-align: middle; text-align: center;">Certificate of Accomplishment</td>
+<td style="vertical-align: middle; text-align: center;">SYF Certificate of Accomplishment</td>
 </tr>
 </tbody>
 </table>
-<h3>Singapore Youth Festival Arts Presentation 2021</h3>
+<h3>Year 2021</h3>
 <table>
 <tbody>
 <tr>
@@ -67,19 +67,19 @@ variant: markdown
 </tr>
 <tr>
 <td style="vertical-align: middle; text-align: center;">Dance (Modern)</td>
-<td style="vertical-align: middle; text-align: center;">Certificate of Distinction</td>
+<td style="vertical-align: middle; text-align: center;">SYF Certificate of Distinction</td>
 </tr>
 <tr>
 <td style="vertical-align: middle; text-align: center;">Drama</td>
-<td style="vertical-align: middle; text-align: center;">Certificate of Distinction</td>
+<td style="vertical-align: middle; text-align: center;">SYF Certificate of Distinction</td>
 </tr>
 <tr>
 <td style="vertical-align: middle; text-align: center;">String Ensemble</td>
-<td style="vertical-align: middle; text-align: center;">Certificate of Distinction</td>
+<td style="vertical-align: middle; text-align: center;">SYF Certificate of Distinction</td>
 </tr>
 <tr>
 <td style="vertical-align: middle; text-align: center;">Symphonic Band</td>
-<td style="vertical-align: middle; text-align: center;">Certificate of Distinction</td>
+<td style="vertical-align: middle; text-align: center;">SYF Certificate of Distinction</td>
 </tr>
 </tbody>
 </table>
