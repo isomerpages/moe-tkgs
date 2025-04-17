@@ -62,7 +62,7 @@ variant: markdown
 			<td style="vertical-align: middle; text-align: center;">Gold</td>
 	</tr><tr>
 			<td style="vertical-align: middle; text-align: center;">National Police Cadet Corp</td>
-			<td style="vertical-align: middle;">Unit Overall Proficiency Award</td>
+			<td style="vertical-align: middle; text-align: center;">Unit Overall Proficiency Award</td>
 			<td style="vertical-align: middle; text-align: center;">Distinction</td>
 	</tr>
 	<tr>
