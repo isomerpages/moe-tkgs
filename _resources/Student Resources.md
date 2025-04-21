@@ -10,7 +10,7 @@ variant: markdown
 <tr>
 <td style="width: 33.3333%;"><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener"><img style="width: 80%;" src="/images/Resources/Student/srr1.png"></a></td>
 <td style="width: 33.3333%;"><a href="https://workspace.google.com/dashboard" target="_blank" rel="noopener"><img src="/images/Resources/Student/srr2.png"></a></td>
-<td style="width: 33.3333%;"><a href="http://www.myskillsfuture.sg/secondary" target="_blank" rel="noopener"><img src="/images/Resources/Student/srr3.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" target="_blank" rel="noopener"><img src="/images/Resources/Student/srr3.jpg"></a></td>
 </tr>
 	<tr>
 		<td style="width: 33.3333%;"><a href="https://forms.moe.edu.sg/" target="_blank" rel="noopener"><img style="width: 80%;" src="/images/Resources/Student/allears.png"></a></td>
