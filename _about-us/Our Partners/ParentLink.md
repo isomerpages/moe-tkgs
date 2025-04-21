@@ -3,6 +3,7 @@ title: ParentLink
 permalink: /about-us/our-partners/parentlink/
 description: ""
 third_nav_title: Our Partners
+variant: markdown
 ---
 <p>Dear Parents,<br>All TKGS parents are part of Parentlink and each is a valued partner! Parentlink comprises 2 pillars:</p>
 <ul>
