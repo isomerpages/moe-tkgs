@@ -28,6 +28,8 @@ tr:last-child {
 <h4><strong>Mission for TKGS Parentlink</strong></h4>
 To provide a network of support, encouragement and inspiration for parents in raising their daughters in close partnership with the school.
 
+<img style="width: 75%;" src="/images/pl1.png">
+
 <h4><strong>2025 ParentLink Core Team Committee</strong></h4> 
 <table>
     <tbody>
@@ -75,5 +77,11 @@ To provide a network of support, encouragement and inspiration for parents in ra
 	</tbody>
 </table>
 
-
-<img style="width: 75%;" src="/images/pl1.png">
+<h4><strong>Connect with us</strong></h4>
+<table>
+	<tbody>
+		<tr>
+			<td style="text-align: center"><b><a href="https://www.facebook.com/profile.php?id=100057374841835"><img style="width: 70px;" src="/images/Standard/FB_icon.png">@TKGSAlumni</a></b>
+			</td>
+			<td style="text-align: center"><b>
+		<a href="https://www.instagram.com/tkgs.alumni/?igshid=YmMyMTA2M2Y%3D"><img style="width: 70px;" src="/images/Standard/IG_icon.png">@TKGSAlumni</a></b></td></tr></tbody></table>
