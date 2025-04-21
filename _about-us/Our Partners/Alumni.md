@@ -18,31 +18,31 @@ variant: markdown
 </tr>
 	
 <tr>
-<td>PRESIDENT</td>
+<td>President</td>
 <td>Mrs Sally Lee-Low Kwee Hua</td>
 </tr>
 <tr>
-<td>VICE PRESIDENT</td>
+<td>Vice President</td>
 <td>Ms Wong Yoke Lin</td>
 </tr>
 <tr>
-<td>HON. SECRETARY</td>
+<td>Hon. Secretary</td>
 <td>Ms Aishah Bte Ahmad Alkaff</td>
 </tr>
 <tr>
-<td>HON.ASST. SECRETARY</td>
+<td>Hon. Asst. Secretary</td>
 <td>Ms Geraldine Ng Pheng Yee</td>
 </tr>
 <tr>
-<td>HON. TREASURER</td>
+<td>Hon. Treasurer</td>
 <td>Ms Lim Choon Rui</td>
 </tr>
 <tr>
-<td>HON. ASST. TREASURER</td>
+<td>Hon. Asst. Treasurer</td>
 <td>Ms Ang Soo Lang</td>
 </tr>
 <tr>
-<td>COMMITTEE MEMBERS</td>
+<td>Committee Members</td>
 <td>
 	<div>Ms Flora Chio Kuang. Chng</div>
 	<div>Dr Christie Kamala</div>
@@ -54,9 +54,9 @@ variant: markdown
 </table>
 <h4><strong>Objectives</strong></h4>
 <ul>
-<li>to develop and maintain a true spirit of loyalty for the Alma Mater.</li>
-<li>to maintain close links with the Alma Mater so as to help her achieve her objectives.</li>
-<li>to enable members to renew ties for mutual benefits</li>
+<li>To develop and maintain a true spirit of loyalty for the Alma Mater.</li>
+<li>To maintain close links with the Alma Mater so as to help her achieve her objectives.</li>
+<li>To enable members to renew ties for mutual benefits</li>
 </ul>
 <h4><strong>Connect with us</strong></h4>
 <table>
