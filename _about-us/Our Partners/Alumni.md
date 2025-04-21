@@ -62,10 +62,10 @@ variant: markdown
 <table>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><b><a href="https://www.facebook.com/profile.php?id=100057374841835"><img style="width: 70px;" src="/images/Standard/FB_icon.png">@TKGSAlumni</a></b>
+			<td style="text-align: center"><b><a href="https://www.facebook.com/profile.php?id=100057374841835" target="_blank" rel="noopener"><img style="width: 70px;" src="/images/Standard/FB_icon.png">@TKGSAlumni</a></b>
 			</td>
 			<td style="text-align: center"><b>
-		<a href="https://www.instagram.com/tkgs.alumni/?igshid=YmMyMTA2M2Y%3D"><img style="width: 70px;" src="/images/Standard/IG_icon.png">@TKGSAlumni</a></b>
+		<a href="https://www.instagram.com/tkgs.alumni/?igshid=YmMyMTA2M2Y%3D" target="_blank" rel="noopener"><img style="width: 70px;" src="/images/Standard/IG_icon.png">@TKGSAlumni</a></b>
 			</td>
 		</tr>
 	</tbody>
