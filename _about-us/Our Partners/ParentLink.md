@@ -96,7 +96,7 @@ tr:last-child {
 <table>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><b><a href="https://www.facebook.com/TKGSPARENTLINK?mibextid=JRoKGi"><img style="width: 70px;" src="/images/Standard/FB_icon.png">ParentLink Facebook</a></b>
+			<td style="text-align: center"><b><a href="https://www.facebook.com/TKGSPARENTLINK?mibextid=JRoKGi" target="_blank" rel="noopener"><img style="width: 70px;" src="/images/Standard/FB_icon.png">ParentLink Facebook</a></b>
 			</td>
 			<td style="text-align: center"><b>
-		<a href="https://www.instagram.com/tkgs.parentlink/profilecard/?igsh=MWliOWlya2sxd3l6Nw=="><img style="width: 70px;" src="/images/Standard/IG_icon.png">ParentLink Instragram</a></b></td></tr></tbody></table>
+		<a href="https://www.instagram.com/tkgs.parentlink/profilecard/?igsh=MWliOWlya2sxd3l6Nw==" target="_blank" rel="noopener"><img style="width: 70px;" src="/images/Standard/IG_icon.png">ParentLink Instragram</a></b></td></tr></tbody></table>
