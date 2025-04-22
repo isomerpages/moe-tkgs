@@ -46,19 +46,19 @@ tr:last-child {
 					<td>Mums for Life Reps</td>
 					<td>
 						<div>Ms Seow Lee Choo, Annie</div>
-						<div>Mr Alaine Chiam</div>
+						<div>Ms Alaine Chiam</div>
 			</td></tr>
 			<tr>
 					<td>Level Representatives for Lower Sec</td>
 					<td>
-						<div>Mr Nicholas Yap</div>
-						<div>Ms Norsuria</div>
+						<div>Mr Yap Yu Jin, Nicholas</div>
+						<div>Ms Norsuria Binte Norhan</div>
 			</td></tr>
 			<tr>
 					<td>Level Representatives for Upper Sec</td>
 					<td>
-						<div>Mr Rohaizad</div>
-						<div>Ms Celeste Seah</div>
+						<div>Mr Rohaizad Bin Abdul Wahid</div>
+						<div>Ms Seah Wei Ling, Celeste</div>
 			</td></tr>
 			<tr>
 					<td>Admin &amp; Media Publicity Representatives</td>
@@ -69,10 +69,10 @@ tr:last-child {
 			<tr>
 					<td>Members</td>
 					<td>
-						<div>Mr Sandeep Nair</div>
-						<div>Mr Masran</div>
-						<div>Ms Nora</div>
-						<div>Ms Isabel Tan</div>
+						<div>Mr Sandeep Gopal Nair</div>
+						<div>Mr Ahmad Masran Bin Hassan</div>
+						<div>Ms Norarniza Wati Binte Abdul Rahman</div>
+						<div>Ms Tan Sio Li, Isabel</div>
 			</td></tr>
 	</tbody>
 </table>
