@@ -39,13 +39,13 @@ tr:last-child {
 			<tr>
 					<td>Dads for Life Reps</td>
 					<td>
-						<div>Mr Irvin Goh</div>
-						<div>Mr Justin Leow</div>
+						<div>Mr Goh Swee Guan, Irvin</div>
+						<div>Mr Leow Peng Hong, Justin Alexander</div>
 			</td></tr>
 			<tr>
 					<td>Mums for Life Reps</td>
 					<td>
-						<div>Ms Annie Seow</div>
+						<div>Ms Seow Lee Choo, Annie</div>
 						<div>Mr Alaine Chiam</div>
 			</td></tr>
 			<tr>
