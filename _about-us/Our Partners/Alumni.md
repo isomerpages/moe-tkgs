@@ -72,7 +72,7 @@ tr:last-child {
 <ul>
 <li>To develop and maintain a true spirit of loyalty for the Alma Mater.</li>
 <li>To maintain close links with the Alma Mater so as to help her achieve her objectives.</li>
-<li>To enable members to renew ties for mutual benefits</li>
+<li>To enable members to renew ties for mutual benefits.</li>
 </ul>
 <h4><strong>Connect with us</strong></h4>
 <table>
