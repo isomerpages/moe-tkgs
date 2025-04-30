@@ -20,7 +20,7 @@ Applicants should fulfil criteria in <b>2 areas:</b> Academic performance and Ta
 		</tr>
 		<tr>
 			<td style="vertical-align: middle;" rowspan="4">Performing <br>Arts</td>
-			<td style="text-align: center">Choir</td>
+			<td style="vertical-align: middle">Choir</td>
 			<td>Students should preferably have relevant experience such as:<br><br>
 •&nbsp;&nbsp;&nbsp;Being an active Choir member in Primary School or having prior experience in choral/solo singing<br><br>
 Students will be assessed on:<br><br>
@@ -31,7 +31,7 @@ Students will be assessed on:<br><br>
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align: center">String Ensemble</td>
+			<td style="vertical-align: middle">String Ensemble</td>
 			<td><p>Students should preferably have relevant experience such as:</p>
 •&nbsp;&nbsp;&nbsp;Being an active member of the String Ensemble in Primary School,
 				<br><br>OR<br><br>
@@ -43,7 +43,7 @@ Students will be assessed on:<br><br>
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align: center">Symphonic Band</td>
+			<td style="vertical-align: middle">Symphonic Band</td>
 			<td><p>Students should preferably have relevant experience such as:</p>
 •&nbsp;&nbsp;&nbsp;Being an active member of the Band or any music CCA in Primary School, and/ or<br>
 •&nbsp;&nbsp;&nbsp;Any other musical experiences outside of school<br><br>
@@ -55,7 +55,7 @@ Shortlisted students will be assessed on:<br><br>
 </td>
 		</tr>
 		<tr>
-			<td style="text-align: center">Dance</td>
+			<td style="vertical-align: middle">Dance</td>
 			<td>Students should preferably have relevant experience such as:<br><br>
 				•&nbsp;&nbsp;&nbsp;Being an active member of a Dance Club in primary school
 				<br><br>OR<br><br>
