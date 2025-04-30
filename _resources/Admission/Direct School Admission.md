@@ -5,42 +5,33 @@ description: ""
 third_nav_title: Admission
 variant: markdown
 ---
-<center><a href="https://go.gov.sg/tkgs-dsa" target="_blank" rel="noopener"><img src="/images/Resources/Admission/DSA/DSA_2024.jpg"></a></center>
-
 The Direct School Admission (DSA) Exercise allows schools to offer places to suitable students with outstanding talent areas before the release of their PSLE exam results. TKGS invites Primary 6 students who have the ability and potential to meet our listed criteria below to apply.
 
-<h3><u>Criteria</u></h3>
-Applicants should fulfil criteria in <b>2 areas:</b><br>
+<h4><u>Criteria</u></h4>
+Applicants should fulfil criteria in <b>2 areas:</b> Academic performance and Talent in special areas<br><br>	
 
-<b>1.   Talent in Special Areas</b>
 <table>
 	<tbody>
 		<tr>
 			<th style="text-align: center">Area</th>
 			<th style="text-align: center">CCA</th>
-			<th style="text-align: center">Criteria</th>
+			<th style="text-align: center">Minimum Criteria</th>
 		</tr>
 		<tr>
 			<td style="vertical-align: middle;" rowspan="4">Performing <br>Arts</td>
 			<td style="text-align: center">Choir</td>
-			<td>Students should preferably have relevant experience such as:<br><br>
-•&nbsp;&nbsp;&nbsp;being an active Choir member in Primary School<br>•&nbsp;&nbsp;&nbsp;having prior experience in choral/solo singing.<br><br>
-Students will be assessed on:<br><br>
-•&nbsp;&nbsp;&nbsp;a song of the student’s choice<br>
-•&nbsp;&nbsp;&nbsp;intonation, musicality and vocal technique<br>
-				•&nbsp;&nbsp;&nbsp;sight-singing<br>
-				•&nbsp;&nbsp;&nbsp;aural ability to sing back a short musical passage after it has been played on the piano.<br>
+			<td>Students should preferably have relevant experience such as:
+				<li>Being an active Choir member in Primary School or having prior experience in choral/solo singing</li>
+				Students will be assessed on:
+				<li>A song of the student’s choice (without backing track or live accompaniment)</li>
+				<li>Intonation, musicality and vocal technique</li>
+				<li>Sight-singing</li>
+				<li>aural ability to sing back a short musical passage after it has been played on the piano</li>
 			</td>
 		</tr>
 		<tr>
 			<td style="text-align: center">String Ensemble</td>
-			<td>Students should preferably have relevant experience such as:<br><br>
-•&nbsp;&nbsp;&nbsp;being an active member of the String Ensemble in Primary School<br>
-•&nbsp;&nbsp;&nbsp;having at least a year’s experience playing in an orchestra/ensemble<br><br>
-				Students will be assessed on:<br><br>
-•&nbsp;&nbsp;&nbsp;two contrasting solo pieces of the student’s choice (not more than 5 min each)<br>
-•&nbsp;&nbsp;&nbsp;two different scales of student’s choice (commensurate to their current level of proficiency)<br>
-•&nbsp;&nbsp;&nbsp;sight-reading.
+			<td>Students should preferably have relevant experience such as:
 			</td>
 		</tr>
 		<tr>
