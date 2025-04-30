@@ -7,7 +7,7 @@ variant: markdown
 ---
 The Direct School Admission (DSA) Exercise allows schools to offer places to suitable students with outstanding talent areas before the release of their PSLE exam results. TKGS invites Primary 6 students who have the ability and potential to meet our listed criteria below to apply.
 
-<h4><u>Criteria</u></h4>
+<h6><u>Criteria</u></h6>
 Applicants should fulfil criteria in <b>2 areas:</b> Academic performance and Talent in special areas<br><br>	
 
 <table>
@@ -32,29 +32,41 @@ Applicants should fulfil criteria in <b>2 areas:</b> Academic performance and Ta
 		<tr>
 			<td style="text-align: center">String Ensemble</td>
 			<td>Students should preferably have relevant experience such as:
+				<li>Being an active member of the String Ensemble in Primary School,</li>
+				OR
+				<li>Having at least a year’s experience playing in an orchestra/ensemble</li>
+				Students will be assessed on
+				<li>Two contrasting solo pieces of the student’s choice (not more than 5 min each)</li>
+				<li>Two different scales of student's choice (commensurate to her current level of proficiency)</li>
+				<li>Sight reading</li>
 			</td>
 		</tr>
 		<tr>
 			<td style="text-align: center">Symphonic Band</td>
-			<td>Students should preferably have relevant experience such as:<br><br>
-•&nbsp;&nbsp;&nbsp;being an active member of the Band or any music CCA in Primary School<br>
-•&nbsp;&nbsp;&nbsp;any other musical experiences outside school.<br><br>
-Shortlisted students will be assessed on:<br><br>
-•&nbsp;&nbsp;&nbsp;two contrasting pieces of the student’s choice (Upload one PDF file containing both scores and email the link at least one week before the audition.)<br>
-•&nbsp;&nbsp;&nbsp;instrumental technique (including scales – Concert Bb, Eb, F major)<br>
-•&nbsp;&nbsp;&nbsp;sight-reading (rhythm and pitch)<br>
-•&nbsp;&nbsp;&nbsp;musicality &amp; expression.<br><br>
+			<td>Students should preferably have relevant experience such as:
+				<li>Being an active member of the Band or any music CCA in Primary School, and/ or</li>
+				<li>Any other musical experiences outside of school</li>
+Shortlisted students will be assessed on:
+				<ol>
+					<h6><li> 2 contrasting pieces of the student’s choice (upload one PDF file containing both scores and email the online link. At least 1 week before audition)</li>
+					<li>Instrumental technique (including scales - Concert Bb, Eb, F major)</li>
+						<li>Sight-reading (rhythm and pitch)</li>
+						<li>Musicality &amp; expression</li>
+				</h6></ol>
+					
 </td>
 		</tr>
 		<tr>
 			<td style="text-align: center">Dance</td>
-			<td>Students should preferably have relevant experience such as:<br><br>
-				•&nbsp;&nbsp;&nbsp;being an active member of a Dance Club in primary school<br>
-				•&nbsp;&nbsp;&nbsp;having performed well in a reputed dance competition (local / overseas).<br><br>
-Students will be assessed on:<br><br>
-•&nbsp;&nbsp;&nbsp;technical routine test (Test for balance, strength, and sense of rhythm)<br>
-•&nbsp;&nbsp;&nbsp; short-dance routine test (Choreography will be given for applicants to learn during the audition. Applicants will be given a time-limit will to learn the choreography during the audition.).
-</td>
+			<td>Students should preferably have relevant experience such as:
+				<li> Being an active member of a Dance Club in Primary School,</li>
+				OR
+				<li>Having performed well in a reputed dance competition (local / overseas)</li>
+				Students will be assessed on:
+				<ol>
+					<h6><li> Technical routine test (Test for balance, strength and sense of rhythm)</li>
+						<li>Short-dance routine test (Choreography will be given for applicants to learn during the audition. Applicants will be given a time-limit to learn the choreography)</li>
+</h6></ol></td>
 		</tr>
 		<tr>
 			<td style="vertical-align: middle;" rowspan="3">Sports</td>
