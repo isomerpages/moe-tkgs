@@ -123,7 +123,7 @@ Shortlisted students will be notified of the dates of the auditions, trials, or 
 
 <b>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11 am to 3 June 2024, 3 pm. For more details, please refer to MOE website - <a href="http://www.moe.gov.sg/dsa-sec" target="_blank" rel="noopener">http://www.moe.gov.sg/dsa-sec</a>.</b><br>
 
-<img src="/images/Resources/Admission/DSA/2024_criteria.png"><br>
+<img src="/images/Resources/Admission/DSA/2025_criteria.jpg"><br>
 
 <b>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</b>
 
