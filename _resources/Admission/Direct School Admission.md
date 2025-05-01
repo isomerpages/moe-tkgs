@@ -113,7 +113,7 @@ To help us understand your application, please email an excerpt of your playing 
 			</tr></tbody>
 </table>
 <br><b>2.   Academic Performance</b><br>
-Students who have achieved an overall score of 65% or more for the Primary 5 Year-End Examination (2023) result.
+Students who have achieved an overall score of 65% or more for the Primary 5 Year-End Examination (2024) result.
 
    <font color="red">* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</font>
 
