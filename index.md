@@ -14,6 +14,11 @@ sections:
           url: /useful-links/
       variant: center
   - infobar:
+      title: Direct School Admission 2025
+      id: infobar
+      button: Click here for more details
+      url: /resources/admission/direct-school-admission/
+  - infobar:
       title: Collection of School Graduation Certificates
       id: infobar
       button: Click here for more details
