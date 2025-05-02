@@ -99,7 +99,7 @@ Students will be assessed on:<br><br>
 •&nbsp;&nbsp;&nbsp;Being actively involved in a school-based or external musical group<br><br>
 Students will be assessed on:<br><br>
 •&nbsp;&nbsp;&nbsp;Performance of two contrasting prepared pieces on an instrument of choice or voice that is in total 2-5 minutes in duration<br><br>
-and any or all of the following items:<br>
+and any or all of the following items:<br><br>
 •&nbsp;&nbsp;&nbsp;Aural task that requires students to imitate and respond to simple rhythmic and/or melodic phrase by clapping and singing<br>
 •&nbsp;&nbsp;&nbsp;Sight-reading and Scales<br>
 •&nbsp;&nbsp;&nbsp;Listening &amp; Theory written test which may require simple
