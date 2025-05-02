@@ -51,7 +51,7 @@ Shortlisted students will be assessed on:<br><br>
 1. &nbsp;&nbsp;&nbsp;2 contrasting pieces of the student’s choice (upload one PDF file containing both scores and email the online link. At least 1 week before audition)<br>
 2. &nbsp;&nbsp;&nbsp; Instrumental technique (including scales - Concert Bb, Eb, F major)<br>
 •&nbsp;&nbsp;&nbsp;Sight-reading (rhythm and pitch)<br>
-•&nbsp;&nbsp;&nbsp;Musicality &amp; expression.<br><br>
+•&nbsp;&nbsp;&nbsp;Musicality &amp; expression<br><br>
 </td>
 		</tr>
 		<tr>
@@ -59,7 +59,7 @@ Shortlisted students will be assessed on:<br><br>
 			<td>Students should preferably have relevant experience such as:<br><br>
 				•&nbsp;&nbsp;&nbsp;Being an active member of a Dance Club in primary school
 				<br><br>OR<br><br>
-				•&nbsp;&nbsp;&nbsp;Having performed well in a reputed dance competition (local / overseas).<br><br>
+				•&nbsp;&nbsp;&nbsp;Having performed well in a reputed dance competition (local / overseas)<br><br>
 Students will be assessed on:<br><br>
 1. &nbsp;&nbsp;&nbsp;Technical routine test (Test for balance, strength, and sense of rhythm)<br>
 2. &nbsp;&nbsp;&nbsp;Short-dance routine test (Choreography will be given for applicants to learn during the audition. Applicants will be given a time-limit will to learn the choreography during the audition)
@@ -103,13 +103,13 @@ and any or all of the following items:<br>
 •&nbsp;&nbsp;&nbsp;Aural task that requires students to imitate and respond to simple rhythmic and/or melodic phrase by clapping and singing<br>
 •&nbsp;&nbsp;&nbsp;Sight-reading and Scales<br>
 •&nbsp;&nbsp;&nbsp;Listening &amp; Theory written test which may require simple
-score-reading skills.<br><br>
+score-reading skills<br><br>
 To help us understand your application, please email an excerpt of your playing in the form of an mp3 audio clip (no longer than 1min) to <a href="mailto:wong_ching_yi_chesed@moe.edu.sg">wong_ching_yi_chesed@moe.edu.sg</a> <b>by 7 June 2025</b>
 </td>
 	</tr>
 		<tr>
 			<td style="text-align: center;" colspan="2"><b>For All Talent Areas</b></td>
-			<td>Apart from the Auditions/ Trials, all students will also undergo an interview.</td>
+			<td>Apart from the Auditions/ Trials, all students will also undergo an interview</td>
 			</tr></tbody>
 </table>
 <br><b>2.   Academic Performance</b><br>
