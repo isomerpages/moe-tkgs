@@ -25,8 +25,11 @@ tr:last-child {
 }
 </style>
 
-<h4><strong>Mission for TKGS Parentlink</strong></h4>
-<p>To provide a network of support, encouragement and inspiration for parents in raising their daughters in close partnership with the school.</p>
+<h4><strong>Mission</strong></h4>
+<p>To foster strong home-school partnerships by supporting school initiatives, nurturing students' holistic development, and providing parents with a supportive network in close collaboration with the school and community.</p>
+
+<h4><strong>What we do</strong></h4>
+<p>Parentlink is a vibrant community of TKGS parents who actively pursues its mission of fostering strong home-school partnerships and nurturing our daughters' holistic development. By supporting school initiatives through programmes like Dads for Life and Mums for Life, as well as offering enriching workshops and networking sessions, we provide parents and our daughters with a vital support network in close collaboration with the school and community. </p>
 <br>
 <img style="width: 75%;" src="/images/About_us/Our_partners/PL_Grp.jpg">
 
