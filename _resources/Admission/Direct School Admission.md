@@ -36,7 +36,7 @@ Students will be assessed on:<br><br>
 •&nbsp;&nbsp;&nbsp;Being an active member of the String Ensemble in Primary School,
 				<br><br>OR<br><br>
 •&nbsp;&nbsp;&nbsp;Having at least a year’s experience playing in an orchestra/ensemble<br><br>
-				Students will be assessed on:
+				Students will be assessed on:<br><br>
 •&nbsp;&nbsp;&nbsp;Two contrasting solo pieces of the student’s choice (not more than 5 min each)<br>
 •&nbsp;&nbsp;&nbsp;Two different scales of student's choice (commensurate to her current level of proficiency)<br>
 •&nbsp;&nbsp;&nbsp;Sight-reading
