@@ -32,7 +32,7 @@ Students will be assessed on:<br><br>
 		</tr>
 		<tr>
 			<td style="vertical-align: middle">String Ensemble</td>
-			<td>Students should preferably have relevant experience such as:
+			<td>Students should preferably have relevant experience such as:<br><br>
 •&nbsp;&nbsp;&nbsp;Being an active member of the String Ensemble in Primary School,
 				<br><br>OR<br><br>
 •&nbsp;&nbsp;&nbsp;Having at least a year’s experience playing in an orchestra/ensemble<br><br>
@@ -44,14 +44,14 @@ Students will be assessed on:<br><br>
 		</tr>
 		<tr>
 			<td style="vertical-align: middle">Symphonic Band</td>
-			<td>Students should preferably have relevant experience such as:
+			<td>Students should preferably have relevant experience such as:<br><br>
 •&nbsp;&nbsp;&nbsp;Being an active member of the Band or any music CCA in Primary School, and/ or<br>
 •&nbsp;&nbsp;&nbsp;Any other musical experiences outside of school<br><br>
 Shortlisted students will be assessed on:<br><br>
 1. &nbsp;&nbsp;&nbsp;2 contrasting pieces of the student’s choice (upload one PDF file containing both scores and email the online link. At least 1 week before audition)<br>
 2. &nbsp;&nbsp;&nbsp; Instrumental technique (including scales - Concert Bb, Eb, F major)<br>
-•&nbsp;&nbsp;&nbsp;Sight-reading (rhythm and pitch)<br>
-•&nbsp;&nbsp;&nbsp;Musicality &amp; expression<br><br>
+3. &nbsp;&nbsp;&nbsp;Sight-reading (rhythm and pitch)<br>
+4. &nbsp;&nbsp;&nbsp;Musicality &amp; expression<br><br>
 </td>
 		</tr>
 		<tr>
