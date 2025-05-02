@@ -7,11 +7,13 @@ description: ""
 image: ""
 variant: markdown
 ---
-<img src="/images/Sparkling_Moment/2025/IFD_Hero.png">
+<img src="/images/Sparkling_Moment/2025/P_Hero.png">
 
 With a palpable sense of energy and purpose, the Head Prefect Campaign at TKGS saw four exceptional individuals rise to the challenge of leading our school community. Esther Ebenezer John (3H4), Gracie Anne Goh (3H4), Ashni D/O Kanagarajan Solagar (3R6), and Emily Caitlin Koh (3R6) each stepped forward, ready to embrace the responsibility and make a meaningful impact.
 
 From eye-catching posters to the fun and heartfelt performances in the Glow Up! centre, each candidate poured their personality and unique leadership qualities into every detail of the campaign. The journey reached its peak with a round of speeches, where the nominees shared their hopes and visions for TKGS. The live Q&amp;A session gave the student body a chance to ask real, thoughtful questions, which the candidates responded with clarity, sincerity, and conviction, showcasing what it truly means to lead with heart.
+
+<img src="/images/Sparkling_Moment/2025/P_1.png">
 
 We are proud to announce the results of the Head Prefect Campaign:
 
