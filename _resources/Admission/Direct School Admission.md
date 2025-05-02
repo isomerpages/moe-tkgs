@@ -7,7 +7,7 @@ variant: markdown
 ---
 The Direct School Admission (DSA) Exercise allows schools to offer places to suitable students with outstanding talent areas before the release of their PSLE exam results. TKGS invites Primary 6 students who have the ability and potential to meet our listed criteria below to apply.
 
-<h5><u>Criteria</u></h5>
+<h5><b><u>Criteria</u></b></h5>
 Applicants should fulfil criteria in <b>2 areas:</b> Academic performance and Talent in special areas<br><br>	
 
 <b>1.   Talent in Special Areas</b>
@@ -123,11 +123,11 @@ Shortlisted students will be notified of the dates of the auditions, trials, or 
 
 Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2025 to 3 June 2025, 3 pm. For more details, please refer to MOE website - <a href="http://www.moe.gov.sg/dsa-sec" target="_blank" rel="noopener">http://www.moe.gov.sg/dsa-sec</a>.<br>
 
-<h5><u>Application Instructions</u></h5>
+<h5><u><b>Application Instructions</b></u></h5>
 <img src="/images/Resources/Admission/DSA/2025_criteria.jpg"><br>
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
 Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4/5.
 
-<h5><u>Further inquiries</u></h5> Please contact Mr. Ng We Keat (DSA Coordinator) at tel. no. 63441593 or email <a href="mailto:ng_we_keat@moe.edu.sg">ng_we_keat@moe.edu.sg</a> if you need further clarifications. Thank you.
+<h5><u><b>Further inquiries</b></u></h5> Please contact Mr. Ng We Keat (DSA Coordinator) at tel. no. 63441593 or email <a href="mailto:ng_we_keat@moe.edu.sg">ng_we_keat@moe.edu.sg</a> if you need further clarifications. Thank you.
