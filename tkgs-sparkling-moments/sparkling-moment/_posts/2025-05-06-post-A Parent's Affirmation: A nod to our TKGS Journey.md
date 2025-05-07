@@ -1,5 +1,5 @@
 ---
-title: "A Parent's Affirmation: Celebrating the TKGS Journey"
+title: "A Parent's Affirmation: A nod to our TKGS Journey"
 permalink: /sparkling-parent/
 date: 2025-05-06
 layout: post
