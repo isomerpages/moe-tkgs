@@ -18,14 +18,14 @@ sections:
       id: infobar
       button: Click here for more details
       url: /resources/admission/direct-school-admission/
+  - resources:
+      title: TKGS Sparkling Moments
+      button: More
   - infobar:
       title: Collection of School Graduation Certificates
       id: infobar
       button: Click here for more details
       url: /announcements/graduation-certificates/
-  - resources:
-      title: TKGS Sparkling Moments
-      button: More
   - infopic:
       title: Yearbook 2024
       id: infopic
