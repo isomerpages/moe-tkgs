@@ -11,4 +11,4 @@ We are delighted to share a heartfelt affirmation from Mdm Loong Shih Huey, moth
 
 <img src="/images/Sparkling_Moment/2025/S_P_Letter.png">
 <br>
-<img src="/images/Sparkling_Moment/2025/s_P_1.png">
+<img src="/images/Sparkling_Moment/2025/S_P_1.png">
