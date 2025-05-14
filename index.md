@@ -13,6 +13,13 @@ sections:
           description: ""
           url: /useful-links/
       variant: center
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - infobar:
       title: Direct School Admission 2025
       id: infobar
