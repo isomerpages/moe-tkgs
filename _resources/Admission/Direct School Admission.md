@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Admission
 variant: markdown
 ---
-<center><a href="https://go.gov.sg/tkgs-dsa-open-house" target="_blank" rel="noopener"><img src="/images/Resources/Admission/DSA/dsa_oh25.png"></a></center>
+<center><img src="/images/Resources/Admission/DSA/dsa_oh25.png"></center>
 
 <p>Click <a href="https://go.gov.sg/tkgs-dsa-open-house">here</a> to register for our DSA E-Open House.</p>
 
