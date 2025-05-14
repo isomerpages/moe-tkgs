@@ -14,12 +14,12 @@ sections:
           url: /useful-links/
       variant: center
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Direct School Admission 2025
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: Click here for more details
       alt: Image alt text
+      url: /resources/admission/direct-school-admission/
+      image: /images/Resources/Admission/DSA/dsa_oh25.png
   - infobar:
       title: Direct School Admission 2025
       id: infobar
