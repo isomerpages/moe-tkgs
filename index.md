@@ -13,11 +13,13 @@ sections:
           description: ""
           url: /useful-links/
       variant: center
-  - infobar:
+  - infopic:
       title: Direct School Admission 2025
-      id: infobar
+      id: infopic
       button: Click here for more details
+      alt: Image alt text
       url: /resources/admission/direct-school-admission/
+      image: /images/Resources/Admission/DSA/dsa_oh25.png
   - resources:
       title: TKGS Sparkling Moments
       button: More
