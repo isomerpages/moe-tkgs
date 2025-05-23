@@ -20,7 +20,7 @@ th, td {
 tr:hover {background-color: #F5F5DC;}
 </style>
 
-<img src="/images/CCA/Floorball/Floorball_Nov24.gif">
+<img src="/images/CCA/Floorball/Floorball_May25.gif">
 
 <p>United by a shared passion and determination, our 'C' and 'B' Division Floorball teams have excelled in recent years and are ranked among the top teams in the National School Games. This is a testament to their exceptional skills and teamwork.</p>
 
