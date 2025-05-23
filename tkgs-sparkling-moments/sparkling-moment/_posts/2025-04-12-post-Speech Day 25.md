@@ -18,7 +18,7 @@ variant: markdown
 <img src="/images/Sparkling_Moment/2025/SD25_2b.png">
 <img src="/images/Sparkling_Moment/2025/SD25_3a.png">
 
-<p>In the same spirit, our Valedictorian, Loh Si Ling, spoke passionately about how stepping out of her comfort zone to serve as her class Chairperson opened doors to unexpected opportunities and helped her develop her leadership skills, ultimately leading to her appointment as the school’s Head Prefect.<br>“…the smallest actions can have the biggest impact…when you take risks and embrace challenges, you open the door to growth in ways you never imagined…be bold, and dare start your own adventure.” – Loh Si Ling, Valedictorian of Class 2024.</p>
+<p>In the same spirit, our Valedictorian, Loh Si Ling, spoke passionately about how stepping out of her comfort zone to serve as her class Chairperson opened doors to unexpected opportunities and helped her develop her leadership skills, ultimately leading to her appointment as the school’s Head Prefect.<br>“…the smallest actions can have the biggest impact… when you take risks and embrace challenges, you open the door to growth in ways you never imagined… be bold, and dare start your own adventure.” – Loh Si Ling, Valedictorian of Class 2024.</p>
 
 <img src="/images/Sparkling_Moment/2025/SD25_4.png">
 
