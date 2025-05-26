@@ -26,7 +26,7 @@ variant: markdown
 <td style="text-align: center;"><strong>Vice-Principal (Admin)</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;" colspan="2"><em>To contact the Principal and Vice-Principals via e-mail, please send to:&nbsp;<a href="mailto:tkgs@moe.edu.sg" target=""><strong>tkgs@moe.edu.sg</strong></a></em></td>
+<td style="text-align: center;" colspan="2"><em>To contact the Principal and Vice-Principals via e-mail, please send your e-mail to:&nbsp;<a href="mailto:tkgs@moe.edu.sg" target=""><strong>tkgs@moe.edu.sg</strong></a></em></td>
 </tr>
 </tbody>
 </table>
