@@ -1,5 +1,4 @@
 collections:
   announcements:
     output: true
-    order:
-      - Collection of School Graduation Certificates.md
+    order: []
