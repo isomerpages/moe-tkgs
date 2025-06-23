@@ -109,7 +109,7 @@ variant: markdown
 <p>Mr Danial Bin Sanusi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STEM Instructor</p>
+<p>STEM Instructor (Laboratory)</p>
 </td>
 </tr>
 <tr>
@@ -125,7 +125,7 @@ variant: markdown
 <p>Mdm Rohayah Bte Sarpin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Support Officer (School Lab)</p>
+<p>Operations Support Officer (Laboratory)</p>
 </td>
 </tr>
 <tr>
