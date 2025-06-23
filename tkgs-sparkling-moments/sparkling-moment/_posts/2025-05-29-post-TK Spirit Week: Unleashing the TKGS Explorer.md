@@ -12,3 +12,5 @@ variant: markdown
 <p>Camp Haven was the highlight for our Sec 3 students who tackled a "wild jungle gym of teamwork" at camp, deepening their sense of resilience in uncertain situations.</p>
 <p>“Our legs were aching, but we made sure that no one was left behind. We encouraged the ones who were slower, celebrated the ones who led, and by the end, we crossed the finish line as one class.” Karis Sing (3R6) reflects on her experience on the 12km hike at the Southern Ridges</p>
 <p>Not forgetting our  Sec 4 cohort  who got a "total brain reset" from their studies with C-Sparks activities, where classes planned a fun-filled class activity to rest and recharge. </p>
+<img src="/images/Sparkling_Moment/2025/S_P_Letter.png">
+<p>Amidst the shared laughter and experiences, this vibrant week was more than just about having fun, but creating space to build much needed soft skills and lasting friendships for the future.</p>
