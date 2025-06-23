@@ -104,6 +104,14 @@ variant: markdown
 </p>
 </td>
 </tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Danial Bin Sanusi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Ibrahim Bin Jupri</p>
