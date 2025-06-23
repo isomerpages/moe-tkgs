@@ -1,9 +1,0 @@
----
-title: TKSpiritmid25
-permalink: /tkspiritmid25/
-date: 2025-05-29
-layout: post
-description: ""
-image: ""
-variant: markdown
----
