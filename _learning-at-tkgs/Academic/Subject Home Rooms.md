@@ -17,9 +17,9 @@ third_nav_title: Academic
 
 <table>
 	<tbody><tr>
-	<td style="text-align: center;"> <a href="https://youtu.be/oKHDL43EuMY" target="_blank" rel="noopener"><img style="width: 80%;" src="/images/Resources/Student/srr1.png"><strong>English &amp; Literature Home Room</strong>
+	<td style="text-align: center;"> <a href="https://youtu.be/oKHDL43EuMY" target="_blank" rel="noopener"><img src="/images/LearningTKGS/Academic/EL_HR.png"><strong>English &amp; Literature Home Room</strong>
 		</a></td>
-		<td style="text-align: center;"> <a href="https://youtu.be/fVe7VgBIyzo" target="_blank" rel="noopener"><img style="width: 80%;" src="/images/Resources/Student/srr1.png"><strong>Mother Tongue Home Room</strong>
+		<td style="text-align: center;"> <a href="https://youtu.be/fVe7VgBIyzo" target="_blank" rel="noopener"><img src="/images/LearningTKGS/Academic/MT_HR.png"><strong>Mother Tongue Home Room</strong>
 		</a></td>
 		</tr>
 		<tr>
