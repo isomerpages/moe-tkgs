@@ -30,6 +30,6 @@ third_nav_title: Academic
 		</a></td>
 			</tr>
 		<tr>
-			<td style="text-align: center;" colspan="2"><a href="https://youtu.be/UlAbG5ieCkA" target="_blank" rel="noopener"><img style="width: 50%;" src="/images/LearningTKGS/Academic/SCI_HR.png"><strong>Science Home Rooms</strong></a></td>
+			<td style="text-align: center;" colspan="2"><a href="https://youtu.be/yT3Ed-VMJgo" target="_blank" rel="noopener"><img style="width: 50%;" src="/images/LearningTKGS/Academic/SCI_HR.png"><strong>Science Home Rooms</strong></a></td>
 		</tr>
 	</tbody></table>
