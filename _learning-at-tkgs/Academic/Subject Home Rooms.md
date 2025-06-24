@@ -5,6 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Academic
 ---
+<strong><h3>Subject Home Rooms</h3></strong>
 <p>At TKGS, we believe that the environment plays a pivotal role in shaping the learning journey. We've embarked on a bold initiative to re-imagine our learning spaces and, in doing so, transform the learning experiences for every student and teacher. This vision comes to life through our innovative Subject Home Rooms.</p>
 <p>Spaces speak to each of us and evoke emotions. A well-designed space releases a certain energy in people, shapes behaviour, and has a profound capacity to inspire meaning. This philosophy is at the heart of our Subject Home Rooms, where every detail is crafted to inspire a passion for the subject in students and teachers alike.</p>
 <p>These specialized Home Rooms empower our students to become:</p>
