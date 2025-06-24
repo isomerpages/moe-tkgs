@@ -19,13 +19,13 @@ third_nav_title: Academic
 	<tbody><tr>
 	<td style="text-align: center;"> <a href="https://youtu.be/oKHDL43EuMY" target="_blank" rel="noopener"><img src="/images/LearningTKGS/Academic/EL_HR.png"><strong>English &amp; Literature Home Room</strong>
 		</a></td>
-		<td style="text-align: center;"> <a href="https://youtu.be/fVe7VgBIyzo" target="_blank" rel="noopener"><img src="/images/LearningTKGS/Academic/MT_HR.png"><strong>Mother Tongue Home Room</strong>
+		<td style="text-align: center;"> <a href="https://youtu.be/fVe7VgBIyzo" target="_blank" rel="noopener"><img src="/images/LearningTKGS/Academic/MT_HR.png"><strong>Mother Tongue Home Rooms</strong>
 		</a></td>
 		</tr>
 		<tr>
 	<td style="text-align: center;"> <a href="https://youtu.be/3wIuAiMRjx8" target="_blank" rel="noopener"><img src="/images/LearningTKGS/Academic/Math_HR.png"><strong>Math Home Room</strong>
 		</a></td>
-		<td style="text-align: center;"> <a href="https://youtu.be/UlAbG5ieCkA" target="_blank" rel="noopener"><img src="/images/LearningTKGS/Academic/Hum_HR.png"><strong>Humanities Home Room</strong>
+		<td style="text-align: center;"> <a href="https://youtu.be/UlAbG5ieCkA" target="_blank" rel="noopener"><img src="/images/LearningTKGS/Academic/Hum_HR.png"><strong>Humanities Home Rooms</strong>
 		</a></td>
 			</tr>
 	</tbody></table>
