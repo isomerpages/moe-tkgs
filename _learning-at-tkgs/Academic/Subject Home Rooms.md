@@ -23,9 +23,9 @@ third_nav_title: Academic
 		</a></td>
 		</tr>
 		<tr>
-	<td style="text-align: center;"> <a href="https://youtu.be/3wIuAiMRjx8" target="_blank" rel="noopener"><strong>Math Home Room</strong>
+	<td style="text-align: center;"> <a href="https://youtu.be/3wIuAiMRjx8" target="_blank" rel="noopener"><img src="/images/LearningTKGS/Academic/Math_HR.png"><strong>Math Home Room</strong>
 		</a></td>
-		<td style="text-align: center;"> <a href="https://youtu.be/UlAbG5ieCkA" target="_blank" rel="noopener"><strong>Humanities Home Room</strong>
+		<td style="text-align: center;"> <a href="https://youtu.be/UlAbG5ieCkA" target="_blank" rel="noopener"><img src="/images/LearningTKGS/Academic/Hum_HR.png"><strong>Humanities Home Room</strong>
 		</a></td>
 			</tr>
 	</tbody></table>
