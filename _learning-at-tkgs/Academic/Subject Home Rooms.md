@@ -13,15 +13,16 @@ third_nav_title: Academic
 •&nbsp;&nbsp;&nbsp;<b>Effective Communicators</b> who take ownership of their learning and engage in active discussions.<br><br>
 •&nbsp;&nbsp;&nbsp;<b>Analytical and Globally Aware Individuals</b> who are inspired to examine contemporary issues and current affairs through the lens of their subject. <br>
 <p>Our Subject Home Rooms are more than just classrooms; they are dynamic ecosystems designed to nurture inquisitive minds, foster deep learning, and empower every student to reach their fullest potential. </p>
-<p>Click on the links below to find out more about these amazing Home Rooms.</p>
-
+<p>Click on the links below to find out more about our Subject Home Rooms.</p>
 
 <table>
 	<tbody><tr>
-	<td style="text-align: center;"> <a href="https://youtu.be/oKHDL43EuMY" target="_blank" rel="noopener"><strong>English &amp; Literature Home Room</strong>
+	<td style="text-align: center;"> <a href="https://youtu.be/oKHDL43EuMY" target="_blank" rel="noopener"><img style="width: 80%;" src="/images/Resources/Student/srr1.png"><strong>English &amp; Literature Home Room</strong>
 		</a></td>
-		<td style="text-align: center;"> <a href="https://youtu.be/fVe7VgBIyzo" target="_blank" rel="noopener"><strong>Mother Tongue Home Room</strong>
+		<td style="text-align: center;"> <a href="https://youtu.be/fVe7VgBIyzo" target="_blank" rel="noopener"><img style="width: 80%;" src="/images/Resources/Student/srr1.png"><strong>Mother Tongue Home Room</strong>
 		</a></td>
+		</tr>
+		<tr>
 	<td style="text-align: center;"> <a href="https://youtu.be/3wIuAiMRjx8" target="_blank" rel="noopener"><strong>Math Home Room</strong>
 		</a></td>
 		<td style="text-align: center;"> <a href="https://youtu.be/UlAbG5ieCkA" target="_blank" rel="noopener"><strong>Humanities Home Room</strong>
