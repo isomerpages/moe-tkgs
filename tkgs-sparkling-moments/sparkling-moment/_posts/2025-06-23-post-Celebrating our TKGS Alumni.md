@@ -41,6 +41,32 @@ Ngee Ann Polytechnic,<br> School of Engineering
 Diploma with Merit, Smitech Asia Silver Medal &amp; Prize and Equip Medical Prize
 </td>
 </tr>
+		<tr><td>
+Kwan Zhe En
+</td>
+<td>
+	2021
+</td>
+<td>
+Anderson Serangoon Junior College
+</td>
+<td>
+Outstanding Performance in GCE A-Level Examinations
+</td>
+</tr>
+<tr><td>
+Audrey Ng Lee Hwa
+</td>
+<td>
+	2022
+</td>
+<td>
+Anderson Serangoon Junior College
+</td>
+<td>
+Outstanding Performance in GCE A-Level Examinations
+</td>
+</tr>
 	<tr>
 <td>
 Faith Tan Wen Hui
@@ -53,6 +79,19 @@ St Andrew's Junior College
 </td>
 <td>
 Outstanding Performance in GCE A-Level Examinations and Holistic Development
+</td>
+</tr>
+<tr><td>
+Rajagopalan Srinithy
+</td>
+<td>
+	2022
+</td>
+<td>
+Anderson Serangoon Junior College
+</td>
+<td>
+Outstanding Performance in GCE A-Level Examinations
 </td>
 </tr>
 <tr>
