@@ -13,7 +13,7 @@ variant: markdown
 <p>Unlike previous years, the day began with inter-house games and the exciting Human Foosball event. The atmosphere buzzed with energy as spectators roared with cheers and players gave their all. Perseverance and team spirit were evident in every match, as students fought passionately for house glory. Yet, beyond the competitive spirit, what stood out most was the exemplary sportsmanship displayed—on and off the field.</p>
 <p>“I could see the sportsmanship between houses. TKGians helped members from the opposing team when they fell and cheered the players on, regardless of House!” shares Arissa Winata (2I2)
 Indeed, the Sports Carnival is not merely about winning—it is about sisterhood and unity, celebrating the strength of our TKGS family.</p>
-<p>“I felt proud of Halimah each time we placed. Even though I didn’t participate in any events, I saw my friends participating and had fun cheering for them,” says Alisara Suksuwan (1I2). </p>
+<p>“I felt proud of (my house) Halimah each time we placed. Even though I didn’t participate in any events, I saw my friends participating and had fun cheering for them,” says Alisara Suksuwan (1I2). </p>
 <img src="/images/Sparkling_Moment/2025/SC25_3.png">
 <p>A highlight of the day was the thrilling 50m relay event, where Principal Ms Chew joined Halimah House in the race. Her participation sparked a stadium-wide cheer, showing the deep camaraderie shared across all levels of the school.
 To celebrate Youth Day, students were also surprised with a refreshing ice cream treat—an energising reward after an exciting day of games and sunshine. The air was filled with laughter and chatter, as students gathered in celebration and cool relief.</p>
