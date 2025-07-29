@@ -52,7 +52,7 @@ Tang Wai Ling, Dione Nathalie
 Ministry of Education
 </td>
 <td>
-Teaching Scholarship/Award Recipient
+Teaching Scholarship Award Recipient
 </td>
 </tr>
 		<tr>
@@ -107,7 +107,7 @@ Hayley Quek Jia Xuan
 Ministry of Education
 </td>
 <td>
-Teaching Scholarship/Award Recipient
+Teaching Scholarship Award Recipient
 </td>
 </tr>
 			<tr>
@@ -121,7 +121,7 @@ Leong Hui Min, Madeleine
 Ministry of Education
 </td>
 <td>
-Teaching Scholarship/Award Recipient
+Teaching Scholarship Award Recipient
 </td>
 </tr>
 		<tr>
@@ -135,7 +135,7 @@ Nurul Hadirah Binte Mohamed Mahadi
 Ministry of Education
 </td>
 <td>
-Teaching Scholarship/Award Recipient
+Teaching Scholarship Award Recipient
 </td>
 </tr>
 <tr><td>
