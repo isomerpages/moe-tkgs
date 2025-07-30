@@ -41,7 +41,22 @@ Ngee Ann Polytechnic,<br> School of Engineering
 Diploma with Merit, Smitech Asia Silver Medal &amp; Prize and Equip Medical Prize
 </td>
 </tr>
-		<tr><td>
+		<tr>
+<td>
+Tang Wai Ling, Dione Nathalie 
+</td>
+<td>
+	2021
+</td>
+<td>
+Ministry of Education
+</td>
+<td>
+Teaching Scholarship Award Recipient
+</td>
+</tr>
+		<tr>
+			<td>
 Kwan Zhe En
 </td>
 <td>
@@ -79,6 +94,48 @@ St Andrew's Junior College
 </td>
 <td>
 Outstanding Performance in GCE A-Level Examinations and Holistic Development
+</td>
+</tr>
+			<tr>
+<td>
+Hayley Quek Jia Xuan
+</td>
+<td>
+	2022
+</td>
+<td>
+Ministry of Education
+</td>
+<td>
+Teaching Scholarship Award Recipient
+</td>
+</tr>
+			<tr>
+<td>
+Leong Hui Min, Madeleine
+</td>
+<td>
+	2022
+</td>
+<td>
+Ministry of Education
+</td>
+<td>
+Teaching Scholarship Award Recipient
+</td>
+</tr>
+		<tr>
+<td>
+Nurul Hadirah Binte Mohamed Mahadi
+</td>
+<td>
+	2022
+</td>
+<td>
+Ministry of Education
+</td>
+<td>
+Teaching Scholarship Award Recipient
 </td>
 </tr>
 <tr><td>
