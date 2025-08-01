@@ -185,7 +185,7 @@ variant: markdown
 <p>Mr Tan Jie Ming, Ray</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Manager</p>
+<p>Administrative Manager (ICT)</p>
 </td>
 </tr>
 <tr>
