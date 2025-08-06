@@ -49,6 +49,12 @@ sections:
       image: /images/Hompage/Infopic/corporatevideo.png
       alt: Image alt text
   - infobar:
+      title: Straits Times School Pocket Money Fund
+      id: infobar
+      description: Application for year 2026 is now open
+      button: Click here for more details
+      url: /stspmf/
+  - infobar:
       title: Application for Financial Assistance Scheme (FAS)
       id: infobar
       description: Application for year 2025 is now open.
