@@ -24,5 +24,8 @@ We wish to inform you that application for the Straits Times School Pocket Money
 <p>To apply, please inform your child/ ward to collect the STSPMF application form from school’s General Office (GO) or download the attached forms and submit the completed/signed application form &amp; supporting documents to the GO latest by <b>11 Sep 2025 (Thu)</b>. </p>
 
 <h4>Forms</h4>
-<a href="https://drive.google.com/file/d/1Y64ikN2uGxlEg_FNVboSEmRa7UkXLnf0/view?usp=sharing" target="_blank" rel="noopener">Annex A - 2026 STSPMF Application Form for schools</a>
+<a href="https://drive.google.com/file/d/1Y64ikN2uGxlEg_FNVboSEmRa7UkXLnf0/view?usp=sharing" target="_blank" rel="noopener">Annex A - 2026 STSPMF Application Form for schools</a><br>
 <a href="https://drive.google.com/file/d/1rgXnDWSnhlQqG04Mi4RlDb_jHq7OqcVL/view?usp=sharing" target="_blank" rel="noopener">Annex B - Income declaration form</a>
+
+<p>Please contact GO at Tel: 6344 1593 for enquiries.</p>
+Thank you.
