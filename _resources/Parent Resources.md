@@ -74,15 +74,15 @@ variant: markdown
 <td style="text-align: center;">
 <p><strong><a href="/financial-assistance-scheme-fas/" target="_blank" rel="noopener">Financial Assistance Scheme</a></strong></p>
 	</td>
-	<td style="text-align: center;">
-	<p><strong><a href="http://go.gov.sg/tkgs-car-decal" target="_blank" rel="noopener">Application for Car Decal</a></strong></p>
-	</td>
-	<td style="text-align: center;">
+<td style="text-align: center;"><p><strong><a href="/stspmf/" target="_blank" rel="noopener">Straits Times <br>School Pocket Money Fund</a></strong></p></td>
+<td style="text-align: center;">
 	<p><strong><a href="/update-of-particulars/" target="_blank" rel="noopener">Update of Particulars</a></strong></p>
 		</td></tr><tr>
 	<td style="text-align: center;">
 		<p><strong><a href="/useful-links/booklist-uniform-bus-n-locker" target="_blank" rel="noopener">Booklist, Bus, Uniform &amp; Locker</a></strong></p></td>
-<td style="text-align: center;"><p><strong><a href="/stspmf/" target="_blank" rel="noopener">Straits Times <br>School Pocket Money Fund</a></strong></p></td>
+	<td style="text-align: center;">
+	<p><strong><a href="http://go.gov.sg/tkgs-car-decal" target="_blank" rel="noopener">Application for Car Decal</a></strong></p>
+	</td>
 <td style="text-align: center;">
 	<p><strong><a href="https://www.facebook.com/TKGSPARENTLINK/" target="_blank" rel="noopener">Parentlink Facebook</a></strong></p></td>
 </tr>
