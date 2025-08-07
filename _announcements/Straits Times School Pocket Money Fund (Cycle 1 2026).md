@@ -10,7 +10,7 @@ ol.a {list-style-type: lower-alpha;}
 
 <h4>Application open for students continuing in our school in 2026</h4>
 
-<p>Dear Parents/ Guardians,
+<p>Dear Parents/ Guardians,<br><br>
 We wish to inform you that application for the Straits Times School Pocket Money Fund (STSPMF) is now open till 11 Sep 2025 for students from low-income families who are continuing their studies in our school in 2026 (i.e. students who are graduating and enrolling into another school next year should NOT apply for STSPMF in this round as they can apply through their new school as Year 1 students in 2026). </p>
 <p>Students who are successful in their applications will receive the monthly school pocket money of $100 (for secondary school students) through our school from January 2026 onwards.</p>
 <p>If the student is currently receiving MOE FAS or ComCare assistance, they are only required to submit Annex A (Application Form) with MOE FAS or ComCare Assistance letter indicating the period of assistance i.e. no need to submit identification and income supporting documents.</p>
