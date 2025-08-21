@@ -23,4 +23,4 @@ variant: markdown
 
 <p>The day ended on a meaningful note—reminding us that unity in diversity is what makes Singapore strong.</p>
 
-<p align="right"><i>Story contributed by Dreevicca Aljohn (1I2), Zara Sharron (1I2), Ashalina Syairah (2G7), Sophia Lee (2G7) and Khushi Kantilal (3R6) <br>from Literary &amp; Debating Society</i> </p>
+<p align="right"><i>Story contributed by Dreevicca Aljohn (1I2), Zara Sharron (1I2), Ashalina Syairah (2G7), Sophia Lee (2G7) and Khushi Kantilal (3R6) from Literary &amp; Debating Society</i> </p>
