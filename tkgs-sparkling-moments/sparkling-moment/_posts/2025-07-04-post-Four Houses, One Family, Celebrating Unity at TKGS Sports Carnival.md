@@ -20,5 +20,4 @@ To celebrate Youth Day, students were also surprised with a refreshing ice cream
 <img src="/images/Sparkling_Moment/2025/SC25_4.png">
 <p>The event concluded on a high with Teresa House taking home the overall championship for the third consecutive year—an incredible testament to their enduring spirit and teamwork.
 More than just a competition, Sports Carnival 2025 was a reminder of the vibrant community, sportsmanship, and sisterhood that define the TKGS experience.</p>
-<p align="right"><i>Story contributed by Isabelle Tan (3R1), Siak Yuchen (1I2), Natalie Yong (2H4), Keira Gue (2G7) and Arissa Winata (2I2) from Literary &amp; Debating Society
-<br></i> </p>
+<p align="right"><i>Story contributed by Isabelle Tan (3R1), Siak Yuchen (1I2), Natalie Yong (2H4), Keira Gue (2G7) and Arissa Winata (2I2) <br>from Literary &amp; Debating Society</i> </p>
