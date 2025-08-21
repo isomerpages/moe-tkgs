@@ -18,3 +18,6 @@ variant: markdown
 <p>The event's legacy lessons brought students closer together. They shared meaningful aspects of their heritage, explaining why traditions mattered and the values they represented.</p>
 
 <p>The festivities culminated in a vibrant lunchtime concert, filling the canteen with energy and cheers. Musicians from different races came together to play instruments from various traditions. “It was interesting because I got to learn about their different cultures and traditions!” shared Erica Lee (2G7).</p>
+
+<p align="right"><i>Story contributed by Dreevicca Aljohn (1I2), Zara Sharron (1I2), Ashalina Syairah (2G7), Sophia Lee (2G7) and Khushi Kantilal (3R6)
+<br></i> </p>
