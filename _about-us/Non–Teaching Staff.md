@@ -112,6 +112,14 @@ variant: markdown
 <p>STEM Instructor (Laboratory)</p>
 </td>
 </tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Nasriah Binte Abdul Ghani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor (Laboratory)</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Ibrahim Bin Jupri</p>
