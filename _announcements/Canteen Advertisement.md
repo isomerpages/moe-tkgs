@@ -5,8 +5,6 @@ variant: markdown
 description: ""
 ---
 <h4><strong>Stall Vacancies</strong></h4>
-<p><strong>(Individual stallholders and business entities are invited to apply for the stall below at Tanjong Katong Girls’ School)</strong>
-</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -30,18 +28,19 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Cuisine (Noodle/Rice)</p>
+<p>Others (Halal or Non-Halal, Open to Proposal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 January 2025</p>
+<p>3 September 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Open to proposals</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong>Background</strong></p>
+<p>We are a single session secondary school with student enrolment and staff strength of 1,100. We have 5 food stalls and 2 drinks stalls in our school.</p>
 <p><strong>Application Procedure</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -54,10 +53,6 @@ General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://drive.google.com/file/d/1vbu0Qh4MVNsEJCFgjf2O1n1cm-wo4xiE/view?usp=drive_link" target="_blank" rel="noopener">Application Form for individual stallholder</a></p>
-</li>
-<li>
-<p><a href="https://drive.google.com/file/d/1PEOGxMbexytteAmBle5RUhYVJphOBNy1/view?usp=drive_link" target="_blank" rel="noopener">Application Form for Business</a></p>
-<p></p>
 </li>
 </ul>
 <ol start="2" data-tight="true" class="tight">
@@ -72,15 +67,11 @@ General Office.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td>
 <p>For Individuals</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>For Business</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</tr><tr>
+<td>
 <ul data-tight="true" class="tight">
 <li>
 <p>Photocopy of the NRIC (front and back)</p>
@@ -91,24 +82,6 @@ General Office.</p>
 <li>
 <p>Photocopy of relevant certificates such as Food Safety Course Level 1,
 etc</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>ACRA’s Business Information</p>
-</li>
-<li>
-<p>List of proposed food/drinks items and selling prices for all items</p>
-</li>
-<li>
-<p>Photocopy of relevant certificates such as SFA licence for the existing
-business, etc</p>
-</li>
-<li>
-<p>Food Safety Course Level 1 for employees (To be submitted prior to the
-date of work commencement at the Stall)</p>
 </li>
 </ul>
 </td>
@@ -142,12 +115,10 @@ School’s General Office by the closing date.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nearest MRT: Tanjong Katong Station (TEL), Paya Lebar Station (EWL) (CCL)
-or Dakota Station (CCL)</p>
+<p>Nearest MRT: Dakota MRT (CC8), Tanjong Katong Station (TE25), Paya Lebar Station (EW8 or CC9)</p>
 </li>
 <li>
-<p>Bus number: 10, 16, 16M, 31, 32, 33, 33B, 40, 43, 43E, 134, 135, 197,
-401, 853M</p>
+<p>Bus number: 10, 16, 16M, 31, 32, 33, 33B, 40, 43, 43E, 134, 135, 197, 401, 853M</p>
 <p></p>
 </li>
 </ul>
@@ -160,15 +131,12 @@ or Dakota Station (CCL)</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td>
 <p>For Individuals</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>For Business</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td>
 <ul data-tight="true" class="tight">
 <li>
 <p>Singapore Citizen (SC) or Singapore Permanent Resident (SPR) for stallholder.</p>
@@ -208,36 +176,6 @@ includes complying with relevant authorities’ requirements and guidelines.</p>
 environment.</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Able to provide good service and quality food/drinks at reasonable prices.
-Prices will be determined in consultation with the school.</p>
-<p></p>
-</li>
-<li>
-<p>Able to provide cooked food/drinks that meets the health / nutritional
-standards set by the Health Promotion Board (HPB) under the “Healthy Meals
-in Schools Programme (HMSP)” guidelines (see&nbsp;<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>).</p>
-<p></p>
-</li>
-<li>
-<p>Able to maintain high standard of food safety and personal hygiene. This
-includes complying with relevant authorities’ requirements and guidelines.</p>
-<p></p>
-</li>
-<li>
-<p>Employee(s) operating the stall is healthy and fit.</p>
-<p></p>
-</li>
-<li>
-<p>Preferably possess catering experience or experience operating in a school
-environment.</p>
-</li>
-</ul>
 </td>
 </tr>
 </tbody>
@@ -247,13 +185,10 @@ environment.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Successful applicant and stall assistant(s)/ employee(s) operating the
-stall must attend and pass the Food Safety Course Level 1 conducted by
-SkillsFuture Singapore approved training providers.</p>
+<p>Successful applicant and stall assistant(s) operating the stall must attend and pass the Food Safety Course Level 1 conducted by SkillsFuture Singapore approved training providers.</p>
 </li>
 <li>
-<p>Successful applicant is required to apply for a food stall license from
-Singapore Food Agency (SFA) to operate the stall.</p>
+<p>Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA) to operate the stall.</p>
 </li>
 </ul>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</em>
