@@ -88,14 +88,14 @@ etc</p>
 </tr>
 </tbody>
 </table>
-<ol start="2" data-tight="true" class="tight">
+<ol start="3" data-tight="true" class="tight">
 <li>
 <p>Submit the completed Application Form and documents via email OR to the
 School’s General Office by the closing date.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Address: 20 Dunman Lane Singapore 439272</p>
+<p>Address: 20 Dunman Lane, Singapore 439272</p>
 </li>
 <li>
 <p>Contact No: 6344 1593</p>
