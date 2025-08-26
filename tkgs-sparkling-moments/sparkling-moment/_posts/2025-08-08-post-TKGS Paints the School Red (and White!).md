@@ -10,7 +10,7 @@ variant: markdown
 <img src="/images/Sparkling_Moment/2025/NDP_Hero.png">
 <p>On August 8, TKGians gathered for the school's annual National Day celebrations, transforming the campus into a sea of vibrant red and white! The day began with a solemn yet spirited parade led by the uniformed groups, followed by the entire school singing the national anthem in one united voice.</p>
 <img src="/images/Sparkling_Moment/2025/NDP_1.png">
-<p>It was then time for the cohort-based activities. Excitement buzzed in the classrooms, especially for the Secondary 3s who finally received their long-awaited ICs. “Receiving my IC was a milestone for me. It made me feel one step closer to stepping out into society and develop myself even more as a person,” shared Isabelle Tan (3R1).</p> 
+<p>It was then time for the cohort-based activities. Excitement buzzed in the classrooms, especially for the Secondary 3s who finally received their long-awaited ICs. “Receiving my IC was a milestone for me. It made me feel one step closer to stepping out into society and as I develop myself even more as a person,” shared Isabelle Tan (3R1).</p> 
 
 <p>Secondary 2 students tried their hands at making Chinese knots, a traditional craft symbolising unity and good luck, while the Secondary 1s created artworks and videos celebrating Singapore’s multicultural heritage. “I thoroughly enjoyed this activity, as I got to learn more about my classmates’ cultures,” said Cynthia (1S5). Our graduating cohort also put their creativity to the test by creating an artefact that captured their aspirations for Singapore!</p>
 
