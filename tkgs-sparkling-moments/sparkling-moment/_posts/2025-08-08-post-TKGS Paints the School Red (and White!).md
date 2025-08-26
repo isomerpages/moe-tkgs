@@ -20,4 +20,4 @@ variant: markdown
 
 <p>The celebration was more than just a festive occasion—it was a heartfelt reminder of what it means to be Singaporean. As TKGians stood side by side, united in song, laughter, and shared experiences, the day highlighted not only the pride in our nation’s 60th birthday but also the enduring spirit of unity and resilience that defines the TKGS community.</p>
 
-<p align="right"><i>Story contributed by Jovianne Lim Jingyi (3H4), Khristina Lakhwani (2H4), Cynthia (1S5)</i> </p>
+<p align="right"><i>Story contributed by Jovianne Lim Jingyi (3H4), Khristina Lakhwani (2H4), Cynthia (1S5) from Literary &amp; Debating Society</i> </p>
