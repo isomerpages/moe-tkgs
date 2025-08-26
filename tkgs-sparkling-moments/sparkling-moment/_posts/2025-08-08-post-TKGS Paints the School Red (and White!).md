@@ -19,3 +19,5 @@ variant: markdown
 <p>The celebrations continued in the school hall in the form of a dazzling concert, featuring musical performances, a trivia quiz, and this year’s National Day song, “Here We Are,” led by the House Leaders. Seniors from the Mountbatten Activity Centre were also invited to join the festivities, singing alongside students. “Seeing students, teachers and our senior guests come together to celebrate the nation’s birthday felt really nice, like we are one big family,” reflected Raeann Loke (3H4)</p>
 
 <p>The celebration was more than just a festive occasion—it was a heartfelt reminder of what it means to be Singaporean. As TKGians stood side by side, united in song, laughter, and shared experiences, the day highlighted not only the pride in our nation’s 60th birthday but also the enduring spirit of unity and resilience that defines the TKGS community.</p>
+
+<p align="right"><i>Story contributed by Jovianne Lim Jingyi (3H4), Khristina Lakhwani (2H4), Cynthia (1S5)</i> </p>
