@@ -45,5 +45,5 @@ sections:
       title: Canteen Advertisement
       id: infobar
       button: Click here for more information
-      url: /canteen-advertisement/
+      url: /announcements/canteen/
 ---
