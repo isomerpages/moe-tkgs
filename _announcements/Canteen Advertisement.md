@@ -1,6 +1,6 @@
 ---
 title: Canteen Advertisement
-permalink: /canteen-advertisement/
+permalink: /announcements/canteen/
 variant: markdown
 description: ""
 ---
