@@ -41,9 +41,4 @@ sections:
       alt: Image alt text
       description: Discover your future at Tanjong Katong Girls’ School! Find out how
         we are shaping the next generation of remarkable young women.
-  - infobar:
-      title: Canteen Advertisement
-      id: infobar
-      button: Click here for more information
-      url: /announcements/canteen/
 ---
