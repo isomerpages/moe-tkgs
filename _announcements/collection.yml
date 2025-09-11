@@ -2,5 +2,4 @@ collections:
   announcements:
     output: true
     order:
-      - Canteen Advertisement.md
       - Straits Times School Pocket Money Fund (Cycle 1 2026).md
