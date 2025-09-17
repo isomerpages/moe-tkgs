@@ -34,6 +34,11 @@ tr:hover {background-color: #F5F5DC;}
 	<td rowspan="1">Mdm Cherry Chan Hiang Puay</td>
  <td><a target="" href="mailto:cherry_chan_hiang_puay@moe.edu.sg">cherry_chan_hiang_puay@moe.edu.sg</a></td>
 	 	</tr>
+			<tr>
+	<td rowspan="1">Mrs Lee-Ng Suan Ching</td>
+ <td><a target="" href="mailto:ng_suan_ching@moe.edu.sg">ng_suan_ching@moe.edu.sg</a>
+	 </td>
+		</tr>
 		<tr>
 	<td rowspan="1">Mr Yang Hsiu Chen</td>
  <td><a target="" href="mailto:hsiu_chen_yang@moe.edu.sg">hsiu_chen_yang@moe.edu.sg</a>
