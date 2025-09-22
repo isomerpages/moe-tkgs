@@ -7,6 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
+<h3><strong>Celebrating our TKGS Alumni</strong></h3>
 <p>From time to time, our school receives news of how our students are doing in their post-secondary endeavours. It fills us with joy, knowing that they are doing well beyond the walls of TKGS and that we have played a part in their scholastic journey.</p>
 
 <p>Please join us in congratulating the following TKGS Alumni on their notable achievements!</p>
@@ -177,6 +178,34 @@ Temasek Polytechnic, School of Engineering
 </td>
 <td>
 School of Engineering Scholarship
+</td>
+</tr>
+<tr>
+<td>
+Alika Mi'Raq Binte Nor Azarizal 
+</td>
+<td>
+	2024
+</td>
+<td>
+Temasek Junior College
+</td>
+<td>
+MOE Humanities Scholarship
+</td>
+</tr>
+<tr>
+<td>
+Sarah-Anne Lee Si Hui
+</td>
+<td>
+	2024
+</td>
+<td>
+Victoria Junior College
+</td>
+<td>
+MOE Humanities Scholarship
 </td>
 </tr>
 </tbody>
