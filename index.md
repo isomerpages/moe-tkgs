@@ -14,6 +14,15 @@ sections:
           url: /useful-links/
       variant: center
   - infopic:
+      title: TKGS Open House
+      id: infopic
+      description: Calling all Primary 6 students — explore, experience, and be
+        inspired at the TKGS Open House!
+      button: Click here to learn more
+      url: https://drive.google.com/file/d/1bKihXmkx7yT8X5Q8kjH0-jnBwgGT_y6N/view?usp=sharing
+      image: /images/Hompage/Open_house_2025.png
+      alt: Image alt text
+  - infopic:
       title: TKGS e-Prospectus
       id: infopic
       button: Click here to read
@@ -41,13 +50,4 @@ sections:
       url: https://online.fliphtml5.com/imxpa/llbw/#p=1
       image: /images/Resources/Yearbook/2025YB.png
       alt: Yearbook2024
-  - infopic:
-      title: TKGS Open House
-      id: infopic
-      description: Calling all Primary 6 students — explore, experience, and be
-        inspired at the TKGS Open House!
-      button: Click here to learn more
-      url: https://drive.google.com/file/d/1bKihXmkx7yT8X5Q8kjH0-jnBwgGT_y6N/view?usp=sharing
-      image: /images/Hompage/Open_house_2025.png
-      alt: Image alt text
 ---
