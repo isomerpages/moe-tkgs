@@ -56,7 +56,7 @@ at a more Demanding Level </td>
         </tr>
         <tr>
             <td style="text-align: center; vertical-align: middle;">2026 Sec 1 MEP Application Form<br><br><a href="https://drive.google.com/file/d/1Yx371pnowsqdHTE6iyfHcWwn643FSlOm/view?usp=sharing" target="_blank" rel="noopener">Click Here</a></td>
-            <td style="text-align: center; vertical-align: middle;">24 December 2024 (Wednesday) <br>12 p.m.</td>
+            <td style="text-align: center; vertical-align: middle;">24 December 2025 (Wednesday) <br>12 p.m.</td>
             <td style="text-align: center; vertical-align: middle;">Interested applicants who have missed the 24 Dec deadline due to transfer-in reasons are to contact Sec 1 MEP teacher at  <a href="mailto:tong_siok_theng@moe.edu.sg" target="_blank" rel="noopener">tong_siok_theng@moe.edu.sg</a></td>
         </tr>
     </tbody>
