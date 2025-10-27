@@ -18,3 +18,5 @@ variant: markdown
 <p>Next, our TKGS staff gathered at the Concorde Hotel for a sky-high celebration themed “Take Flight - because we lift lives every day.” From the moment teachers “checked in” with their boarding passes, the ballroom buzzed with an airport-terminal atmosphere, complete with travel music plus bustling photo and gift-tag booths. Indeed the “in-flight entertainment” such as Airport Charades, Inflight Snack Dash and Paper Plane Precision filled the room with laughter and friendly rivalry.</p>
 
 <p>This year’s Teachers’ Day festivities from our students, School Advisory Committee, Alumni and Parentlink truly recognised the hard and heart work of our teachers as they help every student take flight. Happy Teachers’ Day!</p>
+
+<p align="right"><i>Story contributed by Amelia Ng Jing Xuan (3I2), Andrea Wong Syee Een (1C3), Kylie Avril Lim (2H4), Yap Yi Xin (2H4), Emma Khoo Xin Le (1I2)</i> </p>
