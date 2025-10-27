@@ -14,13 +14,13 @@ sections:
           url: /useful-links/
       variant: center
   - infopic:
-      title: TKGS Open House
+      title: Experience TKGS!
       id: infopic
-      description: Calling all Primary 6 students — explore, experience, and be
-        inspired at the TKGS Open House!
+      description: Come explore, experience and be excited at what we are doing to
+        shape the next generation of leaders here in TKGS!
       button: Click here to learn more
       url: https://drive.google.com/file/d/1bKihXmkx7yT8X5Q8kjH0-jnBwgGT_y6N/view?usp=sharing
-      image: /images/Hompage/Open_house_2025.png
+      image: /images/Hompage/tkgsoh25.png
       alt: Image alt text
   - infopic:
       title: TKGS e-Prospectus
