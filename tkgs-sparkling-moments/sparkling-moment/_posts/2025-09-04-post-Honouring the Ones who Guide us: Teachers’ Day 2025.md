@@ -19,4 +19,4 @@ variant: markdown
 
 <p>This year’s Teachers’ Day festivities from our students, School Advisory Committee, Alumni and Parentlink truly recognised the hard and heart work of our teachers as they help every student take flight. Happy Teachers’ Day!</p>
 
-<p align="right"><i>Story contributed by Amelia Ng Jing Xuan (3I2), Andrea Wong Syee Een (1C3), Kylie Avril Lim (2H4), Yap Yi Xin (2H4), Emma Khoo Xin Le (1I2)</i> </p>
+<p align="right"><i>Story contributed by Amelia Ng Jing Xuan (3I2), Andrea Wong Syee Een (1C3), Kylie Avril Lim (2H4), Yap Yi Xin (2H4) and Emma Khoo Xin Le (1I2)</i> </p>
