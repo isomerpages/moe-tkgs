@@ -4,7 +4,7 @@ permalink: /financial-assistance-scheme-fas/
 variant: markdown
 description: ""
 ---
-<p>Financial Assistance Scheme (FAS) 2026 is now open. </p>
+<h4>Financial Assistance Scheme (FAS) 2026 is now open.</h4>
 
 <p>Parents who would like to know more about MOE FAS and eligibility can visit: <br> <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank" rel="noopener">https://www.moe.gov.sg/financial-matters/financial-assistance</a>.</p>
 
