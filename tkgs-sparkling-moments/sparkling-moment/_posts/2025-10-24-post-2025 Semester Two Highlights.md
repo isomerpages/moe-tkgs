@@ -7,3 +7,10 @@ description: ""
 image: ""
 variant: markdown
 ---
+<p>As the final bell rings on another amazing school year, let's take a moment to look back at the connections we've made and our experiences.</p>
+
+<p>This year-end video is a heartfelt thank you to every student who brightened a hallway, every teacher who inspired a mind, and every staff member who made our school run smoothly. It’s a celebration of the small gestures and big milestones that shaped our journey.</p>
+
+<p>See the smiles, relive the triumphs, and recognize the immense value of our community. Because when we pause to appreciate everything—the challenges that taught us and the successes that lifted us—we realize just how truly fortunate we are.</p>
+
+<p>Thank you for making this year unforgettable. Hit play and let the gratitude flow!</p>
