@@ -14,12 +14,7 @@ sections:
           url: /useful-links/
       variant: center
   - infopic:
-      title: Experience TKGS!
       id: infopic
-      description: Come explore, experience and be excited at what we are doing to
-        shape the next generation of leaders here in TKGS!
-      button: Click here to learn more
-      url: https://drive.google.com/file/d/1bKihXmkx7yT8X5Q8kjH0-jnBwgGT_y6N/view?usp=sharing
       image: /images/Hompage/tkgsoh25.png
       alt: Image alt text
   - infopic:
