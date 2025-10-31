@@ -12,7 +12,7 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/
-      variant: center
+      variant: image
   - infopic:
       id: infopic
       image: /images/Hompage/tkgsoh25.png
