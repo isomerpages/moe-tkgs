@@ -12,16 +12,14 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/
-      variant: center
+      variant: image
   - infopic:
-      title: Experience TKGS!
       id: infopic
-      description: Come explore, experience and be excited at what we are doing to
-        shape the next generation of leaders here in TKGS!
-      button: Click here to learn more
-      url: https://drive.google.com/file/d/1bKihXmkx7yT8X5Q8kjH0-jnBwgGT_y6N/view?usp=sharing
       image: /images/Hompage/tkgsoh25.png
       alt: Image alt text
+      title: Experience TKGS!
+      description: Come explore, experience and be excited at what we are doing here
+        in TKGS!
   - infopic:
       title: TKGS e-Prospectus
       id: infopic
@@ -50,4 +48,22 @@ sections:
       url: https://online.fliphtml5.com/imxpa/llbw/#p=1
       image: /images/Resources/Yearbook/2025YB.png
       alt: Yearbook2024
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
