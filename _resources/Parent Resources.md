@@ -99,7 +99,7 @@ variant: markdown
 <tr>
 <td style="width: 33.3333%;"><br><br><a href="https://www.moe.gov.sg/parentkit" target="_blank" rel="noopener"><img src="/images/pr4.png"></a></td>
 <td style="width: 33.3333%;"><br><br><a href="https://sites.google.com/moe.edu.sg/psg-online-repository" target="_blank" rel="noopener"><img src="/images/pr5.png"></a></td>
-<td style="width: 33.3333%;"><a href="https://m.healthhub.sg/auth/login?source_app=hh_web&amp;source_module=myhealth&amp;source_source_sub=&amp;target=/childhealth" target="_blank" rel="noopener"><img style="width: 65%;" src="/images/pt6.png"></a></td>
+<td style="width: 33.3333%;"><a href="https://www.healthhub.sg/" target="_blank" rel="noopener"><img style="width: 65%;" src="/images/pt6.png"></a></td>
 </tr>
 <tr>
 <td style="width: 33.3333%;"><br><a href="https://www.family.org.sg/" target="_blank" rel="noopener"><img style="width: 85%;" src="/images/pr7.png"></a></td>
