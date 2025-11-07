@@ -176,7 +176,7 @@ variant: markdown
 </tr>
 	<tr>
 <td rowspan="1" colspan="1">
-<p>Mr Redzuan Bin Hussain</p>
+<p>Mdm Tan Bee Theng, Irene </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -235,7 +235,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lau Bee Hoon, Jane</p>
+<p>Ms Nurrasyafiqah Binte Narah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Librarian</p>
