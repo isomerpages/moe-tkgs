@@ -10,8 +10,8 @@ variant: markdown
 <img src="/images/Sparkling_Moment/2025/CNIM25_Hero.png">
 <p>Following the conclusion of the school year, we embarked on a Cultural Immersion Trip to China, where we explored the distinctive environments and rich heritage of Chongqing and Xi'an.</p>
 
-<img src="/images/Sparkling_Moment/2025/CNIM25_1.png">
 <p>In Chongqing, we visited the Tian Run Food Industry, where we made soya bean curd from scratch, and the Chongqing Science and Technology Museum, where we engaged in hands-on scientific experiments. We also explored the breathtaking Wulong Karst landscape, marvelling at its natural geological formations.</p>
+<img src="/images/Sparkling_Moment/2025/CNIM25_1.png">
 
 <p>“What impressed me the most was the scenery and how geographical processes such as the movement of tectonic plates had led to the formation. The different trails were all unique in their own ways, with different names for different bridges, each with their own rich history,” says Esther John (3H4).</p>
 
