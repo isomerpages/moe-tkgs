@@ -25,4 +25,4 @@ variant: markdown
 
 <p>All in all, the shared experiences in this cultural immersion trip have fostered adaptability, curiosity, and lasting bonds, transforming our educational concepts into unforgettable personal memories.</p>
 
-Rochelle Tan Hui (3C3), Ry’Anna Sembiring (3C3)
+<p align="right"><i>Story contributed by Rochelle Tan Hui (3C3) and Ry’Anna Sembiring (3C3)</i> </p>)
