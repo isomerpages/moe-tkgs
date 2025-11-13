@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <div class="isomer-image-wrapper">
-<img src="/images/About_us/Non Teaching Staff/Group_Photo.jpg">
+<img src="/images/About_us/Non Teaching Staff/EAS_2025.jpg">
 </div>
 <p>
 <br>
