@@ -14,13 +14,6 @@ sections:
           url: /useful-links/
       variant: center
   - infopic:
-      id: infopic
-      image: /images/Hompage/tkgsoh25.png
-      alt: Image alt text
-      title: Experience TKGS!
-      description: Come explore, experience and be excited at what we are doing here
-        in TKGS!
-  - infopic:
       title: TKGS e-Prospectus
       id: infopic
       button: Click here to read
