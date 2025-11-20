@@ -6,7 +6,7 @@ variant: markdown
 ---
 <h3><strong>School Management Committee</strong></h3>
 
-<img src="/images/About_us/Key_personnel/SMC_2025.jpg"><br>
+<img src="/images/About_us/Key_personnel/SMC_2025v2.jpg"><br>
 <table>
 <tbody>
 <tr>
