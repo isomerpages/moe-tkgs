@@ -21,6 +21,10 @@ variant: markdown
 	<td style="text-align: center;"><strong>Ms <u>Xu</u> Wanjing&nbsp;</strong></td>
 <td style="text-align: center;">&nbsp;<strong>Vice-Principal (Curriculum)</strong></td>
 </tr>
+	<tr>
+	<td style="text-align: center;"><strong>Ms <u>Wang</u> Siew Ping</strong></td>
+<td style="text-align: center;">&nbsp;<strong>Vice-Principal (Curriculum)</strong></td>
+</tr>
 <tr>
 	<td style="text-align: center;"><strong>Mr <u>Chai</u> Chi Yang Moses</strong></td>
 <td style="text-align: center;"><strong>Vice-Principal (Admin)</strong></td>
@@ -131,6 +135,11 @@ variant: markdown
 <td>Ms Neo Xuanpei, Madeline</td>
 <td>Subject Head / CCE</td>
 <td><a href="mailto:neo_xuanpei@moe.edu.sg" target="">neo_xuanpei@moe.edu.sg</a></td>
+</tr>
+		<tr>
+<td>Ms Seah Ai Hwee</td>
+<td>Subject Head / Data Management</td>
+<td><a href="mailto:tkgs@moe.edu.sg" target="">tkgs@moe.edu.sg</a></td>
 </tr>
 		<tr>
 <td>Mr Lim Kian Long, Kaleb</td>
