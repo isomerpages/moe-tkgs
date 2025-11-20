@@ -5,9 +5,9 @@ date: 2022-02-02
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-
-<img style="width: 80%;" src="/images/22w.png" />
+<img style="width: 80%;" src="/images/22w.png">
 <p>This year, we celebrated our Chinese New Year with the elderlies over at Thong Teck Home. Our activities&nbsp;include Bingo game with the elderly folks, making of hampers, Chinese knots and CNY cards for them and many more!</p>
 <p>Here are some of the highlights taken during the celebration.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
@@ -28,7 +28,7 @@ image: ""
 </tbody>
 </table>
 <p>The class activities included the making of the hamper, tying of chinese knots as well as folding origami tigers from red packets! All these items that were made, along with food items such as biscuits, were all wrapped up with the collective effort of each class.&nbsp;</p>
-<img style="width: 75%;" src="/images/22ab.jpg" /><br>
+<img style="width: 75%;" src="/images/22ab.jpg"><br>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>

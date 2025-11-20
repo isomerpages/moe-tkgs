@@ -6,7 +6,7 @@ variant: markdown
 ---
 <h3><strong>School Management Committee</strong></h3>
 
-<img src="/images/About_us/Key_personnel/SMC_2025.jpg"><br>
+<img src="/images/About_us/Key_personnel/SMC_2025v2.jpg"><br>
 <table>
 <tbody>
 <tr>
@@ -19,6 +19,10 @@ variant: markdown
 </tr>
 <tr>
 	<td style="text-align: center;"><strong>Ms <u>Xu</u> Wanjing&nbsp;</strong></td>
+<td style="text-align: center;">&nbsp;<strong>Vice-Principal (Curriculum)</strong></td>
+</tr>
+	<tr>
+	<td style="text-align: center;"><strong>Ms <u>Wang</u> Siew Ping</strong></td>
 <td style="text-align: center;">&nbsp;<strong>Vice-Principal (Curriculum)</strong></td>
 </tr>
 <tr>
@@ -131,6 +135,11 @@ variant: markdown
 <td>Ms Neo Xuanpei, Madeline</td>
 <td>Subject Head / CCE</td>
 <td><a href="mailto:neo_xuanpei@moe.edu.sg" target="">neo_xuanpei@moe.edu.sg</a></td>
+</tr>
+		<tr>
+<td>Ms Seah Ai Hwee</td>
+<td>Subject Head / Data Management</td>
+<td><a href="mailto:tkgs@moe.edu.sg" target="">tkgs@moe.edu.sg</a></td>
 </tr>
 		<tr>
 <td>Mr Lim Kian Long, Kaleb</td>
