@@ -4,7 +4,7 @@ permalink: /useful-links/booklist-uniform-bus-n-locker/
 description: ""
 variant: markdown
 ---
-<h3>Booklist 2025</h3>
+<h3>Booklist</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://drive.google.com/file/d/1ulKNEY6gQwMrSi3lJnYuenIgZ1qB26lK/view?usp=drive_link" target="_blank" rel="noopener">Secondary 1</a></p>
