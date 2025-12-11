@@ -33,7 +33,7 @@ placed in a Secondary School via Direct School Admissions (DSA).</p>
 <li>
 <p>Only shortlisted applicants will be informed and may be required to undergo
 an interview as part of the selection process. Successful applicants will
-be notified by Friday, 10 January 2025. If you do not hear from the school
+be notified by Friday, 9 January 2025. If you do not hear from the school
 by this date, you may assume that your application has been unsuccessful.</p>
 </li>
 </ol>
