@@ -5,14 +5,14 @@ description: ""
 third_nav_title: Admission
 variant: markdown
 ---
-<p><strong><u>APPEAL FOR ADMISSION TO TKGS – SEC 1 2025</u></strong>
+<p><strong><u>APPEAL FOR ADMISSION TO TKGS – SEC 1 2026</u></strong>
 </p>
 <p>Please read the following instructions carefully before submitting an
 appeal application:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>The appeal for admission to TKGS opens on 18 Dec 2024 and closes on 20
-Dec 2024 at 5 p.m. Please note that late or incomplete applications will
+<p>The appeal for admission to TKGS opens on 19 Dec 2025 and closes on 24
+Dec 2025 at 5 p.m. Please note that late or incomplete applications will
 not be considered.</p>
 </li>
 </ol>
