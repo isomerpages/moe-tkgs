@@ -4,7 +4,7 @@ permalink: /s1-registration/registration/
 variant: markdown
 description: ""
 ---
-Welcome to our TKGS Family! Please find below the required forms that you will need to fill out. We have also prepared some general information on what going to school at TKGS is like. We look forward to meeting you online on 19 December 2025, Friday for our registration briefing!
+Welcome to our TKGS Family! Please find below the required forms that you will need to fill out. We have also prepared some general information on what going to school at TKGS is like. We look forward to meeting you online on 22 December 2025, Monday for our registration briefing!
 
 <h4>Compulsory Forms to be Completed</h4>
 <table border="1" style="border-collapse: collapse; width: 100%; border: 2px solid black;">
@@ -33,7 +33,7 @@ Welcome to our TKGS Family! Please find below the required forms that you will n
         <tr>
             <td style="text-align: center; vertical-align: middle;">2026 Letter of Offer to take Subject(s) 
 at a more Demanding Level </td>
-            <td style="text-align: center; vertical-align: middle;">23 December 2025 (Tuesday)<br>12 p.m.</td>
+            <td style="text-align: center; vertical-align: middle;">22 December 2025 (Monday)<br>12 p.m.</td>
             <td rowspan="3" style="text-align: center; vertical-align: middle;">Option Form and Approval Letter will be sent to eligible students via Parents Gateway.<br><br>Click <a href="https://drive.google.com/file/d/18PYfXVRwoSC7bsPqCbtN8p7b5GUTg9sc/view?usp=sharing" target="_blank" rel="noopener">here</a> for more information on our Mother Tongue Languages is available at 
 					</td>
         </tr>
