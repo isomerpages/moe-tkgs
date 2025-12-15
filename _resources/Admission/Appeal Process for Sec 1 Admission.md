@@ -53,7 +53,7 @@ Day.</p>
 <ol start="7" data-tight="true" class="tight">
     <li>
         <p>To facilitate our consideration of your appeal, please have the following
-        documents in softcopy before submitting this <a href="https://go.gov.sg/tkgss1appeal" rel="noopener noreferrer nofollow" target="_blank">form</a>:</p>
+        documents in softcopy before submitting the <a href="https://go.gov.sg/tkgss1appeal" rel="noopener noreferrer nofollow" target="_blank">appeal form</a>:</p>
         <ul>
             <li>PSLE Result Slip</li>
             <li>Copies of P5 and P6 result slips from Primary School</li>
@@ -62,6 +62,7 @@ Day.</p>
         </ul>
     </li>
 </ol>
+The appeal form will be accessible after the secondary 1 posting results have been released.
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p>More information on admission matters can be found&nbsp;<a href="https://www.moe.gov.sg/faq?categoryid=C547D6C3F9584A80B5634874DBD4423B" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
