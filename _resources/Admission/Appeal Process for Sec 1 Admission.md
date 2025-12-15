@@ -60,9 +60,10 @@ Day.</p>
             <li>Copies of CCA Records</li>
             <li>Other relevant documents</li>
         </ul>
-    </li>
+  <p>The appeal form will be accessible after the secondary 1 posting results have been released.</p>	
+	</li>
 </ol>
-The appeal form will be accessible after the secondary 1 posting results have been released.
+
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p>More information on admission matters can be found&nbsp;<a href="https://www.moe.gov.sg/faq?categoryid=C547D6C3F9584A80B5634874DBD4423B" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
