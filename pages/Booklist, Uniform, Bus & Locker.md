@@ -108,7 +108,7 @@ online. Home delivery is recommended for convenience.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4012 Ang Mo Kio Ave 10,<br>
-	#01-09 Techplace 1,<br>
+	#01-06 or #01-09 Techplace 1,<br>
 Singapore 569628</p>
 </td>
 </tr>
@@ -117,7 +117,7 @@ Singapore 569628</p>
 <p>Website:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.jeepsinguniform.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.jeepsinguniform.com.sg</a>
+<p><a href="https://jeepsinguniform.com/collections/tanjong-katong-girls-school" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/collections/tanjong-katong-girls-school</a>
 </p>
 </td>
 </tr>
@@ -146,7 +146,7 @@ Singapore 569628</p>
 <p>Attachment from Supplier</p>
 </td>
 <td rowspan="1" colspan="1">
-	<a href="https://drive.google.com/file/d/1-K5IK4MpTwxhtJMT2gxFQSlHet7IOIr0/view?usp=drive_link" target="_blank" rel="noopener">Information on Sale of Uniform 2025</a>
+	<a href="https://drive.google.com/file/d/1-K5IK4MpTwxhtJMT2gxFQSlHet7IOIr0/view?usp=drive_link" target="_blank" rel="noopener">Information on Sale of Uniform</a>
 </td>
 </tr>
 </tbody>
@@ -176,7 +176,7 @@ Singapore 569628</p>
 <p>Contact Number:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>62963522 / 62964921</p>
+<p>62963522</p>
 </td>
 </tr>
 <tr>
@@ -232,7 +232,13 @@ Singapore 569628</p>
 <p>Application Form:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeisolK3flJHuHebdSK2kFlvzFlzeXmoubTjBSpnylG-NlllA/viewform?pli=1" rel="noopener noreferrer nofollow" target="_blank">Locker Application Form</a>
+<p><a href="https://lockerrental.relacsys.com/locations/location-detail?locationId=43afaf0fd061808bbf75" rel="noopener noreferrer nofollow" target="_blank">Locker Application Form</a>
+	</p></td></tr><tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1oA_JNrcq_PT8sDlgbXYljlt_sIjTfLsD/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Rental Instructions</a>
 </p>
 </td>
 </tr>
