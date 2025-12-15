@@ -4,7 +4,7 @@ permalink: /pmessage25/
 variant: markdown
 description: ""
 ---
-<img src="/images/About_tkgs/P_message/2025_PMessage.jpg">
+<img src="/images/About_tkgs/P_message/PMessage25.jpg">
 
 <p>2024 was a bright sparkling year for us as it was a season of courageous endeavours and a season of great harvests. We invite you to delve into the pages of our <a href="https://online.fliphtml5.com/imxpa/llbw/#p=1" target="_blank" rel="noopener">2024 Yearbook</a> to find out more about why this year was so special for us. </p>
 
@@ -48,6 +48,6 @@ Symbolising hope and inspiration is the North Star, which is a sky marker that h
 </p><p>Through the 2025 year theme, we hope that everyone is encouraged to be curious and bold. Cast our vision into the galaxy of possibilities and embrace the exhilarating joy that an adventurous discovery can bring us. All of us have the capabilities to achieve greater things than we can imagine. All it takes is a step of courage and determination, holding out hope. Together as a school, we believe that 2025 will be one where we show kindness and support to each other as we take the leap of faith into the big adventure awaiting us. Let’s welcome the dawn of a new adventure! Aurora Odyssey!</p><p>
 
 Yours Sincerely, <br>
-	Ms <u>Chew</u> Ing Lim<br>
+Ms <u>Chew</u> Ing Lim<br>
 Principal
 </p>
