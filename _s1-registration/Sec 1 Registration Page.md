@@ -4,7 +4,7 @@ permalink: /s1-registration/registration/
 variant: markdown
 description: ""
 ---
-Welcome to our TKGS Family! Please find below the required forms that you will need to fill out. We have also prepared some general information on what going to school at TKGS is like. We look forward to meeting you online on 19 December 2025, Friday for our registration briefing!
+Welcome to our TKGS Family! Please find below the required forms that you will need to fill out. We have also prepared some general information on what going to school at TKGS is like. We look forward to meeting you online on 22 December 2025, Monday for our registration briefing!
 
 <h4>Compulsory Forms to be Completed</h4>
 <table border="1" style="border-collapse: collapse; width: 100%; border: 2px solid black;">
@@ -16,7 +16,7 @@ Welcome to our TKGS Family! Please find below the required forms that you will n
         </tr>
         <tr>
             <td style="text-align: center; vertical-align: middle;">2026 Sec 1 Registration Form<br><br><a href="https://form.gov.sg/68c250f2fe54dc3eb0ed9921" target="_blank" rel="noopener">Click Here</a></td>
-            <td style="text-align: center; vertical-align: middle;">19 December 2025 (Friday)<br>12 p.m.</td>
+            <td style="text-align: center; vertical-align: middle;">22 December 2025 (Monday)<br>12 p.m.</td>
             <td rowspan="3" style="text-align: center; vertical-align: middle;">Parents are reminded to complete and submit the form by the stipulated deadline.</td>
         </tr>
     </tbody>
@@ -34,7 +34,8 @@ Welcome to our TKGS Family! Please find below the required forms that you will n
             <td style="text-align: center; vertical-align: middle;">2026 Letter of Offer to take Subject(s) 
 at a more Demanding Level </td>
             <td style="text-align: center; vertical-align: middle;">22 December 2025 (Monday)<br>12 p.m.</td>
-            <td rowspan="3" style="text-align: center; vertical-align: middle;">Option Form and Approval Letter will be sent to eligible students via Parents Gateway.<br><br>More information on our Mother Tongue Languages is available at <a href="https://drive.google.com/file/d/18PYfXVRwoSC7bsPqCbtN8p7b5GUTg9sc/view?usp=sharing" target="_blank" rel="noopener">???</a></td>
+            <td rowspan="3" style="text-align: center; vertical-align: middle;">Option Form and Approval Letter will be sent to eligible students via Parents Gateway.<br><br>Click <a href="https://drive.google.com/file/d/18PYfXVRwoSC7bsPqCbtN8p7b5GUTg9sc/view?usp=sharing" target="_blank" rel="noopener">here</a> for more information on our Mother Tongue Languages is available at 
+					</td>
         </tr>
         <tr>
             <td style="text-align: center; vertical-align: middle;">2026 Sec 1 Higher Mother Tongue Option Form</td>

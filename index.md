@@ -12,6 +12,9 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/
+        - title: Secondary One Admission
+          description: ""
+          url: /resources/admission/sec-1-admission/
       variant: center
   - infopic:
       title: TKGS e-Prospectus
