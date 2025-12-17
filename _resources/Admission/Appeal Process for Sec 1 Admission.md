@@ -11,8 +11,8 @@ variant: markdown
 appeal application:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>The appeal for admission to TKGS opens on 19 Dec 2025 and closes on 24
-Dec 2025 at 5 p.m. Please note that late or incomplete applications will
+<p>The appeal for admission to TKGS opens on 19 December 2025 and closes on 24
+December 2025 at 5 p.m. Please note that late or incomplete applications will
 not be considered.</p>
 </li>
 </ol>
@@ -33,7 +33,7 @@ placed in a Secondary School via Direct School Admissions (DSA).</p>
 <li>
 <p>Only shortlisted applicants will be informed and may be required to undergo
 an interview as part of the selection process. Successful applicants will
-be notified by Friday, 9 January 2025. If you do not hear from the school
+be notified by Friday, 9 January 2026. If you do not hear from the school
 by this date, you may assume that your application has been unsuccessful.</p>
 </li>
 </ol>
@@ -53,14 +53,14 @@ Day.</p>
 <ol start="7" data-tight="true" class="tight">
     <li>
         <p>To facilitate our consideration of your appeal, please have the following
-        documents in softcopy before submitting the <a href="https://go.gov.sg/tkgss1appeal" rel="noopener noreferrer nofollow" target="_blank">appeal form</a>:</p>
+        documents in softcopy before submitting the <a href="https://go.gov.sg/tkgss1appeal" rel="noopener noreferrer nofollow" target="_blank">appeal form.</a> (This appeal form will be accessible after the secondary 1 posting results have been released.)</p>
         <ul>
             <li>PSLE Result Slip</li>
             <li>Copies of P5 and P6 result slips from Primary School</li>
             <li>Copies of CCA Records</li>
             <li>Other relevant documents</li>
         </ul>
-  <p>The appeal form will be accessible after the secondary 1 posting results have been released.</p>	
+  <p></p>	
 	</li>
 </ol>
 
