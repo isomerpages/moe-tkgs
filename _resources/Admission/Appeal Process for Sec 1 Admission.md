@@ -11,8 +11,8 @@ variant: markdown
 appeal application:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>The appeal for admission to TKGS opens on 19 Dec 2025 and closes on 24
-Dec 2025 at 5 p.m. Please note that late or incomplete applications will
+<p>The appeal for admission to TKGS opens on 19 December 2025 and closes on 24
+December 2025 at 5 p.m. Please note that late or incomplete applications will
 not be considered.</p>
 </li>
 </ol>
