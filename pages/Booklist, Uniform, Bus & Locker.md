@@ -190,19 +190,18 @@ Singapore 569628</p>
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 50px">
+<h3>Addtitional Locker Service Provider and Information</h3><p><b>All students will be provided with a locker each, free-of-charge for use outside their classrooms. For additional storage, larger lockers are available for rent. Application details can be found in the link below:</b></p><table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
+
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-	<h3>Locker Service Provider and Information</h3>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+
+	</tr>
+	
+<tr><td rowspan="1" colspan="1">
 <p>Service Provider:</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -229,8 +228,8 @@ Singapore 569628</p>
 <p>Additional Information: </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All students will be provided with a locker each, free-of-charge for use outside their classrooms. For additional storage, larger lockers are available for rent. Application details can be found in the link below:<br><br><a href="https://drive.google.com/file/d/1oA_JNrcq_PT8sDlgbXYljlt_sIjTfLsD/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Rental Instructions</a>
-</p>
+<a href="https://drive.google.com/file/d/1oA_JNrcq_PT8sDlgbXYljlt_sIjTfLsD/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Rental Instructions</a>
+<p></p>
 </td>
 </tr>
 </tbody>
