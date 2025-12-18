@@ -226,7 +226,7 @@ Singapore 569628</p>
 <p><a href="https://lockerrental.relacsys.com/locations/location-detail?locationId=43afaf0fd061808bbf75" rel="noopener noreferrer nofollow" target="_blank">Locker Application Form</a>
 	</p></td></tr><tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Additional Information: </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All students will be provided with a locker each, free-of-charge for use outside their classrooms. For additional storage, larger lockers are available for rent. Application details can be found in the link below:<br><br><a href="https://drive.google.com/file/d/1oA_JNrcq_PT8sDlgbXYljlt_sIjTfLsD/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Rental Instructions</a>
