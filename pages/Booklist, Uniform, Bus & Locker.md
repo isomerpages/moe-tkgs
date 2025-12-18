@@ -229,7 +229,7 @@ Singapore 569628</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1oA_JNrcq_PT8sDlgbXYljlt_sIjTfLsD/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Rental Instructions</a>
+<p>All students will be provided with a locker each, free-of-charge for use outside their classrooms. For additional storage, larger lockers are available for rent. Application details can be found in the link below:<br><br><a href="https://drive.google.com/file/d/1oA_JNrcq_PT8sDlgbXYljlt_sIjTfLsD/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Rental Instructions</a>
 </p>
 </td>
 </tr>
