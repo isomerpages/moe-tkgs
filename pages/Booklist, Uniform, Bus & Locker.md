@@ -123,15 +123,6 @@ Singapore 569628</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Enquiry Form:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://bit.ly/JSFSUPPORT" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/JSFSUPPORT</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Operating Hours:</p>
 </td>
 <td rowspan="1" colspan="1">
