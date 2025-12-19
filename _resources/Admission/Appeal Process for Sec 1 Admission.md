@@ -25,9 +25,9 @@ points (COP).
 	<br>
 	TKGS Cut-Off point (COP) 2025:
 	<br>
-	G2: 13
+	G2: 23
 	<br>
-	G3: 23
+	G3: 13
 	</p>
 </li>
 </ol>
