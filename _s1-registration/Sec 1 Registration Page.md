@@ -33,7 +33,7 @@ Welcome to our TKGS Family! Please find below the required forms that you will n
         <tr>
             <td style="text-align: center; vertical-align: middle;">2026 Letter of Offer to take Subject(s) 
 at a more Demanding Level </td>
-            <td style="text-align: center; vertical-align: middle;">22 December 2025 (Monday)<br>12 p.m.</td>
+            <td style="text-align: center; vertical-align: middle;">24 December 2025 (Wednesday)<br>12 p.m.</td>
             <td rowspan="3" style="text-align: center; vertical-align: middle;">Option Form and Approval Letter will be sent to eligible students via Parents Gateway.<br><br>Click <a href="https://drive.google.com/file/d/18PYfXVRwoSC7bsPqCbtN8p7b5GUTg9sc/view?usp=sharing" target="_blank" rel="noopener">here</a> for more information on our Mother Tongue Languages.
 					</td>
         </tr>

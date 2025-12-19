@@ -20,7 +20,15 @@ not be considered.</p>
 <li>
 <p>Students appealing for admission to TKGS after the release of the Secondary
 1 Posting results <strong><u>MUST</u></strong> meet the school's cut-off
-points (COP).</p>
+points (COP). 
+	<br>
+	<br>
+	TKGS Cut-Off point (COP) 2025:
+	<br>
+	G2: 23
+	<br>
+	G3: 13
+	</p>
 </li>
 </ol>
 <ol start="3" data-tight="true" class="tight">
