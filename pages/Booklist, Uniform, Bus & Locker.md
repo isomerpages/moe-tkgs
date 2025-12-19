@@ -112,6 +112,14 @@ online. Home delivery is recommended for convenience.</p>
 Singapore 569628</p>
 </td>
 </tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p>Contact Number:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64563198</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Website:</p>
