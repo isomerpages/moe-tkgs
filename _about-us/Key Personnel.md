@@ -139,7 +139,7 @@ variant: markdown
 		<tr>
 <td>Ms Seah Ai Hwee</td>
 <td>Subject Head / Data Management</td>
-<td><a href="mailto:tkgs@moe.edu.sg" target="">tkgs@moe.edu.sg</a></td>
+<td><a href="mailto:tkgs@moe.edu.sg" target="">seah_ai_hwee@moe.edu.sg</a></td>
 </tr>
 		<tr>
 <td>Mr Lim Kian Long, Kaleb</td>
