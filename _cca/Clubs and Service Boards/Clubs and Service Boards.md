@@ -6,7 +6,30 @@ description: ""
 third_nav_title: Clubs and Service Boards
 ---
 <p>Our Clubs and Service Boards CCA group cultivates diverse skills, from digital technology to community service, debate, and literacy promotion. We foster creativity, critical thinking, leadership, and social responsibility. Through varied activities, we develop well-rounded individuals prepared for future challenges whilst contributing meaningfully to our school and community.</p>
-
+<h3>Year 2025</h3>
+<table>
+	<tbody>
+		<tr>
+			<td style="text-align: center;"><strong>CCA</strong>
+			</td>
+			<td style="text-align: center;"><strong>Achievements</strong>
+			</td>
+		</tr>
+			<tr><td style="vertical-align: middle; text-align: center;" rowspan="2">Literary &amp; Debating Society&nbsp;&nbsp;
+			</td>
+			<td style="vertical-align: middle; text-align: center;">U-14 Mid Year Debate Invitationals (Silver Cup)<br><b>1st runner up</b>
+				</td></tr><tr>
+<td style="vertical-align: middle; text-align: center;">Singapore Secondary School Debate Championship (Division 2 Plate Finals) <br><b>1st runner up</b>
+					</td>
+		</tr>
+				<tr>
+					<td style="vertical-align: middle; text-align: center;">Library Board</td>
+					<td style="vertical-align: middle; text-align: center;">School Digital Media Award <br> NLB Prove It! Contest <br><b>Silver</b>
+					</td>
+				</tr>
+	</tbody>
+	</table>
+	
 <h3>Year 2024</h3>
 <table>
 <tbody>

@@ -13,6 +13,11 @@ variant: markdown
 	<th style="text-align: center;">Competition</th>
 	<th style="text-align: center;">Result</th>
 		</tr>
+	<tr>
+			<td style="vertical-align: middle; text-align: center;">Girl Guides</td>
+			<td style="vertical-align: middle; text-align: center;">Puan Noor Aisha Award</td>
+			<td style="vertical-align: middle; text-align: center;">Gold</td>
+	</tr>
 		<tr>
 			<td style="vertical-align: middle; text-align: center;">National Police Cadet Corp</td>
 			<td style="vertical-align: middle; text-align: center;">Unit Overall Proficiency Award</td>
