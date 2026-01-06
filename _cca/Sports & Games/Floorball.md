@@ -33,14 +33,14 @@ Looking ahead, we aim to push our boundaries even further. We remain dedicated t
 		<tr>
 			<th colspan="1">Teacher-in-Charge</th>
 </tr>
+	<tr>
+	<td rowspan="1">Mdm Adela Chee</td>
+ <td><a target="" href="mailto:chee_kwek_khuen_adela@moe.edu.sg">chee_kwek_khuen_adela@moe.edu.sg</a></td>
+	</tr>
 		<tr>
 	<td rowspan="1">Mr Abdul Mutalib</td>
  <td><a target="" href="mailto:abdul_mutalib_khan@moe.edu.sg">abdul_mutalib_khan@moe.edu.sg</a></td>
 	 	</tr>
-<tr>
-	<td rowspan="1">Mdm Adela Chee</td>
- <td><a target="" href="mailto:chee_kwek_khuen_adela@moe.edu.sg">chee_kwek_khuen_adela@moe.edu.sg</a></td>
-	</tr>
 </tbody>
 </table>
 <table>
