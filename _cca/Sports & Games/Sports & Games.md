@@ -20,24 +20,50 @@ variant: markdown
 			<td style="vertical-align: middle; text-align: center;">3rd Position</td>
 	</tr>
 	<tr>
-			<td style="vertical-align: middle; text-align: center;">Bowling</td>
+			<td style="vertical-align: middle; text-align: center;" rowspan="2">Bowling</td>
 			<td style="vertical-align: middle; text-align: center;">National ‘B’ Division</td>
 			<td style="vertical-align: middle; text-align: center;">3rd Position</td>
 	</tr>
+	<tr>
+			<td style="vertical-align: middle; text-align: center;">National ‘C’ Division</td>
+			<td style="vertical-align: middle; text-align: center;">4th Position</td>
+	</tr>
 		<tr>
-			<td style="vertical-align: middle; text-align: center;">Floorball</td>
+			<td style="vertical-align: middle; text-align: center;" rowspan="2">Floorball</td>
 			<td style="vertical-align: middle; text-align: center;">National ‘B’ Division</td>
 			<td style="vertical-align: middle; text-align: center;">2nd Position</td>
 	</tr>
 	<tr>
-			<td style="vertical-align: middle; text-align: center;">Netball</td>
+			<td style="vertical-align: middle; text-align: center;">National ‘C’ Division League 1</td>
+			<td style="vertical-align: middle; text-align: center;">4th Position</td>
+	</tr>
+	<tr>
+			<td style="vertical-align: middle; text-align: center;" rowspan="2">Netball</td>
 			<td style="vertical-align: middle; text-align: center;">East Zone 'B' Division</td>
 			<td style="vertical-align: middle; text-align: center;">3rd Position</td>
 	</tr>
 	<tr>
-			<td style="vertical-align: middle; text-align: center;">Softball</td>
+			<td style="vertical-align: middle; text-align: center;">National ‘C’ Division League 1</td>
+			<td style="vertical-align: middle; text-align: center;">Top 8</td>
+	</tr>
+	<tr>
+			<td style="vertical-align: middle; text-align: center;" rowspan="2">Softball</td>
 			<td style="vertical-align: middle; text-align: center;">National ‘B’ Division</td>
 			<td style="vertical-align: middle; text-align: center;">3rd Position</td>
+	</tr>
+	<tr>
+			<td style="vertical-align: middle; text-align: center;">National ‘C’ Division League 2</td>
+			<td style="vertical-align: middle; text-align: center;">Champion</td>
+	</tr>
+	<tr>
+			<td style="vertical-align: middle; text-align: center;">Sailing</td>
+			<td style="vertical-align: middle; text-align: center;">National ‘B’ Division (ILCA4)</td>
+			<td style="vertical-align: middle; text-align: center;">Champion</td>
+	</tr>
+	<tr>
+			<td style="vertical-align: middle; text-align: center;">Tennis</td>
+			<td style="vertical-align: middle; text-align: center;">National ‘C’ Division League 2</td>
+			<td style="vertical-align: middle; text-align: center;">2nd Position</td>
 	</tr>
 </tbody>
 </table>
