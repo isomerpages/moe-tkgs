@@ -18,7 +18,6 @@ sections:
       variant: center
   - infobar:
       title: Release of 2025 GCE O-Level Results
-      subtitle: Add informational text
       id: infobar
       description: 2025 GCE O-Level results will be released on 14 January 2026
       button: Click Here for more details
