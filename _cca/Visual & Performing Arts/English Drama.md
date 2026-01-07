@@ -35,8 +35,12 @@ tr:hover {background-color: #F5F5DC;}
  <td><a target="" href="mailto:meenatchi_shanmugam@moe.edu.sg">meenatchi_shanmugam@moe.edu.sg</a></td>
 	 	</tr>
 <tr>
-	<td rowspan="1">Ms Song Sharizah Dianah</td>
- <td><a target="" href="mailto:song_xiufen_sharizah_dianah_ismail@moe.edu.sg">song_xiufen_sharizah_dianah_ismail@moe.edu.sg</a></td>
+	<td rowspan="1">Ms Nurhayati Binte Muhammad Fauzy</td>
+ <td><a target="" href="mailto:nurhayati_binte_muhammad_fauzy@moe.edu.sg">nurhayati_binte_muhammad_fauzy@moe.edu.sg</a></td>
+	 	</tr>
+		<tr>
+	<td rowspan="1">Mr Jason Heng Ching Sheng</td>
+ <td><a target="" href="mailto:tkgs@moe.edu.sg">tkgs@moe.edu.sg</a></td>
 	 	</tr>
 	</tbody>
 	</table>
