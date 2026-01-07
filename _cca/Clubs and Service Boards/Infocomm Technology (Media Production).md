@@ -35,13 +35,14 @@ tr:hover {background-color: #F5F5DC;}
 		<tr>
 			<th colspan="1">Teacher-in-Charge</th>
 </tr>
-	<tr>
-	<td rowspan="1">Ms Vina Ng Bei Ling</td>
- <td><a target="" href="mailto:ng_bei_ling_vina@moe.edu.sg">ng_bei_ling_vina@moe.edu.sg</a></td>
-	 	</tr>
-			<tr>
+		<tr>
 	<td rowspan="1">Mr Tan Boon Cheong, Marc</td>
  <td><a target="" href="mailto:tan_boon_cheong_marc@moe.edu.sg">tan_boon_cheong_marc@moe.edu.sg</a></td>
+	 	</tr>
+		<tr>
+	<td rowspan="1">Ms Seri Hannah Binte Aminuddin</td>
+ <td><a target="" href="mailto:seri_hannah_aminuddin@moe.edu.sg">seri_hannah_aminuddin@moe.edu.sg
+</a></td>
 	 	</tr>
 	</tbody>
 	</table>
