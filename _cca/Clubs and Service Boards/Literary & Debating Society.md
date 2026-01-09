@@ -34,8 +34,8 @@ tr:hover {background-color: #F5F5DC;}
 			<th colspan="1">Teacher-in-Charge</th>
 </tr>
 		<tr>
-	<td rowspan="1">Mdm Haryati Hussin</td>
- <td><a target="" href="mailto:haryati_hussin@moe.edu.sg">haryati_hussin@moe.edu.sg</a></td>
+	<td rowspan="1">Mrs Tan-Wong Ling Min</td>
+ <td><a target="" href="mailto:wong_ling_min@moe.edu.sg">wong_ling_min@moe.edu.sg</a></td>
 	 	</tr>
 <tr>
 	<td rowspan="1">Mdm Siti Raudha Mustafa Kamal</td>
@@ -51,11 +51,11 @@ tr:hover {background-color: #F5F5DC;}
 		<tr>
 	<td rowspan="1"> Training Day / Time</td>
 <td>Monday &amp; Wednesday<br>
-	3:15pm to 6:00pm</td>
+	3:15pm to 5:30pm</td>
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
- <td rowspan="1">Computer Labs</td>
+ <td rowspan="1">Humanities Room</td>
 	</tr>
 </tbody>
 </table>
