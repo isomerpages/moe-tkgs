@@ -24,6 +24,8 @@ description: ""
 
 I am proud to present the Year Theme for 2026: 
 
+<img src="/images/About_tkgs/P_message/YT26_White.png">
+
 <p>Here, I would like to share the thinking behind the Year Theme so that you may be encouraged by the depth of thought the Prefectorial Board EXCO led by Head Prefect, Ashni D/O Kanagarajan Solagar, put in to conceptualise the Year Theme. </p>
 
 <p><b>Year Theme for 2026: Somnia Alis Volant – Dreams Fly on Wings</b><br>
