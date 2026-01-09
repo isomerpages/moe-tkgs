@@ -22,11 +22,13 @@ tr:hover {background-color: #F5F5DC;}
 
 <img src="/images/CCA/Debate_Club/debate.gif">
 
-<p> The Literary and Debating Society comprises two distinct wings, each with its own unique focus and activities. </p>
+<p>The Literary Arts Club is a vibrant community where language, ideas and literacy come together. The club provides students with diverse platforms to express themselves, think critically and serve the community meaningfully.</p>
 
-<p>In the literary wing, our passion for language comes alive through writing and public speaking. Last year, we sought to spread the passion and love for the English Language to other young children by participating in the National Library Board’s enriching KidsREAD programme. On a regular basis, we work on honing our writing skills by delving into current, and refining our public speaking skills through engaging presentation sessions. The Literary Wing is always buzzing with activity as we strive to develop new ways to express ourselves through both the written and spoken word.</p>
+<p>Members with a passion for writing and speaking hone their craft through regular writing workshops, presentation sessions and public speaking opportunities. Students engage with current issues, explore creative expression, and participate in competitions such as the National Public Speaking Competition, Singapore Secondary School Debating Competition (SSSDC) as well as competitions organised by National Library Board (NLB). Through participation in the NLB Prove It! Contest and NLB Historical Scene Investigation (H.S.I.) Challenge, students acquire skills such as research, information literacy, report writing and video making.</p>
 
-<p>In the debate wing, our emphasis is on articulate and persuasive communication. Each session exposes us to new ideas and issues, expanding our minds as we analyze different viewpoints, proposed solutions, and ethical principles. Our debaters participate in prestigious competitions like the Singapore Secondary School Debating Competition (SSSDC) and the Raffles Institution U14s Debating Competition. Additionally, we engage in friendly debates with other schools, providing valuable opportunities for our members to enhance their language skills and critical thinking abilities through spirited discourse. </p>
+<p>Serving the school community, club members aim to cultivate a strong reading culture through book sharing sessions during morning assembly. They contribute to resource acquisition by reviewing books and create publicity materials using digital tools. Through community programmes such as NLB KidsREAD, members serve as reading mentors to younger children, developing empathy and leadership. </p>
+
+<p>Together, the club nurtures confident communicators, thoughtful readers and socially responsible learners.</p>
 
 <table>
 	<tbody>
@@ -55,7 +57,7 @@ tr:hover {background-color: #F5F5DC;}
 	 	</tr>
 <tr>
 	<td rowspan="1">Training Venue</td>
- <td rowspan="1">Humanities Room</td>
+ <td rowspan="1">Humanities Room 1 &amp; 2</td>
 	</tr>
 </tbody>
 </table>
