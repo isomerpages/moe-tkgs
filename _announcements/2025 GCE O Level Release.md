@@ -1,13 +1,13 @@
 ---
-title: 2024 GCE O Level Release
-permalink: /2024-o-level-announcement/
+title: 2025 GCE O Level Release
+permalink: /o-level-announcement/
 variant: markdown
 description: ""
 ---
 <h2>Instructions for Students/Parents</h2>
 <ol>
-	<li>The 2024 Secondary 4 batch of students are to report to the <b>School Hall</b> from <b>1.30pm</b>.</li>
-	<li>All students must be in proper school uniform with proper shoes and seated in the hall by <b>2.00pm.</b></li>
+	<li>The 2025 Secondary 4 batch of students are to report to the <b>School Hall</b> from <b>1.00pm</b>.</li>
+	<li>All students must be in proper school uniform with proper shoes and seated in the hall by <b>1.30pm.</b></li>
 	<li>Proper appearance: Standard school rules apply (i.e. no coloured hair, accessories)</li>
 	<li>Students who do not meet the expected appearance and attire may be turned away. </li>
 	<li>We request that only <b>two</b> parents/guardians accompany your daughter/ward to collect their results.</li>

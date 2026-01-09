@@ -36,8 +36,12 @@ tr:hover {background-color: #F5F5DC;}
  <td><a target="" href="mailto:siti_munira_haidad_ali@moe.edu.sg">siti_munira_haidad_ali@moe.edu.sg</a></td>
 	 	</tr>
 <tr>
-	<td rowspan="1">Mr Indra Yu Jun Qi</td>
- <td><a target="" href="mailto:indra_yu_jun_qi@moe.edu.sg">indra_yu_jun_qi@moe.edu.sg</a></td>
+	<td rowspan="1">Ms Huang Kaiting Rachel</td>
+ <td><a target="" href="mailto:huang_kaiting_rachel@moe.edu.sg">huang_kaiting_rachel@moe.edu.sg</a></td>
+	 	</tr>
+		<tr>
+	<td rowspan="1">Mdm Jenny Lim</td>
+ <td><a target="" href="mailto:lim_boo_poh_mui@moe.edu.sg">lim_boo_poh_mui@moe.edu.sg</a></td>
 	 	</tr>
 	</tbody>
 </table>

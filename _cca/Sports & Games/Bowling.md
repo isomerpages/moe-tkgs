@@ -29,13 +29,13 @@ tr:hover {background-color: #F5F5DC;}
 			<th colspan="1">Teacher-in-Charge</th>
 </tr>
 		<tr>
-	<td rowspan="1">Mrs Tan Woei Ling</td>
- <td><a target="" href="mailto:wong_woei_ling@moe.edu.sg">wong_woei_ling@moe.edu.sg</a></td>
-	 	</tr>
-<tr>
 	<td rowspan="1">Ms Tan Siew Hoon</td>
  <td><a target="" href="mailto:tan_siew_hoon_a@moe.edu.sg">tan_siew_hoon_a@moe.edu.sg</a></td>
 	</tr>
+		<tr>
+	<td rowspan="1">Ms Tong Ai Li</td>
+ <td><a target="" href="mailto:tong_ai_li@moe.edu.sg">tong_ai_li@moe.edu.sg</a></td>
+	 	</tr>
 </tbody>
 </table>
 <table>

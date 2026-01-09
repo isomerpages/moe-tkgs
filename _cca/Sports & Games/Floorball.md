@@ -22,25 +22,25 @@ tr:hover {background-color: #F5F5DC;}
 
 <img src="/images/CCA/Floorball/Floorball_May25.gif">
 
-<p>United by a shared passion and determination, our 'C' and 'B' Division Floorball teams have excelled in recent years and are ranked among the top teams in the National School Games. This is a testament to their exceptional skills and teamwork.</p>
+<p>Our Floorball teams are defined by their competitive drive and unity. In recent years, they have secured their place among the top schools in the National School Games, a result of their relentless effort and commitment to training rather than talent alone.
 
-<p>They have also consistently overcome challenges in the process of achieving remarkable success. Despite facing obstacles, they have used adversity as a catalyst for growth and improvement. </p>
+However, our focus goes beyond match results. We teach our players to stay composed under pressure and view difficulties as necessary steps for development. They have learned that true growth comes from facing obstacles head-on and adapting when things get tough.
 
-<p>As we look to the future, our teams remain dedicated to surpassing their previous achievements. Their journey is a reflection of the power of perseverance, collaboration, and a never-give-up spirit.</p> 
+Looking ahead, we aim to push our boundaries even further. We remain dedicated to surpassing our previous bests, fostering a culture where players fight for every ball and support one another until the final whistle.</p> 
 
 <table>
 	<tbody>
 		<tr>
 			<th colspan="1">Teacher-in-Charge</th>
 </tr>
+	<tr>
+	<td rowspan="1">Mdm Adela Chee</td>
+ <td><a target="" href="mailto:chee_kwek_khuen_adela@moe.edu.sg">chee_kwek_khuen_adela@moe.edu.sg</a></td>
+	</tr>
 		<tr>
 	<td rowspan="1">Mr Abdul Mutalib</td>
  <td><a target="" href="mailto:abdul_mutalib_khan@moe.edu.sg">abdul_mutalib_khan@moe.edu.sg</a></td>
 	 	</tr>
-<tr>
-	<td rowspan="1">Ms Siti Aisha Abdul Aziz</td>
- <td><a target="" href="mailto:siti_aisha_abdul_aziz@moe.edu.sg">siti_aisha_abdul_aziz@moe.edu.sg</a></td>
-	</tr>
 </tbody>
 </table>
 <table>

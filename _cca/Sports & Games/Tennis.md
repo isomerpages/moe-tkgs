@@ -31,12 +31,12 @@ tr:hover {background-color: #F5F5DC;}
 			<th colspan="1">Teacher-in-Charge</th>
 </tr>
 			<tr>
-	<td rowspan="1">Ms Tong Liying</td>
- <td><a target="" href="mailto:tong_liying@moe.edu.sg">tong_liying@moe.edu.sg</a></td>
+	<td rowspan="1">Mdm Yante Yahya</td>
+ <td><a target="" href="mailto:yante_yahya@moe.edu.sg">yante_yahya@moe.edu.sg</a></td>
 	 	</tr>
 <tr>
-	<td rowspan="1">Ms Siti Ainun Mardhiah Binte Mohsin </td>
- <td><a target="" href="mailto:siti_ainun_mardhiah_mohsin@moe.edu.sg">siti_ainun_mardhiah_mohsin@moe.edu.sg</a></td>
+	<td rowspan="1">Mr Li Youjie, Jack </td>
+ <td><a target="" href="mailto:li_youjie@moe.edu.sg">li_youjie@moe.edu.sg</a></td>
 	 	</tr>
 </tbody>
 </table>

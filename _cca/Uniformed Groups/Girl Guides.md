@@ -43,6 +43,10 @@ tr:hover {background-color: #F5F5DC;}
 	<td rowspan="1">Mdm Lee Yee Na, Serena</td>
  <td><a target="" href="mailto:lee_yee_na_serena@moe.edu.sg">lee_yee_na_serena@moe.edu.sg</a></td>
 	</tr>
+			<tr>
+	<td rowspan="1">Ms Kalyani Ravindharan</td>
+ <td><a target="" href="mailto:kalyani_ravindharan@moe.edu.sg">kalyani_ravindharan@moe.edu.sg</a></td>
+	</tr>
 	</tbody>
 </table>
 <table>

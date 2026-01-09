@@ -30,12 +30,16 @@ tr:hover {background-color: #F5F5DC;}
 			<th colspan="1">Teacher-in-Charge</th>
 </tr>
 		<tr>
+	<td rowspan="1">Mrs Lee-Ng Suan Ching</td>
+ <td><a target="" href="mailto:ng_suan_ching@moe.edu.sg">ng_suan_ching@moe.edu.sg</a></td>
+	 	</tr>
+		<tr>
 	<td rowspan="1">Mrs Sng-Tang Yilin</td>
  <td><a target="" href="mailto:tang_yilin@moe.edu.sg">tang_yilin@moe.edu.sg</a></td>
 	 	</tr>
 <tr>
-	<td rowspan="1">Mr Ganesh Issardas Udasi</td>
- <td><a target="" href="mailto:ganesh_issardas_udasi@moe.edu.sg">ganesh_issardas_udasi@moe.edu.sg</a></td>
+	<td rowspan="1">Mdm Wong Pui Leng</td>
+ <td><a target="" href="mailto:wong_pui_leng@moe.edu.sg">wong_pui_leng@moe.edu.sg</a></td>
 	 	</tr>
 	</tbody>
 </table>
