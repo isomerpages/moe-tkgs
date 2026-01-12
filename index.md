@@ -12,10 +12,13 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/
-        - title: Secondary One Admission
-          description: ""
-          url: /resources/admission/sec-1-admission/
       variant: center
+  - infobar:
+      title: Release of 2025 GCE O-Level Results
+      id: infobar
+      description: 2025 GCE O-Level results will be released on 14 January 2026.
+      button: Click Here for more details
+      url: announcements/o-level-announcement/
   - infopic:
       title: TKGS e-Prospectus
       id: infopic
@@ -44,10 +47,4 @@ sections:
       url: https://online.fliphtml5.com/imxpa/llbw/#p=1
       image: /images/Resources/Yearbook/2025YB.png
       alt: Yearbook2024
-  - infobar:
-      title: Release of 2025 GCE O-Level Results
-      id: infobar
-      description: 2025 GCE O-Level results will be released on 14 January 2026.
-      button: Click Here for more details
-      url: announcements/o-level-announcement/
 ---
