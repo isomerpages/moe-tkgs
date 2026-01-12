@@ -65,8 +65,7 @@ You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education">here</a>&
 		</tr>
 			<tr>
 	<td style="vertical-align: middle;">More than Meets the Eye<br>Lesson 3</td>
-				<td style="vertical-align: middle;">This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours.<br><br>
-<i><b>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</b></i>
+				<td style="vertical-align: middle;">This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours.
 </td>
 				<td style="text-align: left;"><li>understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences <br></li>
 <li>recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</li>
