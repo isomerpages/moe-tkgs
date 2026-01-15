@@ -2,6 +2,7 @@ collections:
   tkgs-sparkling-moments:
     output: true
     order:
+      - 2026.md
       - 2025.md
       - 2024.md
       - 2023.md
