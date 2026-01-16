@@ -38,13 +38,13 @@ sections:
       title: TKGS Sparkling Moments
       button: More
   - infopic:
-      title: Yearbook 2024
+      title: Yearbook 2025
       id: infopic
-      description: Our Yearbook 2024 is hot off the press! As 2024 comes to a close,
+      description: Our Yearbook 2025 is hot off the press! As 2025 comes to a close,
         relive the treasured memories and sparkling moments that made this year
         so special for us.
       button: Click here to read
-      url: https://online.fliphtml5.com/imxpa/llbw/#p=1
-      image: /images/Resources/Yearbook/2025YB.png
-      alt: Yearbook2024
+      url: https://online.fliphtml5.com/imxpa/oubp/
+      image: /images/Resources/Yearbook/2026YB.png
+      alt: Yearbook2025
 ---

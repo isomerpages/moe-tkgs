@@ -4,6 +4,10 @@ permalink: /resources/yearbook/
 description: ""
 variant: markdown
 ---
+<a href="https://online.fliphtml5.com/imxpa/oubp/"><img style="width: 80%;" src="/images/Resources/Yearbook/2026YB.png"></a>
+<p style="text-align: center;"><strong>Yearbook 2025</strong><br>Click&nbsp;<a href="https://online.fliphtml5.com/imxpa/oubp/" target="_blank" rel="noopener">here</a>&nbsp;to view</p>
+<br>
+
 <a href="https://online.fliphtml5.com/imxpa/llbw/#p=1"><img style="width: 80%;" src="/images/Resources/Yearbook/2025YB.png"></a>
 <p style="text-align: center;"><strong>Yearbook 2024</strong><br>Click&nbsp;<a href="https://online.fliphtml5.com/imxpa/llbw/#p=1" target="_blank" rel="noopener">here</a>&nbsp;to view</p>
 <br>
