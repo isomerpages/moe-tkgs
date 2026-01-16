@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-<h3><strong>A Sparkling and Emotional Celebration of Class of 2025: O Level Results Release</strong></h3>
+<h3><strong>A Sparkling and Emotional Celebration: O-Level Results Release for the Class of 2025</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Sparkling_Moment/2026/OL25_Hero.png">
 </div>
