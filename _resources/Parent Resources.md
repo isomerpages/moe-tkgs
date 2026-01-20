@@ -40,7 +40,7 @@ variant: markdown
 <table style="margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
-<th style="text-align: center;" colspan="6">Sec 3</th>
+<th style="text-align: center;" colspan="7">Sec 3</th>
 </tr>
 <tr>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1TkzsDBBY4aTcBhi40qHSkY1ZziiKcy26/view?usp=sharing" target="_blank" rel="noopener">3 Resilience (3R1)</a></td>
@@ -49,6 +49,7 @@ variant: markdown
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/13RG8npfP9R8a3-GHxHbGdO1qIy13wPbr/view?usp=sharing" target="_blank" rel="noopener">3 Humility (3H4)</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1tJaGftUFv0JJzzkK-3BbmrrDrBwvAyEC/view?usp=sharing" target="_blank" rel="noopener">3 Sincerity (3S5)</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/19Uczz3ef3OK4TdnbhO5rRgc4lmtG39oG/view?usp=sharing" target="_blank" rel="noopener">3 Respect (3R6)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1eQE7Bs5XhJlwVPTP4wwfxDB-IKwgEwk8/view?usp=sharing" target="_blank" rel="noopener">3 Gratitude (3G7)</a></td>
 </tr>
 </tbody>
 </table>
