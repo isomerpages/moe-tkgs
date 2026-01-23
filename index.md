@@ -22,9 +22,9 @@ sections:
   - infopic:
       title: Yearbook 2025
       id: infopic
-      description: Our Yearbook 2025 is hot off the press! As 2025 comes to a close,
-        relive the treasured memories and sparkling moments that made this year
-        so special for us.
+      description: Our 2025 Yearbook has officially land! Take a trip down memory lane
+        and celebrate the big wins, the laughs, and everything in between on our
+        Aurora Odyssey.
       button: Click here to read
       url: https://online.fliphtml5.com/imxpa/oubp/
       image: /images/Resources/Yearbook/2026YB.png
