@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Library Board.md
+      - Sparkling Moments/2023.md
       - Sparkling Moments/2022.md
       - Sparkling Moments/2021.md
       - Sparkling Moments/.keep
