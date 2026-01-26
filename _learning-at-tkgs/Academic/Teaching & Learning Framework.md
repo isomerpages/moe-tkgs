@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Academic
 ---
-<h4><strong>The TKGS Teaching and Learning Framework</strong></h4>
+<h4><strong>TKGS Teaching and Learning Framework</strong></h4>
 <p>Our Teaching and Learning Framework is a roadmap that helps our teachers work towards a shared vision for TKGians. Like the lamp – a symbol of learning and curiosity – the TKGS approach to teaching and learning illuminates the path to developing inquisitive learners who are eager to discover and grow. It connects why, what, and how we teach, ensuring every teacher understands how they help our TKGians grow as a whole person.</p>
 
 <b>What Our Students Learn</b>
