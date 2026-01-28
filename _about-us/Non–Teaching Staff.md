@@ -249,14 +249,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tang Yuin Kay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior School Counsellor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Shaikhah Bte Rubangin</p>
 </td>
 <td rowspan="1" colspan="1">
