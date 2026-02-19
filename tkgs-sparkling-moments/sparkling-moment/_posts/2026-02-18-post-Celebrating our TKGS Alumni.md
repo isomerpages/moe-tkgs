@@ -7,7 +7,6 @@ description: ""
 image: ""
 variant: markdown
 ---
-<h3><strong>Celebrating our TKGS Alumni</strong></h3>
 <p>From time to time, our school receives news of how our students are doing in their post-secondary endeavours. It fills us with joy, knowing that they are doing well beyond the walls of TKGS and that we have played a part in their scholastic journey.</p>
 
 <p>Please join us in congratulating the following TKGS Alumni on their notable achievements!</p>
