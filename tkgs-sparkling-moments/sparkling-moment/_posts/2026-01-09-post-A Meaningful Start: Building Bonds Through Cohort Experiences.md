@@ -29,4 +29,4 @@ variant: markdown
 
 <img src="/images/Sparkling_Moment/2026/CE26_2.png">
 
-<p align="right"><i>Story contributed by Rochelle Tan Hui (3C3) and Ry’Anna Sembiring (3C3)</i></p>
+<p align="right"><i>Story contributed by Isabelle Tan (4R1), Jovianne Lim (4H4), Ashalina (3H4), Arissa Winata (3C3) and Cynthia (2S5) from The Literary Arts Club</i></p>
