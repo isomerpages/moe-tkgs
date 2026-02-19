@@ -1,5 +1,5 @@
 ---
-title: Celebrating our TKGS Alumni
+title: Celebrating our TKGS Alumni 2025
 permalink: /celebrating-our-tkgs-alumni/
 date: 2025-11-20
 layout: post
