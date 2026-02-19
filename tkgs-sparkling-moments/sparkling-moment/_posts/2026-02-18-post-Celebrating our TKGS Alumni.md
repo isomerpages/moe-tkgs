@@ -29,11 +29,11 @@ variant: markdown
 		</th>
 		</tr>
 		<tr>
-<td>
-	Istat Yuldosheva
+			<td>
+				Istat Yuldosheva
 </td>
 <td>
-	2021
+	2024
 </td>
 <td>
 Anglo-Chinese Junior College
@@ -44,10 +44,10 @@ Dr A.P. Chen – ACJC Arts Scholarship
 </tr>
 		<tr>
 <td>
-HAYLEY QUEK JIA XUAN 
+Hayley Quek Jia Xuan
 </td>
 <td>
-	2021
+	2023
 </td>
 <td>
 Anglo-Chinese Junior College
@@ -61,7 +61,7 @@ Scholastic Merit Awardees for the 2024 GCE A-Level Examination
 NALINRAT DEERATANASRIKUL
 </td>
 <td>
-	2021
+	2024
 </td>
 <td>
 Anglo-Chinese Junior College
