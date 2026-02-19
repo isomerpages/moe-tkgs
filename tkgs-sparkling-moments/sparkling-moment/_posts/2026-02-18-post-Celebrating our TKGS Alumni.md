@@ -28,21 +28,7 @@ variant: markdown
 			Achievements
 		</th>
 		</tr>
-		<tr>
-			<td>
-				Istat Yuldosheva
-</td>
-<td>
-	2024
-</td>
-<td>
-Anglo-Chinese Junior College
-</td>
-<td>
-Dr A.P. Chen – ACJC Arts Scholarship
-</td>
-</tr>
-		<tr>
+			<tr>
 <td>
 Hayley Quek Jia Xuan
 </td>
@@ -57,6 +43,20 @@ Scholastic Merit Awardees for the 2024 GCE A-Level Examination
 </td>
 </tr>
 		<tr>
+			<td>
+				Istat Yuldosheva
+</td>
+<td>
+	2024
+</td>
+<td>
+Anglo-Chinese Junior College
+</td>
+<td>
+Dr A.P. Chen – ACJC Arts Scholarship
+</td>
+</tr>
+	 <tr>
 			<td>
 Nalinrat Deeratanasrikul
 </td>
