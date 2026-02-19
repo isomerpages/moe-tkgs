@@ -23,7 +23,7 @@ variant: markdown
 
 <p>'Personally, bouldering was challenging as I had to overcome my limitations, but the motivation of reaching the top gave me great satisfaction,' reflects Raeann Loke (4H4).</p>
  
-<p>'Being an Orientation Group Leader to Sec 1s was very rewarding. It was amazing to see the potential prefects step up, showing their leadership qualities,' reminisced Janelle Pang (4R1), Prefectorial Board Executive Committee (PB EXCO), Head of Secretariat.</p>
+<p>'Being an OGL to Sec 1s was very rewarding. It was amazing to see the potential prefects step up, showing their leadership qualities,' reminisced Janelle Pang (4R1), Prefectorial Board Executive Committee (PB EXCO), Head of Secretariat.</p>
 
 <p>The week ended with the long-awaited campfire, where students sang and danced under the stars, embodying their hard work and camaraderie. The cohort experience was truly a memorable and meaningful start to the school year.</p>
 
