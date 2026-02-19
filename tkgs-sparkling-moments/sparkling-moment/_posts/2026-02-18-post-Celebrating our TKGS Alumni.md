@@ -58,7 +58,7 @@ Scholastic Merit Awardees for the 2024 GCE A-Level Examination
 </tr>
 		<tr>
 			<td>
-NALINRAT DEERATANASRIKUL
+Nalinrat Deeratanasrikul
 </td>
 <td>
 	2024
