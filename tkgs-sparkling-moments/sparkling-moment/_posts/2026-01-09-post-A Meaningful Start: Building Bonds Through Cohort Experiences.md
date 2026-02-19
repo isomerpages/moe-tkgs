@@ -23,10 +23,10 @@ variant: markdown
 
 <p>'Personally, bouldering was challenging as I had to overcome my limitations, but the motivation of reaching the top gave me great satisfaction,' reflects Raeann Loke (4H4).</p>
  
+ <img src="/images/Sparkling_Moment/2026/CE26_2.png">
+ 
 <p>'Being an OGL to Sec 1s was very rewarding. It was amazing to see the potential prefects step up, showing their leadership qualities,' reminisced Janelle Pang (4R1), Prefectorial Board Executive Committee (PB EXCO), Head of Secretariat.</p>
 
 <p>The week ended with the long-awaited campfire, where students sang and danced under the stars, embodying their hard work and camaraderie. The cohort experience was truly a memorable and meaningful start to the school year.</p>
-
-<img src="/images/Sparkling_Moment/2026/CE26_2.png">
 
 <p align="right"><i>Story contributed by Isabelle Tan (4R1), Jovianne Lim (4H4), Ashalina (3H4), Arissa Winata (3C3) and Cynthia (2S5) from The Literary Arts Club</i></p>
