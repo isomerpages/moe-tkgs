@@ -129,14 +129,6 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Rohayah Bte Sarpin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer (Laboratory)</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="2">
 <p><strong>Operations Staff</strong>
 </p>
@@ -217,14 +209,6 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer (NCS DE)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Nurhayat Bin Zaine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AV Specialist</p>
 </td>
 </tr>
 <tr>

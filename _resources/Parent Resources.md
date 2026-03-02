@@ -11,13 +11,13 @@ variant: markdown
 <th style="text-align: center;" colspan="7">Sec 1</th>
 </tr>
 <tr>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1MddTF6kFMZDGSTuwUmab9wNOI7e3m3Z-/view?usp=sharing" target="_blank" rel="noopener">1 Resilience (1R1)</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1VDLhw7oTGlQsSqZMdRosmo1oKp10ivsv/view?usp=sharing" target="_blank" rel="noopener">1 Integrity (1I2)</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/18dPD3q3B-e61EAaNrppLSQhmlNwacaOv/view?usp=sharing" target="_blank" rel="noopener">1 Compassion (1C3)</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1EPess1p0mujp2OcM0wu77aRNFl1-6UYS/view?usp=sharing" target="_blank" rel="noopener">1 Humility (1H4)</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1TcYPj4LAioPTayRs6tiF_PIU5Gypy7CD/view?usp=sharing" target="_blank" rel="noopener">1 Sincerity (1S5)</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1WRqxu5nd_uwmwCqqZeFtBUVQUtvqsdrv/view?usp=sharing" target="_blank" rel="noopener">1 Respect (1R6)</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1bTqIsW4qusOBrKfn1o52Vv7WW0zqCsso/view?usp=sharing" target="_blank" rel="noopener">1 Gratitude (1G7)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/1sL3iBgdNrr3PK8Btc_gx7dwtr6TnTd4U?usp=sharing" target="_blank" rel="noopener">1 Resilience (1R1)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/1sL3iBgdNrr3PK8Btc_gx7dwtr6TnTd4U?usp=sharing" target="_blank" rel="noopener">1 Integrity (1I2)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/1sL3iBgdNrr3PK8Btc_gx7dwtr6TnTd4U?usp=sharing" target="_blank" rel="noopener">1 Compassion (1C3)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/1sL3iBgdNrr3PK8Btc_gx7dwtr6TnTd4U?usp=sharing" target="_blank" rel="noopener">1 Humility (1H4)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/1sL3iBgdNrr3PK8Btc_gx7dwtr6TnTd4U?usp=sharing" target="_blank" rel="noopener">1 Sincerity (1S5)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/1sL3iBgdNrr3PK8Btc_gx7dwtr6TnTd4U?usp=sharing" target="_blank" rel="noopener">1 Respect (1R6)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/1sL3iBgdNrr3PK8Btc_gx7dwtr6TnTd4U?usp=sharing" target="_blank" rel="noopener">1 Gratitude (1G7)</a></td>
 </tr>
 </tbody>
 </table>
@@ -27,13 +27,13 @@ variant: markdown
 <th style="text-align: center;" colspan="7">Sec 2</th>
 </tr>
 <tr>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/11DZI9jdT2gAAMoJyjKyRpZtrJaLBosM_/view?usp=sharing" target="_blank" rel="noopener">2 Resilience (2R1)</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1wDhSqwJWBT-ziCIJciokKT2SUblwalym/view?usp=sharing" target="_blank" rel="noopener">2 Integrity (2I2)</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1sVUlQDBGKobWMW12MCi1PALxuMViinl5/view?usp=sharing" target="_blank" rel="noopener">2 Compassion (2C3)</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1tKoIR7l33heiLfHdI_sTXbLzwf3gJE1M/view?usp=sharing" target="_blank" rel="noopener">2 Humility (2H4)</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/19ABMbJ43I7mi5Lw76FZPYv3i8OPdFOMH/view?usp=sharing" target="_blank" rel="noopener">2 Sincerity (2S5)</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/17Nw8Cki-OORbPI9owc8vRShw-VVqBj2K/view?usp=sharing" target="_blank" rel="noopener">2 Respect (2R6)</a></td>
-	<td style="text-align: center;"><a href="https://drive.google.com/file/d/1R1DLy9WSuKrsybdN7KzLEjXOAUl_5y5e/view?usp=sharing" target="_blank" rel="noopener">2 Gratitude (2G7)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/1poAPfLgMbRho6ezX38agxqtDBCKZyRSi?usp=sharing" target="_blank" rel="noopener">2 Resilience (2R1)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/1poAPfLgMbRho6ezX38agxqtDBCKZyRSi?usp=sharing" target="_blank" rel="noopener">2 Integrity (2I2)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/1poAPfLgMbRho6ezX38agxqtDBCKZyRSi?usp=sharing" target="_blank" rel="noopener">2 Compassion (2C3)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/1poAPfLgMbRho6ezX38agxqtDBCKZyRSi?usp=sharing" target="_blank" rel="noopener">2 Humility (2H4)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/1poAPfLgMbRho6ezX38agxqtDBCKZyRSi?usp=sharing" target="_blank" rel="noopener">2 Sincerity (2S5)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/1poAPfLgMbRho6ezX38agxqtDBCKZyRSi?usp=sharing" target="_blank" rel="noopener">2 Respect (2R6)</a></td>
+	<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/1poAPfLgMbRho6ezX38agxqtDBCKZyRSi?usp=sharing" target="_blank" rel="noopener">2 Gratitude (2G7)</a></td>
 </tr>
 </tbody>
 </table>
@@ -43,13 +43,13 @@ variant: markdown
 <th style="text-align: center;" colspan="7">Sec 3</th>
 </tr>
 <tr>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1TkzsDBBY4aTcBhi40qHSkY1ZziiKcy26/view?usp=sharing" target="_blank" rel="noopener">3 Resilience (3R1)</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/13tB6_7mHov1E2oqhlfrr55lXcCLmGuVg/view?usp=sharing" target="_blank" rel="noopener">3 Integrity (3I2)</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1EHr9sZa6F11vIJsuPDtVyCKSpa1eXVA5/view?usp=sharing" target="_blank" rel="noopener">3 Compassion (3C3)</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/13RG8npfP9R8a3-GHxHbGdO1qIy13wPbr/view?usp=sharing" target="_blank" rel="noopener">3 Humility (3H4)</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1tJaGftUFv0JJzzkK-3BbmrrDrBwvAyEC/view?usp=sharing" target="_blank" rel="noopener">3 Sincerity (3S5)</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/19Uczz3ef3OK4TdnbhO5rRgc4lmtG39oG/view?usp=sharing" target="_blank" rel="noopener">3 Respect (3R6)</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1eQE7Bs5XhJlwVPTP4wwfxDB-IKwgEwk8/view?usp=sharing" target="_blank" rel="noopener">3 Gratitude (3G7)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/103vYUswi8mbwNc7kkqPxv967X5piIzt0?usp=sharing" target="_blank" rel="noopener">3 Resilience (3R1)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/103vYUswi8mbwNc7kkqPxv967X5piIzt0?usp=sharing" target="_blank" rel="noopener">3 Integrity (3I2)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/103vYUswi8mbwNc7kkqPxv967X5piIzt0?usp=sharing" target="_blank" rel="noopener">3 Compassion (3C3)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/103vYUswi8mbwNc7kkqPxv967X5piIzt0?usp=sharing" target="_blank" rel="noopener">3 Humility (3H4)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/103vYUswi8mbwNc7kkqPxv967X5piIzt0?usp=sharing" target="_blank" rel="noopener">3 Sincerity (3S5)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/103vYUswi8mbwNc7kkqPxv967X5piIzt0?usp=sharing" target="_blank" rel="noopener">3 Respect (3R6)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/103vYUswi8mbwNc7kkqPxv967X5piIzt0?usp=sharing" target="_blank" rel="noopener">3 Gratitude (3G7)</a></td>
 </tr>
 </tbody>
 </table>
@@ -59,12 +59,12 @@ variant: markdown
 <th style="text-align: center;" colspan="6">Sec 4</th>
 </tr>
 <tr>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1y3CYueKcUHViVoGfkc8Un6GcfdwWZJBq/view?usp=sharing" target="_blank" rel="noopener">4 Resilience (4R1)</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1_ro04wqG8T-P6UmpDJX3FaeTbJGFNltv/view?usp=sharing" target="_blank" rel="noopener">4 Integrity (4I2)</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1AbzGixrieZjxlp5890GDPVM220ubW79j/view?usp=sharing" target="_blank" rel="noopener">4 Compassion (4C3)</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/15fcbcDw4W1zTzqIlxLZdmJq3lwKjXtEB/view?usp=sharing" target="_blank" rel="noopener">4 Humility (4H4)</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1i4oM8CBOhD2Q4VltL9bIPtN9cGabTlml/view?usp=sharing" target="_blank" rel="noopener">4 Sincerity (4S5)</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1bXb24QjjFNJVcDntCb3BP14ep6FiT30V/view?usp=sharing" target="_blank" rel="noopener">4 Respect (4R6)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/1Pu3FtRbQkV_h18YykJF9yZzbxx6KMfn8?usp=sharing" target="_blank" rel="noopener">4 Resilience (4R1)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/1Pu3FtRbQkV_h18YykJF9yZzbxx6KMfn8?usp=sharing" target="_blank" rel="noopener">4 Integrity (4I2)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/1Pu3FtRbQkV_h18YykJF9yZzbxx6KMfn8?usp=sharing" target="_blank" rel="noopener">4 Compassion (4C3)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/1Pu3FtRbQkV_h18YykJF9yZzbxx6KMfn8?usp=sharing" target="_blank" rel="noopener">4 Humility (4H4)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/1Pu3FtRbQkV_h18YykJF9yZzbxx6KMfn8?usp=sharing" target="_blank" rel="noopener">4 Sincerity (4S5)</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/1Pu3FtRbQkV_h18YykJF9yZzbxx6KMfn8?usp=sharing" target="_blank" rel="noopener">4 Respect (4R6)</a></td>
 </tr>
 </tbody>
 </table>
