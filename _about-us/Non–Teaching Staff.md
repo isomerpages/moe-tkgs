@@ -158,14 +158,6 @@ variant: markdown
 <p>Operations Support Officer</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Yeo Joo Quee, James</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-</tr>
 	<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Bee Theng, Irene </p>
