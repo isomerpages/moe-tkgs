@@ -17,10 +17,6 @@ variant: markdown
 	<td style="text-align: center;"><strong>Ms <u>Chew</u> Ing Lim</strong></td>
 <td style="text-align: center;"><strong>Principal</strong></td>
 </tr>
-<tr>
-	<td style="text-align: center;"><strong>Ms <u>Xu</u> Wanjing&nbsp;</strong></td>
-<td style="text-align: center;">&nbsp;<strong>Vice-Principal (Curriculum)</strong></td>
-</tr>
 	<tr>
 	<td style="text-align: center;"><strong>Ms <u>Wang</u> Siew Ping</strong></td>
 <td style="text-align: center;">&nbsp;<strong>Vice-Principal (Curriculum)</strong></td>
