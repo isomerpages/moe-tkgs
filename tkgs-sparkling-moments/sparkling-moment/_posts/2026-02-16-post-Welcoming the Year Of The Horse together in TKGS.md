@@ -16,7 +16,7 @@ The Chinese New Year class decoration competition also brought classmates closer
 
 After the reunion breakfast, students took part in a Chinese calligraphy activity where they explored the art of writing auspicious words and phrases. Many followed the tutorials carefully and proudly showed their completed works to their friends. Laughter filled the classroom as students compared their creations with one another. The activity also allowed students to bring home their calligraphy pieces as a meaningful keepsake from the celebration.
 
-<img src="/images/Sparkling_Moment/2026/CNY26_2.png">
+<img src="/images/Sparkling_Moment/2026/CNY26_1.png">
 
 The hall programme began with a dynamic performance by the Symphonic Band accompanied by the guzheng. This was followed by an electrifying wushu demonstration and a live Chinese calligraphy showcase, which captivated the audience with its powerful movements and artistry. Students also enjoyed an engaging Chinese opera performance, where some were invited on stage to learn a few dance movements.
 
