@@ -195,12 +195,21 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer (NCS DE)</p>
 </td>
-	</tr><tr>
+	</tr>
+	<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Nurfarhana Binti Rusdi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer (NCS DE)</p>
+</td>
+</tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Rabitah Adawiyya Binte Mohamed Rizal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AV Specialist</p>
 </td>
 </tr>
 <tr>
