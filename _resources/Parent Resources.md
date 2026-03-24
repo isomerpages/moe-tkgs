@@ -23,7 +23,7 @@ variant: markdown
 	</tr>
 	<tr>
 	<td style="vertical-align: middle;">Secondary 3</td>
-	<td>3 Resilience (3R1)<br>3 Integrity (3I2)<br>3 Compassion (3C3)<br>3 Humility (3H4)<br>2 Sincerity (3S5)<br>2 Respect (3R6)<br>2 Gratitude (3G7)</td>
+	<td>3 Resilience (3R1)<br>3 Integrity (3I2)<br>3 Compassion (3C3)<br>3 Humility (3H4)<br>3 Sincerity (3S5)<br>3 Respect (3R6)<br>3 Gratitude (3G7)</td>
 	<td style="vertical-align: middle;"><a href="https://drive.google.com/drive/folders/103vYUswi8mbwNc7kkqPxv967X5piIzt0?usp=sharing" target="_blank" rel="noopener">Click Here</a></td>
 	</tr>
 <tr>
