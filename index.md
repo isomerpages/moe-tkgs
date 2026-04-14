@@ -16,9 +16,9 @@ sections:
   - infopic:
       title: Yearbook 2025
       id: infopic
-      description: Our 2025 Yearbook has officially land! Take a trip down memory lane
-        and celebrate the big wins, the laughs, and everything in between on our
-        Aurora Odyssey.
+      description: Our 2025 Yearbook has officially landed! Take a trip down memory
+        lane and celebrate the big wins, the laughs, and everything in between
+        on our Aurora Odyssey.
       button: Click here to read
       url: https://online.fliphtml5.com/imxpa/oubp/
       image: /images/Resources/Yearbook/2026YB.png
