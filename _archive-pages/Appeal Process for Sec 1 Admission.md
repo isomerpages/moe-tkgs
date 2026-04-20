@@ -2,7 +2,6 @@
 title: Appeal Process for Sec 1 Admission
 permalink: /resources/admission/appeal-process-for-sec-1-admission/
 description: ""
-third_nav_title: Admission
 variant: markdown
 ---
 <p><strong><u>APPEAL FOR ADMISSION TO TKGS – SEC 1 2026</u></strong>
