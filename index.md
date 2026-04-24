@@ -28,6 +28,7 @@ sections:
       button: Click here to purchase tickets
       image: /images/Hompage/Infopic/Screenshot_2026_04_24_095119.png
       url: https://www.sistic.com.sg/events/donatkgs0526
+      alt: limelight2026
   - infopic:
       title: Yearbook 2025
       id: infopic
