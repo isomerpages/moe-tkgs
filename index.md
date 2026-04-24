@@ -21,6 +21,13 @@ sections:
       button: Click here to purchase tickets
       url: https://www.sistic.com.sg/events/donatkgs0526
   - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: Yearbook 2025
       id: infopic
       description: Our 2025 Yearbook has officially landed! Take a trip down memory
