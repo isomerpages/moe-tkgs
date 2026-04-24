@@ -13,6 +13,13 @@ sections:
           description: ""
           url: /useful-links/
       variant: center
+  - infobar:
+      title: Limelight 2026
+      id: infobar
+      description: An inspiring evening of music by the TKGS Symphonic Band
+        celebrating growth, resilience and community.
+      button: Click here to purchase tickets
+      url: https://www.sistic.com.sg/events/donatkgs0526
   - infopic:
       title: Yearbook 2025
       id: infopic
