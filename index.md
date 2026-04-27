@@ -16,9 +16,9 @@ sections:
   - infopic:
       title: Limelight 2026
       id: infopic
-      description: An inspiring evening of music by the TKGS Symphonic Band,
-        celebrating growth, resilience and community. Esplanade Concert Hall |
-        21 May (Thu) | 7:30pm
+      description: Come join our TKGS Symphonic Band for Limelight, as they bring to
+        you a selection of works, celebrating the musical journey of our student
+        musicians!
       button: Click here to purchase tickets
       image: /images/Hompage/Infopic/Screenshot_2026_04_24_095119.png
       url: https://www.sistic.com.sg/events/donatkgs0526
