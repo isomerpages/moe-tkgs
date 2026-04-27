@@ -14,6 +14,16 @@ sections:
           url: /useful-links/
       variant: center
   - infopic:
+      title: Limelight 2026
+      id: infopic
+      description: Come join our TKGS Symphonic Band for Limelight, as they bring to
+        you a selection of works, celebrating the musical journey of our student
+        musicians!
+      button: Click here to purchase tickets
+      image: /images/Hompage/Infopic/Screenshot_2026_04_24_095119.png
+      url: https://www.sistic.com.sg/events/donatkgs0526
+      alt: limelight2026
+  - infopic:
       title: Yearbook 2025
       id: infopic
       description: Our 2025 Yearbook has officially landed! Take a trip down memory
