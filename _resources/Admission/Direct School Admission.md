@@ -47,12 +47,12 @@ Students will be assessed on:<br><br>
 			<td style="vertical-align: middle">Symphonic Band</td>
 			<td>Students should preferably have relevant experience such as:<br><br>
 •&nbsp;&nbsp;&nbsp;Being an active member of the Band or any music CCA in Primary School, and/ or<br>
-•&nbsp;&nbsp;&nbsp;Any other musical experiences outside of school<br><br>
+•&nbsp;&nbsp;&nbsp;Play any of the following instruments: Flute, Oboe, Bassoon, Clarinet, Saxophone, Trumpet, French Horn, Trombone, Euphonium, Tuba, String Bass or symphonic band percussion instruments (snare drum, timpani and mallet percussion such as xylophone, marimba, glockenspiel)<br><br>
 Shortlisted students will be assessed on:<br><br>
-1. &nbsp;&nbsp;&nbsp;2 contrasting pieces of the student’s choice (upload one PDF file containing both scores and email the online link. At least 1 week before audition)<br>
-2. &nbsp;&nbsp;&nbsp; Instrumental technique (including scales - Concert Bb, Eb, F major)<br>
-3. &nbsp;&nbsp;&nbsp;Sight-reading (rhythm and pitch)<br>
-4. &nbsp;&nbsp;&nbsp;Musicality &amp; expression<br><br>
+1. &nbsp;&nbsp;&nbsp;Two contrasting pieces on your instrument, with a total playing time of around 3 to 5 minutes<br>
+2. &nbsp;&nbsp;&nbsp;Major scales of up to 2 sharps and 2 flats<br>
+3. &nbsp;&nbsp;&nbsp;Sight-reading (rhythm and pitch)<br><br>
+Shortlisted students will be required to submit the link to their PDF music scores via email at least one week before the audition.
 </td>
 		</tr>
 		<tr>
@@ -89,7 +89,7 @@ Students will be assessed on:<br><br>
 		</tr>
 				<tr>
 			<td style="vertical-align: middle">Bowling</td>
-	<td>Students will be assessed on: <br><br>
+	<td>Applicants will be assessed on:<br><br>
 				•&nbsp;&nbsp;&nbsp;Sport-specific skills
 </td>
 		</tr>
@@ -98,14 +98,14 @@ Students will be assessed on:<br><br>
 			<td style="vertical-align: middle">Music Elective Program</td>
 			<td>Students should preferably have relevant experience such as:<br><br>
 •&nbsp;&nbsp;&nbsp;Being actively involved in a school-based or external musical group<br><br>
-Students will be assessed on:<br><br>
+Shortlisted students will be assessed via audition on:<br><br>
 •&nbsp;&nbsp;&nbsp;Performance of two contrasting prepared pieces on an instrument of choice or voice that is in total 2-5 minutes in duration<br><br>
 and any or all of the following items:<br><br>
 •&nbsp;&nbsp;&nbsp;Aural task that requires students to imitate and respond to simple rhythmic and/or melodic phrase by clapping and singing<br>
 •&nbsp;&nbsp;&nbsp;Sight-reading and Scales<br>
 •&nbsp;&nbsp;&nbsp;Listening &amp; Theory written test which may require simple
 score-reading skills<br><br>
-To help us understand your application, please email an excerpt of your playing in the form of an mp3 audio clip (no longer than 1min) to <a href="mailto:wong_ching_yi_chesed@moe.edu.sg">wong_ching_yi_chesed@moe.edu.sg</a> <b>by 7 June 2025</b>
+To help us understand your application, please email an excerpt of your playing in the form of an mp3 audio clip (no longer than 1min) to <a href="mailto:wong_ching_yi_chesed@moe.edu.sg">wong_ching_yi_chesed@moe.edu.sg</a> <b>by 7 June 2026</b>
 </td>
 	</tr>
 		<tr>
