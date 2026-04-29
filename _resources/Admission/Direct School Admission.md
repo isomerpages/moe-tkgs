@@ -105,7 +105,7 @@ and any or all of the following items:<br><br>
 •&nbsp;&nbsp;&nbsp;Sight-reading and Scales<br>
 •&nbsp;&nbsp;&nbsp;Listening &amp; Theory written test which may require simple
 score-reading skills<br><br>
-To help us understand your application, please email an excerpt of your playing in the form of an mp3 audio clip (no longer than 1min) to <a href="mailto:wong_ching_yi_chesed@moe.edu.sg">wong_ching_yi_chesed@moe.edu.sg</a> <b>by 7 June 2026</b>
+To help us understand your application, please email an excerpt of your playing in the form of an mp3 audio clip (no longer than 1min) to <a href="mailto:wong_ching_yi_chesed@moe.edu.sg">wong_ching_yi_chesed@moe.edu.sg</a> <b>by 8 June 2026</b>
 </td>
 	</tr>
 		<tr>
@@ -113,8 +113,6 @@ To help us understand your application, please email an excerpt of your playing 
 			<td>Apart from the Auditions/ Trials, all students will also undergo an interview</td>
 			</tr></tbody>
 </table>
-<br><b>2.   Academic Performance</b><br>
-Students should preferably attain an overall score of 65% or more for the Primary 5 Year-End Examination (2024) result.
 
    <font color="red">* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</font>
 
@@ -122,10 +120,10 @@ Applicants who do not have prior experience may also apply. The school will acce
 
 Shortlisted students will be notified of the dates of the auditions, trials, or interview via email registered in the DSA portal. Please be informed that parents are not allowed to attend the auditions, trials, and interviews.
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2025 to 3 June 2025, 3 pm. For more details, please refer to MOE website - <a href="http://www.moe.gov.sg/dsa-sec" target="_blank" rel="noopener">http://www.moe.gov.sg/dsa-sec</a>.<br>
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 6 May 2026 to 2 June 2026, 4.30pm. For more details, please refer to MOE website - <a href="http://www.moe.gov.sg/dsa-sec" target="_blank" rel="noopener">http://www.moe.gov.sg/dsa-sec</a>.<br>
 
-<h5><u><b>DSA 2025 Application Instructions</b></u></h5>
-<img src="/images/Resources/Admission/DSA/2025_criteria.jpg"><br>
+<h5><u><b>DSA 2026 Application Instructions</b></u></h5>
+<img src="/images/Resources/Admission/DSA/2026_criteria.png"><br>
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
