@@ -46,12 +46,12 @@ Students will be assessed on:<br><br>
 		<tr>
 			<td style="vertical-align: middle">Symphonic Band</td>
 			<td>Students should preferably have relevant experience such as:<br><br>
-•&nbsp;&nbsp;&nbsp;Being an active member of the Band or any music CCA in Primary School, and/ or<br>
+•&nbsp;&nbsp;&nbsp;Being an active member of the Band and/or any music-related CCA in Primary School, and/or<br>
 •&nbsp;&nbsp;&nbsp;Play any of the following instruments: Flute, Oboe, Bassoon, Clarinet, Saxophone, Trumpet, French Horn, Trombone, Euphonium, Tuba, String Bass or symphonic band percussion instruments (snare drum, timpani and mallet percussion such as xylophone, marimba, glockenspiel)<br><br>
 Shortlisted students will be assessed on:<br><br>
 1. &nbsp;&nbsp;&nbsp;Two contrasting pieces on your instrument, with a total playing time of around 3 to 5 minutes<br>
 2. &nbsp;&nbsp;&nbsp;Major scales of up to 2 sharps and 2 flats<br>
-3. &nbsp;&nbsp;&nbsp;Sight-reading (rhythm and pitch)<br><br>
+3. &nbsp;&nbsp;&nbsp;Sight-reading<br><br>
 Shortlisted students will be required to submit the link to their PDF music scores via email at least one week before the audition.
 </td>
 		</tr>
