@@ -58,7 +58,7 @@ Shortlisted students will be required to submit the link to their PDF music scor
 		<tr>
 			<td style="vertical-align: middle">Dance</td>
 			<td>Students should preferably have relevant experience such as:<br><br>
-				•&nbsp;&nbsp;&nbsp;Being an active member of a Dance Club in primary school
+				•&nbsp;&nbsp;&nbsp;Being an active member of a Dance Club in primary school,
 				<br><br>OR<br><br>
 				•&nbsp;&nbsp;&nbsp;Having performed well in a reputed dance competition (local / overseas)<br><br>
 Students will be assessed on:<br><br>
