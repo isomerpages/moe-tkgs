@@ -28,7 +28,7 @@ Applicants should fulfil the criteria listed in the talent in special areas belo
 Students will be assessed on:<br><br>
 •&nbsp;&nbsp;&nbsp;A song of the student’s choice (without backing track or live accompaniment)<br>
 •&nbsp;&nbsp;&nbsp;Intonation, musicality and vocal technique<br>
-								•&nbsp;&nbsp;&nbsp;aural ability to sing back a short musical passage after it has been played on the piano<br>
+								•&nbsp;&nbsp;&nbsp;Aural ability to sing back a short musical passage after it has been played on the piano<br>
 			</td>
 		</tr>
 		<tr>
