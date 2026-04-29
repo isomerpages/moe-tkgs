@@ -63,7 +63,7 @@ Shortlisted students will be required to submit the link to their PDF music scor
 				•&nbsp;&nbsp;&nbsp;Having performed well in a reputed dance competition (local / overseas)<br><br>
 Students will be assessed on:<br><br>
 1. &nbsp;&nbsp;&nbsp;Technical routine test (Test for balance, strength, and sense of rhythm)<br>
-2. &nbsp;&nbsp;&nbsp;Short-dance routine test (Choreography will be given for applicants to learn during the audition. Applicants will be given a time-limit will to learn the choreography during the audition)
+2. &nbsp;&nbsp;&nbsp;Short-dance routine test (Choreography will be given for applicants to learn during the audition. Applicants will be given a time-limit will to learn the choreography)
 </td>
 		</tr>
 		<tr>
