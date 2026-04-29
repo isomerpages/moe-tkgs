@@ -9,8 +9,8 @@ variant: markdown
 
 <p>The Direct School Admission (DSA) Exercise allows schools to offer places to suitable students with outstanding talent areas before the release of their PSLE exam results. TKGS invites Primary 6 students who have the ability and potential to meet our listed criteria below to apply.</p>
 
-<h5><b><u>DSA 2025 Criteria</u></b></h5>
-Applicants should fulfil criteria in <b>2 areas:</b> Academic performance and Talent in special areas<br><br>	
+<h5><b><u>Criteria</u></b></h5>
+Applicants should fulfil the criteria listed in the talent in special areas below<br><br>	
 
 <b>1.   Talent in Special Areas</b>
 <table>
@@ -28,8 +28,7 @@ Applicants should fulfil criteria in <b>2 areas:</b> Academic performance and Ta
 Students will be assessed on:<br><br>
 •&nbsp;&nbsp;&nbsp;A song of the student’s choice (without backing track or live accompaniment)<br>
 •&nbsp;&nbsp;&nbsp;Intonation, musicality and vocal technique<br>
-				•&nbsp;&nbsp;&nbsp;Sight-singing<br>
-				•&nbsp;&nbsp;&nbsp;aural ability to sing back a short musical passage after it has been played on the piano<br>
+								•&nbsp;&nbsp;&nbsp;aural ability to sing back a short musical passage after it has been played on the piano<br>
 			</td>
 		</tr>
 		<tr>
