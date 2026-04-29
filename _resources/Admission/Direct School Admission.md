@@ -113,7 +113,7 @@ To help us understand your application, please email an excerpt of your playing 
 			<td>Apart from the Auditions/ Trials, all students will also undergo an interview</td>
 			</tr></tbody>
 </table>
-
+<br>
    <font color="red">* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</font>
 
 Applicants who do not have prior experience may also apply. The school will access applicants based the selection criteria, which may include assessing the potential of the applicants.
