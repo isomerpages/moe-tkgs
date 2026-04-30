@@ -5,12 +5,14 @@ description: ""
 third_nav_title: Admission
 variant: markdown
 ---
-<center><img src="/images/Resources/Admission/DSA/dsa_oh25.png"></center>
+<center><img src="/images/Resources/Admission/DSA/DSA_bannerv1.jpg"></center>
+
+<p>Click <a href="http://go.gov.sg/tkgs-dsa-open-house">here</a> to register for our DSA E-Open House.</p>
 
 <p>The Direct School Admission (DSA) Exercise allows schools to offer places to suitable students with outstanding talent areas before the release of their PSLE exam results. TKGS invites Primary 6 students who have the ability and potential to meet our listed criteria below to apply.</p>
 
-<h5><b><u>DSA 2025 Criteria</u></b></h5>
-Applicants should fulfil criteria in <b>2 areas:</b> Academic performance and Talent in special areas<br><br>	
+<h5><b><u>Criteria</u></b></h5>
+Applicants should fulfil the criteria listed in the talent in special areas below.<br><br>	
 
 <b>1.   Talent in Special Areas</b>
 <table>
@@ -28,8 +30,7 @@ Applicants should fulfil criteria in <b>2 areas:</b> Academic performance and Ta
 Students will be assessed on:<br><br>
 •&nbsp;&nbsp;&nbsp;A song of the student’s choice (without backing track or live accompaniment)<br>
 •&nbsp;&nbsp;&nbsp;Intonation, musicality and vocal technique<br>
-				•&nbsp;&nbsp;&nbsp;Sight-singing<br>
-				•&nbsp;&nbsp;&nbsp;aural ability to sing back a short musical passage after it has been played on the piano<br>
+								•&nbsp;&nbsp;&nbsp;Aural ability to sing back a short musical passage after it has been played on the piano<br>
 			</td>
 		</tr>
 		<tr>
@@ -47,24 +48,24 @@ Students will be assessed on:<br><br>
 		<tr>
 			<td style="vertical-align: middle">Symphonic Band</td>
 			<td>Students should preferably have relevant experience such as:<br><br>
-•&nbsp;&nbsp;&nbsp;Being an active member of the Band or any music CCA in Primary School, and/ or<br>
-•&nbsp;&nbsp;&nbsp;Any other musical experiences outside of school<br><br>
+•&nbsp;&nbsp;&nbsp;Being an active member of the Band and/or any music-related CCA in Primary School, and/or<br>
+•&nbsp;&nbsp;&nbsp;Play any of the following instruments: Flute, Oboe, Bassoon, Clarinet, Saxophone, Trumpet, French Horn, Trombone, Euphonium, Tuba, String Bass or symphonic band percussion instruments (snare drum, timpani and mallet percussion such as xylophone, marimba, glockenspiel)<br><br>
 Shortlisted students will be assessed on:<br><br>
-1. &nbsp;&nbsp;&nbsp;2 contrasting pieces of the student’s choice (upload one PDF file containing both scores and email the online link. At least 1 week before audition)<br>
-2. &nbsp;&nbsp;&nbsp; Instrumental technique (including scales - Concert Bb, Eb, F major)<br>
-3. &nbsp;&nbsp;&nbsp;Sight-reading (rhythm and pitch)<br>
-4. &nbsp;&nbsp;&nbsp;Musicality &amp; expression<br><br>
+1. &nbsp;&nbsp;&nbsp;Two contrasting pieces on your instrument, with a total playing time of around 3 to 5 minutes<br>
+2. &nbsp;&nbsp;&nbsp;Major scales of up to 2 sharps and 2 flats<br>
+3. &nbsp;&nbsp;&nbsp;Sight-reading<br><br>
+Shortlisted students will be required to submit the link to their PDF music scores via email at least one week before the audition.
 </td>
 		</tr>
 		<tr>
 			<td style="vertical-align: middle">Dance</td>
 			<td>Students should preferably have relevant experience such as:<br><br>
-				•&nbsp;&nbsp;&nbsp;Being an active member of a Dance Club in primary school
+				•&nbsp;&nbsp;&nbsp;Being an active member of a Dance Club in primary school,
 				<br><br>OR<br><br>
 				•&nbsp;&nbsp;&nbsp;Having performed well in a reputed dance competition (local / overseas)<br><br>
 Students will be assessed on:<br><br>
 1. &nbsp;&nbsp;&nbsp;Technical routine test (Test for balance, strength, and sense of rhythm)<br>
-2. &nbsp;&nbsp;&nbsp;Short-dance routine test (Choreography will be given for applicants to learn during the audition. Applicants will be given a time-limit will to learn the choreography during the audition)
+2. &nbsp;&nbsp;&nbsp;Short-dance routine test (Choreography will be given for applicants to learn during the audition. Applicants will be given a time-limit will to learn the choreography)
 </td>
 		</tr>
 		<tr>
@@ -90,7 +91,7 @@ Students will be assessed on:<br><br>
 		</tr>
 				<tr>
 			<td style="vertical-align: middle">Bowling</td>
-	<td>Students will be assessed on: <br><br>
+	<td>Applicants will be assessed on:<br><br>
 				•&nbsp;&nbsp;&nbsp;Sport-specific skills
 </td>
 		</tr>
@@ -99,14 +100,14 @@ Students will be assessed on:<br><br>
 			<td style="vertical-align: middle">Music Elective Program</td>
 			<td>Students should preferably have relevant experience such as:<br><br>
 •&nbsp;&nbsp;&nbsp;Being actively involved in a school-based or external musical group<br><br>
-Students will be assessed on:<br><br>
+Shortlisted students will be assessed via audition on:<br><br>
 •&nbsp;&nbsp;&nbsp;Performance of two contrasting prepared pieces on an instrument of choice or voice that is in total 2-5 minutes in duration<br><br>
-and any or all of the following items:<br><br>
+and any/all of the following items:<br><br>
 •&nbsp;&nbsp;&nbsp;Aural task that requires students to imitate and respond to simple rhythmic and/or melodic phrase by clapping and singing<br>
 •&nbsp;&nbsp;&nbsp;Sight-reading and Scales<br>
 •&nbsp;&nbsp;&nbsp;Listening &amp; Theory written test which may require simple
 score-reading skills<br><br>
-To help us understand your application, please email an excerpt of your playing in the form of an mp3 audio clip (no longer than 1min) to <a href="mailto:wong_ching_yi_chesed@moe.edu.sg">wong_ching_yi_chesed@moe.edu.sg</a> <b>by 7 June 2025</b>
+To help us understand your application, please email an excerpt of your playing in the form of an mp3 audio clip (no longer than 1min) to <a href="mailto:wong_ching_yi_chesed@moe.edu.sg">wong_ching_yi_chesed@moe.edu.sg</a> <b>by 8 June 2026</b>
 </td>
 	</tr>
 		<tr>
@@ -114,22 +115,20 @@ To help us understand your application, please email an excerpt of your playing 
 			<td>Apart from the Auditions/ Trials, all students will also undergo an interview</td>
 			</tr></tbody>
 </table>
-<br><b>2.   Academic Performance</b><br>
-Students should preferably attain an overall score of 65% or more for the Primary 5 Year-End Examination (2024) result.
-
+<br>
    <font color="red">* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</font>
 
 Applicants who do not have prior experience may also apply. The school will access applicants based the selection criteria, which may include assessing the potential of the applicants.
 
 Shortlisted students will be notified of the dates of the auditions, trials, or interview via email registered in the DSA portal. Please be informed that parents are not allowed to attend the auditions, trials, and interviews.
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2025 to 3 June 2025, 3 pm. For more details, please refer to MOE website - <a href="http://www.moe.gov.sg/dsa-sec" target="_blank" rel="noopener">http://www.moe.gov.sg/dsa-sec</a>.<br>
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 6 May 2026 to 2 June 2026, 4.30pm. For more details, please refer to MOE website - <a href="http://www.moe.gov.sg/dsa-sec" target="_blank" rel="noopener">http://www.moe.gov.sg/dsa-sec</a>.<br>
 
-<h5><u><b>DSA 2025 Application Instructions</b></u></h5>
-<img src="/images/Resources/Admission/DSA/2025_criteria.jpg"><br>
+<h5><u><b>DSA 2026 Application Instructions</b></u></h5>
+<img src="/images/Resources/Admission/DSA/2026_criteria.png"><br>
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
-Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4/5.
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
 
 <h5><u><b>Further inquiries</b></u></h5> Please contact Mr. Ng We Keat (DSA Coordinator) at tel. no. 63441593 or email <a href="mailto:ng_we_keat@moe.edu.sg">ng_we_keat@moe.edu.sg</a> if you need further clarifications. Thank you.
