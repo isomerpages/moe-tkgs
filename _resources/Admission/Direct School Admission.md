@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Admission
 variant: markdown
 ---
-<center><img src="/images/Resources/Admission/DSA/dsa_oh25.png"></center>
+<center><img src="/images/Resources/Admission/DSA/DSA_bannerv1.jpg"></center>
+
+<p>Click <a href="http://go.gov.sg/tkgs-dsa-open-house">here</a> to register for our DSA E-Open House.</p>
 
 <p>The Direct School Admission (DSA) Exercise allows schools to offer places to suitable students with outstanding talent areas before the release of their PSLE exam results. TKGS invites Primary 6 students who have the ability and potential to meet our listed criteria below to apply.</p>
 
