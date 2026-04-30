@@ -16,7 +16,7 @@ sections:
   - infopic:
       title: Direct School Admission 2026
       id: infopic
-      button: Click here for more information
+      button: Click here for more info
       url: /resources/admission/direct-school-admission/
       image: /images/Resources/Admission/DSA/DSA_bannerv1.jpg
       alt: Image alt text
