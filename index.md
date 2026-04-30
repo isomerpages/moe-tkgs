@@ -14,6 +14,13 @@ sections:
           url: /useful-links/
       variant: center
   - infopic:
+      title: Direct School Admission 2026
+      id: infopic
+      button: Click here for more information
+      url: /resources/admission/direct-school-admission/
+      image: /images/Resources/Admission/DSA/DSA_bannerv1.jpg
+      alt: Image alt text
+  - infopic:
       title: Limelight 2026
       id: infopic
       description: Come join our TKGS Symphonic Band for Limelight, as they bring to
