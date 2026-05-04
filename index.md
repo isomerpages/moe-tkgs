@@ -18,7 +18,7 @@ sections:
       id: infopic
       button: Click here for more info
       url: /resources/admission/direct-school-admission/
-      image: /images/Resources/Admission/DSA/DSA_bannerv1.jpg
+      image: /images/Resources/Admission/DSA/DSA_bannerv2.png
       alt: Image alt text
   - infopic:
       title: Limelight 2026
