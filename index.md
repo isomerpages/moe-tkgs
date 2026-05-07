@@ -30,14 +30,14 @@ sections:
       image: /images/Hompage/Infopic/Screenshot_2026_04_24_095119.png
       url: https://www.sistic.com.sg/events/donatkgs0526
       alt: limelight2026
-  - resources:
-      title: TKGS Sparkling Moments
-      button: More
   - infobar:
       title: School Canteen Advertisement
       id: infobar
       button: Click Here for more details
       url: canteen/
+  - resources:
+      title: TKGS Sparkling Moments
+      button: More
   - infopic:
       title: Yearbook 2025
       id: infopic
