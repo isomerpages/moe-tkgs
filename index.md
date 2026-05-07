@@ -43,6 +43,11 @@ sections:
   - resources:
       title: TKGS Sparkling Moments
       button: More
+  - infobar:
+      title: School Canteen Advertisement
+      id: infobar
+      button: Click Here for more details
+      url: canteen/
   - infopic:
       title: TKGS e-Prospectus
       id: infopic
