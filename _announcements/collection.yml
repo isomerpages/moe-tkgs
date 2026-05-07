@@ -2,4 +2,4 @@ collections:
   announcements:
     output: true
     order:
-      - Canteen Advertisement.md
+      - School Canteen Advertisement.md
