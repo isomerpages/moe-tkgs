@@ -30,15 +30,6 @@ sections:
       image: /images/Hompage/Infopic/Screenshot_2026_04_24_095119.png
       url: https://www.sistic.com.sg/events/donatkgs0526
       alt: limelight2026
-  - infopic:
-      title: The Threads that Don't Break
-      id: infopic
-      description: A collaborative production by the Drama and Dance Clubs. Come and
-        join us on 28 May , 7pm at SOTA Drama Theatre.
-      button: Click here to purchase tickets
-      url: http://bookmyshow.sg/en/events/T3DBREAK
-      image: /images/Hompage/Infopic/concert_26.png
-      alt: Image alt text
   - infobar:
       title: School Canteen Advertisement
       id: infobar
