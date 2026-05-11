@@ -226,7 +226,7 @@ variant: markdown
 </tr>
 	<tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shaikhah Bte Rubangin</p>
+<p>Mdm Tan Wee Ping</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
