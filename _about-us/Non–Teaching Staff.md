@@ -220,8 +220,16 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>AED Counsellors</strong>
+<p><strong>Counsellors</strong>
 </p>
+</td>
+</tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Wee Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
 </td>
 </tr>
 <tr>
