@@ -33,8 +33,8 @@ sections:
   - infopic:
       title: The Threads that Don’t Break
       id: infopic
-      description: A collaborative production by the Drama and Dance Clubs. Come and
-        join us on 28 May , 7pm at SOTA Drama Theatre.
+      description: Join us on 28 May at SOTA Theatre as TKGS Drama and Dance bring to
+        you a combine production on the power of friendships!
       button: Click here to purchase tickets
       url: http://bookmyshow.sg/en/events/T3DBREAK
       image: /images/Hompage/Infopic/concert_26.png
