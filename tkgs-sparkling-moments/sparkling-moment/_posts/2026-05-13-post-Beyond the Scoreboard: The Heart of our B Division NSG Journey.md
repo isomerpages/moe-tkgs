@@ -11,11 +11,11 @@ variant: markdown
 
 <p>Here’s what our captains had to say about their season this year:</p>
 
-<img style="width: 400px; height: auto;" src="/images/Sparkling_Moment/2026/NSG_Floorball.jpg">
+<img style="width: 700px; height: auto;" src="/images/Sparkling_Moment/2026/NSG_Floorball.jpg">
 <p>One significant challenge we faced was in the semifinals against the same opponents who had defeated us in the second round. We were down 4–0 initially, but we shifted our mindset and adjusted our tactics. With that, we were able to keep our dream of winning alive. Despite our efforts, we were narrowly defeated 5–4. Through this experience, we learnt the value of fighting spirit and resilience no matter the outcome. That match showed my team that there is always room for improvement. With grit and determination, we will make a comeback next year!
 </p><p align="right"><i>— Nurin Faiqah, B Division Floorball Captain</i></p>
 
-<img style="width: 600px; height: auto;" src="/images/Sparkling_Moment/2026/NSG_Bowling.jpg">
+<img style="width: 700px; height: auto;" src="/images/Sparkling_Moment/2026/NSG_Bowling.jpg">
 <p>“Each game pushed us to adjust quickly, especially when the oil patterns didn’t go our way. There were moments when shots didn’t go as planned, but as a team, we learned the importance of resilience — supporting one another, staying mentally strong, and bouncing back after every miss. These challenges didn’t just test our skills, but also taught us to encourage and help each other, making our journey even more meaningful.”
 </p><p align="right"><i> — Isabelle Ariel, B Division Bowling Captain</i></p>
 
@@ -23,7 +23,7 @@ variant: markdown
 <p>“Our 2026 season was disappointing for us, with the second day of racing cancelled due to the rain. However, it reminded us that there is much more to competitions than just medals and rankings. What truly mattered was the unwavering support and teamwork we shared with our CCA teachers, our coach, and one another. Those moments of resilience, unity, and encouragement meant far more than any final placing.”
 </p><p align="right"><i>— Desiree Lee, B Division Sailing Captain</i></p>
 
-<img style="width: 400px; height: auto;" src="/images/Sparkling_Moment/2026/NSG_BB.jpg">
+<img style="width: 600px; height: auto;" src="/images/Sparkling_Moment/2026/NSG_BB.jpg">
 <p>“Together as a team, we worked hard to improve individually and collectively, building stronger chemistry and learning to bounce back from challenges and setbacks. This hard work and mentality led us to defeat an opponent we had previously lost to in 2024. It showed us just how far we have come.”
 </p><p align="right"><i>— Charlene Chia, B Division Basketball Captain</i></p>
 
