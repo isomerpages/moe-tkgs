@@ -21,16 +21,6 @@ sections:
       image: /images/Resources/Admission/DSA/DSA_bannerv2.png
       alt: Image alt text
   - infopic:
-      title: Limelight 2026
-      id: infopic
-      description: Come join our TKGS Symphonic Band for Limelight, as they bring to
-        you a selection of works, celebrating the musical journey of our student
-        musicians!
-      button: Click here to purchase tickets
-      image: /images/Hompage/Infopic/Screenshot_2026_04_24_095119.png
-      url: https://www.sistic.com.sg/events/donatkgs0526
-      alt: limelight2026
-  - infopic:
       title: The Threads that Don’t Break
       id: infopic
       description: Join us on 28 May at SOTA as TKGS Drama and Dance bring to you a
@@ -39,11 +29,6 @@ sections:
       url: http://bookmyshow.sg/en/events/T3DBREAK
       image: /images/Hompage/Infopic/concert_26.png
       alt: Image alt text
-  - infobar:
-      title: School Canteen Advertisement
-      id: infobar
-      button: Click Here for more details
-      url: canteen/
   - resources:
       title: TKGS Sparkling Moments
       button: More
