@@ -34,7 +34,8 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong>Background</strong></p>
+<p>We are a single session secondary school with student enrolment and staff strength of 1,100. We have 5 food stalls and 2 drinks stalls in our school.</p>
 <p><strong>Application Procedure</strong>
 </p>
 <ol data-tight="true" class="tight">
