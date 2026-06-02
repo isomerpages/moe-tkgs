@@ -114,8 +114,7 @@ School’s General Office by the closing date.</p>
 <p>Nearest MRT: Dakota MRT (CC8), Tanjong Katong Station (TE25), Paya Lebar Station (EW8 or CC9)</p>
 </li>
 <li>
-<p>Bus number: 10, 16, 16M, 31, 32, 33, 33B, 40, 43, 43E, 134, 135, 197,
-401, 853M</p>
+<p>Bus number: 10, 16, 16M, 31, 32, 33, 33B, 40, 43, 43E, 134, 135, 197, 401, 853M</p>
 <p></p>
 </li>
 </ul>
