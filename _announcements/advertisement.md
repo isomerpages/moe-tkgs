@@ -91,7 +91,7 @@ School’s General Office by the closing date.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Address: 20 Dunman Lane Singapore 439272</p>
+<p>Address: 20 Dunman Lane, Singapore 439272</p>
 </li>
 <li>
 <p>Contact No: 6344 1593</p>
@@ -111,8 +111,7 @@ School’s General Office by the closing date.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nearest MRT: Tanjong Katong Station (TEL), Paya Lebar Station (EWL) (CCL)
-or Dakota Station (CCL)</p>
+<p>Nearest MRT: Dakota MRT (CC8), Tanjong Katong Station (TE25), Paya Lebar Station (EW8 or CC9)</p>
 </li>
 <li>
 <p>Bus number: 10, 16, 16M, 31, 32, 33, 33B, 40, 43, 43E, 134, 135, 197,
