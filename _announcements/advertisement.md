@@ -49,10 +49,6 @@ General Office.</p>
 <li>
 <p><a href="https://drive.google.com/file/d/1vbu0Qh4MVNsEJCFgjf2O1n1cm-wo4xiE/view?usp=drive_link" target="_blank" rel="noopener">Application Form for individual stallholder</a></p>
 </li>
-<li>
-<p><a href="https://drive.google.com/file/d/1PEOGxMbexytteAmBle5RUhYVJphOBNy1/view?usp=drive_link" target="_blank" rel="noopener">Application Form for Business</a></p>
-<p></p>
-</li>
 </ul>
 <ol start="2" data-tight="true" class="tight">
 <li>
@@ -69,9 +65,6 @@ General Office.</p>
 <td rowspan="1" colspan="1">
 <p>For Individuals</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>For Business</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -85,24 +78,6 @@ General Office.</p>
 <li>
 <p>Photocopy of relevant certificates such as Food Safety Course Level 1,
 etc</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>ACRA’s Business Information</p>
-</li>
-<li>
-<p>List of proposed food/drinks items and selling prices for all items</p>
-</li>
-<li>
-<p>Photocopy of relevant certificates such as SFA licence for the existing
-business, etc</p>
-</li>
-<li>
-<p>Food Safety Course Level 1 for employees (To be submitted prior to the
-date of work commencement at the Stall)</p>
 </li>
 </ul>
 </td>
