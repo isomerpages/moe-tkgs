@@ -5,14 +5,7 @@ variant: markdown
 description: ""
 ---
 <h4><strong>Stall Vacancies</strong></h4>
-<p><strong>(Individual stallholders and business entities are invited to apply for the stall below at Tanjong Katong Girls’ School)</strong>
-</p>
 <table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
