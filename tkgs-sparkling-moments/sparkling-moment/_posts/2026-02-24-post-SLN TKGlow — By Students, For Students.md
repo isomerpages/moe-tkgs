@@ -7,7 +7,11 @@ description: ""
 image: ""
 variant: markdown
 ---
+<img src="/images/Sparkling_Moment/2026/SLN26_Hero.png">
+
 <p>On February 24, our Student Leaders Network hosted TKGlow, bringing our students together for an awesome day of bonding. The event was all about taking a breather from class, catching a vibe, and making memories with friends. It was a perfect snapshot of how vibrant and full of energy our school life really is! </p>
+
+<img src="/images/Sparkling_Moment/2026/SLN26_1.png">
 
 <p>Our students took part in class-based and inter-level activities such as arts and crafts and sports games. </p>
 
