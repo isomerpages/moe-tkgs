@@ -12,14 +12,10 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/
+        - title: DSA 2026
+          description: Click here for more info
+          url: /resources/admission/direct-school-admission/
       variant: center
-  - infopic:
-      title: Direct School Admission 2026
-      id: infopic
-      button: Click here for more info
-      url: /resources/admission/direct-school-admission/
-      image: /images/Resources/Admission/DSA/DSA_bannerv2.png
-      alt: Image alt text
   - resources:
       title: TKGS Sparkling Moments
       button: More
