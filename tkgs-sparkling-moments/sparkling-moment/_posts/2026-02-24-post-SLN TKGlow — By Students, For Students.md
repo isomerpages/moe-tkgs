@@ -15,7 +15,7 @@ variant: markdown
 
 <p>Our students took part in class-based and inter-level activities such as arts and crafts and sports games. </p>
 
-<p>'Making felt flags helped me discover my classmates’ creativity and get to know them better,” shared Sophie Clare Ng En (1R1). Similarly, Nur Sumayyah Binte Muhamad Ali from 2R1 reflected that “Creating clay keychains allowed me to get closer to my G3 classmates through shared conversations and laughter.” Through sports activities, students also learnt valuable lessons in teamwork, as Falyssya Syaizryna Binte Muhammad Shaifulnizam from 3R1 noted, “Playing captain’s ball taught us teamwork and helped us better understand one another’s strengths and weaknesses”.</p>
+<p>"Making felt flags helped me discover my classmates" creativity and get to know them better,” shared Sophie Clare Ng En (1R1). Similarly, Nur Sumayyah Binte Muhamad Ali from 2R1 reflected that “Creating clay keychains allowed me to get closer to my G3 classmates through shared conversations and laughter.” Through sports activities, students also learnt valuable lessons in teamwork, as Falyssya Syaizryna Binte Muhammad Shaifulnizam from 3R1 noted, “Playing captain’s ball taught us teamwork and helped us better understand one another’s strengths and weaknesses”.</p>
 
 <p>Overall, SLN TKGlow truly provided opportunities for our students to grow and de-stress alongside their friends, creating a fulfilling and engaging experience for all! It was a great way to kick start a busy day of learning!</p>
 
