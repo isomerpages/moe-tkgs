@@ -14,4 +14,4 @@ variant: markdown
 <img src="/images/Sparkling_Moment/2026/PBE26_1.png">
 
 <p>“Playing on the same team definitely brought us closer together as we learnt to work with and support each other better,” shares Mr Tay Kai Hong, father of Megan Tay (2G7). 
-The vibrant energy of our families filled the school as our  parents and daughters cheered each other on from the side lines.What a joyous celebration of family and the TKGS community spirit! </p>
+The vibrant energy of our families filled the school as our  parents and daughters cheered each other on from the side lines. What a joyous celebration of family and the TKGS community spirit! </p>
