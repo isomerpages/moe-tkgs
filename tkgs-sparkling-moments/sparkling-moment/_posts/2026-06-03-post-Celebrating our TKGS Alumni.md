@@ -1,7 +1,7 @@
 ---
 title: Celebrating our TKGS Alumni
 permalink: /alumni26/
-date: 2026-05-15
+date: 2026-06-03
 layout: post
 description: ""
 image: ""

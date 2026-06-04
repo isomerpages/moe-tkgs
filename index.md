@@ -12,17 +12,27 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/
+        - title: DSA 2026
+          description: Click here for more info
+          url: /resources/admission/direct-school-admission/
       variant: center
-  - infopic:
-      title: Direct School Admission 2026
-      id: infopic
-      button: Click here for more info
-      url: /resources/admission/direct-school-admission/
-      image: /images/Resources/Admission/DSA/DSA_bannerv2.png
-      alt: Image alt text
+  - infobar:
+      title: School Canteen Advertisement
+      id: infobar
+      button: Click here for more details
+      url: /advertisement
   - resources:
       title: TKGS Sparkling Moments
       button: More
+  - infopic:
+      title: TKGS e-Prospectus
+      id: infopic
+      button: Click here to read
+      url: https://go.gov.sg/tkgs-eprospectus
+      image: /images/Hompage/Infopic/e_Prospectus.png
+      alt: Image alt text
+      description: Discover your future at Tanjong Katong Girls’ School! Find out how
+        we are shaping the next generation of remarkable young women.
   - infopic:
       title: Yearbook 2025
       id: infopic
@@ -34,23 +44,9 @@ sections:
       image: /images/Resources/Yearbook/2026YB.png
       alt: Yearbook2025
   - infopic:
-      title: TKGS e-Prospectus
-      id: infopic
-      button: Click here to read
-      url: https://go.gov.sg/tkgs-eprospectus
-      image: /images/Hompage/Infopic/e_Prospectus.png
-      alt: Image alt text
-      description: Discover your future at Tanjong Katong Girls’ School! Find out how
-        we are shaping the next generation of remarkable young women.
-  - infopic:
       title: TKGS Corporate Video
       button: Click here to watch
       url: https://www.youtube.com/watch?v=UWsWh9b3Xvk&embeds_referring_euri=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUWsWh9b3Xvk%26t%3D14s&feature=emb_imp_woyt
       image: /images/Hompage/Infopic/corporatevideo.png
       alt: Image alt text
-  - infobar:
-      title: School Canteen Advertisement
-      id: infobar
-      button: Click here for more details
-      url: /advertisement
 ---
