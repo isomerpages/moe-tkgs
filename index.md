@@ -16,11 +16,6 @@ sections:
           description: Click here for more info
           url: /resources/admission/direct-school-admission/
       variant: center
-  - infobar:
-      title: School Canteen Advertisement
-      id: infobar
-      button: Click here for more details
-      url: /advertisement
   - resources:
       title: TKGS Sparkling Moments
       button: More
