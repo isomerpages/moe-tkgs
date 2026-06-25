@@ -46,7 +46,6 @@ sections:
       alt: Image alt text
   - infobar:
       title: Collection of School Graduation Certificates
-      subtitle: Add informational text
       id: infobar
       button: Click Here for more details
       url: /announcements/collection-of-school-graduation-certificates/
