@@ -19,6 +19,11 @@ sections:
   - resources:
       title: TKGS Sparkling Moments
       button: More
+  - infobar:
+      title: Collection of School Graduation Certificates
+      id: infobar
+      button: Click Here for more details
+      url: /announcements/collection-of-school-graduation-certificates/
   - infopic:
       title: TKGS e-Prospectus
       id: infopic
