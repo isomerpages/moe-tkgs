@@ -53,11 +53,6 @@ variant: markdown
 <td><a href="mailto:goh_poh_hong_patricia@moe.edu.sg" target="">goh_poh_hong_patricia@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Ms Tang Jia Hui, Joyce</td>
-<td>HOD / Mother Tongue</td>
-<td><a href="mailto:tang_jia_hui_joyce@moe.edu.sg" target="">tang_jia_hui_joyce@moe.edu.sg</a></td>
-</tr>
-<tr>
 <td>Mr Ng We Keat</td>
 <td>HOD / PE &amp; CCA</td>
 <td><a href="mailto:Ng_We_Keat@moe.edu.sg" target="">ng_we_keat@moe.edu.sg</a></td>
@@ -106,6 +101,11 @@ variant: markdown
 <td>Mrs Lee-Ang Pheck San, Angie</td>
 <td>Assistant Year Head</td>
 <td><a href="mailto:angie_ang_pheck_san@moe.edu.sg" target="">angie_ang_pheck_san@moe.edu.sg</a></td>
+</tr>
+		<tr>
+<td>Ms Tang Yilin</td>
+<td>Subject Head / Mother Tongue</td>
+<td><a href="mailto:tang_yilin@moe.edu.sg" target="">tang_yilin@moe.edu.sg</a></td>
 </tr>
 	<tr>
 <td>Ms Du Tongtong</td>
