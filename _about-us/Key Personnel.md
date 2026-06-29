@@ -107,6 +107,11 @@ variant: markdown
 <td>Assistant Year Head</td>
 <td><a href="mailto:angie_ang_pheck_san@moe.edu.sg" target="">angie_ang_pheck_san@moe.edu.sg</a></td>
 </tr>
+		<tr>
+<td>Ms Tang Yilin</td>
+<td>Subject Head / Mother Tongue</td>
+<td><a href="mailto:tang_yilin@moe.edu.sg" target="">tang_yilin@moe.edu.sg</a></td>
+</tr>
 	<tr>
 <td>Ms Du Tongtong</td>
 <td>Subject Head / Social Studies</td>
