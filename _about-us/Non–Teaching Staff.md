@@ -44,10 +44,10 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kalyani Khashaba Bhilare</p>
+<p>Mr Tan Jie Ming, Ray</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administration Manager</p>
+<p>Administration Manager (ICT)</p>
 </td>
 </tr>
 <tr>
@@ -162,14 +162,6 @@ variant: markdown
 <td rowspan="1" colspan="2">
 <p><strong>ICT Staff</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Jie Ming, Ray</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administration Manager (ICT)</p>
 </td>
 </tr>
 <tr>
